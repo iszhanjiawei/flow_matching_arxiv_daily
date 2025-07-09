@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**MolFORM: Multi-modal Flow Matching for Structure-Based Drug Design**|Jie Huang et.al.|[2507.05503](http://arxiv.org/abs/2507.05503)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-05**|**DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering**|Rongjia Zheng et.al.|[2507.03924](http://arxiv.org/abs/2507.03924)|null|
 |**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
