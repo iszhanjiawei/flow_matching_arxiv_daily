@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-09**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
 |**2025-07-07**|**MolFORM: Multi-modal Flow Matching for Structure-Based Drug Design**|Jie Huang et.al.|[2507.05503](http://arxiv.org/abs/2507.05503)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-05**|**DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering**|Rongjia Zheng et.al.|[2507.03924](http://arxiv.org/abs/2507.03924)|null|
