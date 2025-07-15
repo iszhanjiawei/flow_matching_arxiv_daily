@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
-|**2025-07-09**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
+|**2025-07-14**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
 |**2025-07-07**|**MolFORM: Multi-modal Flow Matching for Structure-Based Drug Design**|Jie Huang et.al.|[2507.05503](http://arxiv.org/abs/2507.05503)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
-|**2025-07-05**|**DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering**|Rongjia Zheng et.al.|[2507.03924](http://arxiv.org/abs/2507.03924)|null|
+|**2025-07-14**|**DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering**|Rongjia Zheng et.al.|[2507.03924](http://arxiv.org/abs/2507.03924)|null|
 |**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-04**|**Flow-Anchored Consistency Models**|Yansong Peng et.al.|[2507.03738](http://arxiv.org/abs/2507.03738)|null|
 |**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
@@ -1131,5 +1131,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
