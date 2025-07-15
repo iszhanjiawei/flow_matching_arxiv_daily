@@ -11,6 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
+|**2025-07-14**|**NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting**|Huibo Xu et.al.|[2507.09888](http://arxiv.org/abs/2507.09888)|null|
+|**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
+|**2025-07-13**|**La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching**|Tomas Geffner et.al.|[2507.09466](http://arxiv.org/abs/2507.09466)|null|
+|**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|
+|**2025-07-12**|**Warm Starts Accelerate Generative Modelling**|Jonas Scholz et.al.|[2507.09212](http://arxiv.org/abs/2507.09212)|null|
+|**2025-07-12**|**CoVAE: Consistency Training of Variational Autoencoders**|Gianluigi Silvestri et.al.|[2507.09103](http://arxiv.org/abs/2507.09103)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
 |**2025-07-14**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
 |**2025-07-07**|**MolFORM: Multi-modal Flow Matching for Structure-Based Drug Design**|Jie Huang et.al.|[2507.05503](http://arxiv.org/abs/2507.05503)|null|
