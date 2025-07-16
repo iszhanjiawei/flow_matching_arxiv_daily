@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis**|Bo Liang et.al.|[2507.11192](http://arxiv.org/abs/2507.11192)|null|
+|**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
 |**2025-07-14**|**NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting**|Huibo Xu et.al.|[2507.09888](http://arxiv.org/abs/2507.09888)|null|
 |**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
