@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
+|**2025-07-16**|**Room Impulse Response Generation Conditioned on Acoustic Parameters**|Silvia Arellano et.al.|[2507.12136](http://arxiv.org/abs/2507.12136)|null|
+|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
+|**2025-07-16**|**CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching**|Sidharth Kannan et.al.|[2507.11842](http://arxiv.org/abs/2507.11842)|null|
+|**2025-07-16**|**SynCoGen: Synthesizable 3D Molecule Generation via Joint Reaction and Coordinate Modeling**|Andrei Rekesh et.al.|[2507.11818](http://arxiv.org/abs/2507.11818)|null|
 |**2025-07-15**|**Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis**|Bo Liang et.al.|[2507.11192](http://arxiv.org/abs/2507.11192)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-16**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
