@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,8 +13,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-15**|**Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis**|Bo Liang et.al.|[2507.11192](http://arxiv.org/abs/2507.11192)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
-|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
-|**2025-07-14**|**NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting**|Huibo Xu et.al.|[2507.09888](http://arxiv.org/abs/2507.09888)|null|
+|**2025-07-16**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
+|**2025-07-16**|**NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting**|Huibo Xu et.al.|[2507.09888](http://arxiv.org/abs/2507.09888)|null|
 |**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
 |**2025-07-13**|**La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching**|Tomas Geffner et.al.|[2507.09466](http://arxiv.org/abs/2507.09466)|null|
 |**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|
