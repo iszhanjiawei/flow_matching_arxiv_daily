@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**Reinforcement Learning for Flow-Matching Policies**|Samuel Pfrommer et.al.|[2507.15073](http://arxiv.org/abs/2507.15073)|null|
+|**2025-07-19**|**Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation**|Andrea Moschetto et.al.|[2507.14575](http://arxiv.org/abs/2507.14575)|null|
 |**2025-07-17**|**Gauge Flow Models**|Alexander Strunk et.al.|[2507.13414](http://arxiv.org/abs/2507.13414)|null|
 |**2025-07-16**|**Minimalist Concept Erasure in Generative Models**|Yang Zhang et.al.|[2507.13386](http://arxiv.org/abs/2507.13386)|null|
 |**2025-07-17**|**Hierarchical Rectified Flow Matching with Mini-Batch Couplings**|Yichi Zhang et.al.|[2507.13350](http://arxiv.org/abs/2507.13350)|null|
