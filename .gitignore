@@ -5,7 +5,10 @@ CMakeLists_modified.txt
 
 build/
 
-lib/
+# 忽略lib目录下除特定目录外的所有内容
+lib/*
+!lib/arxiv/
+!lib/arxiv/**
 bin/
 
 cmake_modules/
