@@ -54,12 +54,21 @@ def get_authors(authors, first_author = False):
         output = authors[0]
     return output
 def sort_papers(papers):
-    output = dict()
-    keys = list(papers.keys())
-    keys.sort(reverse=True)
-    for key in keys:
-        output[key] = papers[key]
-    return output
+    # Sort by date, which is the first element in the markdown table row
+    # The value of papers is a string like:
+    # "|**2024-06-07**|**Title**|Author et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|\n"
+    try:
+        sorted_items = sorted(papers.items(), key=lambda item: item[1].split('|')[1].strip().replace('**', ''), reverse=True)
+        return dict(sorted_items)
+    except IndexError:
+        # Fallback for old format or error
+        logging.warning("Could not sort papers by date. Using old sorting method.")
+        output = dict()
+        keys = list(papers.keys())
+        keys.sort(reverse=True)
+        for key in keys:
+            output[key] = papers[key]
+        return output
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -70,6 +79,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+
+    # 设置时间范围（格式：YYYYMMDD）
+    start_date = "20240501"
+    end_date = "20240931"
+
+    # 构造查询字符串，包含关键词和时间范围
+    query = f'"flow matching" AND submittedDate:[{start_date} TO {end_date}]'
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
