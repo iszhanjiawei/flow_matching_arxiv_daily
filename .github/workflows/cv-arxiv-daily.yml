@@ -54,8 +54,8 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update TTS Arxiv Papers"
-          files: README.md docs/tts-arxiv-daily.json docs/tts-arxiv-daily-web.json docs/index.md docs/tts-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update Flow Matching Arxiv Papers"
+          files: README.md docs/tts-arxiv-daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
