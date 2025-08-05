@@ -48,7 +48,7 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          python daily_arxiv.py --update_paper_links
+          python daily_arxiv.py
           
       - name: Push new tts-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
