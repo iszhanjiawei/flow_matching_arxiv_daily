@@ -80,12 +80,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content = dict()
     content_to_web = dict()
 
-    # 设置时间范围（格式：YYYYMMDD）
-    start_date = "20240501"
-    end_date = "20240931"
-
-    # 构造查询字符串，包含关键词和时间范围
-    query = f'"flow matching" AND submittedDate:[{start_date} TO {end_date}]'
+    # # 设置时间范围（格式：YYYYMMDD）
+    # start_date = "20240501"
+    # end_date = "20240931"
+    #
+    # # 构造查询字符串，包含关键词和时间范围
+    # query = f'"flow matching" AND submittedDate:[{start_date} TO {end_date}]'
 
     search_engine = arxiv.Search(
         query = query,

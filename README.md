@@ -14,8 +14,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**Equivariant Volumetric Grasping**|Pinhao Song et.al.|[2507.18847](http://arxiv.org/abs/2507.18847)|null|
+|**2025-08-05**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
+|**2025-08-05**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
+|**2025-08-05**|**FlowBack-Adjoint: Physics-Aware and Energy-Guided Conditional Flow-Matching for All-Atom Protein Backmapping**|Alex Berlaga et.al.|[2508.03619](http://arxiv.org/abs/2508.03619)|null|
+|**2025-08-05**|**CloudBreaker: Breaking the Cloud Covers of Sentinel-2 Images using Multi-Stage Trained Conditional Flow Matching on Sentinel-1**|Saleh Sakib Ahmed et.al.|[2508.03608](http://arxiv.org/abs/2508.03608)|null|
+|**2025-08-05**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-05**|**SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering**|Jan Melechovsky et.al.|[2508.03448](http://arxiv.org/abs/2508.03448)|null|
+|**2025-08-05**|**SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models**|Pingchuan Ma et.al.|[2508.03402](http://arxiv.org/abs/2508.03402)|null|
+|**2025-08-03**|**VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation**|Xuanran Zhai et.al.|[2508.01622](http://arxiv.org/abs/2508.01622)|null|
+|**2025-08-02**|**Unified Generation-Refinement Planning: Bridging Flow Matching and Sampling-Based MPC**|Kazuki Mizuta et.al.|[2508.01192](http://arxiv.org/abs/2508.01192)|null|
+|**2025-08-01**|**Flow Matching for Probabilistic Learning of Dynamical Systems from Missing or Noisy Data**|Siddharth Rout et.al.|[2508.01101](http://arxiv.org/abs/2508.01101)|null|
+|**2025-08-01**|**FMPlug: Plug-In Foundation Flow-Matching Priors for Inverse Problems**|Yuxiang Wan et.al.|[2508.00721](http://arxiv.org/abs/2508.00721)|null|
+|**2025-08-01**|**Unlocking New Paths for Science with Extreme-Mass-Ratio Inspirals: Machine Learning-Enhanced MCMC for Accurate Parameter Inversion**|Bo Liang et.al.|[2508.00348](http://arxiv.org/abs/2508.00348)|null|
+|**2025-08-01**|**H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation**|Hongzhe Bi et.al.|[2507.23523](http://arxiv.org/abs/2507.23523)|null|
+|**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
+|**2025-08-01**|**Flow Matching Policy Gradients**|David McAllister et.al.|[2507.21053](http://arxiv.org/abs/2507.21053)|null|
+|**2025-07-31**|**One-Step Flow Policy Mirror Descent**|Tianyi Chen et.al.|[2507.23675](http://arxiv.org/abs/2507.23675)|null|
+|**2025-07-31**|**FMIP: Multimodal Flow Matching for Mixed Integer Linear Programming**|Hongpei Li et.al.|[2507.23390](http://arxiv.org/abs/2507.23390)|null|
+|**2025-07-30**|**Aleatoric Uncertainty Medical Image Segmentation Estimation via Flow Matching**|Phi Van Nguyen et.al.|[2507.22418](http://arxiv.org/abs/2507.22418)|null|
+|**2025-07-29**|**Weighted Conditional Flow Matching**|Sergio Calvo-Ordonez et.al.|[2507.22270](http://arxiv.org/abs/2507.22270)|null|
+|**2025-07-29**|**MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE**|Junzhe Li et.al.|[2507.21802](http://arxiv.org/abs/2507.21802)|null|
+|**2025-07-28**|**JAM: A Tiny Flow-based Song Generator with Fine-grained Controllability and Aesthetic Alignment**|Renhang Liu et.al.|[2507.20880](http://arxiv.org/abs/2507.20880)|null|
+|**2025-07-28**|**Why Flow Matching is Particle Swarm Optimization?**|Kaichen Ouyang et.al.|[2507.20810](http://arxiv.org/abs/2507.20810)|null|
+|**2025-07-27**|**Protein-SE(3): Benchmarking SE(3)-based Generative Models for Protein Structure Design**|Lang Yu et.al.|[2507.20243](http://arxiv.org/abs/2507.20243)|null|
 |**2025-07-25**|**MedSymmFlow: Bridging Generative Modeling and Classification in Medical Imaging through Symmetrical Flow Matching**|Francisco Caetano et.al.|[2507.19098](http://arxiv.org/abs/2507.19098)|null|
-|**2025-07-24**|**Equivariant Volumetric Grasping**|Pinhao Song et.al.|[2507.18847](http://arxiv.org/abs/2507.18847)|null|
 |**2025-07-24**|**Even Faster Simulations with Flow Matching: A Study of Zero Degree Calorimeter Responses**|Maksymilian Wojnar et.al.|[2507.18811](http://arxiv.org/abs/2507.18811)|null|
 |**2025-07-24**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-07-23**|**Accent Normalization Using Self-Supervised Discrete Tokens with Non-Parallel Data**|Qibing Bai et.al.|[2507.17735](http://arxiv.org/abs/2507.17735)|null|
@@ -27,7 +50,6 @@
 |**2025-07-22**|**SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling**|Yi Guo et.al.|[2507.16884](http://arxiv.org/abs/2507.16884)|null|
 |**2025-07-22**|**LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text to Image Generation**|Jyun-Ze Tang et.al.|[2507.16154](http://arxiv.org/abs/2507.16154)|null|
 |**2025-07-22**|**Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching**|Haiyang Liu et.al.|[2507.18649](http://arxiv.org/abs/2507.18649)|null|
-|**2025-07-21**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
 |**2025-07-20**|**Reinforcement Learning for Flow-Matching Policies**|Samuel Pfrommer et.al.|[2507.15073](http://arxiv.org/abs/2507.15073)|null|
 |**2025-07-20**|**Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis**|Bo Liang et.al.|[2507.11192](http://arxiv.org/abs/2507.11192)|null|
 |**2025-07-20**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
@@ -41,7 +63,6 @@
 |**2025-07-17**|**Gauge Flow Models**|Alexander Strunk et.al.|[2507.13414](http://arxiv.org/abs/2507.13414)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 |**2025-07-16**|**Room Impulse Response Generation Conditioned on Acoustic Parameters**|Silvia Arellano et.al.|[2507.12136](http://arxiv.org/abs/2507.12136)|null|
-|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
 |**2025-07-16**|**CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching**|Sidharth Kannan et.al.|[2507.11842](http://arxiv.org/abs/2507.11842)|null|
 |**2025-07-16**|**SynCoGen: Synthesizable 3D Molecule Generation via Joint Reaction and Coordinate Modeling**|Andrei Rekesh et.al.|[2507.11818](http://arxiv.org/abs/2507.11818)|null|
 |**2025-07-16**|**Minimalist Concept Erasure in Generative Models**|Yang Zhang et.al.|[2507.13386](http://arxiv.org/abs/2507.13386)|null|
