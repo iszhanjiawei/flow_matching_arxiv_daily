@@ -1,4 +1,4 @@
-## Updated on 2025.08.06
+## Updated on 2025.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-05**|**Equivariant Volumetric Grasping**|Pinhao Song et.al.|[2507.18847](http://arxiv.org/abs/2507.18847)|null|
 |**2025-08-05**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
 |**2025-08-05**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
 |**2025-08-05**|**FlowBack-Adjoint: Physics-Aware and Energy-Guided Conditional Flow-Matching for All-Atom Protein Backmapping**|Alex Berlaga et.al.|[2508.03619](http://arxiv.org/abs/2508.03619)|null|
 |**2025-08-05**|**CloudBreaker: Breaking the Cloud Covers of Sentinel-2 Images using Multi-Stage Trained Conditional Flow Matching on Sentinel-1**|Saleh Sakib Ahmed et.al.|[2508.03608](http://arxiv.org/abs/2508.03608)|null|
-|**2025-08-05**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-05**|**SonicMaster: Towards Controllable All-in-One Music Restoration and Mastering**|Jan Melechovsky et.al.|[2508.03448](http://arxiv.org/abs/2508.03448)|null|
 |**2025-08-05**|**SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models**|Pingchuan Ma et.al.|[2508.03402](http://arxiv.org/abs/2508.03402)|null|
 |**2025-08-03**|**VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation**|Xuanran Zhai et.al.|[2508.01622](http://arxiv.org/abs/2508.01622)|null|
@@ -584,5 +584,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
