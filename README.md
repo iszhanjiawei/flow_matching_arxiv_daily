@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Yue Liao et.al.|[2508.05635](http://arxiv.org/abs/2508.05635)|null|
+|**2025-08-07**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al.|[2508.05461](http://arxiv.org/abs/2508.05461)|null|
+|**2025-08-07**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-06**|**Multi-Marginal Stochastic Flow Matching for High-Dimensional Snapshot Data at Irregular Time Points**|Justin Lee et.al.|[2508.04351](http://arxiv.org/abs/2508.04351)|null|
 |**2025-08-06**|**TempFlow-GRPO: When Timing Matters for GRPO in Flow Models**|Xiaoxuan He et.al.|[2508.04324](http://arxiv.org/abs/2508.04324)|null|
+|**2025-08-06**|**Unified Flow Matching for Long Horizon Event Forecasting**|Xiao Shou et.al.|[2508.04843](http://arxiv.org/abs/2508.04843)|null|
 |**2025-08-05**|**Equivariant Volumetric Grasping**|Pinhao Song et.al.|[2507.18847](http://arxiv.org/abs/2507.18847)|null|
 |**2025-08-05**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986](http://arxiv.org/abs/2507.11986)|null|
 |**2025-08-05**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
