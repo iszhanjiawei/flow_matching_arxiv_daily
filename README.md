@@ -15,6 +15,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-08**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
+|**2025-08-08**|**OM2P: Offline Multi-Agent Mean-Flow Policy**|Zhuoran Li et.al.|[2508.06269](http://arxiv.org/abs/2508.06269)|null|
+|**2025-08-08**|**DAFMSVC: One-Shot Singing Voice Conversion with Dual Attention Mechanism and Flow Matching**|Wei Chen et.al.|[2508.05978](http://arxiv.org/abs/2508.05978)|null|
 |**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Yue Liao et.al.|[2508.05635](http://arxiv.org/abs/2508.05635)|null|
 |**2025-08-07**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al.|[2508.05461](http://arxiv.org/abs/2508.05461)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
