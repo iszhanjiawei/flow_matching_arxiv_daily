@@ -1,4 +1,4 @@
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-08**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
 |**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Yue Liao et.al.|[2508.05635](http://arxiv.org/abs/2508.05635)|null|
 |**2025-08-07**|**How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization**|Liangwei Li et.al.|[2508.05461](http://arxiv.org/abs/2508.05461)|null|
-|**2025-08-07**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-06**|**Multi-Marginal Stochastic Flow Matching for High-Dimensional Snapshot Data at Irregular Time Points**|Justin Lee et.al.|[2508.04351](http://arxiv.org/abs/2508.04351)|null|
 |**2025-08-06**|**TempFlow-GRPO: When Timing Matters for GRPO in Flow Models**|Xiaoxuan He et.al.|[2508.04324](http://arxiv.org/abs/2508.04324)|null|
@@ -590,5 +590,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250811>back to top</a>)</p>
 
