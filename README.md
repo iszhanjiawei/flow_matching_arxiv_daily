@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-11**|**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution**|Zhiqiang Wu et.al.|[2508.08227](http://arxiv.org/abs/2508.08227)|null|
+|**2025-08-11**|**When and how can inexact generative models still sample from the data manifold?**|Nisha Chandramoorthy et.al.|[2508.07581](http://arxiv.org/abs/2508.07581)|null|
+|**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
+|**2025-08-10**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
+|**2025-08-10**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
+|**2025-08-09**|**Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria**|Yang Cao et.al.|[2508.07102](http://arxiv.org/abs/2508.07102)|null|
+|**2025-08-09**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
+|**2025-08-09**|**FlowSE: Flow Matching-based Speech Enhancement**|Seonggyu Lee et.al.|[2508.06840](http://arxiv.org/abs/2508.06840)|null|
 |**2025-08-08**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
 |**2025-08-08**|**OM2P: Offline Multi-Agent Mean-Flow Policy**|Zhuoran Li et.al.|[2508.06269](http://arxiv.org/abs/2508.06269)|null|
 |**2025-08-08**|**DAFMSVC: One-Shot Singing Voice Conversion with Dual Attention Mechanism and Flow Matching**|Wei Chen et.al.|[2508.05978](http://arxiv.org/abs/2508.05978)|null|
