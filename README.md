@@ -1,4 +1,4 @@
-## Updated on 2025.08.14
+## Updated on 2025.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-14**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
 |**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
@@ -23,7 +24,6 @@
 |**2025-08-11**|**When and how can inexact generative models still sample from the data manifold?**|Nisha Chandramoorthy et.al.|[2508.07581](http://arxiv.org/abs/2508.07581)|null|
 |**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
 |**2025-08-09**|**Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria**|Yang Cao et.al.|[2508.07102](http://arxiv.org/abs/2508.07102)|null|
-|**2025-08-09**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-09**|**FlowSE: Flow Matching-based Speech Enhancement**|Seonggyu Lee et.al.|[2508.06840](http://arxiv.org/abs/2508.06840)|null|
 |**2025-08-09**|**CFM-GP: Unified Conditional Flow Matching to Learn Gene Perturbation Across Cell Types**|Abrar Rahman Abir et.al.|[2508.08312](http://arxiv.org/abs/2508.08312)|null|
 |**2025-08-08**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
@@ -604,5 +604,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250815>back to top</a>)</p>
 
