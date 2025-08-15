@@ -15,6 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-14**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
+|**2025-08-14**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
 |**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
