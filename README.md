@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
 |**2025-08-14**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-14**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
+|**2025-08-14**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
 |**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
@@ -24,6 +26,7 @@
 |**2025-08-11**|**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution**|Zhiqiang Wu et.al.|[2508.08227](http://arxiv.org/abs/2508.08227)|null|
 |**2025-08-11**|**When and how can inexact generative models still sample from the data manifold?**|Nisha Chandramoorthy et.al.|[2508.07581](http://arxiv.org/abs/2508.07581)|null|
 |**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
+|**2025-08-11**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By \underline{V}alue \underline{S}ign \underline{F}lip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-09**|**Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria**|Yang Cao et.al.|[2508.07102](http://arxiv.org/abs/2508.07102)|null|
 |**2025-08-09**|**FlowSE: Flow Matching-based Speech Enhancement**|Seonggyu Lee et.al.|[2508.06840](http://arxiv.org/abs/2508.06840)|null|
 |**2025-08-09**|**CFM-GP: Unified Conditional Flow Matching to Learn Gene Perturbation Across Cell Types**|Abrar Rahman Abir et.al.|[2508.08312](http://arxiv.org/abs/2508.08312)|null|
