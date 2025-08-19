@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-18**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
 |**2025-08-18**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
+|**2025-08-18**|**CTFlow: Video-Inspired Latent Flow Matching for 3D CT Synthesis**|Jiayi Wang et.al.|[2508.12900](http://arxiv.org/abs/2508.12900)|null|
+|**2025-08-18**|**FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation**|Ian Dunn et.al.|[2508.12629](http://arxiv.org/abs/2508.12629)|null|
+|**2025-08-17**|**Quantum Flow Matching**|Zidong Cui et.al.|[2508.12413](http://arxiv.org/abs/2508.12413)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
 |**2025-08-14**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
-|**2025-08-14**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
 |**2025-08-14**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
