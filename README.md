@@ -1,4 +1,4 @@
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-18**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
 |**2025-08-14**|**Speech Enhancement based on cascaded two flow**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-14**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
@@ -26,7 +27,6 @@
 |**2025-08-11**|**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution**|Zhiqiang Wu et.al.|[2508.08227](http://arxiv.org/abs/2508.08227)|null|
 |**2025-08-11**|**When and how can inexact generative models still sample from the data manifold?**|Nisha Chandramoorthy et.al.|[2508.07581](http://arxiv.org/abs/2508.07581)|null|
 |**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
-|**2025-08-11**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By \underline{V}alue \underline{S}ign \underline{F}lip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-09**|**Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria**|Yang Cao et.al.|[2508.07102](http://arxiv.org/abs/2508.07102)|null|
 |**2025-08-09**|**FlowSE: Flow Matching-based Speech Enhancement**|Seonggyu Lee et.al.|[2508.06840](http://arxiv.org/abs/2508.06840)|null|
 |**2025-08-09**|**CFM-GP: Unified Conditional Flow Matching to Learn Gene Perturbation Across Cell Types**|Abrar Rahman Abir et.al.|[2508.08312](http://arxiv.org/abs/2508.08312)|null|
@@ -608,5 +608,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
 
