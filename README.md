@@ -15,10 +15,16 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-19**|**Speech Enhancement based on cascaded two flows**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
+|**2025-08-19**|**Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation**|Thanh Nguyen et.al.|[2508.13904](http://arxiv.org/abs/2508.13904)|null|
+|**2025-08-19**|**SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation**|Paul Grimal et.al.|[2508.13866](http://arxiv.org/abs/2508.13866)|null|
+|**2025-08-19**|**Smooth Flow Matching**|Jianbin Tan et.al.|[2508.13831](http://arxiv.org/abs/2508.13831)|null|
+|**2025-08-19**|**EventTSF: Event-Aware Non-Stationary Time Series Forecasting**|Yunfeng Ge et.al.|[2508.13434](http://arxiv.org/abs/2508.13434)|null|
 |**2025-08-18**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
 |**2025-08-18**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-18**|**CTFlow: Video-Inspired Latent Flow Matching for 3D CT Synthesis**|Jiayi Wang et.al.|[2508.12900](http://arxiv.org/abs/2508.12900)|null|
 |**2025-08-18**|**FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation**|Ian Dunn et.al.|[2508.12629](http://arxiv.org/abs/2508.12629)|null|
+|**2025-08-18**|**Efficient Constraint-Aware Flow Matching via Randomized Exploration**|Zhengyan Huan et.al.|[2508.13316](http://arxiv.org/abs/2508.13316)|null|
+|**2025-08-18**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-17**|**Quantum Flow Matching**|Zidong Cui et.al.|[2508.12413](http://arxiv.org/abs/2508.12413)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
 |**2025-08-14**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
