@@ -1,4 +1,4 @@
-## Updated on 2025.08.20
+## Updated on 2025.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,20 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
+|**2025-08-20**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-19**|**Speech Enhancement based on cascaded two flows**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-19**|**Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation**|Thanh Nguyen et.al.|[2508.13904](http://arxiv.org/abs/2508.13904)|null|
 |**2025-08-19**|**SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation**|Paul Grimal et.al.|[2508.13866](http://arxiv.org/abs/2508.13866)|null|
 |**2025-08-19**|**Smooth Flow Matching**|Jianbin Tan et.al.|[2508.13831](http://arxiv.org/abs/2508.13831)|null|
 |**2025-08-19**|**EventTSF: Event-Aware Non-Stationary Time Series Forecasting**|Yunfeng Ge et.al.|[2508.13434](http://arxiv.org/abs/2508.13434)|null|
 |**2025-08-18**|**NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale**|NextStep Team et.al.|[2508.10711](http://arxiv.org/abs/2508.10711)|null|
-|**2025-08-18**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-18**|**CTFlow: Video-Inspired Latent Flow Matching for 3D CT Synthesis**|Jiayi Wang et.al.|[2508.12900](http://arxiv.org/abs/2508.12900)|null|
 |**2025-08-18**|**FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation**|Ian Dunn et.al.|[2508.12629](http://arxiv.org/abs/2508.12629)|null|
 |**2025-08-18**|**Efficient Constraint-Aware Flow Matching via Randomized Exploration**|Zhengyan Huan et.al.|[2508.13316](http://arxiv.org/abs/2508.13316)|null|
 |**2025-08-18**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-17**|**Quantum Flow Matching**|Zidong Cui et.al.|[2508.12413](http://arxiv.org/abs/2508.12413)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
-|**2025-08-14**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
 |**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
@@ -617,5 +617,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
 
