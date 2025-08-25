@@ -16,6 +16,8 @@
 |---|---|---|---|---|
 |**2025-08-22**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-22**|**Source-Guided Flow Matching**|Zifan Wang et.al.|[2508.14807](http://arxiv.org/abs/2508.14807)|null|
+|**2025-08-22**|**Domain-aligned generative downscaling enhances projections of extreme climate events**|Ruian Tie et.al.|[2508.16396](http://arxiv.org/abs/2508.16396)|null|
+|**2025-08-22**|**Vevo2: Bridging Controllable Speech and Singing Voice Generation via Unified Prosody Learning**|Xueyao Zhang et.al.|[2508.16332](http://arxiv.org/abs/2508.16332)|null|
 |**2025-08-21**|**Flow Matching at Scale: A Machine Learning Framework for Efficient Large-Size Sampling of Many-Body Systems**|Qian-Rui Lee et.al.|[2508.15318](http://arxiv.org/abs/2508.15318)|null|
 |**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-20**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
