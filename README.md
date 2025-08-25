@@ -1,4 +1,4 @@
-## Updated on 2025.08.24
+## Updated on 2025.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
+|**2025-08-22**|**Source-Guided Flow Matching**|Zifan Wang et.al.|[2508.14807](http://arxiv.org/abs/2508.14807)|null|
 |**2025-08-21**|**Flow Matching at Scale: A Machine Learning Framework for Efficient Large-Size Sampling of Many-Body Systems**|Qian-Rui Lee et.al.|[2508.15318](http://arxiv.org/abs/2508.15318)|null|
 |**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-20**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
-|**2025-08-20**|**Source-Guided Flow Matching**|Zifan Wang et.al.|[2508.14807](http://arxiv.org/abs/2508.14807)|null|
 |**2025-08-20**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
 |**2025-08-20**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/abs/2508.15093)|null|
 |**2025-08-19**|**Speech Enhancement based on cascaded two flows**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
@@ -29,7 +30,6 @@
 |**2025-08-18**|**CTFlow: Video-Inspired Latent Flow Matching for 3D CT Synthesis**|Jiayi Wang et.al.|[2508.12900](http://arxiv.org/abs/2508.12900)|null|
 |**2025-08-18**|**FlowMol3: Flow Matching for 3D De Novo Small-Molecule Generation**|Ian Dunn et.al.|[2508.12629](http://arxiv.org/abs/2508.12629)|null|
 |**2025-08-18**|**Efficient Constraint-Aware Flow Matching via Randomized Exploration**|Zhengyan Huan et.al.|[2508.13316](http://arxiv.org/abs/2508.13316)|null|
-|**2025-08-18**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-17**|**Quantum Flow Matching**|Zidong Cui et.al.|[2508.12413](http://arxiv.org/abs/2508.12413)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
@@ -621,5 +621,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
