@@ -1,4 +1,4 @@
-## Updated on 2025.08.25
+## Updated on 2025.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-24**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/abs/2508.15093)|null|
 |**2025-08-22**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-22**|**Source-Guided Flow Matching**|Zifan Wang et.al.|[2508.14807](http://arxiv.org/abs/2508.14807)|null|
 |**2025-08-22**|**Domain-aligned generative downscaling enhances projections of extreme climate events**|Ruian Tie et.al.|[2508.16396](http://arxiv.org/abs/2508.16396)|null|
@@ -22,7 +23,6 @@
 |**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-20**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
 |**2025-08-20**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
-|**2025-08-20**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/abs/2508.15093)|null|
 |**2025-08-19**|**Speech Enhancement based on cascaded two flows**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-19**|**Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation**|Thanh Nguyen et.al.|[2508.13904](http://arxiv.org/abs/2508.13904)|null|
 |**2025-08-19**|**SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation**|Paul Grimal et.al.|[2508.13866](http://arxiv.org/abs/2508.13866)|null|
@@ -623,5 +623,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
