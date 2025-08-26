@@ -14,7 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**Provable Mixed-Noise Learning with Flow-Matching**|Paul Hagemann et.al.|[2508.18122](http://arxiv.org/abs/2508.18122)|null|
+|**2025-08-25**|**Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem**|Zhicong Tang et.al.|[2508.18095](http://arxiv.org/abs/2508.18095)|null|
+|**2025-08-25**|**Multi-domain Distribution Learning for De Novo Drug Design**|Arne Schneuing et.al.|[2508.17815](http://arxiv.org/abs/2508.17815)|null|
+|**2025-08-25**|**Preference Trajectory Modeling via Flow Matching for Sequential Recommendation**|Li Li et.al.|[2508.17618](http://arxiv.org/abs/2508.17618)|null|
 |**2025-08-24**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/abs/2508.15093)|null|
+|**2025-08-24**|**Modular MeanFlow: Towards Stable and Scalable One-Step Generative Modeling**|Haochen You et.al.|[2508.17426](http://arxiv.org/abs/2508.17426)|null|
+|**2025-08-24**|**Multi-Metric Preference Alignment for Generative Speech Restoration**|Junan Zhang et.al.|[2508.17229](http://arxiv.org/abs/2508.17229)|null|
 |**2025-08-22**|**Flow Matching-Based Generative Modeling for Efficient and Scalable Data Assimilation**|Taos Transue et.al.|[2508.13313](http://arxiv.org/abs/2508.13313)|null|
 |**2025-08-22**|**Source-Guided Flow Matching**|Zifan Wang et.al.|[2508.14807](http://arxiv.org/abs/2508.14807)|null|
 |**2025-08-22**|**Domain-aligned generative downscaling enhances projections of extreme climate events**|Ruian Tie et.al.|[2508.16396](http://arxiv.org/abs/2508.16396)|null|
