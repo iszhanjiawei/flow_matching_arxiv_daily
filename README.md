@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-26**|**Energy-Based Flow Matching for Generating 3D Molecular Structure**|Wenyin Zhou et.al.|[2508.18949](http://arxiv.org/abs/2508.18949)|null|
 |**2025-08-25**|**Provable Mixed-Noise Learning with Flow-Matching**|Paul Hagemann et.al.|[2508.18122](http://arxiv.org/abs/2508.18122)|null|
 |**2025-08-25**|**Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem**|Zhicong Tang et.al.|[2508.18095](http://arxiv.org/abs/2508.18095)|null|
 |**2025-08-25**|**Multi-domain Distribution Learning for De Novo Drug Design**|Arne Schneuing et.al.|[2508.17815](http://arxiv.org/abs/2508.17815)|null|
