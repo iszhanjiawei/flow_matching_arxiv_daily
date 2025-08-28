@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Zhixuan Liang et.al.|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
+|**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](http://arxiv.org/abs/2508.19857)|null|
+|**2025-08-27**|**MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment**|Zhiting Gao et.al.|[2508.19527](http://arxiv.org/abs/2508.19527)|null|
 |**2025-08-26**|**Energy-Based Flow Matching for Generating 3D Molecular Structure**|Wenyin Zhou et.al.|[2508.18949](http://arxiv.org/abs/2508.18949)|null|
 |**2025-08-25**|**Provable Mixed-Noise Learning with Flow-Matching**|Paul Hagemann et.al.|[2508.18122](http://arxiv.org/abs/2508.18122)|null|
 |**2025-08-25**|**Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem**|Zhicong Tang et.al.|[2508.18095](http://arxiv.org/abs/2508.18095)|null|
