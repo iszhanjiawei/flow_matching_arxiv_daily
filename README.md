@@ -1,4 +1,4 @@
-## Updated on 2025.08.28
+## Updated on 2025.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
 |**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Zhixuan Liang et.al.|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
 |**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](http://arxiv.org/abs/2508.19857)|null|
 |**2025-08-27**|**MotionFlux: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment**|Zhiting Gao et.al.|[2508.19527](http://arxiv.org/abs/2508.19527)|null|
@@ -32,7 +33,6 @@
 |**2025-08-21**|**Flow Matching at Scale: A Machine Learning Framework for Efficient Large-Size Sampling of Many-Body Systems**|Qian-Rui Lee et.al.|[2508.15318](http://arxiv.org/abs/2508.15318)|null|
 |**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-20**|**VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip**|Wenqi Guo et.al.|[2508.10931](http://arxiv.org/abs/2508.10931)|null|
-|**2025-08-20**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
 |**2025-08-19**|**Speech Enhancement based on cascaded two flows**|Seonggyu Lee et.al.|[2508.06842](http://arxiv.org/abs/2508.06842)|null|
 |**2025-08-19**|**Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation**|Thanh Nguyen et.al.|[2508.13904](http://arxiv.org/abs/2508.13904)|null|
 |**2025-08-19**|**SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation**|Paul Grimal et.al.|[2508.13866](http://arxiv.org/abs/2508.13866)|null|
@@ -633,5 +633,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
