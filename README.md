@@ -14,11 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-29**|**Temporal Flow Matching for Learning Spatio-Temporal Trajectories in 4D Longitudinal Medical Imaging**|Nico Albert Disch et.al.|[2508.21580](http://arxiv.org/abs/2508.21580)|null|
 |**2025-08-29**|**MedShift: Implicit Conditional Transport for X-Ray Domain Adaptation**|Francisco Caetano et.al.|[2508.21435](http://arxiv.org/abs/2508.21435)|null|
 |**2025-08-28**|**Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance**|Luozhijie Jin et.al.|[2508.21016](http://arxiv.org/abs/2508.21016)|null|
 |**2025-08-28**|**Flowing Straighter with Conditional Flow Matching for Accurate Speech Enhancement**|Mattias Cross et.al.|[2508.20584](http://arxiv.org/abs/2508.20584)|null|
-|**2025-08-28**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-08-27**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
 |**2025-08-27**|**Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies**|Zhixuan Liang et.al.|[2508.20072](http://arxiv.org/abs/2508.20072)|null|
 |**2025-08-27**|**Quantum latent distributions in deep generative models**|Omar Bacarreza et.al.|[2508.19857](http://arxiv.org/abs/2508.19857)|null|
