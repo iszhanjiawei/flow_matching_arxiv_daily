@@ -14,7 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
+|**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Hongyin Zhang et.al.|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-03**|**Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems**|Fleur Hendriks et.al.|[2509.03340](http://arxiv.org/abs/2509.03340)|null|
+|**2025-09-03**|**Energy-Weighted Flow Matching: Unlocking Continuous Normalizing Flows for Efficient and Scalable Boltzmann Sampling**|Niclas Dern et.al.|[2509.03726](http://arxiv.org/abs/2509.03726)|null|
 |**2025-09-02**|**Distribution estimation via Flow Matching with Lipschitz guarantees**|Lea Kunkel et.al.|[2509.02337](http://arxiv.org/abs/2509.02337)|null|
 |**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-09-01**|**ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training**|Ge Yan et.al.|[2509.01819](http://arxiv.org/abs/2509.01819)|null|
