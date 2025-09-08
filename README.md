@@ -1,4 +1,4 @@
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Crystal Structure Prediction with a Geometric Permutation-Invariant Loss Function**|Emmanuel Jehanno et.al.|[2509.00832](http://arxiv.org/abs/2509.00832)|null|
 |**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Hongyin Zhang et.al.|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
 |**2025-09-03**|**Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems**|Fleur Hendriks et.al.|[2509.03340](http://arxiv.org/abs/2509.03340)|null|
@@ -24,7 +25,6 @@
 |**2025-09-01**|**Multimodal Generative Flows for LHC Jets**|Darius A. Faroughy et.al.|[2509.01736](http://arxiv.org/abs/2509.01736)|null|
 |**2025-09-01**|**Feynman-Kac-Flow: Inference Steering of Conditional Flow Matching to an Energy-Tilted Posterior**|Konstantin Mark et.al.|[2509.01543](http://arxiv.org/abs/2509.01543)|null|
 |**2025-09-01**|**Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number**|Jingyuan Zhou et.al.|[2509.01486](http://arxiv.org/abs/2509.01486)|null|
-|**2025-08-31**|**Crystal Structure Prediction with a Geometric Permutation-Invariant Loss Function**|Emmanuel Jehanno et.al.|[2509.00832](http://arxiv.org/abs/2509.00832)|null|
 |**2025-08-30**|**Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching**|An B. Vuong et.al.|[2509.00336](http://arxiv.org/abs/2509.00336)|null|
 |**2025-08-29**|**Temporal Flow Matching for Learning Spatio-Temporal Trajectories in 4D Longitudinal Medical Imaging**|Nico Albert Disch et.al.|[2508.21580](http://arxiv.org/abs/2508.21580)|null|
 |**2025-08-29**|**MedShift: Implicit Conditional Transport for X-Ray Domain Adaptation**|Francisco Caetano et.al.|[2508.21435](http://arxiv.org/abs/2508.21435)|null|
@@ -650,5 +650,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
