@@ -1,4 +1,4 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
+|**2025-09-09**|**FNODE: Flow-Matching for data-driven simulation of constrained multibody systems**|Hongyu Wang et.al.|[2509.00183](http://arxiv.org/abs/2509.00183)|null|
+|**2025-09-09**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/abs/2509.05952)|null|
+|**2025-09-08**|**Multimodal Generative Flows for LHC Jets**|Darius A. Faroughy et.al.|[2509.01736](http://arxiv.org/abs/2509.01736)|null|
 |**2025-09-08**|**floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL**|Bhavya Agrawalla et.al.|[2509.06863](http://arxiv.org/abs/2509.06863)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
-|**2025-09-07**|**Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching**|Feng Wang et.al.|[2509.05952](http://arxiv.org/abs/2509.05952)|null|
 |**2025-09-06**|**CardiacFlow: 3D+t Four-Chamber Cardiac Shape Completion and Generation via Flow Matching**|Qiang Ma et.al.|[2509.05754](http://arxiv.org/abs/2509.05754)|null|
 |**2025-09-05**|**Crystal Structure Prediction with a Geometric Permutation-Invariant Loss Function**|Emmanuel Jehanno et.al.|[2509.00832](http://arxiv.org/abs/2509.00832)|null|
 |**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
@@ -24,15 +27,12 @@
 |**2025-09-03**|**Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems**|Fleur Hendriks et.al.|[2509.03340](http://arxiv.org/abs/2509.03340)|null|
 |**2025-09-03**|**Energy-Weighted Flow Matching: Unlocking Continuous Normalizing Flows for Efficient and Scalable Boltzmann Sampling**|Niclas Dern et.al.|[2509.03726](http://arxiv.org/abs/2509.03726)|null|
 |**2025-09-02**|**Distribution estimation via Flow Matching with Lipschitz guarantees**|Lea Kunkel et.al.|[2509.02337](http://arxiv.org/abs/2509.02337)|null|
-|**2025-09-01**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
 |**2025-09-01**|**ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training**|Ge Yan et.al.|[2509.01819](http://arxiv.org/abs/2509.01819)|null|
-|**2025-09-01**|**Multimodal Generative Flows for LHC Jets**|Darius A. Faroughy et.al.|[2509.01736](http://arxiv.org/abs/2509.01736)|null|
 |**2025-09-01**|**Feynman-Kac-Flow: Inference Steering of Conditional Flow Matching to an Energy-Tilted Posterior**|Konstantin Mark et.al.|[2509.01543](http://arxiv.org/abs/2509.01543)|null|
 |**2025-09-01**|**Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number**|Jingyuan Zhou et.al.|[2509.01486](http://arxiv.org/abs/2509.01486)|null|
 |**2025-08-30**|**Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching**|An B. Vuong et.al.|[2509.00336](http://arxiv.org/abs/2509.00336)|null|
 |**2025-08-29**|**Temporal Flow Matching for Learning Spatio-Temporal Trajectories in 4D Longitudinal Medical Imaging**|Nico Albert Disch et.al.|[2508.21580](http://arxiv.org/abs/2508.21580)|null|
 |**2025-08-29**|**MedShift: Implicit Conditional Transport for X-Ray Domain Adaptation**|Francisco Caetano et.al.|[2508.21435](http://arxiv.org/abs/2508.21435)|null|
-|**2025-08-29**|**FNODE: Flow-Matching for data-driven simulation of constrained multibody systems**|Hongyu Wang et.al.|[2509.00183](http://arxiv.org/abs/2509.00183)|null|
 |**2025-08-28**|**Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance**|Luozhijie Jin et.al.|[2508.21016](http://arxiv.org/abs/2508.21016)|null|
 |**2025-08-28**|**Flowing Straighter with Conditional Flow Matching for Accurate Speech Enhancement**|Mattias Cross et.al.|[2508.20584](http://arxiv.org/abs/2508.20584)|null|
 |**2025-08-27**|**Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation**|Lingkai Kong et.al.|[2508.14342](http://arxiv.org/abs/2508.14342)|null|
@@ -654,5 +654,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
