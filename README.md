@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Lei Ye et.al.|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
 |**2025-09-10**|**LatentVoiceGrad: Nonparallel Voice Conversion with Latent Diffusion/Flow-Matching Models**|Hirokazu Kameoka et.al.|[2509.08379](http://arxiv.org/abs/2509.08379)|null|
 |**2025-09-09**|**EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control**|Delin Qu et.al.|[2508.21112](http://arxiv.org/abs/2508.21112)|null|
