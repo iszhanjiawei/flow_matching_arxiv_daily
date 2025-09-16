@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-12**|**Flow Straight and Fast in Hilbert Space: Functional Rectified Flow**|Jianxin Zhang et.al.|[2509.10384](http://arxiv.org/abs/2509.10384)|null|
 |**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
