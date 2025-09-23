@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement**|Gang Yang et.al.|[2509.15952](http://arxiv.org/abs/2509.15952)|null|
+|**2025-09-21**|**HOGraspFlow: Exploring Vision-based Generative Grasp Synthesis with Hand-Object Priors and Taxonomy Awareness**|Yitian Shi et.al.|[2509.16871](http://arxiv.org/abs/2509.16871)|null|
 |**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
+|**2025-09-20**|**DoubleGen: Debiased Generative Modeling of Counterfactuals**|Alex Luedtke et.al.|[2509.16842](http://arxiv.org/abs/2509.16842)|null|
 |**2025-09-19**|**DiffusionNFT: Online Diffusion Reinforcement with Forward Process**|Kaiwen Zheng et.al.|[2509.16117](http://arxiv.org/abs/2509.16117)|null|
-|**2025-09-19**|**Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement**|Gang Yang et.al.|[2509.15952](http://arxiv.org/abs/2509.15952)|null|
 |**2025-09-19**|**ArchesClimate: Probabilistic Decadal Ensemble Generation With Flow Matching**|Graham Clyne et.al.|[2509.15942](http://arxiv.org/abs/2509.15942)|null|
+|**2025-09-19**|**Dynamic Objects Relocalization in Changing Environments with Flow Matching**|Francesco Argenziano et.al.|[2509.16398](http://arxiv.org/abs/2509.16398)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Integration**|Shuangshuang He et.al.|[2509.14775](http://arxiv.org/abs/2509.14775)|null|
 |**2025-09-17**|**AnyAccomp: Generalizable Accompaniment Generation via Quantized Melodic Bottleneck**|Junan Zhang et.al.|[2509.14052](http://arxiv.org/abs/2509.14052)|null|
