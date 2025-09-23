@@ -1,4 +1,4 @@
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 |**2025-09-19**|**DiffusionNFT: Online Diffusion Reinforcement with Forward Process**|Kaiwen Zheng et.al.|[2509.16117](http://arxiv.org/abs/2509.16117)|null|
 |**2025-09-19**|**Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement**|Gang Yang et.al.|[2509.15952](http://arxiv.org/abs/2509.15952)|null|
 |**2025-09-19**|**ArchesClimate: Probabilistic Decadal Ensemble Generation With Flow Matching**|Graham Clyne et.al.|[2509.15942](http://arxiv.org/abs/2509.15942)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Integration**|Shuangshuang He et.al.|[2509.14775](http://arxiv.org/abs/2509.14775)|null|
-|**2025-09-18**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 |**2025-09-17**|**AnyAccomp: Generalizable Accompaniment Generation via Quantized Melodic Bottleneck**|Junan Zhang et.al.|[2509.14052](http://arxiv.org/abs/2509.14052)|null|
 |**2025-09-17**|**RFM-Editing: Rectified Flow Matching for Text-guided Audio Editing**|Liting Gao et.al.|[2509.14003](http://arxiv.org/abs/2509.14003)|null|
 |**2025-09-17**|**Flow Matching-Based Active Learning for Radio Map Construction with Low-Altitude UAVs**|Hao Sun et.al.|[2509.13822](http://arxiv.org/abs/2509.13822)|null|
@@ -672,5 +672,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
