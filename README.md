@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching**|Chen Chen et.al.|[2509.19300](http://arxiv.org/abs/2509.19300)|null|
+|**2025-09-23**|**Training Flow Matching Models with Reliable Labels via Self-Purification**|Hyeongju Kim et.al.|[2509.19091](http://arxiv.org/abs/2509.19091)|null|
+|**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
+|**2025-09-23**|**SimpleFold: Folding Proteins is Simpler than You Think**|Yuyang Wang et.al.|[2509.18480](http://arxiv.org/abs/2509.18480)|null|
 |**2025-09-22**|**Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement**|Gang Yang et.al.|[2509.15952](http://arxiv.org/abs/2509.15952)|null|
 |**2025-09-21**|**HOGraspFlow: Exploring Vision-based Generative Grasp Synthesis with Hand-Object Priors and Taxonomy Awareness**|Yitian Shi et.al.|[2509.16871](http://arxiv.org/abs/2509.16871)|null|
 |**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
