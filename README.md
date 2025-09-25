@@ -1,4 +1,4 @@
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**DynaFlow: Dynamics-embedded Flow Matching for Physically Consistent Motion Generation from State-only Demonstrations**|Sowoo Lee et.al.|[2509.19804](http://arxiv.org/abs/2509.19804)|null|
+|**2025-09-24**|**Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization**|Devesh Nath et.al.|[2509.19688](http://arxiv.org/abs/2509.19688)|null|
 |**2025-09-23**|**CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching**|Chen Chen et.al.|[2509.19300](http://arxiv.org/abs/2509.19300)|null|
 |**2025-09-23**|**Training Flow Matching Models with Reliable Labels via Self-Purification**|Hyeongju Kim et.al.|[2509.19091](http://arxiv.org/abs/2509.19091)|null|
 |**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
 |**2025-09-23**|**SimpleFold: Folding Proteins is Simpler than You Think**|Yuyang Wang et.al.|[2509.18480](http://arxiv.org/abs/2509.18480)|null|
+|**2025-09-23**|**Metriplectic Conditional Flow Matching for Dissipative Dynamics**|Ali Baheri et.al.|[2509.19526](http://arxiv.org/abs/2509.19526)|null|
 |**2025-09-22**|**Compose Yourself: Average-Velocity Flow Matching for One-Step Speech Enhancement**|Gang Yang et.al.|[2509.15952](http://arxiv.org/abs/2509.15952)|null|
 |**2025-09-21**|**HOGraspFlow: Exploring Vision-based Generative Grasp Synthesis with Hand-Object Priors and Taxonomy Awareness**|Yitian Shi et.al.|[2509.16871](http://arxiv.org/abs/2509.16871)|null|
 |**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
@@ -679,5 +682,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
