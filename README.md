@@ -14,8 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Federated Flow Matching**|Zifan Wang et.al.|[2509.21250](http://arxiv.org/abs/2509.21250)|null|
+|**2025-09-25**|**MeanSE: Efficient Generative Speech Enhancement with Mean Flows**|Jiahe Wang et.al.|[2509.21214](http://arxiv.org/abs/2509.21214)|null|
+|**2025-09-25**|**Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy**|Weili Zeng et.al.|[2509.20952](http://arxiv.org/abs/2509.20952)|null|
+|**2025-09-25**|**Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting**|Yanfeng Yang et.al.|[2509.20928](http://arxiv.org/abs/2509.20928)|null|
+|**2025-09-25**|**Joint Flow Trajectory Optimization For Feasible Robot Motion Generation from Video Demonstrations**|Xiaoxiang Dong et.al.|[2509.20703](http://arxiv.org/abs/2509.20703)|null|
 |**2025-09-24**|**DynaFlow: Dynamics-embedded Flow Matching for Physically Consistent Motion Generation from State-only Demonstrations**|Sowoo Lee et.al.|[2509.19804](http://arxiv.org/abs/2509.19804)|null|
 |**2025-09-24**|**Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization**|Devesh Nath et.al.|[2509.19688](http://arxiv.org/abs/2509.19688)|null|
+|**2025-09-24**|**FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models**|Amin Karimi Monsefi et.al.|[2509.20624](http://arxiv.org/abs/2509.20624)|null|
+|**2025-09-24**|**A Theory of Multi-Agent Generative Flow Networks**|Leo Maxime Brunswic et.al.|[2509.20408](http://arxiv.org/abs/2509.20408)|null|
 |**2025-09-23**|**CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching**|Chen Chen et.al.|[2509.19300](http://arxiv.org/abs/2509.19300)|null|
 |**2025-09-23**|**Training Flow Matching Models with Reliable Labels via Self-Purification**|Hyeongju Kim et.al.|[2509.19091](http://arxiv.org/abs/2509.19091)|null|
 |**2025-09-23**|**Flow marching for a generative PDE foundation model**|Zituo Chen et.al.|[2509.18611](http://arxiv.org/abs/2509.18611)|null|
