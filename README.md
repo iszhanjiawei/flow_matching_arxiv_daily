@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Score Distillation of Flow Matching Models**|Mingyuan Zhou et.al.|[2509.25127](http://arxiv.org/abs/2509.25127)|null|
+|**2025-09-29**|**UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation**|Guanjun Wu et.al.|[2509.25079](http://arxiv.org/abs/2509.25079)|null|
+|**2025-09-29**|**Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models**|Shuchen Xue et.al.|[2509.25050](http://arxiv.org/abs/2509.25050)|null|
+|**2025-09-29**|**MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation**|Jan Ole von Hartz et.al.|[2509.24956](http://arxiv.org/abs/2509.24956)|null|
+|**2025-09-29**|**OAT-FM: Optimal Acceleration Transport for Improved Flow Matching**|Angxiao Yue et.al.|[2509.24936](http://arxiv.org/abs/2509.24936)|null|
+|**2025-09-29**|**SAGA-SR: Semantically and Acoustically Guided Audio Super-Resolution**|Jaekwon Im et.al.|[2509.24924](http://arxiv.org/abs/2509.24924)|null|
+|**2025-09-29**|**MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models**|Kacper Kapuśniak et.al.|[2509.24779](http://arxiv.org/abs/2509.24779)|null|
+|**2025-09-29**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
+|**2025-09-29**|**SenSE: Semantic-Aware High-Fidelity Universal Speech Enhancement**|Xingchen Li et.al.|[2509.24708](http://arxiv.org/abs/2509.24708)|null|
+|**2025-09-29**|**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis**|Kaizhen Zhu et.al.|[2509.24531](http://arxiv.org/abs/2509.24531)|null|
+|**2025-09-29**|**Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting**|Sophia N. Wilson et.al.|[2509.24517](http://arxiv.org/abs/2509.24517)|null|
+|**2025-09-29**|**Alternatives To Next Token Prediction In Text Generation -- A Survey**|Charlie Wyatt et.al.|[2509.24435](http://arxiv.org/abs/2509.24435)|null|
+|**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|null|
+|**2025-09-29**|**SafeFlowMatcher: Safe and Fast Planning using Flow Matching with Control Barrier Functions**|Jeongyong Yang et.al.|[2509.24243](http://arxiv.org/abs/2509.24243)|null|
+|**2025-09-28**|**GeoFunFlow: Geometric Function Flow Matching for Inverse Operator Learning over Complex Geometries**|Sifan Wang et.al.|[2509.24117](http://arxiv.org/abs/2509.24117)|null|
+|**2025-09-28**|**Space Group Conditional Flow Matching**|Omri Puny et.al.|[2509.23822](http://arxiv.org/abs/2509.23822)|null|
+|**2025-09-28**|**Define latent spaces by example: optimisation over the outputs of generative models**|Samuel Willis et.al.|[2509.23800](http://arxiv.org/abs/2509.23800)|null|
+|**2025-09-28**|**DA-MMP: Learning Coordinated and Accurate Throwing with Dynamics-Aware Motion Manifold Primitives**|Chi Chu et.al.|[2509.23721](http://arxiv.org/abs/2509.23721)|null|
+|**2025-09-28**|**FlowLUT: Efficient Image Enhancement via Differentiable LUTs and Iterative Flow Matching**|Liubing Hu et.al.|[2509.23608](http://arxiv.org/abs/2509.23608)|null|
+|**2025-09-28**|**VividFace: High-Quality and Efficient One-Step Diffusion For Video Face Enhancement**|Shulian Zhang et.al.|[2509.23584](http://arxiv.org/abs/2509.23584)|null|
 |**2025-09-26**|**A Theoretical Analysis of Discrete Flow Matching Generative Models**|Maojiang Su et.al.|[2509.22623](http://arxiv.org/abs/2509.22623)|null|
 |**2025-09-26**|**Transport Based Mean Flows for Generative Modeling**|Elaheh Akbari et.al.|[2509.22592](http://arxiv.org/abs/2509.22592)|null|
 |**2025-09-26**|**Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)**|Nikita Kornilov et.al.|[2509.22459](http://arxiv.org/abs/2509.22459)|null|
