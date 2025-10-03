@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-02**|**Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity**|Eric Tillmann Bill et.al.|[2510.02315](http://arxiv.org/abs/2510.02315)|null|
+|**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|Zihan Zhou et.al.|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
+|**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Zhaoyi Li et.al.|[2510.02081](http://arxiv.org/abs/2510.02081)|null|
+|**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](http://arxiv.org/abs/2510.01912)|null|
+|**2025-10-01**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al.|[2510.01478](http://arxiv.org/abs/2510.01478)|null|
+|**2025-10-01**|**DisCo: Reinforcement with Diversity Constraints for Multi-Human Generation**|Shubhankar Borse et.al.|[2510.01399](http://arxiv.org/abs/2510.01399)|null|
+|**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
+|**2025-10-01**|**Multi-Marginal Flow Matching with Adversarially Learnt Interpolants**|Oskar Kviman et.al.|[2510.01159](http://arxiv.org/abs/2510.01159)|null|
+|**2025-10-01**|**Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition**|Jiahang Cao et.al.|[2510.01068](http://arxiv.org/abs/2510.01068)|null|
+|**2025-10-01**|**Riemannian Consistency Model**|Chaoran Cheng et.al.|[2510.00983](http://arxiv.org/abs/2510.00983)|null|
+|**2025-10-01**|**JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation**|Siheng Wan et.al.|[2510.00974](http://arxiv.org/abs/2510.00974)|null|
+|**2025-10-01**|**UniverSR: Unified and Versatile Audio Super-Resolution via Vocoder-Free Flow Matching**|Woongjib Choi et.al.|[2510.00771](http://arxiv.org/abs/2510.00771)|null|
+|**2025-10-01**|**Align Your Tangent: Training Better Consistency Models via Manifold-Aligned Tangents**|Beomsu Kim et.al.|[2510.00658](http://arxiv.org/abs/2510.00658)|null|
+|**2025-10-01**|**Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack**|Nanxiang Jiang et.al.|[2510.00635](http://arxiv.org/abs/2510.00635)|null|
+|**2025-10-01**|**EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations**|Jiayi Liu et.al.|[2510.00405](http://arxiv.org/abs/2510.00405)|null|
 |**2025-09-30**|**MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models**|Kacper Kapuśniak et.al.|[2509.24779](http://arxiv.org/abs/2509.24779)|null|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-30**|**Data-to-Energy Stochastic Dynamics**|Kirill Tamogashev et.al.|[2509.26364](http://arxiv.org/abs/2509.26364)|null|
@@ -21,6 +36,7 @@
 |**2025-09-30**|**Training-Free Reward-Guided Image Editing via Trajectory Optimal Control**|Jinho Chang et.al.|[2509.25845](http://arxiv.org/abs/2509.25845)|null|
 |**2025-09-30**|**Reweighted Flow Matching via Unbalanced OT for Label-free Long-tailed Generation**|Hyunsoo Song et.al.|[2509.25713](http://arxiv.org/abs/2509.25713)|null|
 |**2025-09-30**|**LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning**|Kang Yang et.al.|[2509.25670](http://arxiv.org/abs/2509.25670)|null|
+|**2025-09-30**|**Flow Autoencoders are Effective Protein Tokenizers**|Rohit Dilip et.al.|[2510.00351](http://arxiv.org/abs/2510.00351)|null|
 |**2025-09-29**|**Score Distillation of Flow Matching Models**|Mingyuan Zhou et.al.|[2509.25127](http://arxiv.org/abs/2509.25127)|null|
 |**2025-09-29**|**UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation**|Guanjun Wu et.al.|[2509.25079](http://arxiv.org/abs/2509.25079)|null|
 |**2025-09-29**|**Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models**|Shuchen Xue et.al.|[2509.25050](http://arxiv.org/abs/2509.25050)|null|
