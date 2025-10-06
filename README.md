@@ -14,10 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**ContextFlow: Context-Aware Flow Matching For Trajectory Inference From Spatial Omics Data**|Santanu Subhash Rathod et.al.|[2510.02952](http://arxiv.org/abs/2510.02952)|null|
+|**2025-10-03**|**Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech**|Hieu-Nghia Huynh-Nguyen et.al.|[2510.02848](http://arxiv.org/abs/2510.02848)|null|
+|**2025-10-03**|**Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data**|Tianyu Li et.al.|[2510.02738](http://arxiv.org/abs/2510.02738)|null|
+|**2025-10-03**|**Flow Matching for Measure Transport and Feedback Stabilization of Control-Affine Systems**|Karthik Elamvazhuthi et.al.|[2510.02706](http://arxiv.org/abs/2510.02706)|null|
+|**2025-10-03**|**RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization**|Kai Fukazawa et.al.|[2510.02695](http://arxiv.org/abs/2510.02695)|null|
+|**2025-10-03**|**Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models**|Benjamin Yu et.al.|[2510.02654](http://arxiv.org/abs/2510.02654)|null|
+|**2025-10-03**|**Deep Generative Continual Learning using Functional LoRA: FunLoRA**|Victor Enescu et.al.|[2510.02631](http://arxiv.org/abs/2510.02631)|null|
 |**2025-10-02**|**Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity**|Eric Tillmann Bill et.al.|[2510.02315](http://arxiv.org/abs/2510.02315)|null|
 |**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|Zihan Zhou et.al.|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
 |**2025-10-02**|**Fine-Tuning Flow Matching via Maximum Likelihood Estimation of Reconstructions**|Zhaoyi Li et.al.|[2510.02081](http://arxiv.org/abs/2510.02081)|null|
 |**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](http://arxiv.org/abs/2510.01912)|null|
+|**2025-10-02**|**FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction**|Julian Cremer et.al.|[2510.02578](http://arxiv.org/abs/2510.02578)|null|
+|**2025-10-02**|**Graph Generation with Spectral Geodesic Flow Matching**|Xikun Huang et.al.|[2510.02520](http://arxiv.org/abs/2510.02520)|null|
 |**2025-10-01**|**Purrception: Variational Flow Matching for Vector-Quantized Image Generation**|Răzvan-Andrei Matişan et.al.|[2510.01478](http://arxiv.org/abs/2510.01478)|null|
 |**2025-10-01**|**DisCo: Reinforcement with Diversity Constraints for Multi-Human Generation**|Shubhankar Borse et.al.|[2510.01399](http://arxiv.org/abs/2510.01399)|null|
 |**2025-10-01**|**Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**|Yanbo Xu et.al.|[2510.01184](http://arxiv.org/abs/2510.01184)|null|
