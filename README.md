@@ -15,6 +15,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-07**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
+|**2025-10-07**|**Deforming Videos to Masks: Flow Matching for Referring Video Segmentation**|Zanyi Wang et.al.|[2510.06139](http://arxiv.org/abs/2510.06139)|null|
+|**2025-10-07**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/abs/2510.06050)|null|
+|**2025-10-07**|**Carré du champ flow matching: better quality-generalisation tradeoff in generative models**|Jacob Bamberger et.al.|[2510.05930](http://arxiv.org/abs/2510.05930)|null|
 |**2025-10-06**|**FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction**|Julian Cremer et.al.|[2510.02578](http://arxiv.org/abs/2510.02578)|null|
 |**2025-10-06**|**Flow-Matching Based Refiner for Molecular Conformer Generation**|Xiangyang Xu et.al.|[2510.04878](http://arxiv.org/abs/2510.04878)|null|
 |**2025-10-06**|**Flow Matching for Conditional MRI-CT and CBCT-CT Image Synthesis**|Arnela Hadzic et.al.|[2510.04823](http://arxiv.org/abs/2510.04823)|null|
