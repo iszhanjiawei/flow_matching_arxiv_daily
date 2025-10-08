@@ -1,4 +1,4 @@
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
 |**2025-10-06**|**FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction**|Julian Cremer et.al.|[2510.02578](http://arxiv.org/abs/2510.02578)|null|
 |**2025-10-06**|**Flow-Matching Based Refiner for Molecular Conformer Generation**|Xiangyang Xu et.al.|[2510.04878](http://arxiv.org/abs/2510.04878)|null|
 |**2025-10-06**|**Flow Matching for Conditional MRI-CT and CBCT-CT Image Synthesis**|Arnela Hadzic et.al.|[2510.04823](http://arxiv.org/abs/2510.04823)|null|
 |**2025-10-06**|**Predictive Feature Caching for Training-free Acceleration of Molecular Geometry Generation**|Johanna Sommer et.al.|[2510.04646](http://arxiv.org/abs/2510.04646)|null|
 |**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
 |**2025-10-05**|**Drax: Speech Recognition with Discrete Flow Matching**|Aviv Navon et.al.|[2510.04162](http://arxiv.org/abs/2510.04162)|null|
-|**2025-10-04**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
 |**2025-10-03**|**ContextFlow: Context-Aware Flow Matching For Trajectory Inference From Spatial Omics Data**|Santanu Subhash Rathod et.al.|[2510.02952](http://arxiv.org/abs/2510.02952)|null|
 |**2025-10-03**|**Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech**|Hieu-Nghia Huynh-Nguyen et.al.|[2510.02848](http://arxiv.org/abs/2510.02848)|null|
 |**2025-10-03**|**Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data**|Tianyu Li et.al.|[2510.02738](http://arxiv.org/abs/2510.02738)|null|
@@ -766,5 +766,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
