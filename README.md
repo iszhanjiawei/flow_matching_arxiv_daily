@@ -15,6 +15,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-08**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/abs/2510.06050)|null|
+|**2025-10-08**|**Trajectory-Optimized Density Control with Flow Matching**|Xu Duan et.al.|[2510.06666](http://arxiv.org/abs/2510.06666)|null|
+|**2025-10-08**|**Three Forms of Stochastic Injection for Improved Distribution-to-Distribution Generative Modeling**|Shiye Su et.al.|[2510.06634](http://arxiv.org/abs/2510.06634)|null|
 |**2025-10-07**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
 |**2025-10-07**|**Longitudinal Flow Matching for Trajectory Modeling**|Mohammad Mohaiminul Islam et.al.|[2510.03569](http://arxiv.org/abs/2510.03569)|null|
 |**2025-10-07**|**Deforming Videos to Masks: Flow Matching for Referring Video Segmentation**|Zanyi Wang et.al.|[2510.06139](http://arxiv.org/abs/2510.06139)|null|
