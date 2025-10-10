@@ -1,4 +1,4 @@
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows**|John Nguyen et.al.|[2510.03506](http://arxiv.org/abs/2510.03506)|null|
 |**2025-10-08**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/abs/2510.06050)|null|
 |**2025-10-08**|**Trajectory-Optimized Density Control with Flow Matching**|Xu Duan et.al.|[2510.06666](http://arxiv.org/abs/2510.06666)|null|
 |**2025-10-08**|**Three Forms of Stochastic Injection for Improved Distribution-to-Distribution Generative Modeling**|Shiye Su et.al.|[2510.06634](http://arxiv.org/abs/2510.06634)|null|
@@ -34,7 +35,6 @@
 |**2025-10-03**|**RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization**|Kai Fukazawa et.al.|[2510.02695](http://arxiv.org/abs/2510.02695)|null|
 |**2025-10-03**|**Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models**|Benjamin Yu et.al.|[2510.02654](http://arxiv.org/abs/2510.02654)|null|
 |**2025-10-03**|**Deep Generative Continual Learning using Functional LoRA: FunLoRA**|Victor Enescu et.al.|[2510.02631](http://arxiv.org/abs/2510.02631)|null|
-|**2025-10-03**|**OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows**|John Nguyen et.al.|[2510.03506](http://arxiv.org/abs/2510.03506)|null|
 |**2025-10-03**|**Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching**|Sibo Tian et.al.|[2510.03460](http://arxiv.org/abs/2510.03460)|null|
 |**2025-10-02**|**Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity**|Eric Tillmann Bill et.al.|[2510.02315](http://arxiv.org/abs/2510.02315)|null|
 |**2025-10-02**|**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing**|Zihan Zhou et.al.|[2510.02253](http://arxiv.org/abs/2510.02253)|null|
@@ -771,5 +771,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
