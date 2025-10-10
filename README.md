@@ -15,9 +15,19 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-09**|**OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows**|John Nguyen et.al.|[2510.03506](http://arxiv.org/abs/2510.03506)|null|
+|**2025-10-09**|**Wavefunction Flows: Efficient Quantum Simulation of Continuous Flow Models**|David Layden et.al.|[2510.08462](http://arxiv.org/abs/2510.08462)|null|
+|**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
+|**2025-10-09**|**Bridging the Physics-Data Gap with FNO-Guided Conditional Flow Matching: Designing Inductive Bias through Hierarchical Physical Constraints**|Tsuyoshi Okita et.al.|[2510.08295](http://arxiv.org/abs/2510.08295)|null|
+|**2025-10-09**|**Counterfactual Identifiability via Dynamic Optimal Transport**|Fabio De Sousa Ribeiro et.al.|[2510.08294](http://arxiv.org/abs/2510.08294)|null|
+|**2025-10-09**|**Expressive Value Learning for Scalable Offline Reinforcement Learning**|Nicolas Espinosa-Dice et.al.|[2510.08218](http://arxiv.org/abs/2510.08218)|null|
+|**2025-10-09**|**Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching**|Shihe Zhou et.al.|[2510.07957](http://arxiv.org/abs/2510.07957)|null|
+|**2025-10-09**|**FlowLensing: Simulating Gravitational Lensing with Flow Matching**|Hamees Sayed et.al.|[2510.07878](http://arxiv.org/abs/2510.07878)|null|
+|**2025-10-09**|**DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation**|Guowei Zou et.al.|[2510.07865](http://arxiv.org/abs/2510.07865)|null|
+|**2025-10-09**|**Value Flows**|Perry Dong et.al.|[2510.07650](http://arxiv.org/abs/2510.07650)|null|
 |**2025-10-08**|**Edit-Based Flow Matching for Temporal Point Processes**|David Lüdke et.al.|[2510.06050](http://arxiv.org/abs/2510.06050)|null|
 |**2025-10-08**|**Trajectory-Optimized Density Control with Flow Matching**|Xu Duan et.al.|[2510.06666](http://arxiv.org/abs/2510.06666)|null|
 |**2025-10-08**|**Three Forms of Stochastic Injection for Improved Distribution-to-Distribution Generative Modeling**|Shiye Su et.al.|[2510.06634](http://arxiv.org/abs/2510.06634)|null|
+|**2025-10-08**|**A Denoising Framework for Real-World Ultra-Low Dose Lung CT Images Based on an Image Purification Strategy**|Guoliang Gong et.al.|[2510.07492](http://arxiv.org/abs/2510.07492)|null|
 |**2025-10-07**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
 |**2025-10-07**|**Longitudinal Flow Matching for Trajectory Modeling**|Mohammad Mohaiminul Islam et.al.|[2510.03569](http://arxiv.org/abs/2510.03569)|null|
 |**2025-10-07**|**Deforming Videos to Masks: Flow Matching for Referring Video Segmentation**|Zanyi Wang et.al.|[2510.06139](http://arxiv.org/abs/2510.06139)|null|
