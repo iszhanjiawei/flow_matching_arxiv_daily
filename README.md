@@ -14,13 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching**|Shihe Zhou et.al.|[2510.07957](http://arxiv.org/abs/2510.07957)|null|
+|**2025-10-10**|**Conditional Flow Matching for Bayesian Posterior Inference**|So Won Jeong et.al.|[2510.09534](http://arxiv.org/abs/2510.09534)|null|
+|**2025-10-10**|**Failure Prediction at Runtime for Generative Robot Policies**|Ralf Römer et.al.|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
+|**2025-10-10**|**RadioFlow: Efficient Radio Map Construction Framework with Flow Matching**|Haozhe Jia et.al.|[2510.09314](http://arxiv.org/abs/2510.09314)|null|
+|**2025-10-10**|**FM-IRL: Flow-Matching for Reward Modeling and Policy Regularization in Reinforcement Learning**|Zhenglin Wan et.al.|[2510.09222](http://arxiv.org/abs/2510.09222)|null|
+|**2025-10-10**|**Stable Video Infinity: Infinite-Length Video Generation with Error Recycling**|Wuyang Li et.al.|[2510.09212](http://arxiv.org/abs/2510.09212)|null|
+|**2025-10-10**|**Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization**|Simon Idoko et.al.|[2510.09204](http://arxiv.org/abs/2510.09204)|null|
+|**2025-10-10**|**OSCAR: Orthogonal Stochastic Control for Alignment-Respecting Diversity in Flow Matching**|Jingxuan Wu et.al.|[2510.09060](http://arxiv.org/abs/2510.09060)|null|
+|**2025-10-10**|**Mirror Flow Matching with Heavy-Tailed Priors for Generative Modeling on Convex Domains**|Yunrui Guan et.al.|[2510.08929](http://arxiv.org/abs/2510.08929)|null|
 |**2025-10-09**|**OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows**|John Nguyen et.al.|[2510.03506](http://arxiv.org/abs/2510.03506)|null|
 |**2025-10-09**|**Wavefunction Flows: Efficient Quantum Simulation of Continuous Flow Models**|David Layden et.al.|[2510.08462](http://arxiv.org/abs/2510.08462)|null|
 |**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
 |**2025-10-09**|**Bridging the Physics-Data Gap with FNO-Guided Conditional Flow Matching: Designing Inductive Bias through Hierarchical Physical Constraints**|Tsuyoshi Okita et.al.|[2510.08295](http://arxiv.org/abs/2510.08295)|null|
 |**2025-10-09**|**Counterfactual Identifiability via Dynamic Optimal Transport**|Fabio De Sousa Ribeiro et.al.|[2510.08294](http://arxiv.org/abs/2510.08294)|null|
 |**2025-10-09**|**Expressive Value Learning for Scalable Offline Reinforcement Learning**|Nicolas Espinosa-Dice et.al.|[2510.08218](http://arxiv.org/abs/2510.08218)|null|
-|**2025-10-09**|**Zero-Shot Forecasting of Network Dynamics through Weight Flow Matching**|Shihe Zhou et.al.|[2510.07957](http://arxiv.org/abs/2510.07957)|null|
 |**2025-10-09**|**FlowLensing: Simulating Gravitational Lensing with Flow Matching**|Hamees Sayed et.al.|[2510.07878](http://arxiv.org/abs/2510.07878)|null|
 |**2025-10-09**|**DM1: MeanFlow with Dispersive Regularization for 1-Step Robotic Manipulation**|Guowei Zou et.al.|[2510.07865](http://arxiv.org/abs/2510.07865)|null|
 |**2025-10-09**|**Value Flows**|Perry Dong et.al.|[2510.07650](http://arxiv.org/abs/2510.07650)|null|
