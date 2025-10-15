@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**EReLiFM: Evidential Reliability-Aware Residual Flow Meta-Learning for Open-Set Domain Generalization under Noisy Labels**|Kunyu Peng et.al.|[2510.12687](http://arxiv.org/abs/2510.12687)|null|
+|**2025-10-14**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
+|**2025-10-14**|**Low-Field Magnetic Resonance Image Quality Enhancement using a Conditional Flow Matching Model**|Huu Tien Nguyen et.al.|[2510.12408](http://arxiv.org/abs/2510.12408)|null|
 |**2025-10-13**|**Failure Prediction at Runtime for Generative Robot Policies**|Ralf Römer et.al.|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
 |**2025-10-13**|**FM-IRL: Flow-Matching for Reward Modeling and Policy Regularization in Reinforcement Learning**|Zhenglin Wan et.al.|[2510.09222](http://arxiv.org/abs/2510.09222)|null|
 |**2025-10-13**|**Offline Reinforcement Learning with Generative Trajectory Policies**|Xinsong Feng et.al.|[2510.11499](http://arxiv.org/abs/2510.11499)|null|
