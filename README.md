@@ -16,6 +16,8 @@
 |---|---|---|---|---|
 |**2025-10-15**|**Conditional Flow Matching for Bayesian Posterior Inference**|So Won Jeong et.al.|[2510.09534](http://arxiv.org/abs/2510.09534)|null|
 |**2025-10-15**|**EReLiFM: Evidential Reliability-Aware Residual Flow Meta-Learning for Open-Set Domain Generalization under Noisy Labels**|Kunyu Peng et.al.|[2510.12687](http://arxiv.org/abs/2510.12687)|null|
+|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
+|**2025-10-15**|**Convergence, design and training of continuous-time dropout as a random batch method**|Antonio Álvarez-López et.al.|[2510.13134](http://arxiv.org/abs/2510.13134)|null|
 |**2025-10-14**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
 |**2025-10-14**|**Low-Field Magnetic Resonance Image Quality Enhancement using a Conditional Flow Matching Model**|Huu Tien Nguyen et.al.|[2510.12408](http://arxiv.org/abs/2510.12408)|null|
 |**2025-10-13**|**Failure Prediction at Runtime for Generative Robot Policies**|Ralf Römer et.al.|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
