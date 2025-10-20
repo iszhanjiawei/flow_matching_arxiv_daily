@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Iterative Refinement of Flow Policies in Probability Space for Online Reinforcement Learning**|Mingyang Sun et.al.|[2510.15388](http://arxiv.org/abs/2510.15388)|null|
+|**2025-10-17**|**Sequence Modeling with Spectral Mean Flows**|Jinwoo Kim et.al.|[2510.15366](http://arxiv.org/abs/2510.15366)|null|
 |**2025-10-16**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
 |**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang et.al.|[2510.14977](http://arxiv.org/abs/2510.14977)|null|
@@ -26,6 +28,7 @@
 |**2025-10-16**|**Flow Matching for Averaged Systems**|Daniel Owusu Adu et.al.|[2510.14514](http://arxiv.org/abs/2510.14514)|null|
 |**2025-10-16**|**Hybrid Renormalization with Gradient Flow for Baryon Quasi-Distribution Amplitudes**|Jia-lu Zhang et.al.|[2510.14325](http://arxiv.org/abs/2510.14325)|null|
 |**2025-10-16**|**Hierarchical Simulation-Based Inference of Supernova Power Sources and their Physical Properties**|Edgar P. Vidal et.al.|[2510.14202](http://arxiv.org/abs/2510.14202)|null|
+|**2025-10-16**|**Operator Flow Matching for Timeseries Forecasting**|Yolanne Yi Ran Lee et.al.|[2510.15101](http://arxiv.org/abs/2510.15101)|null|
 |**2025-10-15**|**Conditional Flow Matching for Bayesian Posterior Inference**|So Won Jeong et.al.|[2510.09534](http://arxiv.org/abs/2510.09534)|null|
 |**2025-10-15**|**EReLiFM: Evidential Reliability-Aware Residual Flow Meta-Learning for Open-Set Domain Generalization under Noisy Labels**|Kunyu Peng et.al.|[2510.12687](http://arxiv.org/abs/2510.12687)|null|
 |**2025-10-15**|**Convergence, design and training of continuous-time dropout as a random batch method**|Antonio Álvarez-López et.al.|[2510.13134](http://arxiv.org/abs/2510.13134)|null|
