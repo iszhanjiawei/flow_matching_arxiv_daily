@@ -14,15 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-20**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
+|**2025-10-20**|**Inference-Time Compute Scaling For Flow Matching**|Adam Stecklov et.al.|[2510.17786](http://arxiv.org/abs/2510.17786)|null|
+|**2025-10-20**|**Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network**|Bo Liang et.al.|[2510.17459](http://arxiv.org/abs/2510.17459)|null|
+|**2025-10-19**|**Towards Real-Time Generative Speech Restoration with Flow-Matching**|Tsun-An Hsieh et.al.|[2510.16997](http://arxiv.org/abs/2510.16997)|null|
+|**2025-10-19**|**Adaptive Deterministic Flow Matching for Target Speaker Extraction**|Tsun-An Hsieh et.al.|[2510.16995](http://arxiv.org/abs/2510.16995)|null|
+|**2025-10-19**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
+|**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582](http://arxiv.org/abs/2510.16582)|null|
 |**2025-10-17**|**Iterative Refinement of Flow Policies in Probability Space for Online Reinforcement Learning**|Mingyang Sun et.al.|[2510.15388](http://arxiv.org/abs/2510.15388)|null|
 |**2025-10-17**|**Sequence Modeling with Spectral Mean Flows**|Jinwoo Kim et.al.|[2510.15366](http://arxiv.org/abs/2510.15366)|null|
+|**2025-10-17**|**AtomBench: A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures**|Charles Rhys Campbell et.al.|[2510.16165](http://arxiv.org/abs/2510.16165)|null|
 |**2025-10-16**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
 |**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
 |**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang et.al.|[2510.14977](http://arxiv.org/abs/2510.14977)|null|
 |**2025-10-16**|**pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation**|Hansheng Chen et.al.|[2510.14974](http://arxiv.org/abs/2510.14974)|null|
 |**2025-10-16**|**Generative Models From and For Sampling-Based MPC: A Bootstrapped Approach For Adaptive Contact-Rich Manipulation**|Lara Brudermüller et.al.|[2510.14643](http://arxiv.org/abs/2510.14643)|null|
 |**2025-10-16**|**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**|Ming Gui et.al.|[2510.14630](http://arxiv.org/abs/2510.14630)|null|
-|**2025-10-16**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-16**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
 |**2025-10-16**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang et.al.|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
 |**2025-10-16**|**Flow Matching for Averaged Systems**|Daniel Owusu Adu et.al.|[2510.14514](http://arxiv.org/abs/2510.14514)|null|
