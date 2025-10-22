@@ -1,4 +1,4 @@
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
+|**2025-10-21**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang et.al.|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
+|**2025-10-21**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-20**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-20**|**Inference-Time Compute Scaling For Flow Matching**|Adam Stecklov et.al.|[2510.17786](http://arxiv.org/abs/2510.17786)|null|
 |**2025-10-20**|**Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network**|Bo Liang et.al.|[2510.17459](http://arxiv.org/abs/2510.17459)|null|
 |**2025-10-19**|**Towards Real-Time Generative Speech Restoration with Flow-Matching**|Tsun-An Hsieh et.al.|[2510.16997](http://arxiv.org/abs/2510.16997)|null|
 |**2025-10-19**|**Adaptive Deterministic Flow Matching for Target Speaker Extraction**|Tsun-An Hsieh et.al.|[2510.16995](http://arxiv.org/abs/2510.16995)|null|
-|**2025-10-19**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-18**|**Can Knowledge-Graph-based Retrieval Augmented Generation Really Retrieve What You Need?**|Junchi Yu et.al.|[2510.16582](http://arxiv.org/abs/2510.16582)|null|
 |**2025-10-17**|**Iterative Refinement of Flow Policies in Probability Space for Online Reinforcement Learning**|Mingyang Sun et.al.|[2510.15388](http://arxiv.org/abs/2510.15388)|null|
 |**2025-10-17**|**Sequence Modeling with Spectral Mean Flows**|Jinwoo Kim et.al.|[2510.15366](http://arxiv.org/abs/2510.15366)|null|
@@ -30,8 +32,6 @@
 |**2025-10-16**|**pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation**|Hansheng Chen et.al.|[2510.14974](http://arxiv.org/abs/2510.14974)|null|
 |**2025-10-16**|**Generative Models From and For Sampling-Based MPC: A Bootstrapped Approach For Adaptive Contact-Rich Manipulation**|Lara Brudermüller et.al.|[2510.14643](http://arxiv.org/abs/2510.14643)|null|
 |**2025-10-16**|**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**|Ming Gui et.al.|[2510.14630](http://arxiv.org/abs/2510.14630)|null|
-|**2025-10-16**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
-|**2025-10-16**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang et.al.|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
 |**2025-10-16**|**Flow Matching for Averaged Systems**|Daniel Owusu Adu et.al.|[2510.14514](http://arxiv.org/abs/2510.14514)|null|
 |**2025-10-16**|**Hybrid Renormalization with Gradient Flow for Baryon Quasi-Distribution Amplitudes**|Jia-lu Zhang et.al.|[2510.14325](http://arxiv.org/abs/2510.14325)|null|
 |**2025-10-16**|**Hierarchical Simulation-Based Inference of Supernova Power Sources and their Physical Properties**|Edgar P. Vidal et.al.|[2510.14202](http://arxiv.org/abs/2510.14202)|null|
@@ -820,5 +820,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
 
