@@ -1,4 +1,4 @@
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-21**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
 |**2025-10-21**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang et.al.|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
 |**2025-10-21**|**Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback**|Zongjian Li et.al.|[2510.16888](http://arxiv.org/abs/2510.16888)|null|
 |**2025-10-21**|**Scalable, Explainable and Provably Robust Anomaly Detection with One-Step Flow Matching**|Zhong Li et.al.|[2510.18328](http://arxiv.org/abs/2510.18328)|null|
-|**2025-10-20**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-20**|**Inference-Time Compute Scaling For Flow Matching**|Adam Stecklov et.al.|[2510.17786](http://arxiv.org/abs/2510.17786)|null|
 |**2025-10-20**|**Estimating Orbital Parameters of Direct Imaging Exoplanet Using Neural Network**|Bo Liang et.al.|[2510.17459](http://arxiv.org/abs/2510.17459)|null|
 |**2025-10-20**|**Fine-tuning Flow Matching Generative Models with Intermediate Feedback**|Jiajun Fan et.al.|[2510.18072](http://arxiv.org/abs/2510.18072)|null|
@@ -824,5 +824,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
