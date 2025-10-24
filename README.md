@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|
+|**2025-10-23**|**AlphaFlow: Understanding and Improving MeanFlow Models**|Huijie Zhang et.al.|[2510.20771](http://arxiv.org/abs/2510.20771)|null|
 |**2025-10-22**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-22**|**Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model**|Yu Fang et.al.|[2510.19356](http://arxiv.org/abs/2510.19356)|null|
 |**2025-10-21**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
