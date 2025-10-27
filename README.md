@@ -14,8 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
+|**2025-10-24**|**FlowSynth: Instrument Generation Through Distributional Flow Matching and Test-Time Search**|Qihui Yang et.al.|[2510.21667](http://arxiv.org/abs/2510.21667)|null|
+|**2025-10-24**|**Smule Renaissance Small: Efficient General-Purpose Vocal Restoration**|Yongyi Zang et.al.|[2510.21659](http://arxiv.org/abs/2510.21659)|null|
+|**2025-10-24**|**Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds**|Oscar Davis et.al.|[2510.21608](http://arxiv.org/abs/2510.21608)|null|
+|**2025-10-24**|**Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation**|Yifu Luo et.al.|[2510.21583](http://arxiv.org/abs/2510.21583)|null|
+|**2025-10-24**|**On the flow matching interpretability**|Francesco Pivi et.al.|[2510.21210](http://arxiv.org/abs/2510.21210)|null|
+|**2025-10-24**|**Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation**|Dogyun Park et.al.|[2510.21167](http://arxiv.org/abs/2510.21167)|null|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|
 |**2025-10-23**|**AlphaFlow: Understanding and Improving MeanFlow Models**|Huijie Zhang et.al.|[2510.20771](http://arxiv.org/abs/2510.20771)|null|
+|**2025-10-23**|**Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation**|Xiaoxin Ye et.al.|[2510.21021](http://arxiv.org/abs/2510.21021)|null|
+|**2025-10-23**|**Generative Point Tracking with Flow Matching**|Mattie Tesfaldet et.al.|[2510.20951](http://arxiv.org/abs/2510.20951)|null|
 |**2025-10-22**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-22**|**Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model**|Yu Fang et.al.|[2510.19356](http://arxiv.org/abs/2510.19356)|null|
 |**2025-10-21**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
