@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
+|**2025-10-27**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
+|**2025-10-27**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
+|**2025-10-26**|**FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning**|Shan Zhong et.al.|[2510.22686](http://arxiv.org/abs/2510.22686)|null|
+|**2025-10-25**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
+|**2025-10-25**|**GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping**|Jing Wang et.al.|[2510.22319](http://arxiv.org/abs/2510.22319)|null|
+|**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
 |**2025-10-24**|**FlowSynth: Instrument Generation Through Distributional Flow Matching and Test-Time Search**|Qihui Yang et.al.|[2510.21667](http://arxiv.org/abs/2510.21667)|null|
 |**2025-10-24**|**Smule Renaissance Small: Efficient General-Purpose Vocal Restoration**|Yongyi Zang et.al.|[2510.21659](http://arxiv.org/abs/2510.21659)|null|
@@ -21,10 +28,12 @@
 |**2025-10-24**|**Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation**|Yifu Luo et.al.|[2510.21583](http://arxiv.org/abs/2510.21583)|null|
 |**2025-10-24**|**On the flow matching interpretability**|Francesco Pivi et.al.|[2510.21210](http://arxiv.org/abs/2510.21210)|null|
 |**2025-10-24**|**Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation**|Dogyun Park et.al.|[2510.21167](http://arxiv.org/abs/2510.21167)|null|
+|**2025-10-24**|**FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing**|Or Ronai et.al.|[2510.22010](http://arxiv.org/abs/2510.22010)|null|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|
 |**2025-10-23**|**AlphaFlow: Understanding and Improving MeanFlow Models**|Huijie Zhang et.al.|[2510.20771](http://arxiv.org/abs/2510.20771)|null|
 |**2025-10-23**|**Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation**|Xiaoxin Ye et.al.|[2510.21021](http://arxiv.org/abs/2510.21021)|null|
 |**2025-10-23**|**Generative Point Tracking with Flow Matching**|Mattie Tesfaldet et.al.|[2510.20951](http://arxiv.org/abs/2510.20951)|null|
+|**2025-10-23**|**GuitarFlow: Realistic Electric Guitar Synthesis From Tablatures via Flow Matching and Style Transfer**|Jackson Loth et.al.|[2510.21872](http://arxiv.org/abs/2510.21872)|null|
 |**2025-10-22**|**LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching**|Zhuo Cao et.al.|[2510.14623](http://arxiv.org/abs/2510.14623)|null|
 |**2025-10-22**|**Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model**|Yu Fang et.al.|[2510.19356](http://arxiv.org/abs/2510.19356)|null|
 |**2025-10-21**|**Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking**|Daria Frolova et.al.|[2510.14586](http://arxiv.org/abs/2510.14586)|null|
