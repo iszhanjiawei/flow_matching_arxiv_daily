@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[2510.24631](http://arxiv.org/abs/2510.24631)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
 |**2025-10-27**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
 |**2025-10-27**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
+|**2025-10-27**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-10-26**|**FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning**|Shan Zhong et.al.|[2510.22686](http://arxiv.org/abs/2510.22686)|null|
 |**2025-10-25**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
 |**2025-10-25**|**GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping**|Jing Wang et.al.|[2510.22319](http://arxiv.org/abs/2510.22319)|null|
