@@ -1,4 +1,4 @@
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
 |**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[2510.24631](http://arxiv.org/abs/2510.24631)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
 |**2025-10-27**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
 |**2025-10-27**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-27**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-10-26**|**FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning**|Shan Zhong et.al.|[2510.22686](http://arxiv.org/abs/2510.22686)|null|
-|**2025-10-25**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
 |**2025-10-25**|**GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping**|Jing Wang et.al.|[2510.22319](http://arxiv.org/abs/2510.22319)|null|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
@@ -847,5 +847,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
