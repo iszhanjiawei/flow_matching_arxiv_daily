@@ -16,7 +16,14 @@
 |---|---|---|---|---|
 |**2025-10-30**|**DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching**|Yuepeng Jiang et.al.|[2510.22950](http://arxiv.org/abs/2510.22950)|null|
 |**2025-10-30**|**GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping**|Jing Wang et.al.|[2510.22319](http://arxiv.org/abs/2510.22319)|null|
+|**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
+|**2025-10-30**|**Curly Flow Matching for Learning Non-gradient Field Dynamics**|Katarina Petrović et.al.|[2510.26645](http://arxiv.org/abs/2510.26645)|null|
+|**2025-10-30**|**ResMatching: Noise-Resilient Computational Super-Resolution via Guided Conditional Flow Matching**|Anirban Ray et.al.|[2510.26601](http://arxiv.org/abs/2510.26601)|null|
+|**2025-10-30**|**Efficient Generative AI Boosts Probabilistic Forecasting of Sudden Stratospheric Warmings**|Ningning Tao et.al.|[2510.26376](http://arxiv.org/abs/2510.26376)|null|
+|**2025-10-30**|**Beyond Imitation: Constraint-Aware Trajectory Generation with Flow Matching For End-to-End Autonomous Driving**|Lin Liu et.al.|[2510.26292](http://arxiv.org/abs/2510.26292)|null|
+|**2025-10-30**|**Structurally Valid Log Generation using FSM-GFlowNets**|Riya Samanta et.al.|[2510.26197](http://arxiv.org/abs/2510.26197)|null|
 |**2025-10-29**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
+|**2025-10-29**|**Generative Image Restoration and Super-Resolution using Physics-Informed Synthetic Data for Scanning Tunneling Microscopy**|Nikola L. Kolev et.al.|[2510.25921](http://arxiv.org/abs/2510.25921)|null|
 |**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[2510.24631](http://arxiv.org/abs/2510.24631)|null|
 |**2025-10-28**|**The Generation Phases of Flow Matching: a Denoising Perspective**|Anne Gagneux et.al.|[2510.24830](http://arxiv.org/abs/2510.24830)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
