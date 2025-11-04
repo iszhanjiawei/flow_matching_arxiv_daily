@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-03**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-10-31**|**Simplex-to-Euclidean Bijections for Categorical Flow Matching**|Bernardo Williams et.al.|[2510.27480](http://arxiv.org/abs/2510.27480)|null|
 |**2025-10-31**|**On the Equivalence of Optimal Transport Problem and Action Matching with Optimal Vector Fields**|Nikita Kornilov et.al.|[2510.27385](http://arxiv.org/abs/2510.27385)|null|
@@ -32,7 +33,6 @@
 |**2025-10-28**|**The Generation Phases of Flow Matching: a Denoising Perspective**|Anne Gagneux et.al.|[2510.24830](http://arxiv.org/abs/2510.24830)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
 |**2025-10-27**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
-|**2025-10-27**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-10-26**|**FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning**|Shan Zhong et.al.|[2510.22686](http://arxiv.org/abs/2510.22686)|null|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
