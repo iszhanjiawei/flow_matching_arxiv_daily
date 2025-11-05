@@ -14,8 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Le Chen et.al.|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
 |**2025-11-03**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
-|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-11-03**|**Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping**|Liudi Yang et.al.|[2511.01770](http://arxiv.org/abs/2511.01770)|null|
+|**2025-11-03**|**UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback**|Ropeway Liu et.al.|[2511.01678](http://arxiv.org/abs/2511.01678)|null|
+|**2025-11-03**|**SE(3)-PoseFlow: Estimating 6D Pose Distributions for Uncertainty-Aware Robotic Manipulation**|Yufeng Jin et.al.|[2511.01501](http://arxiv.org/abs/2511.01501)|null|
+|**2025-11-02**|**Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow**|Kristiyan Sakalyan et.al.|[2511.00977](http://arxiv.org/abs/2511.00977)|null|
 |**2025-10-31**|**Simplex-to-Euclidean Bijections for Categorical Flow Matching**|Bernardo Williams et.al.|[2510.27480](http://arxiv.org/abs/2510.27480)|null|
 |**2025-10-31**|**On the Equivalence of Optimal Transport Problem and Action Matching with Optimal Vector Fields**|Nikita Kornilov et.al.|[2510.27385](http://arxiv.org/abs/2510.27385)|null|
 |**2025-10-31**|**Learning Generalizable Visuomotor Policy through Dynamics-Alignment**|Dohyeok Lee et.al.|[2510.27114](http://arxiv.org/abs/2510.27114)|null|
@@ -29,6 +34,7 @@
 |**2025-10-30**|**Structurally Valid Log Generation using FSM-GFlowNets**|Riya Samanta et.al.|[2510.26197](http://arxiv.org/abs/2510.26197)|null|
 |**2025-10-29**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
 |**2025-10-29**|**Generative Image Restoration and Super-Resolution using Physics-Informed Synthetic Data for Scanning Tunneling Microscopy**|Nikola L. Kolev et.al.|[2510.25921](http://arxiv.org/abs/2510.25921)|null|
+|**2025-10-29**|**LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency**|Fangbing Liu et.al.|[2511.01894](http://arxiv.org/abs/2511.01894)|null|
 |**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[2510.24631](http://arxiv.org/abs/2510.24631)|null|
 |**2025-10-28**|**The Generation Phases of Flow Matching: a Denoising Perspective**|Anne Gagneux et.al.|[2510.24830](http://arxiv.org/abs/2510.24830)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
