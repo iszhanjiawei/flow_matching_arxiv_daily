@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**SyMuPe: Affective and Controllable Symbolic Music Performance**|Ilya Borovik et.al.|[2511.03425](http://arxiv.org/abs/2511.03425)|null|
 |**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Le Chen et.al.|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
+|**2025-11-04**|**Discrete Bayesian Sample Inference for Graph Generation**|Ole Petersen et.al.|[2511.03015](http://arxiv.org/abs/2511.03015)|null|
 |**2025-11-03**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-11-03**|**Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping**|Liudi Yang et.al.|[2511.01770](http://arxiv.org/abs/2511.01770)|null|
 |**2025-11-03**|**UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback**|Ropeway Liu et.al.|[2511.01678](http://arxiv.org/abs/2511.01678)|null|
