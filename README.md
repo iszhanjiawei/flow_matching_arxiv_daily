@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](http://arxiv.org/abs/2511.04641)|null|
+|**2025-11-06**|**Learning to Land Anywhere: Transferable Generative Models for Aircraft Trajectories**|Olav Finne Praesteng Larsen et.al.|[2511.04155](http://arxiv.org/abs/2511.04155)|null|
 |**2025-11-05**|**SyMuPe: Affective and Controllable Symbolic Music Performance**|Ilya Borovik et.al.|[2511.03425](http://arxiv.org/abs/2511.03425)|null|
 |**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Le Chen et.al.|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
