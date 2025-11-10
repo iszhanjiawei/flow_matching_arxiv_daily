@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**On Flow Matching KL Divergence**|Maojiang Su et.al.|[2511.05480](http://arxiv.org/abs/2511.05480)|null|
+|**2025-11-07**|**SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning**|Tzu-Yuan Huang et.al.|[2511.05355](http://arxiv.org/abs/2511.05355)|null|
+|**2025-11-07**|**Multi-agent Coordination via Flow Matching**|Dongsu Lee et.al.|[2511.05005](http://arxiv.org/abs/2511.05005)|null|
 |**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](http://arxiv.org/abs/2511.04641)|null|
 |**2025-11-06**|**Learning to Land Anywhere: Transferable Generative Models for Aircraft Trajectories**|Olav Finne Praesteng Larsen et.al.|[2511.04155](http://arxiv.org/abs/2511.04155)|null|
 |**2025-11-05**|**SyMuPe: Affective and Controllable Symbolic Music Performance**|Ilya Borovik et.al.|[2511.03425](http://arxiv.org/abs/2511.03425)|null|
