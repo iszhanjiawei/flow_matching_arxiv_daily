@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**BridgeVoC: Revitalizing Neural Vocoder from a Restoration Perspective**|Andong Li et.al.|[2511.07116](http://arxiv.org/abs/2511.07116)|null|
+|**2025-11-10**|**Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2511.06857](http://arxiv.org/abs/2511.06857)|null|
+|**2025-11-10**|**Controllable Flow Matching for Online Reinforcement Learning**|Bin Wang et.al.|[2511.06816](http://arxiv.org/abs/2511.06816)|null|
+|**2025-11-10**|**Image Restoration via Primal Dual Hybrid Gradient and Flow Generative Model**|Ji Li et.al.|[2511.06748](http://arxiv.org/abs/2511.06748)|null|
+|**2025-11-08**|**Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving**|Hossein Askari et.al.|[2511.06138](http://arxiv.org/abs/2511.06138)|null|
+|**2025-11-08**|**Neodragon: Mobile Video Generation using Diffusion Transformer**|Animesh Karnewar et.al.|[2511.06055](http://arxiv.org/abs/2511.06055)|null|
+|**2025-11-08**|**Physics-Informed Design of Input Convex Neural Networks for Consistency Optimal Transport Flow Matching**|Fanghui Song et.al.|[2511.06042](http://arxiv.org/abs/2511.06042)|null|
 |**2025-11-07**|**On Flow Matching KL Divergence**|Maojiang Su et.al.|[2511.05480](http://arxiv.org/abs/2511.05480)|null|
 |**2025-11-07**|**SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning**|Tzu-Yuan Huang et.al.|[2511.05355](http://arxiv.org/abs/2511.05355)|null|
 |**2025-11-07**|**Multi-agent Coordination via Flow Matching**|Dongsu Lee et.al.|[2511.05005](http://arxiv.org/abs/2511.05005)|null|
@@ -23,6 +30,7 @@
 |**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won et.al.|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-11-04**|**Dexterous Robotic Piano Playing at Scale**|Le Chen et.al.|[2511.02504](http://arxiv.org/abs/2511.02504)|null|
 |**2025-11-04**|**Discrete Bayesian Sample Inference for Graph Generation**|Ole Petersen et.al.|[2511.03015](http://arxiv.org/abs/2511.03015)|null|
+|**2025-11-04**|**Diversified Flow Matching with Translation Identifiability**|Sagar Shrestha et.al.|[2511.05558](http://arxiv.org/abs/2511.05558)|null|
 |**2025-11-03**|**RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features**|Forouzan Fallah et.al.|[2510.23816](http://arxiv.org/abs/2510.23816)|null|
 |**2025-11-03**|**Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping**|Liudi Yang et.al.|[2511.01770](http://arxiv.org/abs/2511.01770)|null|
 |**2025-11-03**|**UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback**|Ropeway Liu et.al.|[2511.01678](http://arxiv.org/abs/2511.01678)|null|
