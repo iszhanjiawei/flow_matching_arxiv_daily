@@ -1,4 +1,4 @@
-## Updated on 2025.11.11
+## Updated on 2025.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**On Flow Matching KL Divergence**|Maojiang Su et.al.|[2511.05480](http://arxiv.org/abs/2511.05480)|null|
 |**2025-11-10**|**BridgeVoC: Revitalizing Neural Vocoder from a Restoration Perspective**|Andong Li et.al.|[2511.07116](http://arxiv.org/abs/2511.07116)|null|
 |**2025-11-10**|**Ambiguity-aware Truncated Flow Matching for Ambiguous Medical Image Segmentation**|Fanding Li et.al.|[2511.06857](http://arxiv.org/abs/2511.06857)|null|
 |**2025-11-10**|**Controllable Flow Matching for Online Reinforcement Learning**|Bin Wang et.al.|[2511.06816](http://arxiv.org/abs/2511.06816)|null|
@@ -21,7 +22,6 @@
 |**2025-11-08**|**Latent Refinement via Flow Matching for Training-free Linear Inverse Problem Solving**|Hossein Askari et.al.|[2511.06138](http://arxiv.org/abs/2511.06138)|null|
 |**2025-11-08**|**Neodragon: Mobile Video Generation using Diffusion Transformer**|Animesh Karnewar et.al.|[2511.06055](http://arxiv.org/abs/2511.06055)|null|
 |**2025-11-08**|**Physics-Informed Design of Input Convex Neural Networks for Consistency Optimal Transport Flow Matching**|Fanghui Song et.al.|[2511.06042](http://arxiv.org/abs/2511.06042)|null|
-|**2025-11-07**|**On Flow Matching KL Divergence**|Maojiang Su et.al.|[2511.05480](http://arxiv.org/abs/2511.05480)|null|
 |**2025-11-07**|**SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning**|Tzu-Yuan Huang et.al.|[2511.05355](http://arxiv.org/abs/2511.05355)|null|
 |**2025-11-07**|**Multi-agent Coordination via Flow Matching**|Dongsu Lee et.al.|[2511.05005](http://arxiv.org/abs/2511.05005)|null|
 |**2025-11-06**|**Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems**|Hans Harder et.al.|[2511.04641](http://arxiv.org/abs/2511.04641)|null|
@@ -50,10 +50,10 @@
 |**2025-10-29**|**PromptReverb: Multimodal Room Impulse Response Generation Through Latent Rectified Flow Matching**|Ali Vosoughi et.al.|[2510.22439](http://arxiv.org/abs/2510.22439)|null|
 |**2025-10-29**|**Generative Image Restoration and Super-Resolution using Physics-Informed Synthetic Data for Scanning Tunneling Microscopy**|Nikola L. Kolev et.al.|[2510.25921](http://arxiv.org/abs/2510.25921)|null|
 |**2025-10-29**|**LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency**|Fangbing Liu et.al.|[2511.01894](http://arxiv.org/abs/2511.01894)|null|
+|**2025-10-28**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
 |**2025-10-28**|**Bridging Simulators with Conditional Optimal Transport**|Justine Zeghal et.al.|[2510.24631](http://arxiv.org/abs/2510.24631)|null|
 |**2025-10-28**|**The Generation Phases of Flow Matching: a Denoising Perspective**|Anne Gagneux et.al.|[2510.24830](http://arxiv.org/abs/2510.24830)|null|
 |**2025-10-27**|**Nested AutoRegressive Models**|Hongyu Wu et.al.|[2510.23028](http://arxiv.org/abs/2510.23028)|null|
-|**2025-10-27**|**Coupled Flow Matching**|Wenxi Cai et.al.|[2510.23015](http://arxiv.org/abs/2510.23015)|null|
 |**2025-10-26**|**FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning**|Shan Zhong et.al.|[2510.22686](http://arxiv.org/abs/2510.22686)|null|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
@@ -250,6 +250,7 @@
 |**2025-09-05**|**Crystal Structure Prediction with a Geometric Permutation-Invariant Loss Function**|Emmanuel Jehanno et.al.|[2509.00832](http://arxiv.org/abs/2509.00832)|null|
 |**2025-09-04**|**From Editor to Dense Geometry Estimator**|JiYuan Wang et.al.|[2509.04338](http://arxiv.org/abs/2509.04338)|null|
 |**2025-09-04**|**Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models**|Hongyin Zhang et.al.|[2509.04063](http://arxiv.org/abs/2509.04063)|null|
+|**2025-09-04**|**Nonadiabatic force matching for alchemical free-energy estimation**|Jorge L. Rosa-Raíces et.al.|[2508.14179](http://arxiv.org/abs/2508.14179)|null|
 |**2025-09-03**|**Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems**|Fleur Hendriks et.al.|[2509.03340](http://arxiv.org/abs/2509.03340)|null|
 |**2025-09-03**|**Energy-Weighted Flow Matching: Unlocking Continuous Normalizing Flows for Efficient and Scalable Boltzmann Sampling**|Niclas Dern et.al.|[2509.03726](http://arxiv.org/abs/2509.03726)|null|
 |**2025-09-02**|**Distribution estimation via Flow Matching with Lipschitz guarantees**|Lea Kunkel et.al.|[2509.02337](http://arxiv.org/abs/2509.02337)|null|
@@ -291,6 +292,7 @@
 |**2025-08-18**|**Efficient Constraint-Aware Flow Matching via Randomized Exploration**|Zhengyan Huan et.al.|[2508.13316](http://arxiv.org/abs/2508.13316)|null|
 |**2025-08-17**|**Quantum Flow Matching**|Zidong Cui et.al.|[2508.12413](http://arxiv.org/abs/2508.12413)|null|
 |**2025-08-15**|**It's not a FAD: first results in using Flows for unsupervised Anomaly Detection at 40 MHz at the Large Hadron Collider**|Francesco Vaselli et.al.|[2508.11594](http://arxiv.org/abs/2508.11594)|null|
+|**2025-08-12**|**Flow Matching Posterior Sampling: A Training-free Conditional Generation for Flow Matching**|Kaiyu Song et.al.|[2411.07625](http://arxiv.org/abs/2411.07625)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**PureSample: Neural Materials Learned by Sampling Microgeometry**|Zixuan Li et.al.|[2508.07240](http://arxiv.org/abs/2508.07240)|null|
 |**2025-08-12**|**Generation of Real-time Robotic Emotional Expressions Learning from Human Demonstration in Mixed Reality**|Chao Wang et.al.|[2508.08999](http://arxiv.org/abs/2508.08999)|null|
@@ -299,6 +301,7 @@
 |**2025-08-11**|**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution**|Zhiqiang Wu et.al.|[2508.08227](http://arxiv.org/abs/2508.08227)|null|
 |**2025-08-11**|**When and how can inexact generative models still sample from the data manifold?**|Nisha Chandramoorthy et.al.|[2508.07581](http://arxiv.org/abs/2508.07581)|null|
 |**2025-08-11**|**UniFlow: Unifying Speech Front-End Tasks via Continuous Generative Modeling**|Ziqian Wang et.al.|[2508.07558](http://arxiv.org/abs/2508.07558)|null|
+|**2025-08-11**|**Improved DDIM Sampling with Moment Matching Gaussian Mixtures**|Prasad Gabbur et.al.|[2311.04938](http://arxiv.org/abs/2311.04938)|null|
 |**2025-08-09**|**Towards High-Order Mean Flow Generative Models: Feasibility, Expressivity, and Provably Efficient Criteria**|Yang Cao et.al.|[2508.07102](http://arxiv.org/abs/2508.07102)|null|
 |**2025-08-09**|**FlowSE: Flow Matching-based Speech Enhancement**|Seonggyu Lee et.al.|[2508.06840](http://arxiv.org/abs/2508.06840)|null|
 |**2025-08-09**|**CFM-GP: Unified Conditional Flow Matching to Learn Gene Perturbation Across Cell Types**|Abrar Rahman Abir et.al.|[2508.08312](http://arxiv.org/abs/2508.08312)|null|
@@ -346,13 +349,13 @@
 |**2025-07-22**|**SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling**|Yi Guo et.al.|[2507.16884](http://arxiv.org/abs/2507.16884)|null|
 |**2025-07-22**|**LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text to Image Generation**|Jyun-Ze Tang et.al.|[2507.16154](http://arxiv.org/abs/2507.16154)|null|
 |**2025-07-22**|**Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching**|Haiyang Liu et.al.|[2507.18649](http://arxiv.org/abs/2507.18649)|null|
+|**2025-07-21**|**Source Separation by Flow Matching**|Robin Scheibler et.al.|[2505.16119](http://arxiv.org/abs/2505.16119)|null|
 |**2025-07-20**|**Reinforcement Learning for Flow-Matching Policies**|Samuel Pfrommer et.al.|[2507.15073](http://arxiv.org/abs/2507.15073)|null|
 |**2025-07-20**|**Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis**|Bo Liang et.al.|[2507.11192](http://arxiv.org/abs/2507.11192)|null|
 |**2025-07-20**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
 |**2025-07-20**|**FlexiClip: Locality-Preserving Free-Form Character Animation**|Anant Khandelwal et.al.|[2501.08676](http://arxiv.org/abs/2501.08676)|null|
 |**2025-07-19**|**Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation**|Andrea Moschetto et.al.|[2507.14575](http://arxiv.org/abs/2507.14575)|null|
 |**2025-07-19**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
-|**2025-07-18**|**Source Separation by Flow Matching**|Robin Scheibler et.al.|[2505.16119](http://arxiv.org/abs/2505.16119)|null|
 |**2025-07-17**|**Hierarchical Rectified Flow Matching with Mini-Batch Couplings**|Yichi Zhang et.al.|[2507.13350](http://arxiv.org/abs/2507.13350)|null|
 |**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[2507.13162](http://arxiv.org/abs/2507.13162)|null|
@@ -371,7 +374,6 @@
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-14**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
 |**2025-07-14**|**DNF-Intrinsic: Deterministic Noise-Free Diffusion for Indoor Inverse Rendering**|Rongjia Zheng et.al.|[2507.03924](http://arxiv.org/abs/2507.03924)|null|
-|**2025-07-14**|**Unraveling the Connections between Flow Matching and Diffusion Probabilistic Models in Training-free Conditional Generation**|Kaiyu Song et.al.|[2411.07625](http://arxiv.org/abs/2411.07625)|null|
 |**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
 |**2025-07-13**|**La-Proteina: Atomistic Protein Generation via Partially Latent Flow Matching**|Tomas Geffner et.al.|[2507.09466](http://arxiv.org/abs/2507.09466)|null|
 |**2025-07-13**|**Challenges and Guidelines in Deep Generative Protein Design: Four Case Studies**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
@@ -457,17 +459,17 @@
 |**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
 |**2025-06-10**|**Flow Matching Meets PDEs: A Unified Framework for Physics-Constrained Generation**|Giacomo Baldan et.al.|[2506.08604](http://arxiv.org/abs/2506.08604)|null|
 |**2025-06-10**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|null|
+|**2025-06-10**|**LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer**|Ying Shen et.al.|[2506.06952](http://arxiv.org/abs/2506.06952)|null|
 |**2025-06-10**|**Spatial Reasoning with Denoising Models**|Christopher Wewer et.al.|[2502.21075](http://arxiv.org/abs/2502.21075)|null|
 |**2025-06-09**|**FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling**|Sifan Wang et.al.|[2506.07902](http://arxiv.org/abs/2506.07902)|null|
 |**2025-06-08**|**Audio synthesizer inversion in symmetric parameter spaces with approximately equivariant flow matching**|Ben Hayes et.al.|[2506.07199](http://arxiv.org/abs/2506.07199)|null|
 |**2025-06-08**|**GGBall: Graph Generative Model on Poincaré Ball**|Tianci Bu et.al.|[2506.07198](http://arxiv.org/abs/2506.07198)|null|
-|**2025-06-08**|**LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer**|Ying Shen et.al.|[2506.06952](http://arxiv.org/abs/2506.06952)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
 |**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
 |**2025-06-06**|**Exponential Family Variational Flow Matching for Tabular Data Generation**|Andrés Guzmán-Cordero et.al.|[2506.05940](http://arxiv.org/abs/2506.05940)|null|
 |**2025-06-06**|**FlowOE: Imitation Learning with Flow Policy from Ensemble RL Experts for Optimal Execution under Heston Volatility and Concave Market Impacts**|Yang Li et.al.|[2506.05755](http://arxiv.org/abs/2506.05755)|null|
+|**2025-06-06**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
 |**2025-06-06**|**Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation**|Mu Yang et.al.|[2411.05141](http://arxiv.org/abs/2411.05141)|null|
-|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
 |**2025-06-05**|**Aligning Latent Spaces with Flow Priors**|Yizhuo Li et.al.|[2506.05240](http://arxiv.org/abs/2506.05240)|null|
 |**2025-06-04**|**RETRO SYNFLOW: Discrete Flow Matching for Accurate and Diverse Single-Step Retrosynthesis**|Robin Yadav et.al.|[2506.04439](http://arxiv.org/abs/2506.04439)|null|
 |**2025-06-04**|**Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.04171](http://arxiv.org/abs/2506.04171)|null|
@@ -518,13 +520,13 @@
 |**2025-05-27**|**FlowSE: Efficient and High-Quality Speech Enhancement via Flow Matching**|Ziqian Wang et.al.|[2505.19476](http://arxiv.org/abs/2505.19476)|null|
 |**2025-05-27**|**CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training**|Zhihao Du et.al.|[2505.17589](http://arxiv.org/abs/2505.17589)|null|
 |**2025-05-27**|**Pairwise Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model**|Kotaro Ikeda et.al.|[2504.03188](http://arxiv.org/abs/2504.03188)|null|
+|**2025-05-27**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
 |**2025-05-27**|**Implicit Dynamical Flow Fusion (IDFF) for Generative Modeling**|Mohammad R. Rezaei et.al.|[2409.14599](http://arxiv.org/abs/2409.14599)|null|
 |**2025-05-26**|**Gradient Flow Matching for Learning Update Dynamics in Neural Network Training**|Xiao Shou et.al.|[2505.20221](http://arxiv.org/abs/2505.20221)|null|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972](http://arxiv.org/abs/2505.19972)|null|
 |**2025-05-26**|**Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning**|Quentin Rouxel et.al.|[2505.19717](http://arxiv.org/abs/2505.19717)|null|
 |**2025-05-26**|**On the Relation between Rectified Flows and Optimal Transport**|Johannes Hertrich et.al.|[2505.19712](http://arxiv.org/abs/2505.19712)|null|
 |**2025-05-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
-|**2025-05-26**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
 |**2025-05-26**|**VersatileMotion: A Unified Framework for Motion Synthesis and Comprehension**|Zeyu Ling et.al.|[2411.17335](http://arxiv.org/abs/2411.17335)|null|
 |**2025-05-25**|**Scalable Generation of Spatial Transcriptomics from Histology Images via Whole-Slide Flow Matching**|Tinglin Huang et.al.|[2506.05361](http://arxiv.org/abs/2506.05361)|null|
 |**2025-05-25**|**Flow Q-Learning**|Seohong Park et.al.|[2502.02538](http://arxiv.org/abs/2502.02538)|null|
@@ -587,13 +589,13 @@
 |**2025-05-01**|**Generative Predictive Control: Flow Matching Policies for Dynamic and Difficult-to-Demonstrate Tasks**|Vince Kurtz et.al.|[2502.13406](http://arxiv.org/abs/2502.13406)|null|
 |**2025-04-29**|**ADiff4TPP: Asynchronous Diffusion Models for Temporal Point Processes**|Amartya Mukherjee et.al.|[2504.20411](http://arxiv.org/abs/2504.20411)|null|
 |**2025-04-28**|**A comparison of generative deep learning methods for multivariate angular simulation**|Jakob Benjamin Wessel et.al.|[2504.21505](http://arxiv.org/abs/2504.21505)|null|
+|**2025-04-28**|**Flow Matching Ergodic Coverage**|Max Muchen Sun et.al.|[2504.17872](http://arxiv.org/abs/2504.17872)|null|
 |**2025-04-27**|**Flow Along the K-Amplitude for Generative Modeling**|Weitao Du et.al.|[2504.19353](http://arxiv.org/abs/2504.19353)|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471](http://arxiv.org/abs/2504.18471)|null|
 |**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425](http://arxiv.org/abs/2504.18425)|null|
 |**2025-04-25**|**Generating ensembles of spatially-coherent in-situ forecasts using flow matching**|David Landry et.al.|[2504.03463](http://arxiv.org/abs/2504.03463)|null|
 |**2025-04-25**|**FlowMotion: Target-Predictive Conditional Flow Matching for Jitter-Reduced Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
 |**2025-04-25**|**EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**|Gaoxiang Cong et.al.|[2412.08988](http://arxiv.org/abs/2412.08988)|null|
-|**2025-04-24**|**Flow Matching Ergodic Coverage**|Max Muchen Sun et.al.|[2504.17872](http://arxiv.org/abs/2504.17872)|null|
 |**2025-04-24**|**Text-to-Image Alignment in Denoising-Based Models through Step Selection**|Paul Grimal et.al.|[2504.17525](http://arxiv.org/abs/2504.17525)|null|
 |**2025-04-22**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-21**|**TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching**|Wenxiang Guo et.al.|[2502.12572](http://arxiv.org/abs/2502.12572)|null|
@@ -716,7 +718,7 @@
 |**2025-02-17**|**Inverse Flow and Consistency Models**|Yuchen Zhang et.al.|[2502.11333](http://arxiv.org/abs/2502.11333)|null|
 |**2025-02-17**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365](http://arxiv.org/abs/2502.10365)|null|
 |**2025-02-16**|**FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching**|Hui Wang et.al.|[2502.11128](http://arxiv.org/abs/2502.11128)|null|
-|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
+|**2025-02-14**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
 |**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
 |**2025-02-13**|**Domain Overlapping Algorithm with Nonlinear Mapping for Collocation-Based Solutions of Eigenvalue Problems**|Jinwei Yang et.al.|[2502.09398](http://arxiv.org/abs/2502.09398)|null|
 |**2025-02-12**|**Force Matching with Relativistic Constraints: A Physics-Inspired Approach to Stable and Efficient Generative Modeling**|Yang Cao et.al.|[2502.08150](http://arxiv.org/abs/2502.08150)|null|
@@ -773,8 +775,8 @@
 |**2024-12-24**|**Flow Matching for Optimal Reaction Coordinates of Biomolecular System**|Mingyuan Zhang et.al.|[2408.17139](http://arxiv.org/abs/2408.17139)|null|
 |**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205](http://arxiv.org/abs/2412.15205)|null|
 |**2024-12-19**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
+|**2024-12-18**|**Exploring Diffusion and Flow Matching Under Generator Matching**|Zeeshan Patel et.al.|[2412.11024](http://arxiv.org/abs/2412.11024)|null|
 |**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|null|
-|**2024-12-17**|**Exploring Diffusion and Flow Matching Under Generator Matching**|Zeeshan Patel et.al.|[2412.11024](http://arxiv.org/abs/2412.11024)|null|
 |**2024-12-15**|**EquiFlow: Equivariant Conditional Flow Matching with Optimal Transport for 3D Molecular Conformation Prediction**|Qingwen Tian et.al.|[2412.11082](http://arxiv.org/abs/2412.11082)|null|
 |**2024-12-15**|**FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation**|Qinglun Zhang et.al.|[2412.04987](http://arxiv.org/abs/2412.04987)|null|
 |**2024-12-12**|**YingSound: Video-Guided Sound Effects Generation with Multi-modal Chain-of-Thought Controls**|Zihao Chen et.al.|[2412.09168](http://arxiv.org/abs/2412.09168)|null|
@@ -795,8 +797,8 @@
 |**2024-11-13**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/abs/2411.05676)|null|
 |**2024-11-07**|**Generating Highly Designable Proteins with Geometric Algebra Flow Matching**|Simon Wagner et.al.|[2411.05238](http://arxiv.org/abs/2411.05238)|null|
+|**2024-11-06**|**Discrete Flow Matching**|Itai Gat et.al.|[2407.15595](http://arxiv.org/abs/2407.15595)|null|
 |**2024-11-05**|**Unleashing the power of novel conditional generative approaches for new materials discovery**|Lev Novitskiy et.al.|[2411.03156](http://arxiv.org/abs/2411.03156)|null|
-|**2024-11-05**|**Discrete Flow Matching**|Itai Gat et.al.|[2407.15595](http://arxiv.org/abs/2407.15595)|null|
 |**2024-11-04**|**CTEFM-VC: Zero-Shot Voice Conversion Based on Content-Aware Timbre Ensemble Modeling and Flow Matching**|Yu Pan et.al.|[2411.02026](http://arxiv.org/abs/2411.02026)|null|
 |**2024-11-04**|**Metric Flow Matching for Smooth Interpolations on the Data Manifold**|Kacper Kapuśniak et.al.|[2405.14780](http://arxiv.org/abs/2405.14780)|null|
 |**2024-11-01**|**Fast Samplers for Inverse Problems in Iterative Refinement Models**|Kushagra Pandey et.al.|[2405.17673](http://arxiv.org/abs/2405.17673)|null|
@@ -855,6 +857,7 @@
 |**2024-08-15**|**Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization**|Sang-Hoon Lee et.al.|[2408.08019](http://arxiv.org/abs/2408.08019)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|null|
 |**2024-08-13**|**Multi-Agent Continuous Control with Generative Flow Networks**|Shuang Luo et.al.|[2408.06920](http://arxiv.org/abs/2408.06920)|null|
+|**2024-07-22**|**Improved motif-scaffolding with SE(3) flow matching**|Jason Yim et.al.|[2401.04082](http://arxiv.org/abs/2401.04082)|null|
 |**2024-07-09**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
 |**2024-07-08**|**Improving AlphaFlow for Efficient Protein Ensembles Generation**|Shaoning Li et.al.|[2407.12053](http://arxiv.org/abs/2407.12053)|null|
 |**2024-07-02**|**Consistency Flow Matching: Defining Straight Flows with Velocity Consistency**|Ling Yang et.al.|[2407.02398](http://arxiv.org/abs/2407.02398)|null|
@@ -874,11 +877,16 @@
 |**2024-06-06**|**Total-Duration-Aware Duration Modeling for Text-to-Speech Systems**|Sefik Emre Eskimez et.al.|[2406.04281](http://arxiv.org/abs/2406.04281)|null|
 |**2024-06-06**|**Simulation-based Inference for Gravitational-waves from Intermediate-Mass Binary Black Holes in Real Noise**|Vivien Raymond et.al.|[2406.03935](http://arxiv.org/abs/2406.03935)|null|
 |**2024-06-02**|**Full-Atom Peptide Design based on Multi-modal Flow Matching**|Jiahan Li et.al.|[2406.00735](http://arxiv.org/abs/2406.00735)|null|
-|**2024-05-26**|**Reflected Flow Matching**|Tianyu Xie et.al.|[2405.16577](http://arxiv.org/abs/2405.16577)|null|
+|**2024-05-28**|**Reflected Flow Matching**|Tianyu Xie et.al.|[2405.16577](http://arxiv.org/abs/2405.16577)|null|
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
 |**2024-05-23**|**From Fourier to Neural ODEs: Flow Matching for Modeling Complex Systems**|Xin Li et.al.|[2405.11542](http://arxiv.org/abs/2405.11542)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
+|**2024-03-12**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|null|
+|**2024-03-12**|**Improving and generalizing flow-based generative models with minibatch optimal transport**|Alexander Tong et.al.|[2302.00482](http://arxiv.org/abs/2302.00482)|null|
+|**2023-11-27**|**Equivariant flow matching**|Leon Klein et.al.|[2306.15030](http://arxiv.org/abs/2306.15030)|null|
+|**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
+|**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
