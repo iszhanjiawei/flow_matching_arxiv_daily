@@ -14,12 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Laminar boundary layers over small-scale textured surfaces**|Samuel D. Tomlinson et.al.|[2511.11471](http://arxiv.org/abs/2511.11471)|null|
+|**2025-11-17**|**Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs**|Jitesh Chavan et.al.|[2511.11243](http://arxiv.org/abs/2511.11243)|null|
+|**2025-11-17**|**FUSE: A Flow-based Mapping Between Shapes**|Lorenzo Olearo et.al.|[2511.13431](http://arxiv.org/abs/2511.13431)|null|
+|**2025-11-17**|**GenTract: Generative Global Tractography**|Alec Sargood et.al.|[2511.13183](http://arxiv.org/abs/2511.13183)|null|
+|**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|
+|**2025-11-17**|**MeanFlow Transformers with Representation Autoencoders**|Zheyuan Hu et.al.|[2511.13019](http://arxiv.org/abs/2511.13019)|null|
+|**2025-11-17**|**Functional Mean Flow in Hilbert Space**|Zhiqi Li et.al.|[2511.12898](http://arxiv.org/abs/2511.12898)|null|
+|**2025-11-16**|**From Images to Physics: Probabilistic Inference of Galaxy Parameters and Emission Lines via VAE & Normalizing Flows**|Adiba Amira Siddiqa et.al.|[2511.12737](http://arxiv.org/abs/2511.12737)|null|
+|**2025-11-16**|**Dynamical Tidal Response of Non-rotating Black Holes: Connecting the MST Formalism and Worldline EFT**|Hajime Kobayashi et.al.|[2511.12580](http://arxiv.org/abs/2511.12580)|null|
+|**2025-11-16**|**MFI-ResNet: Efficient ResNet Architecture Optimization via MeanFlow Compression and Selective Incubation**|Nuolin Sun et.al.|[2511.12422](http://arxiv.org/abs/2511.12422)|null|
 |**2025-11-14**|**Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL**|Qifeng Cai et.al.|[2511.10192](http://arxiv.org/abs/2511.10192)|null|
 |**2025-11-14**|**Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference**|Max M. Sun et.al.|[2511.11514](http://arxiv.org/abs/2511.11514)|null|
-|**2025-11-14**|**Laminar boundary layers over small-scale textured surfaces**|Samuel D. Tomlinson et.al.|[2511.11471](http://arxiv.org/abs/2511.11471)|null|
 |**2025-11-14**|**Vortex breakdown and its topologies in turbulent flows within a typical swirl combustor geometry**|Nitesh Kumar Sahu et.al.|[2511.11420](http://arxiv.org/abs/2511.11420)|null|
 |**2025-11-14**|**Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching**|Dara Varam et.al.|[2511.11418](http://arxiv.org/abs/2511.11418)|null|
-|**2025-11-14**|**Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs**|Jitesh Chavan et.al.|[2511.11243](http://arxiv.org/abs/2511.11243)|null|
 |**2025-11-14**|**Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing**|Cong Cao et.al.|[2511.11236](http://arxiv.org/abs/2511.11236)|null|
 |**2025-11-14**|**Flow matching-based generative models for MIMO channel estimation**|Wenkai Liu et.al.|[2511.10941](http://arxiv.org/abs/2511.10941)|null|
 |**2025-11-14**|**Collaborative Multi-Robot Non-Prehensile Manipulation via Flow-Matching Co-Generation**|Yorai Shaoul et.al.|[2511.10874](http://arxiv.org/abs/2511.10874)|null|
@@ -27,6 +35,7 @@
 |**2025-11-13**|**VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction**|Yuhao Wang et.al.|[2511.10232](http://arxiv.org/abs/2511.10232)|null|
 |**2025-11-13**|**Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**|Haoyu Li et.al.|[2511.09995](http://arxiv.org/abs/2511.09995)|null|
 |**2025-11-13**|**Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces**|Farhan Sheth et.al.|[2511.10793](http://arxiv.org/abs/2511.10793)|null|
+|**2025-11-13**|**Diffusion Models: A Mathematical Introduction**|Sepehr Maleki et.al.|[2511.11746](http://arxiv.org/abs/2511.11746)|null|
 |**2025-11-12**|**FlowCast: Advancing Precipitation Nowcasting with Conditional Flow Matching**|Bernardo Perrone Ribeiro et.al.|[2511.09731](http://arxiv.org/abs/2511.09731)|null|
 |**2025-11-12**|**Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions**|Hedwig Nora Nordlinder et.al.|[2511.09465](http://arxiv.org/abs/2511.09465)|null|
 |**2025-11-12**|**What We Don't C: Representations for scientific discovery beyond VAEs**|Brian Rogers et.al.|[2511.09433](http://arxiv.org/abs/2511.09433)|null|
