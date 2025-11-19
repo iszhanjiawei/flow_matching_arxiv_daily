@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**ApexGen: Simultaneous design of peptide binder sequence and structure for target proteins**|Xiaoqiong Xia et.al.|[2511.14663](http://arxiv.org/abs/2511.14663)|null|
+|**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659](http://arxiv.org/abs/2511.14659)|null|
+|**2025-11-18**|**3D-Guided Scalable Flow Matching for Generating Volumetric Tissue Spatial Transcriptomics from Serial Histology**|Mohammad Vali Sanian et.al.|[2511.14613](http://arxiv.org/abs/2511.14613)|null|
+|**2025-11-18**|**Full Atom Peptide Design via Riemannian Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
+|**2025-11-18**|**Towards Stable and Structured Time Series Generation with Perturbation-Aware Flow Matching**|Jintao Zhang et.al.|[2511.14488](http://arxiv.org/abs/2511.14488)|null|
+|**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
+|**2025-11-18**|**On the impact of the supernova subsamples in reducing the Hubble tension**|Gonçalo Martins et.al.|[2511.14332](http://arxiv.org/abs/2511.14332)|null|
+|**2025-11-18**|**AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models**|Yuhua Jiang et.al.|[2511.14148](http://arxiv.org/abs/2511.14148)|null|
 |**2025-11-17**|**Laminar boundary layers over small-scale textured surfaces**|Samuel D. Tomlinson et.al.|[2511.11471](http://arxiv.org/abs/2511.11471)|null|
 |**2025-11-17**|**Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs**|Jitesh Chavan et.al.|[2511.11243](http://arxiv.org/abs/2511.11243)|null|
 |**2025-11-17**|**FUSE: A Flow-based Mapping Between Shapes**|Lorenzo Olearo et.al.|[2511.13431](http://arxiv.org/abs/2511.13431)|null|
@@ -21,9 +29,12 @@
 |**2025-11-17**|**SOMA: Feature Gradient Enhanced Affine-Flow Matching for SAR-Optical Registration**|Haodong Wang et.al.|[2511.13168](http://arxiv.org/abs/2511.13168)|null|
 |**2025-11-17**|**MeanFlow Transformers with Representation Autoencoders**|Zheyuan Hu et.al.|[2511.13019](http://arxiv.org/abs/2511.13019)|null|
 |**2025-11-17**|**Functional Mean Flow in Hilbert Space**|Zhiqi Li et.al.|[2511.12898](http://arxiv.org/abs/2511.12898)|null|
+|**2025-11-17**|**Dynamical behavior of compound vesicles in wall-bounded shear flow**|A. Lamura et.al.|[2511.13923](http://arxiv.org/abs/2511.13923)|null|
+|**2025-11-17**|**FusionFM: All-in-One Multi-Modal Image Fusion with Flow Matching**|Huayi Zhu et.al.|[2511.13794](http://arxiv.org/abs/2511.13794)|null|
 |**2025-11-16**|**From Images to Physics: Probabilistic Inference of Galaxy Parameters and Emission Lines via VAE & Normalizing Flows**|Adiba Amira Siddiqa et.al.|[2511.12737](http://arxiv.org/abs/2511.12737)|null|
 |**2025-11-16**|**Dynamical Tidal Response of Non-rotating Black Holes: Connecting the MST Formalism and Worldline EFT**|Hajime Kobayashi et.al.|[2511.12580](http://arxiv.org/abs/2511.12580)|null|
 |**2025-11-16**|**MFI-ResNet: Efficient ResNet Architecture Optimization via MeanFlow Compression and Selective Incubation**|Nuolin Sun et.al.|[2511.12422](http://arxiv.org/abs/2511.12422)|null|
+|**2025-11-16**|**Modeling Fairness in Recruitment AI via Information Flow**|Mattias Brännström et.al.|[2511.13793](http://arxiv.org/abs/2511.13793)|null|
 |**2025-11-14**|**Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL**|Qifeng Cai et.al.|[2511.10192](http://arxiv.org/abs/2511.10192)|null|
 |**2025-11-14**|**Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference**|Max M. Sun et.al.|[2511.11514](http://arxiv.org/abs/2511.11514)|null|
 |**2025-11-14**|**Vortex breakdown and its topologies in turbulent flows within a typical swirl combustor geometry**|Nitesh Kumar Sahu et.al.|[2511.11420](http://arxiv.org/abs/2511.11420)|null|
