@@ -14,10 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Full-Atom Peptide Design via Riemannian-Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
+|**2025-11-19**|**In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data**|Xiongyi Cai et.al.|[2511.15704](http://arxiv.org/abs/2511.15704)|null|
+|**2025-11-19**|**What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs**|Zhihan Ren et.al.|[2511.15316](http://arxiv.org/abs/2511.15316)|null|
+|**2025-11-19**|**Thermalizing channel states for rapid qubit heating**|Ziyang You et.al.|[2511.15314](http://arxiv.org/abs/2511.15314)|null|
+|**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 |**2025-11-18**|**ApexGen: Simultaneous design of peptide binder sequence and structure for target proteins**|Xiaoqiong Xia et.al.|[2511.14663](http://arxiv.org/abs/2511.14663)|null|
 |**2025-11-18**|**NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards**|Chia-Yu Hung et.al.|[2511.14659](http://arxiv.org/abs/2511.14659)|null|
 |**2025-11-18**|**3D-Guided Scalable Flow Matching for Generating Volumetric Tissue Spatial Transcriptomics from Serial Histology**|Mohammad Vali Sanian et.al.|[2511.14613](http://arxiv.org/abs/2511.14613)|null|
-|**2025-11-18**|**Full Atom Peptide Design via Riemannian Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
 |**2025-11-18**|**Towards Stable and Structured Time Series Generation with Perturbation-Aware Flow Matching**|Jintao Zhang et.al.|[2511.14488](http://arxiv.org/abs/2511.14488)|null|
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**On the impact of the supernova subsamples in reducing the Hubble tension**|Gonçalo Martins et.al.|[2511.14332](http://arxiv.org/abs/2511.14332)|null|
@@ -31,6 +35,7 @@
 |**2025-11-17**|**Functional Mean Flow in Hilbert Space**|Zhiqi Li et.al.|[2511.12898](http://arxiv.org/abs/2511.12898)|null|
 |**2025-11-17**|**Dynamical behavior of compound vesicles in wall-bounded shear flow**|A. Lamura et.al.|[2511.13923](http://arxiv.org/abs/2511.13923)|null|
 |**2025-11-17**|**FusionFM: All-in-One Multi-Modal Image Fusion with Flow Matching**|Huayi Zhu et.al.|[2511.13794](http://arxiv.org/abs/2511.13794)|null|
+|**2025-11-17**|**Fully Differentiable dMRI Streamline Propagation in PyTorch**|Jongyeon Yoon et.al.|[2511.14807](http://arxiv.org/abs/2511.14807)|null|
 |**2025-11-16**|**From Images to Physics: Probabilistic Inference of Galaxy Parameters and Emission Lines via VAE & Normalizing Flows**|Adiba Amira Siddiqa et.al.|[2511.12737](http://arxiv.org/abs/2511.12737)|null|
 |**2025-11-16**|**Dynamical Tidal Response of Non-rotating Black Holes: Connecting the MST Formalism and Worldline EFT**|Hajime Kobayashi et.al.|[2511.12580](http://arxiv.org/abs/2511.12580)|null|
 |**2025-11-16**|**MFI-ResNet: Efficient ResNet Architecture Optimization via MeanFlow Compression and Selective Incubation**|Nuolin Sun et.al.|[2511.12422](http://arxiv.org/abs/2511.12422)|null|
