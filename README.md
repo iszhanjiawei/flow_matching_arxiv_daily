@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-21**|**FlexiFlow: decomposable flow matching for generation of flexible molecular ensemble**|Riccardo Tedoldi et.al.|[2511.17249](http://arxiv.org/abs/2511.17249)|null|
+|**2025-11-21**|**Generating transition states of chemical reactions via distance-geometry-based flow matching**|Yufei Luo et.al.|[2511.17229](http://arxiv.org/abs/2511.17229)|null|
+|**2025-11-21**|**Short-flow-time expansion of non-singlet twist-two operators at next-to-next-to-leading order QCD**|Robert V. Harlander et.al.|[2511.17145](http://arxiv.org/abs/2511.17145)|null|
+|**2025-11-21**|**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**|Dailan He et.al.|[2511.16955](http://arxiv.org/abs/2511.16955)|null|
 |**2025-11-20**|**Time dependent loss reweighting for flow matching and diffusion models is theoretically justified**|Lukas Billera et.al.|[2511.16599](http://arxiv.org/abs/2511.16599)|null|
 |**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](http://arxiv.org/abs/2511.16571)|null|
 |**2025-11-20**|**Saving Foundation Flow-Matching Priors for Inverse Problems**|Yuxiang Wan et.al.|[2511.16520](http://arxiv.org/abs/2511.16520)|null|
