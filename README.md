@@ -14,10 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|
+|**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|
+|**2025-11-24**|**SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control**|Yuxuan Wang et.al.|[2511.19236](http://arxiv.org/abs/2511.19236)|null|
+|**2025-11-24**|**EnfoPath: Energy-Informed Analysis of Generative Trajectories in Flow Matching**|Ziyun Li et.al.|[2511.19087](http://arxiv.org/abs/2511.19087)|null|
+|**2025-11-24**|**VeCoR - Velocity Contrastive Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2511.18942](http://arxiv.org/abs/2511.18942)|null|
+|**2025-11-24**|**FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories**|Lei Ke et.al.|[2511.18834](http://arxiv.org/abs/2511.18834)|null|
+|**2025-11-24**|**GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving**|Lin Liu et.al.|[2511.18729](http://arxiv.org/abs/2511.18729)|null|
+|**2025-11-23**|**MammothModa2: A Unified AR-Diffusion Framework for Multimodal Understanding and Generation**|Tao Shen et.al.|[2511.18262](http://arxiv.org/abs/2511.18262)|null|
+|**2025-11-22**|**Hybrid RANS-LES simulation of transverse fuel injection in a Mach-10 scramjet engine**|Nick Plewacki et.al.|[2511.18210](http://arxiv.org/abs/2511.18210)|null|
+|**2025-11-22**|**Early Lung Cancer Diagnosis from Virtual Follow-up LDCT Generation via Correlational Autoencoder and Latent Flow Matching**|Yutong Wu et.al.|[2511.18185](http://arxiv.org/abs/2511.18185)|null|
+|**2025-11-22**|**Video4Edit: Viewing Image Editing as a Degenerate Temporal Process**|Xiaofan Li et.al.|[2511.18131](http://arxiv.org/abs/2511.18131)|null|
+|**2025-11-22**|**L1 Sample Flow for Efficient Visuomotor Learning**|Weixi Song et.al.|[2511.17898](http://arxiv.org/abs/2511.17898)|null|
+|**2025-11-22**|**ArticFlow: Generative Simulation of Articulated Mechanisms**|Jiong Lin et.al.|[2511.17883](http://arxiv.org/abs/2511.17883)|null|
+|**2025-11-22**|**Modeling and Calibration of Supplier Selection Problem in Freight Agent-Based Simulations**|Abdelrahman Ismael et.al.|[2511.17875](http://arxiv.org/abs/2511.17875)|null|
 |**2025-11-21**|**FlexiFlow: decomposable flow matching for generation of flexible molecular ensemble**|Riccardo Tedoldi et.al.|[2511.17249](http://arxiv.org/abs/2511.17249)|null|
 |**2025-11-21**|**Generating transition states of chemical reactions via distance-geometry-based flow matching**|Yufei Luo et.al.|[2511.17229](http://arxiv.org/abs/2511.17229)|null|
 |**2025-11-21**|**Short-flow-time expansion of non-singlet twist-two operators at next-to-next-to-leading order QCD**|Robert V. Harlander et.al.|[2511.17145](http://arxiv.org/abs/2511.17145)|null|
 |**2025-11-21**|**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**|Dailan He et.al.|[2511.16955](http://arxiv.org/abs/2511.16955)|null|
+|**2025-11-21**|**Importance-Weighted Non-IID Sampling for Flow Matching Models**|Xinshuang Liu et.al.|[2511.17812](http://arxiv.org/abs/2511.17812)|null|
+|**2025-11-21**|**Periodicity-Enforced Neural Network for Designing Deterministic Lateral Displacement Devices**|Andrew Lee et.al.|[2511.17754](http://arxiv.org/abs/2511.17754)|null|
 |**2025-11-20**|**Time dependent loss reweighting for flow matching and diffusion models is theoretically justified**|Lukas Billera et.al.|[2511.16599](http://arxiv.org/abs/2511.16599)|null|
 |**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](http://arxiv.org/abs/2511.16571)|null|
 |**2025-11-20**|**Saving Foundation Flow-Matching Priors for Inverse Problems**|Yuxiang Wan et.al.|[2511.16520](http://arxiv.org/abs/2511.16520)|null|
