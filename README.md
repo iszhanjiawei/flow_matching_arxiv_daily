@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
+|**2025-11-26**|**Restora-Flow: Mask-Guided Image Restoration with Flow Matching**|Arnela Hadzic et.al.|[2511.20152](http://arxiv.org/abs/2511.20152)|null|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
+|**2025-11-26**|**E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework**|Adeela Islam et.al.|[2511.21422](http://arxiv.org/abs/2511.21422)|null|
+|**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
+|**2025-11-26**|**From Diffusion to One-Step Generation: A Comparative Study of Flow-Based Models with Application to Image Inpainting**|Umang Agarwal et.al.|[2511.21215](http://arxiv.org/abs/2511.21215)|null|
+|**2025-11-26**|**Deep Parameter Interpolation for Scalar Conditioning**|Chicago Y. Park et.al.|[2511.21028](http://arxiv.org/abs/2511.21028)|null|
 |**2025-11-25**|**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning**|Guanjie Chen et.al.|[2511.20549](http://arxiv.org/abs/2511.20549)|null|
-|**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
 |**2025-11-25**|**Rectified Flow for Vision-Aided mmWave V2I Beam Prediction**|Can Zheng et.al.|[2511.20265](http://arxiv.org/abs/2511.20265)|null|
-|**2025-11-25**|**Restora-Flow: Mask-Guided Image Restoration with Flow Matching**|Arnela Hadzic et.al.|[2511.20152](http://arxiv.org/abs/2511.20152)|null|
 |**2025-11-25**|**MFM-point: Multi-scale Flow Matching for Point Cloud Generation**|Petr Molodyk et.al.|[2511.20041](http://arxiv.org/abs/2511.20041)|null|
+|**2025-11-25**|**Bistability of interfacial long waves in two layer Couette flow**|Xingyu Wang et.al.|[2511.20880](http://arxiv.org/abs/2511.20880)|null|
+|**2025-11-25**|**A Research and Development Portfolio of GNN Centric Malware Detection, Explainability, and Dataset Curation**|Hossein Shokouhinejad et.al.|[2511.20801](http://arxiv.org/abs/2511.20801)|null|
+|**2025-11-25**|**From Observations to Simulations: A Neural-Network Approach to Intracluster Medium Kinematics**|E. Gatuzz et.al.|[2511.20755](http://arxiv.org/abs/2511.20755)|null|
 |**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|
 |**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|
 |**2025-11-24**|**SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control**|Yuxuan Wang et.al.|[2511.19236](http://arxiv.org/abs/2511.19236)|null|
