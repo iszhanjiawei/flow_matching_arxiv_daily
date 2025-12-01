@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Convergence rates of self-repellent random walks, their local time and Event Chain Monte Carlo**|Andreas Eberle et.al.|[2511.23453](http://arxiv.org/abs/2511.23453)|null|
+|**2025-11-28**|**Convergence rates of self-repelling diffusions on Riemannian manifolds**|Francis Lörler et.al.|[2511.23333](http://arxiv.org/abs/2511.23333)|null|
+|**2025-11-28**|**Chiral Particles in Taylor-Couette Turbulence**|Mees M. Flapper et.al.|[2511.23279](http://arxiv.org/abs/2511.23279)|null|
+|**2025-11-28**|**SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows**|Niklas Houba et.al.|[2511.23228](http://arxiv.org/abs/2511.23228)|null|
+|**2025-11-28**|**Geodiffussr: Generative Terrain Texturing with Elevation Fidelity**|Tai Inui et.al.|[2511.23029](http://arxiv.org/abs/2511.23029)|null|
+|**2025-11-27**|**Adversarial Flow Models**|Shanchuan Lin et.al.|[2511.22475](http://arxiv.org/abs/2511.22475)|null|
+|**2025-11-27**|**Gaussians on Fire: High-Frequency Reconstruction of Flames**|Jakob Nazarenus et.al.|[2511.22459](http://arxiv.org/abs/2511.22459)|null|
+|**2025-11-27**|**Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models**|Minghao Yin et.al.|[2511.22425](http://arxiv.org/abs/2511.22425)|null|
+|**2025-11-27**|**MATCH: Engineering Transparent and Controllable Conversational XAI Systems through Composable Building Blocks**|Sebe Vanbrabant et.al.|[2511.22420](http://arxiv.org/abs/2511.22420)|null|
+|**2025-11-27**|**A Bio-Inspired Whisker Sensor toward Underwater Flow Sensing in Darkness and Turbidity**|Zheyi Hang et.al.|[2511.22353](http://arxiv.org/abs/2511.22353)|null|
+|**2025-11-27**|**Toward Diffusible High-Dimensional Latent Spaces: A Frequency Perspective**|Bolin Lai et.al.|[2511.22249](http://arxiv.org/abs/2511.22249)|null|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|null|
+|**2025-11-27**|**StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation**|Sen Fang et.al.|[2511.22009](http://arxiv.org/abs/2511.22009)|null|
 |**2025-11-26**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
 |**2025-11-26**|**Restora-Flow: Mask-Guided Image Restoration with Flow Matching**|Arnela Hadzic et.al.|[2511.20152](http://arxiv.org/abs/2511.20152)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
@@ -21,6 +34,7 @@
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**From Diffusion to One-Step Generation: A Comparative Study of Flow-Based Models with Application to Image Inpainting**|Umang Agarwal et.al.|[2511.21215](http://arxiv.org/abs/2511.21215)|null|
 |**2025-11-26**|**Deep Parameter Interpolation for Scalar Conditioning**|Chicago Y. Park et.al.|[2511.21028](http://arxiv.org/abs/2511.21028)|null|
+|**2025-11-26**|**Saddle-Free Guidance: Improved On-Manifold Sampling without Labels or Additional Training**|Eric Yeats et.al.|[2511.21863](http://arxiv.org/abs/2511.21863)|null|
 |**2025-11-25**|**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning**|Guanjie Chen et.al.|[2511.20549](http://arxiv.org/abs/2511.20549)|null|
 |**2025-11-25**|**Rectified Flow for Vision-Aided mmWave V2I Beam Prediction**|Can Zheng et.al.|[2511.20265](http://arxiv.org/abs/2511.20265)|null|
 |**2025-11-25**|**MFM-point: Multi-scale Flow Matching for Point Cloud Generation**|Petr Molodyk et.al.|[2511.20041](http://arxiv.org/abs/2511.20041)|null|
