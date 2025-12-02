@@ -14,6 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|null|
+|**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850](http://arxiv.org/abs/2512.01850)|null|
+|**2025-12-01**|**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**|Chaoyi Pan et.al.|[2512.01809](http://arxiv.org/abs/2512.01809)|null|
+|**2025-12-01**|**DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models**|Wanpeng Zhang et.al.|[2512.01715](http://arxiv.org/abs/2512.01715)|null|
+|**2025-12-01**|**Mixing asymptotics for time-changes of horocycle flows**|Davide Ravotti et.al.|[2512.01488](http://arxiv.org/abs/2512.01488)|null|
+|**2025-12-01**|**Generative Modeling with Continuous Flows: Sample Complexity of Flow Matching**|Mudit Gaur et.al.|[2512.01286](http://arxiv.org/abs/2512.01286)|null|
+|**2025-12-01**|**High-dimensional Mean-Field Games by Particle-based Flow Matching**|Jiajia Yu et.al.|[2512.01172](http://arxiv.org/abs/2512.01172)|null|
+|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
+|**2025-11-30**|**Flow Matching for Tabular Data Synthesis**|Bahrul Ilmi Nasution et.al.|[2512.00698](http://arxiv.org/abs/2512.00698)|null|
+|**2025-11-29**|**RECTor: Robust and Efficient Correlation Attack on Tor**|Binghui Wu et.al.|[2512.00436](http://arxiv.org/abs/2512.00436)|null|
+|**2025-11-29**|**Recovering Origin Destination Flows from Bus CCTV: Early Results from Nairobi and Kigali**|Nthenya Kyatha et.al.|[2512.00424](http://arxiv.org/abs/2512.00424)|null|
+|**2025-11-29**|**PhysGen: Physically Grounded 3D Shape Generation for Industrial Design**|Yingxuan You et.al.|[2512.00422](http://arxiv.org/abs/2512.00422)|null|
 |**2025-11-28**|**Convergence rates of self-repellent random walks, their local time and Event Chain Monte Carlo**|Andreas Eberle et.al.|[2511.23453](http://arxiv.org/abs/2511.23453)|null|
 |**2025-11-28**|**Convergence rates of self-repelling diffusions on Riemannian manifolds**|Francis Lörler et.al.|[2511.23333](http://arxiv.org/abs/2511.23333)|null|
 |**2025-11-28**|**Chiral Particles in Taylor-Couette Turbulence**|Mees M. Flapper et.al.|[2511.23279](http://arxiv.org/abs/2511.23279)|null|
