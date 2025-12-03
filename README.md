@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
+|**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
+|**2025-12-02**|**From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity**|Haoming Liu et.al.|[2512.02826](http://arxiv.org/abs/2512.02826)|null|
+|**2025-12-02**|**GoRL: An Algorithm-Agnostic Framework for Online Reinforcement Learning with Generative Policies**|Chubin Zhang et.al.|[2512.02581](http://arxiv.org/abs/2512.02581)|null|
+|**2025-12-02**|**Integrated Sliding-Short/Probe Tuner with Doorknob Transition for High-Q Cavities**|Saptarshi Biswas et.al.|[2512.02415](http://arxiv.org/abs/2512.02415)|null|
+|**2025-12-02**|**Training Dynamics of Learning 3D-Rotational Equivariance**|Max W. Shen et.al.|[2512.02303](http://arxiv.org/abs/2512.02303)|null|
 |**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850](http://arxiv.org/abs/2512.01850)|null|
 |**2025-12-01**|**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**|Chaoyi Pan et.al.|[2512.01809](http://arxiv.org/abs/2512.01809)|null|
@@ -21,6 +27,7 @@
 |**2025-12-01**|**Mixing asymptotics for time-changes of horocycle flows**|Davide Ravotti et.al.|[2512.01488](http://arxiv.org/abs/2512.01488)|null|
 |**2025-12-01**|**Generative Modeling with Continuous Flows: Sample Complexity of Flow Matching**|Mudit Gaur et.al.|[2512.01286](http://arxiv.org/abs/2512.01286)|null|
 |**2025-12-01**|**High-dimensional Mean-Field Games by Particle-based Flow Matching**|Jiajia Yu et.al.|[2512.01172](http://arxiv.org/abs/2512.01172)|null|
+|**2025-12-01**|**Spatiotemporal Pyramid Flow Matching for Climate Emulation**|Jeremy Andrew Irvin et.al.|[2512.02268](http://arxiv.org/abs/2512.02268)|null|
 |**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|null|
 |**2025-11-30**|**Flow Matching for Tabular Data Synthesis**|Bahrul Ilmi Nasution et.al.|[2512.00698](http://arxiv.org/abs/2512.00698)|null|
 |**2025-11-29**|**RECTor: Robust and Efficient Correlation Attack on Tor**|Binghui Wu et.al.|[2512.00436](http://arxiv.org/abs/2512.00436)|null|
