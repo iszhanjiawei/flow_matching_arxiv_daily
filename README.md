@@ -14,12 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
+|**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](http://arxiv.org/abs/2512.03427)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
 |**2025-12-02**|**From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity**|Haoming Liu et.al.|[2512.02826](http://arxiv.org/abs/2512.02826)|null|
 |**2025-12-02**|**GoRL: An Algorithm-Agnostic Framework for Online Reinforcement Learning with Generative Policies**|Chubin Zhang et.al.|[2512.02581](http://arxiv.org/abs/2512.02581)|null|
 |**2025-12-02**|**Integrated Sliding-Short/Probe Tuner with Doorknob Transition for High-Q Cavities**|Saptarshi Biswas et.al.|[2512.02415](http://arxiv.org/abs/2512.02415)|null|
 |**2025-12-02**|**Training Dynamics of Learning 3D-Rotational Equivariance**|Max W. Shen et.al.|[2512.02303](http://arxiv.org/abs/2512.02303)|null|
+|**2025-12-02**|**Energy Reflection and Transmission of Interfaces in $T\bar{T}$ -deformed CFT**|Avik Banerjee et.al.|[2512.03167](http://arxiv.org/abs/2512.03167)|null|
 |**2025-12-01**|**EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI**|Jianlei Chang et.al.|[2512.02020](http://arxiv.org/abs/2512.02020)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850](http://arxiv.org/abs/2512.01850)|null|
 |**2025-12-01**|**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**|Chaoyi Pan et.al.|[2512.01809](http://arxiv.org/abs/2512.01809)|null|
