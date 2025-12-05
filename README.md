@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design**|Ian Dunn et.al.|[2512.05080](http://arxiv.org/abs/2512.05080)|null|
+|**2025-12-04**|**Improving Posterior Inference of Galaxy Properties with Image-Based Conditional Flow Matching**|Mikaeel Yunus et.al.|[2512.05078](http://arxiv.org/abs/2512.05078)|null|
+|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
+|**2025-12-04**|**Multipole decomposition of the gravitational field of a point mass at the black hole horizon**|João P. B. Brito et.al.|[2512.04976](http://arxiv.org/abs/2512.04976)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|**2025-12-04**|**Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows**|Rajneil Baruah et.al.|[2512.04954](http://arxiv.org/abs/2512.04954)|null|
+|**2025-12-04**|**ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching**|Guanbo Huang et.al.|[2512.04904](http://arxiv.org/abs/2512.04904)|null|
+|**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
+|**2025-12-04**|**LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation**|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|
+|**2025-12-04**|**YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases**|Gongyu Chen et.al.|[2512.04793](http://arxiv.org/abs/2512.04793)|null|
+|**2025-12-04**|**Towards an AI Fluid Scientist: LLM-Powered Scientific Discovery in Experimental Fluid Mechanics**|Haodong Feng et.al.|[2512.04716](http://arxiv.org/abs/2512.04716)|null|
+|**2025-12-04**|**Flux-controlled wall model for large eddy simulation integrating the compressible law of the wall**|Youjie Xu et.al.|[2512.04688](http://arxiv.org/abs/2512.04688)|null|
+|**2025-12-04**|**FX Market Making with Internal Liquidity**|Alexander Barzykin et.al.|[2512.04603](http://arxiv.org/abs/2512.04603)|null|
+|**2025-12-04**|**The dynamical memory of tidal stellar streams: Joint inference of the Galactic potential and the progenitor of GD-1 with flow matching**|Giuseppe Viterbo et.al.|[2512.04600](http://arxiv.org/abs/2512.04600)|null|
+|**2025-12-04**|**Completion by Comprehension: Guiding Code Generation with Multi-Granularity Understanding**|Xinkui Zhao et.al.|[2512.04538](http://arxiv.org/abs/2512.04538)|null|
+|**2025-12-04**|**UniTS: Unified Time Series Generative Model for Remote Sensing**|Yuxiang Zhang et.al.|[2512.04461](http://arxiv.org/abs/2512.04461)|null|
+|**2025-12-04**|**ELG $\times$ LRG distribution through dark matter halo dynamics**|Ginevra Favole et.al.|[2512.04362](http://arxiv.org/abs/2512.04362)|null|
+|**2025-12-04**|**MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching**|Ao Xu et.al.|[2512.04358](http://arxiv.org/abs/2512.04358)|null|
 |**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
 |**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](http://arxiv.org/abs/2512.03427)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
