@@ -34,6 +34,8 @@
 |**2025-12-04**|**UniTS: Unified Time Series Generative Model for Remote Sensing**|Yuxiang Zhang et.al.|[2512.04461](http://arxiv.org/abs/2512.04461)|null|
 |**2025-12-04**|**ELG $\times$ LRG distribution through dark matter halo dynamics**|Ginevra Favole et.al.|[2512.04362](http://arxiv.org/abs/2512.04362)|null|
 |**2025-12-04**|**MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching**|Ao Xu et.al.|[2512.04358](http://arxiv.org/abs/2512.04358)|null|
+|**2025-12-04**|**Uncertainty Quantification for Scientific Machine Learning using Sparse Variational Gaussian Process Kolmogorov-Arnold Networks (SVGP KAN)**|Y. Sungtaek Ju et.al.|[2512.05306](http://arxiv.org/abs/2512.05306)|null|
+|**2025-12-04**|**CFO: Learning Continuous-Time PDE Dynamics via Flow-Matched Neural Operators**|Xianglong Hou et.al.|[2512.05297](http://arxiv.org/abs/2512.05297)|null|
 |**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
 |**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](http://arxiv.org/abs/2512.03427)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
