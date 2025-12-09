@@ -1,4 +1,4 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -38,6 +38,8 @@
 |**2025-12-04**|**CFO: Learning Continuous-Time PDE Dynamics via Flow-Matched Neural Operators**|Xianglong Hou et.al.|[2512.05297](http://arxiv.org/abs/2512.05297)|null|
 |**2025-12-03**|**Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning**|Franki Nguimatsia Tiofack et.al.|[2512.03973](http://arxiv.org/abs/2512.03973)|null|
 |**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](http://arxiv.org/abs/2512.03427)|null|
+|**2025-12-03**|**Plug-and-Play Image Restoration with Flow Matching: A Continuous Viewpoint**|Fan Jia et.al.|[2512.04283](http://arxiv.org/abs/2512.04283)|null|
+|**2025-12-03**|**TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows**|Zhenglin Cheng et.al.|[2512.05150](http://arxiv.org/abs/2512.05150)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
 |**2025-12-02**|**From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity**|Haoming Liu et.al.|[2512.02826](http://arxiv.org/abs/2512.02826)|null|
@@ -1039,5 +1041,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
