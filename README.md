@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-07**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2512.06951](http://arxiv.org/abs/2512.06951)|null|
+|**2025-12-05**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
-|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design**|Ian Dunn et.al.|[2512.05080](http://arxiv.org/abs/2512.05080)|null|
 |**2025-12-04**|**Improving Posterior Inference of Galaxy Properties with Image-Based Conditional Flow Matching**|Mikaeel Yunus et.al.|[2512.05078](http://arxiv.org/abs/2512.05078)|null|
 |**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
