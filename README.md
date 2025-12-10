@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
+|**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
+|**2025-12-09**|**Dflow-SUR: Enhancing Generative Aerodynamic Inverse Design using Differentiation Throughout Flow Matching**|Aobo Yang et.al.|[2512.08336](http://arxiv.org/abs/2512.08336)|null|
 |**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-07**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2512.06951](http://arxiv.org/abs/2512.06951)|null|
 |**2025-12-05**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
