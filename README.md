@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
+|**2025-12-11**|**Investigating training objective for flow matching-based speech enhancement**|Liusha Yang et.al.|[2512.10382](http://arxiv.org/abs/2512.10382)|null|
+|**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 |**2025-12-10**|**FALCON: Few-step Accurate Likelihoods for Continuous Flows**|Danyal Rehman et.al.|[2512.09914](http://arxiv.org/abs/2512.09914)|null|
 |**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
@@ -21,7 +24,6 @@
 |**2025-12-09**|**Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation**|Hao Chen et.al.|[2512.09185](http://arxiv.org/abs/2512.09185)|null|
 |**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-07**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2512.06951](http://arxiv.org/abs/2512.06951)|null|
-|**2025-12-05**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design**|Ian Dunn et.al.|[2512.05080](http://arxiv.org/abs/2512.05080)|null|
 |**2025-12-04**|**Improving Posterior Inference of Galaxy Properties with Image-Based Conditional Flow Matching**|Mikaeel Yunus et.al.|[2512.05078](http://arxiv.org/abs/2512.05078)|null|
