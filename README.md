@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Flowception: Temporally Expansive Flow Matching for Video Generation**|Tariq Berrada Ifriqi et.al.|[2512.11438](http://arxiv.org/abs/2512.11438)|null|
+|**2025-12-12**|**FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing**|Yilei Jiang et.al.|[2512.11395](http://arxiv.org/abs/2512.11395)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
 |**2025-12-11**|**Investigating training objective for flow matching-based speech enhancement**|Liusha Yang et.al.|[2512.10382](http://arxiv.org/abs/2512.10382)|null|
 |**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
+|**2025-12-11**|**Refining Graphical Neural Network Predictions Using Flow Matching for Optimal Power Flow with Constraint-Satisfaction Guarantee**|Kshitiz Khanal et.al.|[2512.11127](http://arxiv.org/abs/2512.11127)|null|
 |**2025-12-10**|**FALCON: Few-step Accurate Likelihoods for Continuous Flows**|Danyal Rehman et.al.|[2512.09914](http://arxiv.org/abs/2512.09914)|null|
 |**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
