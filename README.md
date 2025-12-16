@@ -14,18 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**Feedforward 3D Editing via Text-Steerable Image-to-3D**|Ziqi Ma et.al.|[2512.13678](http://arxiv.org/abs/2512.13678)|null|
+|**2025-12-15**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
+|**2025-12-14**|**Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal**|Weihan Xu et.al.|[2512.12875](http://arxiv.org/abs/2512.12875)|null|
+|**2025-12-14**|**On the continuity of flows**|Congzhou M Sha et.al.|[2512.12821](http://arxiv.org/abs/2512.12821)|null|
+|**2025-12-14**|**Flow-matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
+|**2025-12-14**|**On Approaches to Building Surrogate ODE Models for Diffusion Bridges**|Maria Khilchuk et.al.|[2512.12671](http://arxiv.org/abs/2512.12671)|null|
+|**2025-12-13**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
+|**2025-12-13**|**Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation**|Hao Chen et.al.|[2512.09185](http://arxiv.org/abs/2512.09185)|null|
+|**2025-12-13**|**Exploring the Design Space of Transition Matching**|Uriel Singer et.al.|[2512.12465](http://arxiv.org/abs/2512.12465)|null|
+|**2025-12-13**|**Anchoring Values in Temporal and Group Dimensions for Flow Matching Model Alignment**|Yawen Shao et.al.|[2512.12387](http://arxiv.org/abs/2512.12387)|null|
+|**2025-12-13**|**MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching**|Jirui Jin et.al.|[2512.12198](http://arxiv.org/abs/2512.12198)|null|
+|**2025-12-12**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 |**2025-12-12**|**Flowception: Temporally Expansive Flow Matching for Video Generation**|Tariq Berrada Ifriqi et.al.|[2512.11438](http://arxiv.org/abs/2512.11438)|null|
 |**2025-12-12**|**FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing**|Yilei Jiang et.al.|[2512.11395](http://arxiv.org/abs/2512.11395)|null|
 |**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
+|**2025-12-12**|**BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models**|Ryan Po et.al.|[2512.12080](http://arxiv.org/abs/2512.12080)|null|
 |**2025-12-11**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
 |**2025-12-11**|**Investigating training objective for flow matching-based speech enhancement**|Liusha Yang et.al.|[2512.10382](http://arxiv.org/abs/2512.10382)|null|
-|**2025-12-11**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 |**2025-12-11**|**Refining Graphical Neural Network Predictions Using Flow Matching for Optimal Power Flow with Constraint-Satisfaction Guarantee**|Kshitiz Khanal et.al.|[2512.11127](http://arxiv.org/abs/2512.11127)|null|
 |**2025-12-10**|**FALCON: Few-step Accurate Likelihoods for Continuous Flows**|Danyal Rehman et.al.|[2512.09914](http://arxiv.org/abs/2512.09914)|null|
-|**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
 |**2025-12-09**|**Dflow-SUR: Enhancing Generative Aerodynamic Inverse Design using Differentiation Throughout Flow Matching**|Aobo Yang et.al.|[2512.08336](http://arxiv.org/abs/2512.08336)|null|
-|**2025-12-09**|**Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation**|Hao Chen et.al.|[2512.09185](http://arxiv.org/abs/2512.09185)|null|
 |**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-07**|**Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2512.06951](http://arxiv.org/abs/2512.06951)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
