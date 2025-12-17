@@ -14,8 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Native and Compact Structured Latents for 3D Generation**|Jianfeng Xiang et.al.|[2512.14692](http://arxiv.org/abs/2512.14692)|null|
+|**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
+|**2025-12-16**|**FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling**|Kim Sung-Bin et.al.|[2512.14056](http://arxiv.org/abs/2512.14056)|null|
+|**2025-12-16**|**Generative Monte Carlo Sampling for Constant-Cost Particle Transport**|Joseph A. Farmer et.al.|[2512.13965](http://arxiv.org/abs/2512.13965)|null|
 |**2025-12-15**|**Feedforward 3D Editing via Text-Steerable Image-to-3D**|Ziqi Ma et.al.|[2512.13678](http://arxiv.org/abs/2512.13678)|null|
 |**2025-12-15**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
+|**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
 |**2025-12-14**|**Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal**|Weihan Xu et.al.|[2512.12875](http://arxiv.org/abs/2512.12875)|null|
 |**2025-12-14**|**On the continuity of flows**|Congzhou M Sha et.al.|[2512.12821](http://arxiv.org/abs/2512.12821)|null|
 |**2025-12-14**|**Flow-matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
