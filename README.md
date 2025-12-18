@@ -14,16 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
+|**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai et.al.|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
+|**2025-12-17**|**SoFlow: Solution Flow Models for One-Step Generative Modeling**|Tianze Luo et.al.|[2512.15657](http://arxiv.org/abs/2512.15657)|null|
+|**2025-12-17**|**FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows**|Yeonwoo Cha et.al.|[2512.15420](http://arxiv.org/abs/2512.15420)|null|
+|**2025-12-16**|**Flow matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
 |**2025-12-16**|**Native and Compact Structured Latents for 3D Generation**|Jianfeng Xiang et.al.|[2512.14692](http://arxiv.org/abs/2512.14692)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling**|Kim Sung-Bin et.al.|[2512.14056](http://arxiv.org/abs/2512.14056)|null|
 |**2025-12-16**|**Generative Monte Carlo Sampling for Constant-Cost Particle Transport**|Joseph A. Farmer et.al.|[2512.13965](http://arxiv.org/abs/2512.13965)|null|
 |**2025-12-15**|**Feedforward 3D Editing via Text-Steerable Image-to-3D**|Ziqi Ma et.al.|[2512.13678](http://arxiv.org/abs/2512.13678)|null|
-|**2025-12-15**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
 |**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
 |**2025-12-14**|**Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal**|Weihan Xu et.al.|[2512.12875](http://arxiv.org/abs/2512.12875)|null|
 |**2025-12-14**|**On the continuity of flows**|Congzhou M Sha et.al.|[2512.12821](http://arxiv.org/abs/2512.12821)|null|
-|**2025-12-14**|**Flow-matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
 |**2025-12-14**|**On Approaches to Building Surrogate ODE Models for Diffusion Bridges**|Maria Khilchuk et.al.|[2512.12671](http://arxiv.org/abs/2512.12671)|null|
 |**2025-12-13**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-13**|**Learning Patient-Specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation**|Hao Chen et.al.|[2512.09185](http://arxiv.org/abs/2512.09185)|null|
