@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai et.al.|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
+|**2025-12-19**|**UPMRI: Unsupervised Parallel MRI Reconstruction via Projected Conditional Flow Matching**|Xinzhe Luo et.al.|[2512.17493](http://arxiv.org/abs/2512.17493)|null|
+|**2025-12-19**|**EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance**|Ankit Yadav et.al.|[2512.17303](http://arxiv.org/abs/2512.17303)|null|
+|**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
 |**2025-12-18**|**FlowDet: Unifying Object Detection and Generative Transport Flows**|Enis Baty et.al.|[2512.16771](http://arxiv.org/abs/2512.16771)|null|
 |**2025-12-18**|**On The Hidden Biases of Flow Matching Samplers**|Soon Hoe Lim et.al.|[2512.16768](http://arxiv.org/abs/2512.16768)|null|
 |**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|null|
@@ -21,7 +25,6 @@
 |**2025-12-18**|**CogSR: Semantic-Aware Speech Super-Resolution via Chain-of-Thought Guided Flow Matching**|Jiajun Yuan et.al.|[2512.16304](http://arxiv.org/abs/2512.16304)|null|
 |**2025-12-18**|**Driving in Corner Case: A Real-World Adversarial Closed-Loop Evaluation Platform for End-to-End Autonomous Driving**|Jiaheng Geng et.al.|[2512.16055](http://arxiv.org/abs/2512.16055)|null|
 |**2025-12-17**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
-|**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai et.al.|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-17**|**SoFlow: Solution Flow Models for One-Step Generative Modeling**|Tianze Luo et.al.|[2512.15657](http://arxiv.org/abs/2512.15657)|null|
 |**2025-12-17**|**FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows**|Yeonwoo Cha et.al.|[2512.15420](http://arxiv.org/abs/2512.15420)|null|
 |**2025-12-16**|**Flow matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
