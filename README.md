@@ -14,10 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|
+|**2025-12-21**|**MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow**|Riki Shimizu et.al.|[2512.18572](http://arxiv.org/abs/2512.18572)|null|
+|**2025-12-20**|**Robust and scalable simulation-based inference for gravitational wave signals with gaps**|Ruiting Mao et.al.|[2512.18290](http://arxiv.org/abs/2512.18290)|null|
+|**2025-12-20**|**Is There a Better Source Distribution than Gaussian? Exploring Source Distributions for Image Flow Matching**|Junho Lee et.al.|[2512.18184](http://arxiv.org/abs/2512.18184)|null|
 |**2025-12-19**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai et.al.|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-19**|**UPMRI: Unsupervised Parallel MRI Reconstruction via Projected Conditional Flow Matching**|Xinzhe Luo et.al.|[2512.17493](http://arxiv.org/abs/2512.17493)|null|
 |**2025-12-19**|**EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance**|Ankit Yadav et.al.|[2512.17303](http://arxiv.org/abs/2512.17303)|null|
 |**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
+|**2025-12-19**|**SAM Audio: Segment Anything in Audio**|Bowen Shi et.al.|[2512.18099](http://arxiv.org/abs/2512.18099)|null|
 |**2025-12-18**|**FlowDet: Unifying Object Detection and Generative Transport Flows**|Enis Baty et.al.|[2512.16771](http://arxiv.org/abs/2512.16771)|null|
 |**2025-12-18**|**On The Hidden Biases of Flow Matching Samplers**|Soon Hoe Lim et.al.|[2512.16768](http://arxiv.org/abs/2512.16768)|null|
 |**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|null|
@@ -27,6 +32,7 @@
 |**2025-12-17**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
 |**2025-12-17**|**SoFlow: Solution Flow Models for One-Step Generative Modeling**|Tianze Luo et.al.|[2512.15657](http://arxiv.org/abs/2512.15657)|null|
 |**2025-12-17**|**FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows**|Yeonwoo Cha et.al.|[2512.15420](http://arxiv.org/abs/2512.15420)|null|
+|**2025-12-17**|**SuperFlow: Training Flow Matching Models with RL on the Fly**|Kaijie Chen et.al.|[2512.17951](http://arxiv.org/abs/2512.17951)|null|
 |**2025-12-16**|**Flow matching Operators for Residual-Augmented Probabilistic Learning of Partial Differential Equations**|Sahil Bhola et.al.|[2512.12749](http://arxiv.org/abs/2512.12749)|null|
 |**2025-12-16**|**Native and Compact Structured Latents for 3D Generation**|Jianfeng Xiang et.al.|[2512.14692](http://arxiv.org/abs/2512.14692)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
