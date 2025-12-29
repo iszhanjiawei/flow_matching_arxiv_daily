@@ -14,12 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|
+|**2025-12-26**|**Tilt Matching for Scalable Sampling and Fine-Tuning**|Peter Potaptchik et.al.|[2512.21829](http://arxiv.org/abs/2512.21829)|null|
 |**2025-12-24**|**Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations**|Jinghan Li et.al.|[2512.21004](http://arxiv.org/abs/2512.21004)|null|
 |**2025-12-24**|**PUFM++: Point Cloud Upsampling via Enhanced Flow Matching**|Zhi-Song Liu et.al.|[2512.20988](http://arxiv.org/abs/2512.20988)|null|
 |**2025-12-23**|**LP-CFM: Perceptual Invariance-Aware Conditional Flow Matching for Speech Modeling**|Doyeop Kwak et.al.|[2512.20314](http://arxiv.org/abs/2512.20314)|null|
 |**2025-12-23**|**Discovering Lie Groups with Flow Matching**|Jung Yeon Park et.al.|[2512.20043](http://arxiv.org/abs/2512.20043)|null|
 |**2025-12-23**|**FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**|Andreas Zinonos et.al.|[2512.20033](http://arxiv.org/abs/2512.20033)|null|
-|**2025-12-22**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|
 |**2025-12-22**|**Diffusion Models in Simulation-Based Inference: A Tutorial Review**|Jonas Arruda et.al.|[2512.20685](http://arxiv.org/abs/2512.20685)|null|
 |**2025-12-21**|**MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow**|Riki Shimizu et.al.|[2512.18572](http://arxiv.org/abs/2512.18572)|null|
 |**2025-12-20**|**Robust and scalable simulation-based inference for gravitational wave signals with gaps**|Ruiting Mao et.al.|[2512.18290](http://arxiv.org/abs/2512.18290)|null|
