@@ -14,8 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation**|Yuxin Wen et.al.|[2512.23464](http://arxiv.org/abs/2512.23464)|null|
+|**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](http://arxiv.org/abs/2512.23278)|null|
+|**2025-12-29**|**On the Inverse Flow Matching Problem in the One-Dimensional and Gaussian Cases**|Alexander Korotin et.al.|[2512.23265](http://arxiv.org/abs/2512.23265)|null|
+|**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
+|**2025-12-27**|**Energy-Guided Flow Matching Enables Few-Step Conformer Generation and Ground-State Identification**|Guikun Xu et.al.|[2512.22597](http://arxiv.org/abs/2512.22597)|null|
+|**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
 |**2025-12-26**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|
+|**2025-12-26**|**Robust and scalable simulation-based inference for gravitational wave signals with gaps**|Ruiting Mao et.al.|[2512.18290](http://arxiv.org/abs/2512.18290)|null|
 |**2025-12-26**|**Tilt Matching for Scalable Sampling and Fine-Tuning**|Peter Potaptchik et.al.|[2512.21829](http://arxiv.org/abs/2512.21829)|null|
+|**2025-12-26**|**DeFloMat: Detection with Flow Matching for Stable and Efficient Generative Object Localization**|Hansang Lee et.al.|[2512.22406](http://arxiv.org/abs/2512.22406)|null|
+|**2025-12-26**|**Self-Evaluation Unlocks Any-Step Text-to-Image Generation**|Xin Yu et.al.|[2512.22374](http://arxiv.org/abs/2512.22374)|null|
+|**2025-12-25**|**Human-Aligned Generative Perception: Bridging Psychophysics and Generative Models**|Antara Titikhsha et.al.|[2512.22272](http://arxiv.org/abs/2512.22272)|null|
 |**2025-12-24**|**Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations**|Jinghan Li et.al.|[2512.21004](http://arxiv.org/abs/2512.21004)|null|
 |**2025-12-24**|**PUFM++: Point Cloud Upsampling via Enhanced Flow Matching**|Zhi-Song Liu et.al.|[2512.20988](http://arxiv.org/abs/2512.20988)|null|
 |**2025-12-23**|**LP-CFM: Perceptual Invariance-Aware Conditional Flow Matching for Speech Modeling**|Doyeop Kwak et.al.|[2512.20314](http://arxiv.org/abs/2512.20314)|null|
@@ -23,7 +33,6 @@
 |**2025-12-23**|**FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**|Andreas Zinonos et.al.|[2512.20033](http://arxiv.org/abs/2512.20033)|null|
 |**2025-12-22**|**Diffusion Models in Simulation-Based Inference: A Tutorial Review**|Jonas Arruda et.al.|[2512.20685](http://arxiv.org/abs/2512.20685)|null|
 |**2025-12-21**|**MeanFlow-TSE: One-Step Generative Target Speaker Extraction with Mean Flow**|Riki Shimizu et.al.|[2512.18572](http://arxiv.org/abs/2512.18572)|null|
-|**2025-12-20**|**Robust and scalable simulation-based inference for gravitational wave signals with gaps**|Ruiting Mao et.al.|[2512.18290](http://arxiv.org/abs/2512.18290)|null|
 |**2025-12-20**|**Is There a Better Source Distribution than Gaussian? Exploring Source Distributions for Image Flow Matching**|Junho Lee et.al.|[2512.18184](http://arxiv.org/abs/2512.18184)|null|
 |**2025-12-19**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai et.al.|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-19**|**UPMRI: Unsupervised Parallel MRI Reconstruction via Projected Conditional Flow Matching**|Xinzhe Luo et.al.|[2512.17493](http://arxiv.org/abs/2512.17493)|null|
