@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model**|Bohong Chen et.al.|[2512.24408](http://arxiv.org/abs/2512.24408)|null|
+|**2025-12-30**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
+|**2025-12-30**|**Implicit geometric regularization in flow matching via density weighted Stein operators**|Shinto Eguchi et.al.|[2512.23956](http://arxiv.org/abs/2512.23956)|null|
 |**2025-12-29**|**HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation**|Yuxin Wen et.al.|[2512.23464](http://arxiv.org/abs/2512.23464)|null|
 |**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](http://arxiv.org/abs/2512.23278)|null|
 |**2025-12-29**|**On the Inverse Flow Matching Problem in the One-Dimensional and Gaussian Cases**|Alexander Korotin et.al.|[2512.23265](http://arxiv.org/abs/2512.23265)|null|
+|**2025-12-29**|**Max-Entropy Reinforcement Learning with Flow Matching and A Case Study on LQR**|Yuyang Zhang et.al.|[2512.23870](http://arxiv.org/abs/2512.23870)|null|
+|**2025-12-29**|**Flow Matching Neural Processes**|Hussen Abu Hamad et.al.|[2512.23853](http://arxiv.org/abs/2512.23853)|null|
 |**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
 |**2025-12-27**|**Energy-Guided Flow Matching Enables Few-Step Conformer Generation and Ground-State Identification**|Guikun Xu et.al.|[2512.22597](http://arxiv.org/abs/2512.22597)|null|
 |**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
