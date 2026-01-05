@@ -14,8 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
+|**2026-01-01**|**E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models**|Shengjun Zhang et.al.|[2601.00423](http://arxiv.org/abs/2601.00423)|null|
+|**2026-01-01**|**DepFlow: Disentangled Speech Generation to Mitigate Semantic Bias in Depression Detection**|Yuxin Li et.al.|[2601.00303](http://arxiv.org/abs/2601.00303)|null|
+|**2026-01-01**|**Latent Flow Matching for Expressive Singing Voice Synthesis**|Minhyeok Yun et.al.|[2601.00217](http://arxiv.org/abs/2601.00217)|null|
 |**2025-12-30**|**DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model**|Bohong Chen et.al.|[2512.24408](http://arxiv.org/abs/2512.24408)|null|
-|**2025-12-30**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2025-12-30**|**Implicit geometric regularization in flow matching via density weighted Stein operators**|Shinto Eguchi et.al.|[2512.23956](http://arxiv.org/abs/2512.23956)|null|
 |**2025-12-29**|**HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation**|Yuxin Wen et.al.|[2512.23464](http://arxiv.org/abs/2512.23464)|null|
 |**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](http://arxiv.org/abs/2512.23278)|null|
