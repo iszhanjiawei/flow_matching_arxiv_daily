@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/abs/2601.02228)|null|
+|**2026-01-05**|**SerpentFlow: Generative Unpaired Domain Alignment via Shared-Structure Decomposition**|Julie Keisler et.al.|[2601.01979](http://arxiv.org/abs/2601.01979)|null|
+|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-03**|**Flow Matching Transport for Quasi-Monte Carlo Integration**|Zhijun Zeng et.al.|[2601.01072](http://arxiv.org/abs/2601.01072)|null|
 |**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2026-01-01**|**E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models**|Shengjun Zhang et.al.|[2601.00423](http://arxiv.org/abs/2601.00423)|null|
 |**2026-01-01**|**DepFlow: Disentangled Speech Generation to Mitigate Semantic Bias in Depression Detection**|Yuxin Li et.al.|[2601.00303](http://arxiv.org/abs/2601.00303)|null|
