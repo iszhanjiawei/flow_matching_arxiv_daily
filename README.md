@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Decentralized Autoregressive Generation**|Stepan Maschan et.al.|[2601.03184](http://arxiv.org/abs/2601.03184)|null|
+|**2026-01-06**|**Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries**|Ali Kashefi et.al.|[2601.03030](http://arxiv.org/abs/2601.03030)|null|
+|**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
+|**2026-01-06**|**Stratified Hazard Sampling: Minimal-Variance Event Scheduling for CTMC/DTMC Discrete Diffusion and Flow Models**|Seunghwan Jang et.al.|[2601.02799](http://arxiv.org/abs/2601.02799)|null|
 |**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/abs/2601.02228)|null|
 |**2026-01-05**|**SerpentFlow: Generative Unpaired Domain Alignment via Shared-Structure Decomposition**|Julie Keisler et.al.|[2601.01979](http://arxiv.org/abs/2601.01979)|null|
 |**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
