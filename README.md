@@ -14,7 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-07**|**CrackSegFlow: Controllable Flow-Matching Synthesis for Generalizable Crack Segmentation with the CSF-50K Benchmark**|Babak Asadi et.al.|[2601.03637](http://arxiv.org/abs/2601.03637)|null|
+|**2026-01-08**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-08**|**CrackSegFlow: Controllable Flow Matching Synthesis for Generalizable Crack Segmentation with a 50K Image-Mask Benchmark**|Babak Asadi et.al.|[2601.03637](http://arxiv.org/abs/2601.03637)|null|
+|**2026-01-08**|**FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching**|Danilo Danese et.al.|[2601.05212](http://arxiv.org/abs/2601.05212)|null|
+|**2026-01-08**|**DeepWeightFlow: Re-Basined Flow Matching for Generating Neural Network Weights**|Saumya Gupta et.al.|[2601.05052](http://arxiv.org/abs/2601.05052)|null|
+|**2026-01-08**|**Surface-based Molecular Design with Multi-modal Flow Matching**|Fang Wu et.al.|[2601.04506](http://arxiv.org/abs/2601.04506)|null|
+|**2026-01-08**|**Latent-Level Enhancement with Flow Matching for Robust Automatic Speech Recognition**|Da-Hee Yang et.al.|[2601.04459](http://arxiv.org/abs/2601.04459)|null|
+|**2026-01-07**|**Few-Shot LoRA Adaptation of a Flow-Matching Foundation Model for Cross-Spectral Object Detection**|Maxim Clouser et.al.|[2601.04381](http://arxiv.org/abs/2601.04381)|null|
 |**2026-01-06**|**Decentralized Autoregressive Generation**|Stepan Maschan et.al.|[2601.03184](http://arxiv.org/abs/2601.03184)|null|
 |**2026-01-06**|**Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries**|Ali Kashefi et.al.|[2601.03030](http://arxiv.org/abs/2601.03030)|null|
 |**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
@@ -22,7 +28,7 @@
 |**2026-01-06**|**Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models**|M. Akın Yılmaz et.al.|[2601.03391](http://arxiv.org/abs/2601.03391)|null|
 |**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/abs/2601.02228)|null|
 |**2026-01-05**|**SerpentFlow: Generative Unpaired Domain Alignment via Shared-Structure Decomposition**|Julie Keisler et.al.|[2601.01979](http://arxiv.org/abs/2601.01979)|null|
-|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-04**|**LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models**|Zhiyuan Zhao et.al.|[2601.04233](http://arxiv.org/abs/2601.04233)|null|
 |**2026-01-03**|**Flow Matching Transport for Quasi-Monte Carlo Integration**|Zhijun Zeng et.al.|[2601.01072](http://arxiv.org/abs/2601.01072)|null|
 |**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2026-01-01**|**E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models**|Shengjun Zhang et.al.|[2601.00423](http://arxiv.org/abs/2601.00423)|null|
