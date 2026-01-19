@@ -16,6 +16,7 @@
 |---|---|---|---|---|
 |**2026-01-15**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
 |**2026-01-15**|**DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction**|Zhancun Mu et.al.|[2601.10471](http://arxiv.org/abs/2601.10471)|null|
+|**2026-01-15**|**Analytic Bijections for Smooth and Interpretable Normalizing Flows**|Mathis Gerdes et.al.|[2601.10774](http://arxiv.org/abs/2601.10774)|null|
 |**2026-01-14**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
 |**2026-01-14**|**VibrantSR: Sub-Meter Canopy Height Models from Sentinel-2 Using Generative Flow Matching**|Kiarie Ndegwa et.al.|[2601.09866](http://arxiv.org/abs/2601.09866)|null|
 |**2026-01-13**|**Decentralized Autoregressive Generation**|Stepan Maschan et.al.|[2601.03184](http://arxiv.org/abs/2601.03184)|null|
