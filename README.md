@@ -14,11 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
+|**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Bin Yu et.al.|[2601.14133](http://arxiv.org/abs/2601.14133)|null|
+|**2026-01-20**|**Channel Estimation in MIMO Systems Using Flow Matching Models**|Yongqiang Zhang et.al.|[2601.13827](http://arxiv.org/abs/2601.13827)|null|
+|**2026-01-20**|**Principled Latent Diffusion for Graphs via Laplacian Autoencoders**|Antoine Siraudin et.al.|[2601.13780](http://arxiv.org/abs/2601.13780)|null|
+|**2026-01-20**|**vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting**|Wenzhen Yue et.al.|[2601.13768](http://arxiv.org/abs/2601.13768)|null|
+|**2026-01-20**|**S $^2$ Voice: Style-Aware Autoregressive Modeling with Enhanced Conditioning for Singing Style Conversion**|Ziqian Wang et.al.|[2601.13629](http://arxiv.org/abs/2601.13629)|null|
+|**2026-01-19**|**ImmersiveFlow: Stereo-to-7.1.4 spatial audio generation with flow matching**|Zining Liang et.al.|[2601.12950](http://arxiv.org/abs/2601.12950)|null|
+|**2026-01-19**|**Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates**|Luca Schaufelberger et.al.|[2601.12859](http://arxiv.org/abs/2601.12859)|null|
+|**2026-01-18**|**Class-Partitioned VQ-VAE and Latent Flow Matching for Point Cloud Scene Generation**|Dasith de Silva Edirimuni et.al.|[2601.12391](http://arxiv.org/abs/2601.12391)|null|
+|**2026-01-18**|**FlowIID: Single-Step Intrinsic Image Decomposition via Latent Flow Matching**|Mithlesh Singla et.al.|[2601.12329](http://arxiv.org/abs/2601.12329)|null|
+|**2026-01-17**|**DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction**|Zhancun Mu et.al.|[2601.10471](http://arxiv.org/abs/2601.10471)|null|
+|**2026-01-16**|**MixFlow: Mixture-Conditioned Flow Matching for Out-of-Distribution Generalization**|Andrea Rubbi et.al.|[2601.11827](http://arxiv.org/abs/2601.11827)|null|
 |**2026-01-15**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
-|**2026-01-15**|**DeFlow: Decoupling Manifold Modeling and Value Maximization for Offline Policy Extraction**|Zhancun Mu et.al.|[2601.10471](http://arxiv.org/abs/2601.10471)|null|
 |**2026-01-15**|**Analytic Bijections for Smooth and Interpretable Normalizing Flows**|Mathis Gerdes et.al.|[2601.10774](http://arxiv.org/abs/2601.10774)|null|
 |**2026-01-14**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
 |**2026-01-14**|**VibrantSR: Sub-Meter Canopy Height Models from Sentinel-2 Using Generative Flow Matching**|Kiarie Ndegwa et.al.|[2601.09866](http://arxiv.org/abs/2601.09866)|null|
+|**2026-01-14**|**A one-step generation model with a Single-Layer Transformer: Layer number re-distillation of FreeFlow**|Haonan Wei et.al.|[2601.11630](http://arxiv.org/abs/2601.11630)|null|
 |**2026-01-13**|**Decentralized Autoregressive Generation**|Stepan Maschan et.al.|[2601.03184](http://arxiv.org/abs/2601.03184)|null|
 |**2026-01-13**|**Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies**|Zeyang Li et.al.|[2601.08136](http://arxiv.org/abs/2601.08136)|null|
 |**2026-01-12**|**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**|Nicolas Sereyjol-Garros et.al.|[2601.07692](http://arxiv.org/abs/2601.07692)|null|
