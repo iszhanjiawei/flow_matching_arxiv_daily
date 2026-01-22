@@ -14,12 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**FlowSSC: Universal Generative Monocular Semantic Scene Completion via One-Step Latent Diffusion**|Zichen Xi et.al.|[2601.15250](http://arxiv.org/abs/2601.15250)|null|
+|**2026-01-21**|**Deep Leakage with Generative Flow Matching Denoiser**|Isaac Baglin et.al.|[2601.15049](http://arxiv.org/abs/2601.15049)|null|
+|**2026-01-21**|**MTFlow: Time-Conditioned Flow Matching for Microtubule Segmentation in Noisy Microscopy Images**|Sidi Mohamed Sid El Moctar et.al.|[2601.14841](http://arxiv.org/abs/2601.14841)|null|
 |**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
 |**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Bin Yu et.al.|[2601.14133](http://arxiv.org/abs/2601.14133)|null|
 |**2026-01-20**|**Channel Estimation in MIMO Systems Using Flow Matching Models**|Yongqiang Zhang et.al.|[2601.13827](http://arxiv.org/abs/2601.13827)|null|
 |**2026-01-20**|**Principled Latent Diffusion for Graphs via Laplacian Autoencoders**|Antoine Siraudin et.al.|[2601.13780](http://arxiv.org/abs/2601.13780)|null|
 |**2026-01-20**|**vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting**|Wenzhen Yue et.al.|[2601.13768](http://arxiv.org/abs/2601.13768)|null|
 |**2026-01-20**|**S $^2$ Voice: Style-Aware Autoregressive Modeling with Enhanced Conditioning for Singing Style Conversion**|Ziqian Wang et.al.|[2601.13629](http://arxiv.org/abs/2601.13629)|null|
+|**2026-01-20**|**Single-step Controllable Music Bandwidth Extension With Flow Matching**|Carlos Hernandez-Olivan et.al.|[2601.14356](http://arxiv.org/abs/2601.14356)|null|
 |**2026-01-19**|**ImmersiveFlow: Stereo-to-7.1.4 spatial audio generation with flow matching**|Zining Liang et.al.|[2601.12950](http://arxiv.org/abs/2601.12950)|null|
 |**2026-01-19**|**Generating Cyclic Conformers with Flow Matching in Cremer-Pople Coordinates**|Luca Schaufelberger et.al.|[2601.12859](http://arxiv.org/abs/2601.12859)|null|
 |**2026-01-18**|**Class-Partitioned VQ-VAE and Latent Flow Matching for Point Cloud Scene Generation**|Dasith de Silva Edirimuni et.al.|[2601.12391](http://arxiv.org/abs/2601.12391)|null|
