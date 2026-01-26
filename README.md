@@ -14,12 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-22**|**Recursive Flow: A Generative Framework for MIMO Channel Estimation**|Zehua Jiang et.al.|[2601.15767](http://arxiv.org/abs/2601.15767)|null|
+|**2026-01-23**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
+|**2026-01-23**|**Recursive Flow: A Generative Framework for MIMO Channel Estimation**|Zehua Jiang et.al.|[2601.15767](http://arxiv.org/abs/2601.15767)|null|
+|**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](http://arxiv.org/abs/2601.16763)|null|
+|**2026-01-23**|**HapticMatch: An Exploration for Generative Material Haptic Simulation and Interaction**|Mingxin Zhang et.al.|[2601.16639](http://arxiv.org/abs/2601.16639)|null|
+|**2026-01-23**|**FlowSE-GRPO: Training Flow Matching Speech Enhancement via Online Reinforcement Learning**|Haoxu Wang et.al.|[2601.16483](http://arxiv.org/abs/2601.16483)|null|
 |**2026-01-22**|**DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice**|Leying Zhang et.al.|[2601.15596](http://arxiv.org/abs/2601.15596)|null|
 |**2026-01-21**|**FlowSSC: Universal Generative Monocular Semantic Scene Completion via One-Step Latent Diffusion**|Zichen Xi et.al.|[2601.15250](http://arxiv.org/abs/2601.15250)|null|
 |**2026-01-21**|**Deep Leakage with Generative Flow Matching Denoiser**|Isaac Baglin et.al.|[2601.15049](http://arxiv.org/abs/2601.15049)|null|
 |**2026-01-21**|**MTFlow: Time-Conditioned Flow Matching for Microtubule Segmentation in Noisy Microscopy Images**|Sidi Mohamed Sid El Moctar et.al.|[2601.14841](http://arxiv.org/abs/2601.14841)|null|
-|**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
 |**2026-01-20**|**TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers**|Bin Yu et.al.|[2601.14133](http://arxiv.org/abs/2601.14133)|null|
 |**2026-01-20**|**Channel Estimation in MIMO Systems Using Flow Matching Models**|Yongqiang Zhang et.al.|[2601.13827](http://arxiv.org/abs/2601.13827)|null|
 |**2026-01-20**|**Principled Latent Diffusion for Graphs via Laplacian Autoencoders**|Antoine Siraudin et.al.|[2601.13780](http://arxiv.org/abs/2601.13780)|null|
