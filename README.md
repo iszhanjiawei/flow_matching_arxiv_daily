@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Learned harmonic mean estimation of the marginal likelihood for multimodal posteriors with flow matching**|Alicja Polanska et.al.|[2601.18683](http://arxiv.org/abs/2601.18683)|null|
+|**2026-01-26**|**Geneses: Unified Generative Speech Enhancement and Separation**|Kohei Asai et.al.|[2601.18456](http://arxiv.org/abs/2601.18456)|null|
+|**2026-01-26**|**HomoFM: Deep Homography Estimation with Flow Matching**|Mengfan He et.al.|[2601.18222](http://arxiv.org/abs/2601.18222)|null|
+|**2026-01-25**|**Flow-based Extremal Mathematical Structure Discovery**|Gergely Bérczi et.al.|[2601.18005](http://arxiv.org/abs/2601.18005)|null|
+|**2026-01-25**|**UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders**|Matthew Walmer et.al.|[2601.17950](http://arxiv.org/abs/2601.17950)|null|
+|**2026-01-25**|**Learning Sewing Patterns via Latent Flow Matching of Implicit Fields**|Cong Cao et.al.|[2601.17740](http://arxiv.org/abs/2601.17740)|null|
+|**2026-01-25**|**Flatten The Complex: Joint B-Rep Generation via Compositional $k$ -Cell Particles**|Junran Lu et.al.|[2601.17733](http://arxiv.org/abs/2601.17733)|null|
 |**2026-01-23**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](http://arxiv.org/abs/2601.14234)|null|
 |**2026-01-23**|**Recursive Flow: A Generative Framework for MIMO Channel Estimation**|Zehua Jiang et.al.|[2601.15767](http://arxiv.org/abs/2601.15767)|null|
 |**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](http://arxiv.org/abs/2601.16763)|null|
