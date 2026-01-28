@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation**|Can Polat et.al.|[2601.19076](http://arxiv.org/abs/2601.19076)|null|
 |**2026-01-26**|**Learned harmonic mean estimation of the marginal likelihood for multimodal posteriors with flow matching**|Alicja Polanska et.al.|[2601.18683](http://arxiv.org/abs/2601.18683)|null|
 |**2026-01-26**|**Geneses: Unified Generative Speech Enhancement and Separation**|Kohei Asai et.al.|[2601.18456](http://arxiv.org/abs/2601.18456)|null|
 |**2026-01-26**|**HomoFM: Deep Homography Estimation with Flow Matching**|Mengfan He et.al.|[2601.18222](http://arxiv.org/abs/2601.18222)|null|
