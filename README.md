@@ -14,7 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
+|**2026-01-28**|**WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**|Xinyu Wang et.al.|[2601.20606](http://arxiv.org/abs/2601.20606)|null|
+|**2026-01-28**|**RAW-Flow: Advancing RGB-to-RAW Image Reconstruction with Deterministic Latent Flow Matching**|Zhen Liu et.al.|[2601.20364](http://arxiv.org/abs/2601.20364)|null|
+|**2026-01-28**|**Can Continuous-Time Diffusion Models Generate and Solve Globally Constrained Discrete Problems? A Study on Sudoku**|Mariia Drozdova et.al.|[2601.20363](http://arxiv.org/abs/2601.20363)|null|
+|**2026-01-28**|**Order-Optimal Sample Complexity of Rectified Flows**|Hari Krishna Sahoo et.al.|[2601.20250](http://arxiv.org/abs/2601.20250)|null|
+|**2026-01-28**|**TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance**|Zhemeng Zhang et.al.|[2601.20239](http://arxiv.org/abs/2601.20239)|null|
+|**2026-01-28**|**DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment**|Haoyou Deng et.al.|[2601.20218](http://arxiv.org/abs/2601.20218)|null|
 |**2026-01-27**|**C2NP: A Benchmark for Learning Scale-Dependent Geometric Invariances in 3D Materials Generation**|Can Polat et.al.|[2601.19076](http://arxiv.org/abs/2601.19076)|null|
+|**2026-01-27**|**MeanCache: From Instantaneous to Average Velocity for Accelerating Flow Matching Inference**|Huanlin Gao et.al.|[2601.19961](http://arxiv.org/abs/2601.19961)|null|
 |**2026-01-26**|**Learned harmonic mean estimation of the marginal likelihood for multimodal posteriors with flow matching**|Alicja Polanska et.al.|[2601.18683](http://arxiv.org/abs/2601.18683)|null|
 |**2026-01-26**|**Geneses: Unified Generative Speech Enhancement and Separation**|Kohei Asai et.al.|[2601.18456](http://arxiv.org/abs/2601.18456)|null|
 |**2026-01-26**|**HomoFM: Deep Homography Estimation with Flow Matching**|Mengfan He et.al.|[2601.18222](http://arxiv.org/abs/2601.18222)|null|
