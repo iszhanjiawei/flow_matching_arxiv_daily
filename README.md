@@ -14,17 +14,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**SmartMeterFM: Unifying Smart Meter Data Generative Tasks Using Flow Matching Models**|Nan Lin et.al.|[2601.21706](http://arxiv.org/abs/2601.21706)|null|
+|**2026-01-30**|**Bi-Anchor Interpolation Solver for Accelerating Generative Modeling**|Hongxu Chen et.al.|[2601.21542](http://arxiv.org/abs/2601.21542)|null|
+|**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
+|**2026-01-30**|**Temporally Coherent Imitation Learning via Latent Action Flow Matching for Robotic Manipulation**|Wu Songwei et.al.|[2601.23087](http://arxiv.org/abs/2601.23087)|null|
+|**2026-01-30**|**SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants**|Santanu Subhash Rathod et.al.|[2601.23072](http://arxiv.org/abs/2601.23072)|null|
+|**2026-01-30**|**OneFlowSBI: One Model, Many Queries for Simulation-Based Inference**|Mayank Nautiyal et.al.|[2601.22951](http://arxiv.org/abs/2601.22951)|null|
+|**2026-01-30**|**DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation**|Hun Chang et.al.|[2601.22904](http://arxiv.org/abs/2601.22904)|null|
+|**2026-01-30**|**Unconditional flow-based time series generation with equivariance-regularised latent spaces**|Camilo Carvajal Reyes et.al.|[2601.22848](http://arxiv.org/abs/2601.22848)|null|
+|**2026-01-30**|**Cascaded Flow Matching for Heterogeneous Tabular Data with Mixed-Type Features**|Markus Mueller et.al.|[2601.22816](http://arxiv.org/abs/2601.22816)|null|
+|**2026-01-30**|**Variational Bayesian Flow Network for Graph Generation**|Yida Xiong et.al.|[2601.22524](http://arxiv.org/abs/2601.22524)|null|
+|**2026-01-30**|**Gradual Fine-Tuning for Flow Matching Models**|Gudrun Thorkelsdottir et.al.|[2601.22495](http://arxiv.org/abs/2601.22495)|null|
 |**2026-01-29**|**Prior-Informed Flow Matching for Graph Reconstruction**|Harvey Chen et.al.|[2601.22107](http://arxiv.org/abs/2601.22107)|null|
 |**2026-01-29**|**Holographic generative flows with AdS/CFT**|Ehsan Mirafzali et.al.|[2601.22033](http://arxiv.org/abs/2601.22033)|null|
 |**2026-01-29**|**Improving Classifier-Free Guidance of Flow Matching via Manifold Projection**|Jian-Feng Cai et.al.|[2601.21892](http://arxiv.org/abs/2601.21892)|null|
 |**2026-01-29**|**Generative Modeling of Discrete Data Using Geometric Latent Subspaces**|Daniel Gonzalez-Alvarado et.al.|[2601.21831](http://arxiv.org/abs/2601.21831)|null|
-|**2026-01-29**|**SmartMeterFM: Unifying Smart Meter Data Generative Tasks Using Flow Matching Models**|Nan Lin et.al.|[2601.21706](http://arxiv.org/abs/2601.21706)|null|
 |**2026-01-29**|**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**|Li Ju et.al.|[2601.21662](http://arxiv.org/abs/2601.21662)|null|
 |**2026-01-29**|**Generative Design of Ship Propellers using Conditional Flow Matching**|Patrick Kruger et.al.|[2601.21637](http://arxiv.org/abs/2601.21637)|null|
-|**2026-01-29**|**Bi-Anchor Interpolation Solver for Accelerating Generative Modeling**|Hongxu Chen et.al.|[2601.21542](http://arxiv.org/abs/2601.21542)|null|
 |**2026-01-29**|**Revisiting Diffusion Model Predictions Through Dimensionality**|Qing Jin et.al.|[2601.21419](http://arxiv.org/abs/2601.21419)|null|
 |**2026-01-29**|**SemanticAudio: Audio Generation and Editing in Semantic Space**|Zheqi Dai et.al.|[2601.21402](http://arxiv.org/abs/2601.21402)|null|
 |**2026-01-29**|**Rethinking Refinement: Correcting Generative Bias without Noise Injection**|Xin Peng et.al.|[2601.21182](http://arxiv.org/abs/2601.21182)|null|
+|**2026-01-29**|**Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions**|Lingkai Kong et.al.|[2601.22211](http://arxiv.org/abs/2601.22211)|null|
 |**2026-01-28**|**One Step Is Enough: Dispersive MeanFlow Policy Optimization**|Guowei Zou et.al.|[2601.20701](http://arxiv.org/abs/2601.20701)|null|
 |**2026-01-28**|**WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**|Xinyu Wang et.al.|[2601.20606](http://arxiv.org/abs/2601.20606)|null|
 |**2026-01-28**|**RAW-Flow: Advancing RGB-to-RAW Image Reconstruction with Deterministic Latent Flow Matching**|Zhen Liu et.al.|[2601.20364](http://arxiv.org/abs/2601.20364)|null|
