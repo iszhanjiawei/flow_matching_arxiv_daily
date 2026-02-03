@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Flow Policy Gradients for Robot Control**|Brent Yi et.al.|[2602.02481](http://arxiv.org/abs/2602.02481)|null|
+|**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
+|**2026-02-02**|**PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning**|Amisha Bhaskar et.al.|[2602.02396](http://arxiv.org/abs/2602.02396)|null|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
+|**2026-02-02**|**Unlocking the Duality between Flow and Field Matching**|Daniil Shlenskii et.al.|[2602.02261](http://arxiv.org/abs/2602.02261)|null|
+|**2026-02-02**|**LiFlow: Flow Matching for 3D LiDAR Scene Completion**|Andrea Matteazzi et.al.|[2602.02232](http://arxiv.org/abs/2602.02232)|null|
+|**2026-02-02**|**Logic-Guided Vector Fields for Constrained Generative Modeling**|Ali Baheri et.al.|[2602.02009](http://arxiv.org/abs/2602.02009)|null|
+|**2026-02-02**|**RFS: Reinforcement learning with Residual flow steering for dexterous manipulation**|Entong Su et.al.|[2602.01789](http://arxiv.org/abs/2602.01789)|null|
+|**2026-02-02**|**Boosting Maximum Entropy Reinforcement Learning via One-Step Flow Matching**|Zeqiao Li et.al.|[2602.01606](http://arxiv.org/abs/2602.01606)|null|
+|**2026-02-02**|**Know Your Step: Faster and Better Alignment for Flow Matching Models via Step-aware Advantages**|Zhixiong Yue et.al.|[2602.01591](http://arxiv.org/abs/2602.01591)|null|
+|**2026-02-01**|**PromptRL: Prompt Matters in RL for Flow-Based Image Generation**|Fu-Yun Wang et.al.|[2602.01382](http://arxiv.org/abs/2602.01382)|null|
+|**2026-02-01**|**FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching**|Divya Jyoti Bajpai et.al.|[2602.01329](http://arxiv.org/abs/2602.01329)|null|
+|**2026-02-01**|**PolicyFlow: Policy Optimization with Continuous Normalizing Flow in Reinforcement Learning**|Shunpeng Yang et.al.|[2602.01156](http://arxiv.org/abs/2602.01156)|null|
+|**2026-02-01**|**KAN We Flow? Advancing Robotic Manipulation with 3D Flow Matching via KAN & RWKV**|Zhihao Chen et.al.|[2602.01115](http://arxiv.org/abs/2602.01115)|null|
+|**2026-02-01**|**StreamVLA: Breaking the Reason-Act Cycle via Completion-State Gating**|Hang Wu et.al.|[2602.01100](http://arxiv.org/abs/2602.01100)|null|
+|**2026-02-01**|**Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models**|Zhiqi Zhang et.al.|[2602.01089](http://arxiv.org/abs/2602.01089)|null|
+|**2026-01-31**|**DIAMOND: Directed Inference for Artifact Mitigation in Flow Matching Models**|Alicja Polowczyk et.al.|[2602.00883](http://arxiv.org/abs/2602.00883)|null|
+|**2026-01-31**|**Improving Flow Matching by Aligning Flow Divergence**|Yuhao Huang et.al.|[2602.00869](http://arxiv.org/abs/2602.00869)|null|
+|**2026-01-31**|**SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning**|Xu Pan et.al.|[2602.00743](http://arxiv.org/abs/2602.00743)|null|
+|**2026-01-31**|**Riemannian Flow Matching for Disentangled Graph Domain Adaptation**|Yingxu Wang et.al.|[2602.00656](http://arxiv.org/abs/2602.00656)|null|
 |**2026-01-30**|**SmartMeterFM: Unifying Smart Meter Data Generative Tasks Using Flow Matching Models**|Nan Lin et.al.|[2601.21706](http://arxiv.org/abs/2601.21706)|null|
 |**2026-01-30**|**Bi-Anchor Interpolation Solver for Accelerating Generative Modeling**|Hongxu Chen et.al.|[2601.21542](http://arxiv.org/abs/2601.21542)|null|
 |**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
