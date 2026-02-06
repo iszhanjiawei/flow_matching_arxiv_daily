@@ -14,10 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
+|**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755](http://arxiv.org/abs/2602.05755)|null|
+|**2026-02-05**|**Path-Guided Flow Matching for Dataset Distillation**|Xuhui Li et.al.|[2602.05616](http://arxiv.org/abs/2602.05616)|null|
+|**2026-02-05**|**Steering Large Reasoning Models towards Concise Reasoning via Flow Matching**|Yawei Li et.al.|[2602.05539](http://arxiv.org/abs/2602.05539)|null|
+|**2026-02-05**|**Stable Velocity: A Variance Perspective on Flow Matching**|Donglin Yang et.al.|[2602.05435](http://arxiv.org/abs/2602.05435)|null|
+|**2026-02-05**|**Dataset Distillation via Relative Distribution Matching and Cognitive Heritage**|Qianxin Xia et.al.|[2602.05391](http://arxiv.org/abs/2602.05391)|null|
+|**2026-02-05**|**CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching**|Minkyu Kim et.al.|[2602.05372](http://arxiv.org/abs/2602.05372)|null|
+|**2026-02-05**|**Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective**|Yinan Huang et.al.|[2602.05319](http://arxiv.org/abs/2602.05319)|null|
+|**2026-02-05**|**RFM-Pose:Reinforcement-Guided Flow Matching for Fast Category-Level 6D Pose Estimation**|Diya He et.al.|[2602.05257](http://arxiv.org/abs/2602.05257)|null|
+|**2026-02-05**|**Disentangled Representation Learning via Flow Matching**|Jinjin Chi et.al.|[2602.05214](http://arxiv.org/abs/2602.05214)|null|
+|**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
+|**2026-02-05**|**Total Variation Rates for Riemannian Flow Matching**|Yunrui Guan et.al.|[2602.05174](http://arxiv.org/abs/2602.05174)|null|
 |**2026-02-04**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
 |**2026-02-04**|**Continuous Degradation Modeling via Latent Flow Matching for Real-World Super-Resolution**|Hyeonjae Kim et.al.|[2602.04193](http://arxiv.org/abs/2602.04193)|null|
 |**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
+|**2026-02-04**|**Euphonium: Steering Video Flow Matching via Process Reward Gradient Guided Stochastic Dynamics**|Ruizhe Zhong et.al.|[2602.04928](http://arxiv.org/abs/2602.04928)|null|
+|**2026-02-04**|**Temporal Pair Consistency for Variance-Reduced Flow Matching**|Chika Maduabuchi et.al.|[2602.04908](http://arxiv.org/abs/2602.04908)|null|
 |**2026-02-03**|**RFS: Reinforcement learning with Residual flow steering for dexterous manipulation**|Entong Su et.al.|[2602.01789](http://arxiv.org/abs/2602.01789)|null|
 |**2026-02-03**|**CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting**|Yaguo Liu et.al.|[2602.03564](http://arxiv.org/abs/2602.03564)|null|
 |**2026-02-03**|**CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering**|Siyi Wang et.al.|[2602.03420](http://arxiv.org/abs/2602.03420)|null|
@@ -25,6 +39,7 @@
 |**2026-02-03**|**Geometry-Preserving Neural Architectures on Manifolds with Boundary**|Karthik Elamvazhuthi et.al.|[2602.03082](http://arxiv.org/abs/2602.03082)|null|
 |**2026-02-03**|**Distance Marching for Generative Modeling**|Zimo Wang et.al.|[2602.02928](http://arxiv.org/abs/2602.02928)|null|
 |**2026-02-03**|**VLS: Steering Pretrained Robot Policies via Vision-Language Models**|Shuo Liu et.al.|[2602.03973](http://arxiv.org/abs/2602.03973)|null|
+|**2026-02-03**|**Beyond Independent Genes: Learning Module-Inductive Representations for Gene Perturbation Prediction**|Jiafa Ruan et.al.|[2602.04901](http://arxiv.org/abs/2602.04901)|null|
 |**2026-02-02**|**Flow Policy Gradients for Robot Control**|Brent Yi et.al.|[2602.02481](http://arxiv.org/abs/2602.02481)|null|
 |**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
 |**2026-02-02**|**PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning**|Amisha Bhaskar et.al.|[2602.02396](http://arxiv.org/abs/2602.02396)|null|
