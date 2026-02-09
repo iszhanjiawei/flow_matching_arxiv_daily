@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices**|Ruchika Chavhan et.al.|[2602.06879](http://arxiv.org/abs/2602.06879)|null|
+|**2026-02-06**|**FlowDA: Accurate, Low-Latency Weather Data Assimilation via Flow Matching**|Ran Cheng et.al.|[2602.06800](http://arxiv.org/abs/2602.06800)|null|
+|**2026-02-06**|**SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers**|Shentong Mo et.al.|[2602.06706](http://arxiv.org/abs/2602.06706)|null|
+|**2026-02-06**|**Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation**|Antareep Singha et.al.|[2602.06698](http://arxiv.org/abs/2602.06698)|null|
+|**2026-02-06**|**Memory-Conditioned Flow-Matching for Stable Autoregressive PDE Rollouts**|Victor Armegioiu et.al.|[2602.06689](http://arxiv.org/abs/2602.06689)|null|
+|**2026-02-06**|**Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO**|Yunze Tong et.al.|[2602.06422](http://arxiv.org/abs/2602.06422)|null|
 |**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
 |**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755](http://arxiv.org/abs/2602.05755)|null|
 |**2026-02-05**|**Path-Guided Flow Matching for Dataset Distillation**|Xuhui Li et.al.|[2602.05616](http://arxiv.org/abs/2602.05616)|null|
@@ -26,6 +32,7 @@
 |**2026-02-05**|**Disentangled Representation Learning via Flow Matching**|Jinjin Chi et.al.|[2602.05214](http://arxiv.org/abs/2602.05214)|null|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
 |**2026-02-05**|**Total Variation Rates for Riemannian Flow Matching**|Yunrui Guan et.al.|[2602.05174](http://arxiv.org/abs/2602.05174)|null|
+|**2026-02-05**|**Flow Matching for Offline Reinforcement Learning with Discrete Actions**|Fairoz Nower Khan et.al.|[2602.06138](http://arxiv.org/abs/2602.06138)|null|
 |**2026-02-04**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
 |**2026-02-04**|**Continuous Degradation Modeling via Latent Flow Matching for Real-World Super-Resolution**|Hyeonjae Kim et.al.|[2602.04193](http://arxiv.org/abs/2602.04193)|null|
