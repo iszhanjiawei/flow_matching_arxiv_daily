@@ -14,8 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
+|**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[2602.10099](http://arxiv.org/abs/2602.10099)|null|
+|**2026-02-10**|**Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization**|Ye Wang et.al.|[2602.09722](http://arxiv.org/abs/2602.09722)|null|
+|**2026-02-10**|**Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing**|Yan Luo et.al.|[2602.09449](http://arxiv.org/abs/2602.09449)|null|
 |**2026-02-09**|**Joint Channel Sounding and Source-Channel Coding for MIMO-OFDM Systems: Deep Unified Encoding and Parallel Flow-Matching Decoding**|Hao Jiang et.al.|[2602.08795](http://arxiv.org/abs/2602.08795)|null|
-|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
 |**2026-02-09**|**Is Flow Matching Just Trajectory Replay for Sequential Data?**|Soon Hoe Lim et.al.|[2602.08318](http://arxiv.org/abs/2602.08318)|null|
 |**2026-02-09**|**Fast Flow Matching based Conditional Independence Tests for Causal Discovery**|Shunyu Zhao et.al.|[2602.08315](http://arxiv.org/abs/2602.08315)|null|
 |**2026-02-08**|**Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning**|Manan Tayal et.al.|[2602.08054](http://arxiv.org/abs/2602.08054)|null|
