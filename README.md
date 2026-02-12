@@ -14,10 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
+|**2026-02-11**|**Transport, Don't Generate: Deterministic Geometric Flows for Combinatorial Optimization**|Benjy Friedmann et.al.|[2602.10794](http://arxiv.org/abs/2602.10794)|null|
+|**2026-02-11**|**Dual-End Consistency Model**|Linwei Dong et.al.|[2602.10764](http://arxiv.org/abs/2602.10764)|null|
+|**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
+|**2026-02-11**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
+|**2026-02-11**|**Driving Reaction Trajectories via Latent Flow Matching**|Yili Shen et.al.|[2602.10476](http://arxiv.org/abs/2602.10476)|null|
+|**2026-02-11**|**A Multimodal Conditional Mixture Model with Distribution-Level Physics Priors**|Jinkyo Han et.al.|[2602.10451](http://arxiv.org/abs/2602.10451)|null|
+|**2026-02-11**|**Binary Flow Matching: Prediction-Loss Space Alignment for Robust Learning**|Jiadong Hong et.al.|[2602.10420](http://arxiv.org/abs/2602.10420)|null|
 |**2026-02-10**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
 |**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[2602.10099](http://arxiv.org/abs/2602.10099)|null|
 |**2026-02-10**|**Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization**|Ye Wang et.al.|[2602.09722](http://arxiv.org/abs/2602.09722)|null|
 |**2026-02-10**|**Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing**|Yan Luo et.al.|[2602.09449](http://arxiv.org/abs/2602.09449)|null|
+|**2026-02-10**|**Flow Matching with Uncertainty Quantification and Guidance**|Juyeop Han et.al.|[2602.10326](http://arxiv.org/abs/2602.10326)|null|
+|**2026-02-10**|**Comparing surface and deep horizontal distributions of depth-keeping particles in shallow fluid layers**|Lenin M. Flores Ramírez et.al.|[2602.10318](http://arxiv.org/abs/2602.10318)|null|
+|**2026-02-10**|**Adaptive Time Step Flow Matching for Autonomous Driving Motion Planning**|Ananya Trivedi et.al.|[2602.10285](http://arxiv.org/abs/2602.10285)|null|
+|**2026-02-10**|**Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe**|Md. Khairul Islam et.al.|[2602.10172](http://arxiv.org/abs/2602.10172)|null|
 |**2026-02-09**|**Joint Channel Sounding and Source-Channel Coding for MIMO-OFDM Systems: Deep Unified Encoding and Parallel Flow-Matching Decoding**|Hao Jiang et.al.|[2602.08795](http://arxiv.org/abs/2602.08795)|null|
 |**2026-02-09**|**Is Flow Matching Just Trajectory Replay for Sequential Data?**|Soon Hoe Lim et.al.|[2602.08318](http://arxiv.org/abs/2602.08318)|null|
 |**2026-02-09**|**Fast Flow Matching based Conditional Independence Tests for Causal Discovery**|Shunyu Zhao et.al.|[2602.08315](http://arxiv.org/abs/2602.08315)|null|
