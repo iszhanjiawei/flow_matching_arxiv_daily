@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
+|**2026-02-13**|**Diverging Flows: Detecting Extrapolations in Conditional Generation**|Constantinos Tsakonas et.al.|[2602.13061](http://arxiv.org/abs/2602.13061)|null|
+|**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
+|**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
+|**2026-02-13**|**FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching**|Lei Lv et.al.|[2602.12829](http://arxiv.org/abs/2602.12829)|null|
+|**2026-02-13**|**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**|Thies Oelerich et.al.|[2602.12794](http://arxiv.org/abs/2602.12794)|null|
+|**2026-02-13**|**Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models**|Nick Heppert et.al.|[2602.12734](http://arxiv.org/abs/2602.12734)|null|
+|**2026-02-13**|**Flow Matching from Viewpoint of Proximal Operators**|Kenji Fukumizu et.al.|[2602.12683](http://arxiv.org/abs/2602.12683)|null|
+|**2026-02-13**|**Generative Site-Specific Beamforming via Information-Maximizing Codebook**|Cheng-Jie Zhao et.al.|[2602.12552](http://arxiv.org/abs/2602.12552)|null|
+|**2026-02-13**|**Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models**|Bowen Ping et.al.|[2602.12529](http://arxiv.org/abs/2602.12529)|null|
 |**2026-02-12**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
 |**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
 |**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[2602.12233](http://arxiv.org/abs/2602.12233)|null|
@@ -21,6 +31,8 @@
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
 |**2026-02-12**|**ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation**|Zedong Chu et.al.|[2602.11598](http://arxiv.org/abs/2602.11598)|null|
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
+|**2026-02-12**|**LLaMo: Scaling Pretrained Language Models for Unified Motion Understanding and Generation with Continuous Autoregressive Tokens**|Zekun Li et.al.|[2602.12370](http://arxiv.org/abs/2602.12370)|null|
+|**2026-02-12**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
 |**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
 |**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
 |**2026-02-11**|**Transport, Don't Generate: Deterministic Geometric Flows for Combinatorial Optimization**|Benjy Friedmann et.al.|[2602.10794](http://arxiv.org/abs/2602.10794)|null|
