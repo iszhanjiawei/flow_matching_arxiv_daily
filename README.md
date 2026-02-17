@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
+|**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
+|**2026-02-16**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|null|
+|**2026-02-16**|**Bayesian Cosmic Void Finding with Graph Flows**|Leander Thiele et.al.|[2602.14630](http://arxiv.org/abs/2602.14630)|null|
+|**2026-02-15**|**ProAct: A Dual-System Framework for Proactive Embodied Social Agents**|Zeyi Zhang et.al.|[2602.14048](http://arxiv.org/abs/2602.14048)|null|
+|**2026-02-14**|**Pawsterior: Variational Flow Matching for Structured Simulation-Based Inference**|Jorge Carrasco-Pollo et.al.|[2602.13813](http://arxiv.org/abs/2602.13813)|null|
+|**2026-02-14**|**MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer**|Heng Zhi et.al.|[2602.13764](http://arxiv.org/abs/2602.13764)|null|
+|**2026-02-14**|**HybridFlow: A Two-Step Generative Policy for Robotic Manipulation**|Zhenchen Dong et.al.|[2602.13718](http://arxiv.org/abs/2602.13718)|null|
 |**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
 |**2026-02-13**|**Diverging Flows: Detecting Extrapolations in Conditional Generation**|Constantinos Tsakonas et.al.|[2602.13061](http://arxiv.org/abs/2602.13061)|null|
 |**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
@@ -24,6 +32,7 @@
 |**2026-02-13**|**Flow Matching from Viewpoint of Proximal Operators**|Kenji Fukumizu et.al.|[2602.12683](http://arxiv.org/abs/2602.12683)|null|
 |**2026-02-13**|**Generative Site-Specific Beamforming via Information-Maximizing Codebook**|Cheng-Jie Zhao et.al.|[2602.12552](http://arxiv.org/abs/2602.12552)|null|
 |**2026-02-13**|**Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models**|Bowen Ping et.al.|[2602.12529](http://arxiv.org/abs/2602.12529)|null|
+|**2026-02-13**|**FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation**|Huajian Zeng et.al.|[2602.13444](http://arxiv.org/abs/2602.13444)|null|
 |**2026-02-12**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
 |**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
 |**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[2602.12233](http://arxiv.org/abs/2602.12233)|null|
