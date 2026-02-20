@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909](http://arxiv.org/abs/2602.15909)|null|
+|**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[2602.17586](http://arxiv.org/abs/2602.17586)|null|
+|**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
+|**2026-02-19**|**MGD: Moment Guided Diffusion for Maximum Entropy Generation**|Etienne Lempereur et.al.|[2602.17211](http://arxiv.org/abs/2602.17211)|null|
+|**2026-02-19**|**Grasp Synthesis Matching From Rigid To Soft Robot Grippers Using Conditional Flow Matching**|Tanisha Parulekar et.al.|[2602.17110](http://arxiv.org/abs/2602.17110)|null|
+|**2026-02-19**|**Synergizing Transport-Based Generative Models and Latent Geometry for Stochastic Closure Modeling**|Xinghao Dong et.al.|[2602.17089](http://arxiv.org/abs/2602.17089)|null|
 |**2026-02-17**|**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**|Thies Oelerich et.al.|[2602.12794](http://arxiv.org/abs/2602.12794)|null|
 |**2026-02-17**|**Consistency-Preserving Diverse Video Generation**|Xinshuang Liu et.al.|[2602.15287](http://arxiv.org/abs/2602.15287)|null|
 |**2026-02-17**|**MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching**|Cheng Zeng et.al.|[2602.16020](http://arxiv.org/abs/2602.16020)|null|
@@ -22,7 +28,6 @@
 |**2026-02-16**|**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**|Xingjian Wu et.al.|[2602.14681](http://arxiv.org/abs/2602.14681)|null|
 |**2026-02-16**|**Bayesian Cosmic Void Finding with Graph Flows**|Leander Thiele et.al.|[2602.14630](http://arxiv.org/abs/2602.14630)|null|
 |**2026-02-16**|**PolyNODE: Variable-dimension Neural ODEs on M-polyfolds**|Per Åhag et.al.|[2602.15128](http://arxiv.org/abs/2602.15128)|null|
-|**2026-02-16**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909](http://arxiv.org/abs/2602.15909)|null|
 |**2026-02-15**|**ProAct: A Dual-System Framework for Proactive Embodied Social Agents**|Zeyi Zhang et.al.|[2602.14048](http://arxiv.org/abs/2602.14048)|null|
 |**2026-02-14**|**Pawsterior: Variational Flow Matching for Structured Simulation-Based Inference**|Jorge Carrasco-Pollo et.al.|[2602.13813](http://arxiv.org/abs/2602.13813)|null|
 |**2026-02-14**|**MOTIF: Learning Action Motifs for Few-shot Cross-Embodiment Transfer**|Heng Zhi et.al.|[2602.13764](http://arxiv.org/abs/2602.13764)|null|
