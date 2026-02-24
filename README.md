@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
+|**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
+|**2026-02-20**|**MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows**|Takuhiro Kaneko et.al.|[2602.18104](http://arxiv.org/abs/2602.18104)|null|
+|**2026-02-20**|**Balancing Symmetry and Efficiency in Graph Flow Matching**|Benjamin Honoré et.al.|[2602.18084](http://arxiv.org/abs/2602.18084)|null|
 |**2026-02-19**|**Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis**|Pengfei Zhang et.al.|[2602.15909](http://arxiv.org/abs/2602.15909)|null|
 |**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[2602.17586](http://arxiv.org/abs/2602.17586)|null|
 |**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
@@ -1321,5 +1326,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
