@@ -14,6 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
+|**2026-02-23**|**MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving**|Junli Wang et.al.|[2602.20060](http://arxiv.org/abs/2602.20060)|null|
+|**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[2602.20057](http://arxiv.org/abs/2602.20057)|null|
+|**2026-02-23**|**De novo molecular structure elucidation from mass spectra via flow matching**|Ghaith Mqawass et.al.|[2602.19912](http://arxiv.org/abs/2602.19912)|null|
+|**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719](http://arxiv.org/abs/2602.19719)|null|
+|**2026-02-23**|**An LLM-Enabled Frequency-Aware Flow Diffusion Model for Natural-Language-Guided Power System Scenario Generation**|Zhenghao Zhou et.al.|[2602.19522](http://arxiv.org/abs/2602.19522)|null|
+|**2026-02-23**|**Laplacian Multi-scale Flow Matching for Generative Modeling**|Zelin Zhao et.al.|[2602.19461](http://arxiv.org/abs/2602.19461)|null|
+|**2026-02-22**|**AdsorbFlow: energy-conditioned flow matching enables fast and realistic adsorbate placement**|Jiangjie Qiu et.al.|[2602.19289](http://arxiv.org/abs/2602.19289)|null|
+|**2026-02-22**|**Visual Prompt Guided Unified Pushing Policy**|Hieu Bui et.al.|[2602.19193](http://arxiv.org/abs/2602.19193)|null|
+|**2026-02-21**|**GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models**|Agnieszka Polowczyk et.al.|[2602.18812](http://arxiv.org/abs/2602.18812)|null|
+|**2026-02-21**|**Statistical Error Bounds for Generative Solvers of Chaotic PDEs: Wasserstein Stability, Generalization, and Turbulence**|Victor Armegioiu et.al.|[2602.18794](http://arxiv.org/abs/2602.18794)|null|
+|**2026-02-21**|**Insertion Based Sequence Generation with Learnable Order Dynamics**|Dhruvesh Patel et.al.|[2602.18695](http://arxiv.org/abs/2602.18695)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
 |**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
 |**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
