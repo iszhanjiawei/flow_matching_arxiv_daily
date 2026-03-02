@@ -14,9 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Provably Safe Generative Sampling with Constricting Barrier Functions**|Darshan Gadginmath et.al.|[2602.21429](http://arxiv.org/abs/2602.21429)|null|
+|**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[2602.24289](http://arxiv.org/abs/2602.24289)|null|
+|**2026-02-27**|**Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics**|Egor Antipov et.al.|[2602.24201](http://arxiv.org/abs/2602.24201)|null|
+|**2026-02-27**|**ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation**|Fan Yang et.al.|[2602.23901](http://arxiv.org/abs/2602.23901)|null|
+|**2026-02-27**|**OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control**|Yunshen Wang et.al.|[2602.23843](http://arxiv.org/abs/2602.23843)|null|
+|**2026-02-27**|**Flowette: Flow Matching with Graphette Priors for Graph Generation**|Asiri Wijesinghe et.al.|[2602.23566](http://arxiv.org/abs/2602.23566)|null|
 |**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|null|
 |**2026-02-26**|**InCoM: Intent-Driven Perception and Structured Coordination for Whole-Body Mobile Manipulation**|Jiahao Liu et.al.|[2602.23024](http://arxiv.org/abs/2602.23024)|null|
 |**2026-02-26**|**ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control**|Akihisa Watanabe et.al.|[2602.22742](http://arxiv.org/abs/2602.22742)|null|
+|**2026-02-26**|**Uncovering Physical Drivers of Dark Matter Halo Structures with Auxiliary-Variable-Guided Generative Models**|Arkaprabha Ganguli et.al.|[2602.23518](http://arxiv.org/abs/2602.23518)|null|
 |**2026-02-25**|**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**|Euisoo Jung et.al.|[2602.21760](http://arxiv.org/abs/2602.21760)|null|
 |**2026-02-25**|**Score-Based Conditional Flow Models for MIMO Receiver Design with Superimposed Pilots**|Ruhao Zhang et.al.|[2602.21654](http://arxiv.org/abs/2602.21654)|null|
 |**2026-02-25**|**D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching**|Meet Hemant Parikh et.al.|[2602.21469](http://arxiv.org/abs/2602.21469)|null|
@@ -25,7 +32,6 @@
 |**2026-02-24**|**Communication-Inspired Tokenization for Structured Image Representations**|Aram Davtyan et.al.|[2602.20731](http://arxiv.org/abs/2602.20731)|null|
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-24**|**Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation**|Lin Li et.al.|[2602.20479](http://arxiv.org/abs/2602.20479)|null|
-|**2026-02-24**|**Provably Safe Generative Sampling with Constricting Barrier Functions**|Darshan Gadginmath et.al.|[2602.21429](http://arxiv.org/abs/2602.21429)|null|
 |**2026-02-24**|**Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials**|Alex Morehead et.al.|[2602.22251](http://arxiv.org/abs/2602.22251)|null|
 |**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
 |**2026-02-23**|**MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving**|Junli Wang et.al.|[2602.20060](http://arxiv.org/abs/2602.20060)|null|
