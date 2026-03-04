@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-02**|**CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space**|Bowen Zhang et.al.|[2603.02022](http://arxiv.org/abs/2603.02022)|null|
+|**2026-03-03**|**CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space**|Bowen Zhang et.al.|[2603.02022](http://arxiv.org/abs/2603.02022)|null|
+|**2026-03-03**|**Flow Matching-enabled Test-Time Refinement for Unsupervised Cardiac MR Registration**|Yunguan Fu et.al.|[2603.01073](http://arxiv.org/abs/2603.01073)|null|
+|**2026-03-03**|**DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space**|Jiwon Park et.al.|[2603.02976](http://arxiv.org/abs/2603.02976)|null|
+|**2026-03-03**|**Toward Early Quality Assessment of Text-to-Image Diffusion Models**|Huanlei Guo et.al.|[2603.02829](http://arxiv.org/abs/2603.02829)|null|
+|**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
 |**2026-03-02**|**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**|Chenxing Wei et.al.|[2603.01563](http://arxiv.org/abs/2603.01563)|null|
 |**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Yang Chen et.al.|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
 |**2026-03-02**|**DARS: Dysarthria-Aware Rhythm-Style Synthesis for ASR Enhancement**|Minghui Wu et.al.|[2603.01369](http://arxiv.org/abs/2603.01369)|null|
-|**2026-03-01**|**Flow Matching-enabled Test-Time Refinement for Unsupervised Cardiac MR Registration**|Yunguan Fu et.al.|[2603.01073](http://arxiv.org/abs/2603.01073)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
+|**2026-03-02**|**Preconditioned Score and Flow Matching**|Shadab Ahamed et.al.|[2603.02337](http://arxiv.org/abs/2603.02337)|null|
 |**2026-03-01**|**GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis**|Xuqin Wang et.al.|[2603.01010](http://arxiv.org/abs/2603.01010)|null|
 |**2026-03-01**|**AG-REPA: Causal Layer Selection for Representation Alignment in Audio Flow Matching**|Pengfei Zhang et.al.|[2603.01006](http://arxiv.org/abs/2603.01006)|null|
 |**2026-03-01**|**EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization**|Zhaoxin Fan et.al.|[2603.00978](http://arxiv.org/abs/2603.00978)|null|
