@@ -14,10 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Toward Early Quality Assessment of Text-to-Image Diffusion Models**|Huanlei Guo et.al.|[2603.02829](http://arxiv.org/abs/2603.02829)|null|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**What Does Flow Matching Bring To TD Learning?**|Bhavya Agrawalla et.al.|[2603.04333](http://arxiv.org/abs/2603.04333)|null|
+|**2026-03-04**|**FlowW2N: Whispered-to-Normal Speech Conversion via Flow-Matching**|Fabian Ritter-Gutierrez et.al.|[2603.04296](http://arxiv.org/abs/2603.04296)|null|
+|**2026-03-04**|**Structural Action Transformer for 3D Dexterous Manipulation**|Xiaohan Lei et.al.|[2603.03960](http://arxiv.org/abs/2603.03960)|null|
+|**2026-03-04**|**MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction**|Seunghoi Kim et.al.|[2603.03710](http://arxiv.org/abs/2603.03710)|null|
+|**2026-03-04**|**One-Step Face Restoration via Shortcut-Enhanced Coupling Flow**|Xiaohui Sun et.al.|[2603.03648](http://arxiv.org/abs/2603.03648)|null|
 |**2026-03-03**|**CodecFlow: Efficient Bandwidth Extension via Conditional Flow Matching in Neural Codec Latent Space**|Bowen Zhang et.al.|[2603.02022](http://arxiv.org/abs/2603.02022)|null|
 |**2026-03-03**|**Flow Matching-enabled Test-Time Refinement for Unsupervised Cardiac MR Registration**|Yunguan Fu et.al.|[2603.01073](http://arxiv.org/abs/2603.01073)|null|
 |**2026-03-03**|**DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space**|Jiwon Park et.al.|[2603.02976](http://arxiv.org/abs/2603.02976)|null|
-|**2026-03-03**|**Toward Early Quality Assessment of Text-to-Image Diffusion Models**|Huanlei Guo et.al.|[2603.02829](http://arxiv.org/abs/2603.02829)|null|
 |**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
 |**2026-03-02**|**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**|Chenxing Wei et.al.|[2603.01563](http://arxiv.org/abs/2603.01563)|null|
 |**2026-03-02**|**Mean-Flow based One-Step Vision-Language-Action**|Yang Chen et.al.|[2603.01469](http://arxiv.org/abs/2603.01469)|null|
