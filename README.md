@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking**|Weikai Qin et.al.|[2603.05410](http://arxiv.org/abs/2603.05410)|null|
+|**2026-03-05**|**Distribution-Conditioned Transport**|Nic Fishman et.al.|[2603.04736](http://arxiv.org/abs/2603.04736)|null|
+|**2026-03-05**|**Count Bridges enable Modeling and Deconvolving Transcriptomic Data**|Nic Fishman et.al.|[2603.04730](http://arxiv.org/abs/2603.04730)|null|
 |**2026-03-04**|**Toward Early Quality Assessment of Text-to-Image Diffusion Models**|Huanlei Guo et.al.|[2603.02829](http://arxiv.org/abs/2603.02829)|null|
 |**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
 |**2026-03-04**|**What Does Flow Matching Bring To TD Learning?**|Bhavya Agrawalla et.al.|[2603.04333](http://arxiv.org/abs/2603.04333)|null|
