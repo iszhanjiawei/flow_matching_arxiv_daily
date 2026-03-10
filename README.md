@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
+|**2026-03-09**|**STRIDE: Structured Lagrangian and Stochastic Residual Dynamics via Flow Matching**|Prakrut Kotecha et.al.|[2603.08478](http://arxiv.org/abs/2603.08478)|null|
+|**2026-03-09**|**FlowTouch: View-Invariant Visuo-Tactile Prediction**|Seongjin Bien et.al.|[2603.08255](http://arxiv.org/abs/2603.08255)|null|
+|**2026-03-09**|**Choose What to Observe: Task-Aware Semantic-Geometric Representations for Visuomotor Policy**|Haoran Ding et.al.|[2603.07875](http://arxiv.org/abs/2603.07875)|null|
+|**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](http://arxiv.org/abs/2603.07513)|null|
+|**2026-03-08**|**Contact-Guided 3D Genome Structure Generation of E. coli via Diffusion Transformers**|Mingxin Zhang et.al.|[2603.07472](http://arxiv.org/abs/2603.07472)|null|
 |**2026-03-06**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-06**|**Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**|Hila Chefer et.al.|[2603.06507](http://arxiv.org/abs/2603.06507)|null|
 |**2026-03-06**|**Training Flow Matching: The Role of Weighting and Parameterization**|Anne Gagneux et.al.|[2603.06454](http://arxiv.org/abs/2603.06454)|null|
