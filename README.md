@@ -1,4 +1,4 @@
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**From Flow to One Step: Real-Time Multi-Modal Trajectory Policies via Implicit Maximum Likelihood Estimation-based Distribution Distillation**|Ju Dong et.al.|[2603.09415](http://arxiv.org/abs/2603.09415)|null|
+|**2026-03-10**|**CogBlender: Towards Continuous Cognitive Intervention in Text-to-Image Generation**|Shengqi Dang et.al.|[2603.09286](http://arxiv.org/abs/2603.09286)|null|
+|**2026-03-10**|**StuPASE: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement**|Xiaobin Rong et.al.|[2603.09234](http://arxiv.org/abs/2603.09234)|null|
+|**2026-03-10**|**UniField: A Unified Field-Aware MRI Enhancement Framework**|Yiyang Lin et.al.|[2603.09223](http://arxiv.org/abs/2603.09223)|null|
+|**2026-03-10**|**GST-VLA: Structured Gaussian Spatial Tokens for 3D Depth-Aware Vision-Language-Action Models**|Md Selim Sarowar et.al.|[2603.09079](http://arxiv.org/abs/2603.09079)|null|
 |**2026-03-09**|**X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**|Youngseo Kim et.al.|[2603.08483](http://arxiv.org/abs/2603.08483)|null|
 |**2026-03-09**|**STRIDE: Structured Lagrangian and Stochastic Residual Dynamics via Flow Matching**|Prakrut Kotecha et.al.|[2603.08478](http://arxiv.org/abs/2603.08478)|null|
 |**2026-03-09**|**FlowTouch: View-Invariant Visuo-Tactile Prediction**|Seongjin Bien et.al.|[2603.08255](http://arxiv.org/abs/2603.08255)|null|
 |**2026-03-09**|**Choose What to Observe: Task-Aware Semantic-Geometric Representations for Visuomotor Policy**|Haoran Ding et.al.|[2603.07875](http://arxiv.org/abs/2603.07875)|null|
+|**2026-03-09**|**The Coupling Within: Flow Matching via Distilled Normalizing Flows**|David Berthelot et.al.|[2603.09014](http://arxiv.org/abs/2603.09014)|null|
+|**2026-03-09**|**Statistical Inference via Generative Models: Flow Matching and Causal Inference**|Shinto Eguchi et.al.|[2603.09009](http://arxiv.org/abs/2603.09009)|null|
 |**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](http://arxiv.org/abs/2603.07513)|null|
 |**2026-03-08**|**Contact-Guided 3D Genome Structure Generation of E. coli via Diffusion Transformers**|Mingxin Zhang et.al.|[2603.07472](http://arxiv.org/abs/2603.07472)|null|
 |**2026-03-06**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
@@ -1398,5 +1405,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
