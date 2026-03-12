@@ -22,6 +22,7 @@
 |**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448](http://arxiv.org/abs/2603.10448)|null|
 |**2026-03-11**|**SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning**|Jianhe Low et.al.|[2603.10446](http://arxiv.org/abs/2603.10446)|null|
 |**2026-03-11**|**Graph-GRPO: Training Graph Flow Models with Reinforcement Learning**|Baoheng Zhu et.al.|[2603.10395](http://arxiv.org/abs/2603.10395)|null|
+|**2026-03-11**|**LiTo: Surface Light Field Tokenization**|Jen-Hao Rick Chang et.al.|[2603.11047](http://arxiv.org/abs/2603.11047)|null|
 |**2026-03-10**|**From Flow to One Step: Real-Time Multi-Modal Trajectory Policies via Implicit Maximum Likelihood Estimation-based Distribution Distillation**|Ju Dong et.al.|[2603.09415](http://arxiv.org/abs/2603.09415)|null|
 |**2026-03-10**|**CogBlender: Towards Continuous Cognitive Intervention in Text-to-Image Generation**|Shengqi Dang et.al.|[2603.09286](http://arxiv.org/abs/2603.09286)|null|
 |**2026-03-10**|**StuPASE: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement**|Xiaobin Rong et.al.|[2603.09234](http://arxiv.org/abs/2603.09234)|null|
