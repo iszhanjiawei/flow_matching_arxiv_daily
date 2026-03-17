@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
+|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
+|**2026-03-16**|**HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**|Konstantin Gubernatorov et.al.|[2603.15257](http://arxiv.org/abs/2603.15257)|null|
+|**2026-03-16**|**WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation**|Hainuo Wang et.al.|[2603.15132](http://arxiv.org/abs/2603.15132)|null|
+|**2026-03-16**|**Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching**|Fangran Miao et.al.|[2603.15016](http://arxiv.org/abs/2603.15016)|null|
+|**2026-03-16**|**TrajFlow: Nation-wide Pseudo GPS Trajectory Generation with Flow Matching Models**|Peiran Li et.al.|[2603.15009](http://arxiv.org/abs/2603.15009)|null|
+|**2026-03-16**|**AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas**|Longhui Yuan et.al.|[2603.14770](http://arxiv.org/abs/2603.14770)|null|
+|**2026-03-15**|**Controllable Accent Normalization via Discrete Diffusion**|Qibing Bai et.al.|[2603.14275](http://arxiv.org/abs/2603.14275)|null|
+|**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-15**|**GoldenStart: Q-Guided Priors and Entropy Control for Distilling Flow Policies**|He Zhang et.al.|[2603.14245](http://arxiv.org/abs/2603.14245)|null|
+|**2026-03-15**|**DualTSR: Unified Dual-Diffusion Transformer for Scene Text Image Super-Resolution**|Axi Niu et.al.|[2603.14207](http://arxiv.org/abs/2603.14207)|null|
 |**2026-03-14**|**Solving physics-constrained inverse problems with conditional flow matching**|Agnimitra Dasgupta et.al.|[2603.14135](http://arxiv.org/abs/2603.14135)|null|
 |**2026-03-14**|**Diffusion Reinforcement Learning via Centered Reward Distillation**|Yuanzhi Zhu et.al.|[2603.14128](http://arxiv.org/abs/2603.14128)|null|
 |**2026-03-14**|**Beyond Two-stage Diffusion TTS: Joint Structure and Content Refinement via Jump Diffusion**|Jiabao Ai et.al.|[2603.14032](http://arxiv.org/abs/2603.14032)|null|
@@ -23,7 +34,6 @@
 |**2026-03-14**|**KoopmanFlow: Spectrally Decoupled Generative Control Policy via Koopman Structural Bias**|Chengsi Yao et.al.|[2603.13781](http://arxiv.org/abs/2603.13781)|null|
 |**2026-03-14**|**PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers**|Eshed Gal et.al.|[2603.13663](http://arxiv.org/abs/2603.13663)|null|
 |**2026-03-14**|**FMS $^2$ : Unified Flow Matching for Segmentation and Synthesis of Thin Structures**|Babak Asadi et.al.|[2603.13659](http://arxiv.org/abs/2603.13659)|null|
-|**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
 |**2026-03-13**|**SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization**|Tianwei Ye et.al.|[2603.12937](http://arxiv.org/abs/2603.12937)|null|
 |**2026-03-13**|**Mask2Flow-TSE: Two-Stage Target Speaker Extraction with Masking and Flow Matching**|Junwon Moon et.al.|[2603.12837](http://arxiv.org/abs/2603.12837)|null|
 |**2026-03-13**|**OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution**|Shijie Zhao et.al.|[2603.12811](http://arxiv.org/abs/2603.12811)|null|
