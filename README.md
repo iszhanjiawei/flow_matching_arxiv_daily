@@ -14,15 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Flow Matching Policy with Entropy Regularization**|Ting Gao et.al.|[2603.17685](http://arxiv.org/abs/2603.17685)|null|
 |**2026-03-19**|**CAFlow: Adaptive-Depth Single-Step Flow Matching for Efficient Histopathology Super-Resolution**|Elad Yoshai et.al.|[2603.18513](http://arxiv.org/abs/2603.18513)|null|
 |**2026-03-19**|**From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions**|Jingzhi Chen et.al.|[2603.18505](http://arxiv.org/abs/2603.18505)|null|
 |**2026-03-19**|**FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra**|Jianan Nie et.al.|[2603.18397](http://arxiv.org/abs/2603.18397)|null|
+|**2026-03-19**|**Rethinking Vector Field Learning for Generative Segmentation**|Chaoyang Wang et.al.|[2603.19218](http://arxiv.org/abs/2603.19218)|null|
+|**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
+|**2026-03-19**|**Radar Detection through Rectified Flow Matching**|P. Meena et.al.|[2603.18995](http://arxiv.org/abs/2603.18995)|null|
+|**2026-03-19**|**Foundations of Schrödinger Bridges for Generative Modeling**|Sophia Tang et.al.|[2603.18992](http://arxiv.org/abs/2603.18992)|null|
 |**2026-03-18**|**AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization**|Dailan He et.al.|[2603.17461](http://arxiv.org/abs/2603.17461)|null|
 |**2026-03-18**|**Large-Scale 3D Ground-Motion Synthesis with Physics-Inspired Latent Operator Flow Matching**|Yaozhong Shi et.al.|[2603.17403](http://arxiv.org/abs/2603.17403)|null|
 |**2026-03-18**|**Cohomological Obstructions to Global Counterfactuals: A Sheaf-Theoretic Foundation for Generative Causal Models**|Rui Wu et.al.|[2603.17384](http://arxiv.org/abs/2603.17384)|null|
 |**2026-03-18**|**ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models**|Zhou Fang et.al.|[2603.17850](http://arxiv.org/abs/2603.17850)|null|
 |**2026-03-18**|**Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**|Zunzhe Zhang et.al.|[2603.17834](http://arxiv.org/abs/2603.17834)|null|
-|**2026-03-18**|**Flow Matching Policy with Entropy Regularization**|Ting Gao et.al.|[2603.17685](http://arxiv.org/abs/2603.17685)|null|
 |**2026-03-18**|**Few-Step Diffusion Sampling Through Instance-Aware Discretizations**|Liangyu Yuan et.al.|[2603.17671](http://arxiv.org/abs/2603.17671)|null|
 |**2026-03-18**|**Q-Drift: Quantization-Aware Drift Correction for Diffusion Model Sampling**|Sooyoung Ryu et.al.|[2603.18095](http://arxiv.org/abs/2603.18095)|null|
 |**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
