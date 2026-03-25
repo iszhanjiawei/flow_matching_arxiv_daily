@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
+|**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
+|**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
 |**2026-03-23**|**Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models**|Purui Bai et.al.|[2603.22027](http://arxiv.org/abs/2603.22027)|null|
 |**2026-03-23**|**Show Me What You Don't Know: Efficient Sampling from Invariant Sets for Model Validation**|Armand Rousselot et.al.|[2603.21782](http://arxiv.org/abs/2603.21782)|null|
-|**2026-03-23**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-23**|**AdaEdit: Adaptive Temporal and Channel Modulation for Flow-Based Image Editing**|Guandong Li et.al.|[2603.21615](http://arxiv.org/abs/2603.21615)|null|
 |**2026-03-23**|**DiT-Flow: Speech Enhancement Robust to Multiple Distortions based on Flow Matching in Latent Space and Diffusion Transformers**|Tianyu Cao et.al.|[2603.21608](http://arxiv.org/abs/2603.21608)|null|
 |**2026-03-23**|**TrajLoom: Dense Future Trajectory Generation from Video**|Zewei Zhang et.al.|[2603.22606](http://arxiv.org/abs/2603.22606)|null|
