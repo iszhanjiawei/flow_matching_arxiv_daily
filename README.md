@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**|Hanbyel Cho et.al.|[2603.23983](http://arxiv.org/abs/2603.23983)|null|
+|**2026-03-25**|**ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities**|Tri Minh Nguyen et.al.|[2603.23943](http://arxiv.org/abs/2603.23943)|null|
 |**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
@@ -1487,5 +1489,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
