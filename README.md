@@ -16,6 +16,7 @@
 |---|---|---|---|---|
 |**2026-03-25**|**SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**|Hanbyel Cho et.al.|[2603.23983](http://arxiv.org/abs/2603.23983)|null|
 |**2026-03-25**|**ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities**|Tri Minh Nguyen et.al.|[2603.23943](http://arxiv.org/abs/2603.23943)|null|
+|**2026-03-25**|**Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching**|Arsen Kuzhamuratov et.al.|[2603.24428](http://arxiv.org/abs/2603.24428)|null|
 |**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
