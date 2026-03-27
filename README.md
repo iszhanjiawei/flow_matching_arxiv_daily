@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399](http://arxiv.org/abs/2603.25399)|null|
+|**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038](http://arxiv.org/abs/2603.25038)|null|
+|**2026-03-26**|**GDPO-Listener: Expressive Interactive Head Generation via Auto-Regressive Flow Matching and Group reward-Decoupled Policy Optimization**|Zhangyu Jin et.al.|[2603.25020](http://arxiv.org/abs/2603.25020)|null|
+|**2026-03-26**|**BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation**|Yasong Dai et.al.|[2603.24942](http://arxiv.org/abs/2603.24942)|null|
+|**2026-03-26**|**TIGFlow-GRPO: Trajectory Forecasting via Interaction-Aware Flow Matching and Reward-Driven Optimization**|Xuepeng Jing et.al.|[2603.24936](http://arxiv.org/abs/2603.24936)|null|
 |**2026-03-25**|**SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating**|Hanbyel Cho et.al.|[2603.23983](http://arxiv.org/abs/2603.23983)|null|
 |**2026-03-25**|**ChargeFlow: Flow-Matching Refinement of Charge-Conditioned Electron Densities**|Tri Minh Nguyen et.al.|[2603.23943](http://arxiv.org/abs/2603.23943)|null|
 |**2026-03-25**|**Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching**|Arsen Kuzhamuratov et.al.|[2603.24428](http://arxiv.org/abs/2603.24428)|null|
+|**2026-03-25**|**Flow matching on homogeneous spaces**|Francesco Ruscelli et.al.|[2603.24829](http://arxiv.org/abs/2603.24829)|null|
+|**2026-03-25**|**Synthetic Cardiac MRI Image Generation using Deep Generative Models**|Ishan Kumarasinghe et.al.|[2603.24764](http://arxiv.org/abs/2603.24764)|null|
 |**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717](http://arxiv.org/abs/2603.21717)|null|
 |**2026-03-24**|**UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation**|Jie Liu et.al.|[2603.23500](http://arxiv.org/abs/2603.23500)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Brian Chao et.al.|[2603.23491](http://arxiv.org/abs/2603.23491)|null|
@@ -1490,5 +1497,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
