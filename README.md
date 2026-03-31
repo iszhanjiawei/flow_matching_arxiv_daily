@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**Stepwise Credit Assignment for GRPO on Flow-Matching Models**|Yash Savani et.al.|[2603.28718](http://arxiv.org/abs/2603.28718)|null|
+|**2026-03-30**|**Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation**|Yoann Boget et.al.|[2603.28572](http://arxiv.org/abs/2603.28572)|null|
+|**2026-03-30**|**StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**|Yiran Shi et.al.|[2603.28565](http://arxiv.org/abs/2603.28565)|null|
+|**2026-03-30**|**Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow**|Quan Meng et.al.|[2603.28548](http://arxiv.org/abs/2603.28548)|null|
+|**2026-03-30**|**FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation**|Ruiyang Wang et.al.|[2603.27986](http://arxiv.org/abs/2603.27986)|null|
 |**2026-03-28**|**HiFlow: Tokenization-Free Scale-Wise Autoregressive Policy Learning via Flow Matching**|Daichi Yashima et.al.|[2603.27281](http://arxiv.org/abs/2603.27281)|null|
 |**2026-03-27**|**Unified Number-Free Text-to-Motion Generation Via Flow Matching**|Guanhe Huang et.al.|[2603.27040](http://arxiv.org/abs/2603.27040)|null|
 |**2026-03-27**|**Probabilistic Forecasting of Localized Wildfire Spread Based on Conditional Flow Matching**|Bryan Shaddy et.al.|[2603.26975](http://arxiv.org/abs/2603.26975)|null|
