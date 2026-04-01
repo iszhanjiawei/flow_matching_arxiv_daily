@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models**|Jules Ripoll et.al.|[2603.29591](http://arxiv.org/abs/2603.29591)|null|
+|**2026-03-31**|**WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation**|Amogh Joshi et.al.|[2603.29089](http://arxiv.org/abs/2603.29089)|null|
 |**2026-03-30**|**Stepwise Credit Assignment for GRPO on Flow-Matching Models**|Yash Savani et.al.|[2603.28718](http://arxiv.org/abs/2603.28718)|null|
 |**2026-03-30**|**Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation**|Yoann Boget et.al.|[2603.28572](http://arxiv.org/abs/2603.28572)|null|
 |**2026-03-30**|**StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**|Yiran Shi et.al.|[2603.28565](http://arxiv.org/abs/2603.28565)|null|
 |**2026-03-30**|**Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow**|Quan Meng et.al.|[2603.28548](http://arxiv.org/abs/2603.28548)|null|
 |**2026-03-30**|**FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation**|Ruiyang Wang et.al.|[2603.27986](http://arxiv.org/abs/2603.27986)|null|
+|**2026-03-30**|**ARCS: Autoregressive Circuit Synthesis with Topology-Aware Graph Attention and Spec Conditioning**|Tushar Dhananjay Pathak et.al.|[2603.29068](http://arxiv.org/abs/2603.29068)|null|
+|**2026-03-30**|**An Explicit Surrogate for Gaussian Mixture Flow Matching with Wasserstein Gap Bounds**|Elham Rostami et.al.|[2603.28992](http://arxiv.org/abs/2603.28992)|null|
 |**2026-03-28**|**HiFlow: Tokenization-Free Scale-Wise Autoregressive Policy Learning via Flow Matching**|Daichi Yashima et.al.|[2603.27281](http://arxiv.org/abs/2603.27281)|null|
 |**2026-03-27**|**Unified Number-Free Text-to-Motion Generation Via Flow Matching**|Guanhe Huang et.al.|[2603.27040](http://arxiv.org/abs/2603.27040)|null|
 |**2026-03-27**|**Probabilistic Forecasting of Localized Wildfire Spread Based on Conditional Flow Matching**|Bryan Shaddy et.al.|[2603.26975](http://arxiv.org/abs/2603.26975)|null|
@@ -1518,5 +1522,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
