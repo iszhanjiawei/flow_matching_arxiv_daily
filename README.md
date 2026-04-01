@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320](http://arxiv.org/abs/2603.26320)|null|
 |**2026-03-31**|**FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models**|Jules Ripoll et.al.|[2603.29591](http://arxiv.org/abs/2603.29591)|null|
 |**2026-03-31**|**WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation**|Amogh Joshi et.al.|[2603.29089](http://arxiv.org/abs/2603.29089)|null|
 |**2026-03-30**|**Stepwise Credit Assignment for GRPO on Flow-Matching Models**|Yash Savani et.al.|[2603.28718](http://arxiv.org/abs/2603.28718)|null|
@@ -32,7 +33,6 @@
 |**2026-03-27**|**Identifying Connectivity Distributions from Neural Dynamics Using Flows**|Timothy Doyeon Kim et.al.|[2603.26506](http://arxiv.org/abs/2603.26506)|null|
 |**2026-03-27**|**Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards**|Senura Hansaja Wanasekara et.al.|[2603.26378](http://arxiv.org/abs/2603.26378)|null|
 |**2026-03-27**|**MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model**|Quan Dao et.al.|[2603.26357](http://arxiv.org/abs/2603.26357)|null|
-|**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320](http://arxiv.org/abs/2603.26320)|null|
 |**2026-03-27**|**Cinematic Audio Source Separation Using Visual Cues**|Kang Zhang et.al.|[2603.26113](http://arxiv.org/abs/2603.26113)|null|
 |**2026-03-27**|**JRM: Joint Reconstruction Model for Multiple Objects without Alignment**|Qirui Wu et.al.|[2603.25985](http://arxiv.org/abs/2603.25985)|null|
 |**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399](http://arxiv.org/abs/2603.25399)|null|
