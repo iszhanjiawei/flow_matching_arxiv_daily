@@ -1,4 +1,4 @@
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction**|Yanzhe Liang et.al.|[2604.01561](http://arxiv.org/abs/2604.01561)|null|
 |**2026-04-01**|**ARCS: Autoregressive Circuit Synthesis with Topology-Aware Graph Attention and Spec Conditioning**|Tushar Dhananjay Pathak et.al.|[2603.29068](http://arxiv.org/abs/2603.29068)|null|
 |**2026-04-01**|**Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging**|Weixi Yi et.al.|[2604.00985](http://arxiv.org/abs/2604.00985)|null|
 |**2026-04-01**|**Flow-based Policy With Distributional Reinforcement Learning in Trajectory Optimization**|Ruijie Hao et.al.|[2604.00977](http://arxiv.org/abs/2604.00977)|null|
 |**2026-04-01**|**Super-Resolving Coarse-Resolution Weather Forecasts With Flow Matching**|Aymeric Delefosse et.al.|[2604.00897](http://arxiv.org/abs/2604.00897)|null|
+|**2026-04-01**|**EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation**|Abhishek Saroha et.al.|[2604.01421](http://arxiv.org/abs/2604.01421)|null|
+|**2026-04-01**|**JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics**|Zeyu Xia et.al.|[2604.01313](http://arxiv.org/abs/2604.01313)|null|
 |**2026-03-31**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320](http://arxiv.org/abs/2603.26320)|null|
 |**2026-03-31**|**FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models**|Jules Ripoll et.al.|[2603.29591](http://arxiv.org/abs/2603.29591)|null|
 |**2026-03-31**|**WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation**|Amogh Joshi et.al.|[2603.29089](http://arxiv.org/abs/2603.29089)|null|
@@ -1527,5 +1530,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
