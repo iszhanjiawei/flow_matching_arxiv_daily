@@ -14,8 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction**|Ahan Shabanov et.al.|[2604.04874](http://arxiv.org/abs/2604.04874)|null|
+|**2026-04-06**|**Training-Free Refinement of Flow Matching with Divergence-based Sampling**|Yeonwoo Cha et.al.|[2604.04646](http://arxiv.org/abs/2604.04646)|null|
+|**2026-04-06**|**Isokinetic Flow Matching for Pathwise Straightening of Generative Flows**|Tauhid Khan et.al.|[2604.04491](http://arxiv.org/abs/2604.04491)|null|
+|**2026-04-06**|**Generative modeling of granular flow on inclined planes using conditional flow matching**|Xuyang Li et.al.|[2604.04453](http://arxiv.org/abs/2604.04453)|null|
+|**2026-04-06**|**OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text**|Weiguo Pian et.al.|[2604.04348](http://arxiv.org/abs/2604.04348)|null|
 |**2026-04-05**|**OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models**|Liyu Zhang et.al.|[2604.04142](http://arxiv.org/abs/2604.04142)|null|
 |**2026-04-05**|**TORA: Topological Representation Alignment for 3D Shape Assembly**|Nahyuk Lee et.al.|[2604.04050](http://arxiv.org/abs/2604.04050)|null|
+|**2026-04-05**|**Correcting Source Mismatch in Flow Matching with Radial-Angular Transport**|Fouad Oubari et.al.|[2604.04291](http://arxiv.org/abs/2604.04291)|null|
 |**2026-04-03**|**A Flow Matching Framework for Soft-Robot Inverse Dynamics**|Hang Yang et.al.|[2604.03006](http://arxiv.org/abs/2604.03006)|null|
 |**2026-04-03**|**Few-Shot Distribution-Aligned Flow Matching for Data Synthesis in Medical Image Segmentation**|Jie Yang et.al.|[2604.02868](http://arxiv.org/abs/2604.02868)|null|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
