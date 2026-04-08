@@ -1,4 +1,4 @@
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-07**|**Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space**|Li Kunpeng et.al.|[2604.05700](http://arxiv.org/abs/2604.05700)|null|
+|**2026-04-07**|**Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation**|Wuyang Luan et.al.|[2604.05673](http://arxiv.org/abs/2604.05673)|null|
+|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
+|**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
+|**2026-04-07**|**Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis**|Pu Wang et.al.|[2604.05482](http://arxiv.org/abs/2604.05482)|null|
 |**2026-04-06**|**Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction**|Ahan Shabanov et.al.|[2604.04874](http://arxiv.org/abs/2604.04874)|null|
 |**2026-04-06**|**Training-Free Refinement of Flow Matching with Divergence-based Sampling**|Yeonwoo Cha et.al.|[2604.04646](http://arxiv.org/abs/2604.04646)|null|
 |**2026-04-06**|**Isokinetic Flow Matching for Pathwise Straightening of Generative Flows**|Tauhid Khan et.al.|[2604.04491](http://arxiv.org/abs/2604.04491)|null|
 |**2026-04-06**|**Generative modeling of granular flow on inclined planes using conditional flow matching**|Xuyang Li et.al.|[2604.04453](http://arxiv.org/abs/2604.04453)|null|
 |**2026-04-06**|**OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text**|Weiguo Pian et.al.|[2604.04348](http://arxiv.org/abs/2604.04348)|null|
+|**2026-04-06**|**Vintix II: Decision Pre-Trained Transformer is a Scalable In-Context Reinforcement Learner**|Andrei Polubarov et.al.|[2604.05112](http://arxiv.org/abs/2604.05112)|null|
 |**2026-04-05**|**OP-GRPO: Efficient Off-Policy GRPO for Flow-Matching Models**|Liyu Zhang et.al.|[2604.04142](http://arxiv.org/abs/2604.04142)|null|
 |**2026-04-05**|**TORA: Topological Representation Alignment for 3D Shape Assembly**|Nahyuk Lee et.al.|[2604.04050](http://arxiv.org/abs/2604.04050)|null|
 |**2026-04-05**|**Correcting Source Mismatch in Flow Matching with Radial-Angular Transport**|Fouad Oubari et.al.|[2604.04291](http://arxiv.org/abs/2604.04291)|null|
@@ -28,6 +34,7 @@
 |**2026-04-03**|**Monte Carlo Event Generation with Continuous Normalizing Flows**|Enrico Bothmann et.al.|[2604.03511](http://arxiv.org/abs/2604.03511)|null|
 |**2026-04-03**|**Physics-Constrained Adaptive Flow Matching for Climate Downscaling**|Kevin Debeire et.al.|[2604.03459](http://arxiv.org/abs/2604.03459)|null|
 |**2026-04-03**|**Generative Unsupervised Downscaling of Climate Models via Domain Alignment: Application to Wind Fields**|Julie Keisler et.al.|[2604.03341](http://arxiv.org/abs/2604.03341)|null|
+|**2026-04-03**|**FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations**|Bo Liang et.al.|[2604.04957](http://arxiv.org/abs/2604.04957)|null|
 |**2026-04-02**|**ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction**|Yanzhe Liang et.al.|[2604.01561](http://arxiv.org/abs/2604.01561)|null|
 |**2026-04-02**|**Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models**|Yaoteng Tan et.al.|[2604.02265](http://arxiv.org/abs/2604.02265)|null|
 |**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
@@ -1548,5 +1555,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
