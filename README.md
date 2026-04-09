@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
+|**2026-04-08**|**Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models**|Davood Soleymanzadeh et.al.|[2604.07084](http://arxiv.org/abs/2604.07084)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
 |**2026-04-07**|**Optimal-Transport-Guided Functional Flow Matching for Turbulent Field Generation in Hilbert Space**|Li Kunpeng et.al.|[2604.05700](http://arxiv.org/abs/2604.05700)|null|
 |**2026-04-07**|**Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation**|Wuyang Luan et.al.|[2604.05673](http://arxiv.org/abs/2604.05673)|null|
-|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672](http://arxiv.org/abs/2604.05672)|null|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
 |**2026-04-07**|**Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis**|Pu Wang et.al.|[2604.05482](http://arxiv.org/abs/2604.05482)|null|
+|**2026-04-07**|**Discrete Flow Matching Policy Optimization**|Maojiang Su et.al.|[2604.06491](http://arxiv.org/abs/2604.06491)|null|
+|**2026-04-07**|**ODE-free Neural Flow Matching for One-Step Generative Modeling**|Xiao Shou et.al.|[2604.06413](http://arxiv.org/abs/2604.06413)|null|
+|**2026-04-07**|**Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities**|Arthur Stéphanovitch et.al.|[2604.06065](http://arxiv.org/abs/2604.06065)|null|
 |**2026-04-06**|**Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction**|Ahan Shabanov et.al.|[2604.04874](http://arxiv.org/abs/2604.04874)|null|
 |**2026-04-06**|**Training-Free Refinement of Flow Matching with Divergence-based Sampling**|Yeonwoo Cha et.al.|[2604.04646](http://arxiv.org/abs/2604.04646)|null|
 |**2026-04-06**|**Isokinetic Flow Matching for Pathwise Straightening of Generative Flows**|Tauhid Khan et.al.|[2604.04491](http://arxiv.org/abs/2604.04491)|null|
@@ -1555,5 +1560,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
