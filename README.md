@@ -14,9 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434](http://arxiv.org/abs/2604.09434)|null|
+|**2026-04-13**|**LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling**|Yuxin Chen et.al.|[2604.11748](http://arxiv.org/abs/2604.11748)|null|
+|**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
+|**2026-04-13**|**Continuous Adversarial Flow Models**|Shanchuan Lin et.al.|[2604.11521](http://arxiv.org/abs/2604.11521)|null|
+|**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
+|**2026-04-13**|**Probabilistic Prediction of Neural Dynamics via Autoregressive Flow Matching**|Nicole Rogalla et.al.|[2604.11178](http://arxiv.org/abs/2604.11178)|null|
+|**2026-04-13**|**Tracking High-order Evolutions via Cascading Low-rank Fitting**|Zhao Song et.al.|[2604.10980](http://arxiv.org/abs/2604.10980)|null|
+|**2026-04-13**|**ScoRe-Flow: Complete Distributional Control via Score-Based Reinforcement Learning for Flow Matching**|Xiaotian Qiu et.al.|[2604.10962](http://arxiv.org/abs/2604.10962)|null|
 |**2026-04-12**|**Rethinking the Diffusion Model from a Langevin Perspective**|Candi Zheng et.al.|[2604.10465](http://arxiv.org/abs/2604.10465)|null|
+|**2026-04-12**|**HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching**|Zerui Chen et.al.|[2604.10836](http://arxiv.org/abs/2604.10836)|null|
 |**2026-04-11**|**Closed-Form Concept Erasure via Double Projections**|Chi Zhang et.al.|[2604.10032](http://arxiv.org/abs/2604.10032)|null|
-|**2026-04-10**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434](http://arxiv.org/abs/2604.09434)|null|
 |**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
 |**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
 |**2026-04-10**|**LatentFlowSR: High-Fidelity Audio Super-Resolution via Noise-Robust Latent Flow Matching**|Fei Liu et.al.|[2604.09188](http://arxiv.org/abs/2604.09188)|null|
