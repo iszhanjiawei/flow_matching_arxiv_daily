@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling**|Yuxin Chen et.al.|[2604.11748](http://arxiv.org/abs/2604.11748)|null|
+|**2026-04-15**|**PRiMeFlow: Capturing Complex Expression Heterogeneity in Perturbation Response Modelling**|Zichao Yan et.al.|[2604.13986](http://arxiv.org/abs/2604.13986)|null|
+|**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
+|**2026-04-15**|**A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting**|Junlin Li et.al.|[2604.13427](http://arxiv.org/abs/2604.13427)|null|
+|**2026-04-15**|**PianoFlow: Music-Aware Streaming Piano Motion Generation with Bimanual Coordination**|Xuan Wang et.al.|[2604.12856](http://arxiv.org/abs/2604.12856)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
 |**2026-04-14**|**SubFlow: Sub-mode Conditioned Flow Matching for Diverse One-Step Generation**|Yexiong Lin et.al.|[2604.12273](http://arxiv.org/abs/2604.12273)|null|
 |**2026-04-14**|**SeisDiff-intp: a unified prompt-guided flow matching framework for multi-tasks seismic interpretation**|Donglin Zhu et.al.|[2604.12209](http://arxiv.org/abs/2604.12209)|null|
 |**2026-04-13**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434](http://arxiv.org/abs/2604.09434)|null|
-|**2026-04-13**|**LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling**|Yuxin Chen et.al.|[2604.11748](http://arxiv.org/abs/2604.11748)|null|
 |**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
 |**2026-04-13**|**Continuous Adversarial Flow Models**|Shanchuan Lin et.al.|[2604.11521](http://arxiv.org/abs/2604.11521)|null|
 |**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
@@ -1587,5 +1591,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
