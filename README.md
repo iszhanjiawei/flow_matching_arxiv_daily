@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**The Amazing Stability of Flow Matching**|Rania Briq et.al.|[2604.16079](http://arxiv.org/abs/2604.16079)|null|
+|**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**Attraction, Repulsion, and Friction: Introducing DMF, a Friction-Augmented Drifting Model**|Arkadii Kazanskii et.al.|[2604.18194](http://arxiv.org/abs/2604.18194)|null|
 |**2026-04-20**|**Complex normalizing flows can be information Kähler-Ricci flows**|Andrew Gracyk et.al.|[2604.17954](http://arxiv.org/abs/2604.17954)|null|
 |**2026-04-20**|**Fisher Decorator: Refining Flow Policy via A Local Transport Map**|Xiaoyuan Cheng et.al.|[2604.17919](http://arxiv.org/abs/2604.17919)|null|
@@ -24,7 +26,7 @@
 |**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-04-18**|**CrossFlowDG: Bridging the Modality Gap with Cross-modal Flow Matching for Domain Generalization**|Antonios Kritikos et.al.|[2604.16892](http://arxiv.org/abs/2604.16892)|null|
 |**2026-04-18**|**SAVE: A Generalizable Framework for Multi-Condition Single-Cell Generation with Gene Block Attention**|Jiahao Li et.al.|[2604.16776](http://arxiv.org/abs/2604.16776)|null|
-|**2026-04-17**|**The Amazing Stability of Flow Matching**|Rania Briq et.al.|[2604.16079](http://arxiv.org/abs/2604.16079)|null|
+|**2026-04-18**|**Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching**|Xin Hu et.al.|[2604.18623](http://arxiv.org/abs/2604.18623)|null|
 |**2026-04-17**|**AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning**|Guransh Singh et.al.|[2604.16067](http://arxiv.org/abs/2604.16067)|null|
 |**2026-04-17**|**Rewind-IL: Online Failure Detection and State Respawning for Imitation Learning**|Gehan Zheng et.al.|[2604.16683](http://arxiv.org/abs/2604.16683)|null|
 |**2026-04-16**|**Amortized Optimal Transport from Sliced Potentials**|Minh-Phuc Truong et.al.|[2604.15114](http://arxiv.org/abs/2604.15114)|null|
@@ -1611,5 +1613,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
