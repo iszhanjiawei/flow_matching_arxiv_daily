@@ -16,6 +16,9 @@
 |---|---|---|---|---|
 |**2026-04-21**|**The Amazing Stability of Flow Matching**|Rania Briq et.al.|[2604.16079](http://arxiv.org/abs/2604.16079)|null|
 |**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
 |**2026-04-20**|**Attraction, Repulsion, and Friction: Introducing DMF, a Friction-Augmented Drifting Model**|Arkadii Kazanskii et.al.|[2604.18194](http://arxiv.org/abs/2604.18194)|null|
 |**2026-04-20**|**Complex normalizing flows can be information Kähler-Ricci flows**|Andrew Gracyk et.al.|[2604.17954](http://arxiv.org/abs/2604.17954)|null|
 |**2026-04-20**|**Fisher Decorator: Refining Flow Policy via A Local Transport Map**|Xiaoyuan Cheng et.al.|[2604.17919](http://arxiv.org/abs/2604.17919)|null|
