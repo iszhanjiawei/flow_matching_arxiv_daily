@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Deep Learning for Model Calibration in Simulation of Itaconic Acid Production**|Daria Fokina et.al.|[2604.22496](http://arxiv.org/abs/2604.22496)|null|
+|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
+|**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
 |**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-23**|**StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**|Kwan Yun et.al.|[2604.21689](http://arxiv.org/abs/2604.21689)|null|
 |**2026-04-23**|**CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors**|Dachong Li et.al.|[2604.21241](http://arxiv.org/abs/2604.21241)|null|
+|**2026-04-23**|**Null-Space Flow Matching for MIMO Channel Estimation in Latency-Constrained Systems**|Junjie Zhao et.al.|[2604.22005](http://arxiv.org/abs/2604.22005)|null|
 |**2026-04-22**|**Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation**|Jiahao Xu et.al.|[2604.20336](http://arxiv.org/abs/2604.20336)|null|
 |**2026-04-22**|**Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.|[2604.20128](http://arxiv.org/abs/2604.20128)|null|
 |**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
@@ -1625,5 +1629,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
