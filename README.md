@@ -1,4 +1,4 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-26**|**FlowPlace: Flow Matching for Chip Placement**|Peng Xie et.al.|[2604.23658](http://arxiv.org/abs/2604.23658)|null|
+|**2026-04-25**|**GeoFunFlow-3D: A Physics-Guided Generative Flow Matching Framework for High-Fidelity 3D Aerodynamic Inference over Complex Geometries**|Ruiling Jiang et.al.|[2604.23350](http://arxiv.org/abs/2604.23350)|null|
+|**2026-04-25**|**MotionHiFlow: Text-to-motion via hierarchical flow matching**|Heng Li et.al.|[2604.23264](http://arxiv.org/abs/2604.23264)|null|
 |**2026-04-24**|**Deep Learning for Model Calibration in Simulation of Itaconic Acid Production**|Daria Fokina et.al.|[2604.22496](http://arxiv.org/abs/2604.22496)|null|
 |**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350](http://arxiv.org/abs/2604.22350)|null|
 |**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
@@ -1629,5 +1632,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
