@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,6 +17,7 @@
 |**2026-04-28**|**PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching**|Kaikwan Lau et.al.|[2604.25371](http://arxiv.org/abs/2604.25371)|null|
 |**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
 |**2026-04-28**|**Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska**|Douglas Brinkerhoff et.al.|[2604.25172](http://arxiv.org/abs/2604.25172)|null|
+|**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-27**|**Learning biophysical models of gene regulation with probability flow matching**|Suryanarayana Maddu et.al.|[2604.25062](http://arxiv.org/abs/2604.25062)|null|
 |**2026-04-27**|**DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors**|Pengcheng Wang et.al.|[2604.25050](http://arxiv.org/abs/2604.25050)|null|
 |**2026-04-26**|**FlowPlace: Flow Matching for Chip Placement**|Peng Xie et.al.|[2604.23658](http://arxiv.org/abs/2604.23658)|null|
@@ -1637,5 +1638,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
