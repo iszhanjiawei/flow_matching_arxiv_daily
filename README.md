@@ -14,8 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
+|**2026-05-04**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2605.02438](http://arxiv.org/abs/2605.02438)|null|
+|**2026-05-04**|**DriftDecode: One-Step Wireless Image Decoding via Drifting-Inspired Detail Recovery**|Jingwen Fu et.al.|[2605.02325](http://arxiv.org/abs/2605.02325)|null|
+|**2026-05-04**|**Generative Modeling with Orbit-Space Particle Flow Matching**|Sinan Wang et.al.|[2605.02222](http://arxiv.org/abs/2605.02222)|null|
+|**2026-05-03**|**Cardiac Mesh Flow: One-Step Generation of 3D+t Cardiac Four-Chamber Meshes via Flow Matching**|Qiang Ma et.al.|[2605.01884](http://arxiv.org/abs/2605.01884)|null|
+|**2026-05-02**|**SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids**|Xingzhou Chen et.al.|[2605.01427](http://arxiv.org/abs/2605.01427)|null|
+|**2026-05-02**|**Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events**|Keyan Chen et.al.|[2605.01226](http://arxiv.org/abs/2605.01226)|null|
+|**2026-05-02**|**TAIL-Safe: Task-Agnostic Safety Monitoring for Imitation Learning Policies**|Riad Ahmed et.al.|[2605.01195](http://arxiv.org/abs/2605.01195)|null|
+|**2026-05-01**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-05-01**|**Posterior Augmented Flow Matching**|George Stoica et.al.|[2605.00825](http://arxiv.org/abs/2605.00825)|null|
+|**2026-05-01**|**Soft Graph Diffusion Transformer for MIMO Detection**|Nan Jiang et.al.|[2605.00449](http://arxiv.org/abs/2605.00449)|null|
+|**2026-05-01**|**Divergence is Uncertainty: A Closed-Form Posterior Covariance for Flow Matching**|Jiarui Xing et.al.|[2605.00941](http://arxiv.org/abs/2605.00941)|null|
+|**2026-05-01**|**Flow matching for Sentinel-2 super-resolution: implementation, application, and implications**|Dakota Hester et.al.|[2605.00367](http://arxiv.org/abs/2605.00367)|null|
+|**2026-05-01**|**Binomial flows: Denoising and flow matching for discrete ordinal data**|Yair Shenfeld et.al.|[2605.00360](http://arxiv.org/abs/2605.00360)|null|
+|**2026-05-01**|**Free Energy Surface Sampling via Reduced Flow Matching**|Zichen Liu et.al.|[2605.00337](http://arxiv.org/abs/2605.00337)|null|
 |**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
-|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-04-30**|**Alethia: A Foundational Encoder for Voice Deepfakes**|Yi Zhu et.al.|[2605.00251](http://arxiv.org/abs/2605.00251)|null|
+|**2026-04-30**|**SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting**|Arnaud Zinflou et.al.|[2605.00126](http://arxiv.org/abs/2605.00126)|null|
+|**2026-04-30**|**StyleShield: Exposing the Fragility of AIGC Detectors through Continuous Controllable Style Transfer**|Guantian Zheng et.al.|[2605.00924](http://arxiv.org/abs/2605.00924)|null|
 |**2026-04-28**|**PhyloSDF: Phylogenetically-Conditioned Neural Generation of 3D Skull Morphology via Residual Flow Matching**|Kaikwan Lau et.al.|[2604.25371](http://arxiv.org/abs/2604.25371)|null|
 |**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
 |**2026-04-28**|**Conditional Flow Matching for Probabilistic Downscaling of Maximum 3-day Snowfall in Alaska**|Douglas Brinkerhoff et.al.|[2604.25172](http://arxiv.org/abs/2604.25172)|null|
