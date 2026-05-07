@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
+|**2026-05-06**|**Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation**|Zimu Gong et.al.|[2605.04366](http://arxiv.org/abs/2605.04366)|null|
 |**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
 |**2026-05-05**|**FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution**|Shuhong Liu et.al.|[2605.03749](http://arxiv.org/abs/2605.03749)|null|
 |**2026-05-05**|**Flow Matching on Symmetric Spaces**|Francesco Ruscelli et.al.|[2605.03588](http://arxiv.org/abs/2605.03588)|null|
