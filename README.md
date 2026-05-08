@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591](http://arxiv.org/abs/2605.06591)|null|
+|**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
+|**2026-05-07**|**OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**|Yushan Liu et.al.|[2605.06481](http://arxiv.org/abs/2605.06481)|null|
+|**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|null|
+|**2026-05-07**|**Flow Matching with Arbitrary Auxiliary Paths**|Xin Peng et.al.|[2605.06364](http://arxiv.org/abs/2605.06364)|null|
+|**2026-05-07**|**A Flow Matching Algorithm for Many-Shot Adaptation to Unseen Distributions**|Tyler Ingebrand et.al.|[2605.06272](http://arxiv.org/abs/2605.06272)|null|
+|**2026-05-07**|**Entropy-Regularized Adjoint Matching for Offline RL**|Abdelghani Ghanem et.al.|[2605.06156](http://arxiv.org/abs/2605.06156)|null|
+|**2026-05-07**|**SymDrift: One-Shot Generative Modeling under Symmetries**|Samir Darouich et.al.|[2605.06140](http://arxiv.org/abs/2605.06140)|null|
+|**2026-05-07**|**P-Guide: Parameter-Efficient Prior Steering for Single-Pass CFG Inference**|Xin Peng et.al.|[2605.06124](http://arxiv.org/abs/2605.06124)|null|
+|**2026-05-07**|**Physical Fidelity Reconstruction via Improved Consistency-Distilled Flow Matching for Dynamical Systems**|Sicheng Ma et.al.|[2605.05975](http://arxiv.org/abs/2605.05975)|null|
+|**2026-05-07**|**RepFlow: Representation Enhanced Flow Matching for Causal Effect Estimation**|Yifei Xie et.al.|[2605.05890](http://arxiv.org/abs/2605.05890)|null|
+|**2026-05-07**|**SDFlow: Similarity-Driven Flow Matching for Time Series Generation**|Wei Li et.al.|[2605.05736](http://arxiv.org/abs/2605.05736)|null|
+|**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
+|**2026-05-06**|**FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution**|Shuhong Liu et.al.|[2605.03749](http://arxiv.org/abs/2605.03749)|null|
 |**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
 |**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
 |**2026-05-06**|**Conditional Flow-VAE for Safety-Critical Traffic Scenario Generation**|Zimu Gong et.al.|[2605.04366](http://arxiv.org/abs/2605.04366)|null|
+|**2026-05-06**|**ViTok-v2: Scaling Native Resolution Auto-Encoders to 5 Billion Parameters**|Philippe Hansen-Estruch et.al.|[2605.05331](http://arxiv.org/abs/2605.05331)|null|
 |**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
-|**2026-05-05**|**FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution**|Shuhong Liu et.al.|[2605.03749](http://arxiv.org/abs/2605.03749)|null|
 |**2026-05-05**|**Flow Matching on Symmetric Spaces**|Francesco Ruscelli et.al.|[2605.03588](http://arxiv.org/abs/2605.03588)|null|
 |**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Haoquan Fang et.al.|[2605.02881](http://arxiv.org/abs/2605.02881)|null|
 |**2026-05-04**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2605.02438](http://arxiv.org/abs/2605.02438)|null|
@@ -1663,5 +1677,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
