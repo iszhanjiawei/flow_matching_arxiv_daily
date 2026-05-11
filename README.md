@@ -1,4 +1,4 @@
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
+|**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
+|**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
+|**2026-05-08**|**Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation**|Amin Karimi Monsefi et.al.|[2605.07924](http://arxiv.org/abs/2605.07924)|null|
+|**2026-05-08**|**Scaling Categorical Flow Maps**|Oscar Davis et.al.|[2605.07820](http://arxiv.org/abs/2605.07820)|null|
+|**2026-05-08**|**TextLDM: Language Modeling with Continuous Latent Diffusion**|Jiaxiu Jiang et.al.|[2605.07748](http://arxiv.org/abs/2605.07748)|null|
+|**2026-05-08**|**Flow Matching for Count Data**|Ganchao Wei et.al.|[2605.07746](http://arxiv.org/abs/2605.07746)|null|
+|**2026-05-08**|**Structured Coupling for Flow Matching**|Xavier Sumba et.al.|[2605.07676](http://arxiv.org/abs/2605.07676)|null|
+|**2026-05-08**|**Debiased Counterfactual Generation via Flow Matching from Observations**|Hugh Dance et.al.|[2605.07665](http://arxiv.org/abs/2605.07665)|null|
+|**2026-05-08**|**Tessellations of Semi-Discrete Flow Matching**|Emile Pierret et.al.|[2605.07513](http://arxiv.org/abs/2605.07513)|null|
+|**2026-05-08**|**Physical Simulators as Do-Operators: Causal Discovery under Latent Confounders for AI-for-Science**|Tsuyoshi Okita et.al.|[2605.07467](http://arxiv.org/abs/2605.07467)|null|
+|**2026-05-08**|**Tools as Continuous Flow for Evolving Agentic Reasoning**|Tairan Huang et.al.|[2605.07339](http://arxiv.org/abs/2605.07339)|null|
+|**2026-05-08**|**Teacher-Feature Drifting: One-Step Diffusion Distillation with Pretrained Diffusion Representations**|Yuan Zhang et.al.|[2605.07327](http://arxiv.org/abs/2605.07327)|null|
+|**2026-05-08**|**TRACE: Transport Alignment Conformal Prediction via Diffusion and Flow Matching Models**|Zhenhan Fang et.al.|[2605.07100](http://arxiv.org/abs/2605.07100)|null|
+|**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Xinyu Zhang et.al.|[2605.07079](http://arxiv.org/abs/2605.07079)|null|
 |**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591](http://arxiv.org/abs/2605.06591)|null|
 |**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
 |**2026-05-07**|**OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**|Yushan Liu et.al.|[2605.06481](http://arxiv.org/abs/2605.06481)|null|
@@ -27,6 +42,10 @@
 |**2026-05-07**|**RepFlow: Representation Enhanced Flow Matching for Causal Effect Estimation**|Yifei Xie et.al.|[2605.05890](http://arxiv.org/abs/2605.05890)|null|
 |**2026-05-07**|**SDFlow: Similarity-Driven Flow Matching for Time Series Generation**|Wei Li et.al.|[2605.05736](http://arxiv.org/abs/2605.05736)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
+|**2026-05-07**|**Physics-Based Flow Matching for Full-Field Prediction of Silicon Photonic Devices**|Joseph Quaratiello et.al.|[2605.06929](http://arxiv.org/abs/2605.06929)|null|
+|**2026-05-07**|**Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation**|Ernie Chu et.al.|[2605.06892](http://arxiv.org/abs/2605.06892)|null|
+|**2026-05-07**|**Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions**|James Rowbottom et.al.|[2605.06861](http://arxiv.org/abs/2605.06861)|null|
+|**2026-05-07**|**A Unified Measure-Theoretic View of Diffusion, Score-Based, and Flow Matching Generative Models**|Aditya Ranganath et.al.|[2605.06829](http://arxiv.org/abs/2605.06829)|null|
 |**2026-05-06**|**FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution**|Shuhong Liu et.al.|[2605.03749](http://arxiv.org/abs/2605.03749)|null|
 |**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
 |**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
@@ -1677,5 +1696,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
