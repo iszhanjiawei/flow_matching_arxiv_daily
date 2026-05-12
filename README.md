@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
+|**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821](http://arxiv.org/abs/2605.10821)|null|
+|**2026-05-11**|**ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models**|Zuojin Tang et.al.|[2605.10819](http://arxiv.org/abs/2605.10819)|null|
+|**2026-05-11**|**Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models**|Andreas Bergmeister et.al.|[2605.10759](http://arxiv.org/abs/2605.10759)|null|
+|**2026-05-11**|**SF-Flow: Sound field magnitude estimation via flow matching guided by sparse measurements**|Ege Erdem et.al.|[2605.10398](http://arxiv.org/abs/2605.10398)|null|
+|**2026-05-11**|**Follow the Mean: Reference-Guided Flow Matching**|Pedro M. P. Curvo et.al.|[2605.10302](http://arxiv.org/abs/2605.10302)|null|
+|**2026-05-11**|**Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning**|Lianghao Luo et.al.|[2605.10166](http://arxiv.org/abs/2605.10166)|null|
+|**2026-05-11**|**Generating Symmetric Materials using Latent Flow Matching**|Anmar Karmush et.al.|[2605.10115](http://arxiv.org/abs/2605.10115)|null|
+|**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094](http://arxiv.org/abs/2605.10094)|null|
+|**2026-05-11**|**PixelFlowCast: Latent-Free Precipitation Nowcasting via Pixel Mean Flows**|Yufeng Zhu et.al.|[2605.10046](http://arxiv.org/abs/2605.10046)|null|
+|**2026-05-11**|**Yeti: A compact protein structure tokenizer for reconstruction and multi-modal generation**|Nabin Giri et.al.|[2605.09981](http://arxiv.org/abs/2605.09981)|null|
+|**2026-05-11**|**Intervention-Based Time Series Causal Discovery via Simulator-Generated Interventional Distributions**|Tsuyoshi Okita et.al.|[2605.09870](http://arxiv.org/abs/2605.09870)|null|
+|**2026-05-10**|**Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech**|Dong Yang et.al.|[2605.09386](http://arxiv.org/abs/2605.09386)|null|
+|**2026-05-10**|**On Variance Reduction in Learning Mean Flows**|Juanwu Lu et.al.|[2605.09235](http://arxiv.org/abs/2605.09235)|null|
+|**2026-05-09**|**Continuum Robot Modeling with Action Conditioned Flow Matching**|Jiong Lin et.al.|[2605.09216](http://arxiv.org/abs/2605.09216)|null|
+|**2026-05-09**|**Score-Based Generative Modeling through Anisotropic Stochastic Partial Differential Equations**|Sascha Holl et.al.|[2605.08976](http://arxiv.org/abs/2605.08976)|null|
+|**2026-05-09**|**Discrete Flow Matching: Convergence Guarantees Under Minimal Assumptions**|Le-Tuyet-Nhi Pham et.al.|[2605.08882](http://arxiv.org/abs/2605.08882)|null|
+|**2026-05-09**|**Preserving Foundational Capabilities in Flow-Matching VLAs through Conservative SFT**|Tianyi Zhang et.al.|[2605.08879](http://arxiv.org/abs/2605.08879)|null|
+|**2026-05-09**|**Restoration-Aligned Generative Flow Models for Blind Motion Deblurring**|Insoo Kim et.al.|[2605.08854](http://arxiv.org/abs/2605.08854)|null|
+|**2026-05-09**|**Inpainting physics: self-supervised learning for context-driven fluid simulation**|Jonas Weidner et.al.|[2605.08832](http://arxiv.org/abs/2605.08832)|null|
 |**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
 |**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
 |**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
