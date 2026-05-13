@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Christos Ziakas et.al.|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
+|**2026-05-12**|**Discrete Flow Matching for Offline-to-Online Reinforcement Learning**|Fairoz Nower Khan et.al.|[2605.12379](http://arxiv.org/abs/2605.12379)|null|
+|**2026-05-12**|**Poly-SVC: Polyphony-Aware Singing Voice Conversion with Harmonic Modeling**|Chen Geng et.al.|[2605.12310](http://arxiv.org/abs/2605.12310)|null|
+|**2026-05-12**|**Morphologically Equivariant Flow Matching for Bimanual Mobile Manipulation**|Max Siebenborn et.al.|[2605.12228](http://arxiv.org/abs/2605.12228)|null|
+|**2026-05-12**|**Expected Batch Optimal Transport Plans and Consequences for Flow Matching**|Samuel Boïté et.al.|[2605.12174](http://arxiv.org/abs/2605.12174)|null|
+|**2026-05-12**|**When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy**|Xiaofeng Tan et.al.|[2605.12112](http://arxiv.org/abs/2605.12112)|null|
+|**2026-05-12**|**The Missing GAP: From Solving Square Jigsaw Puzzles to Handling Real World Archaeological Fragments**|Ofir Itzhak Shahar et.al.|[2605.12077](http://arxiv.org/abs/2605.12077)|null|
+|**2026-05-12**|**CaloArt: Large-Patch x-Prediction Diffusion Transformers for High-Granularity Calorimeter Shower Generation**|Zhengkun Huang et.al.|[2605.12011](http://arxiv.org/abs/2605.12011)|null|
+|**2026-05-12**|**Generative Transfer for Entropic Optimal Transport with Unknown Costs**|Antoine Debouchage et.al.|[2605.11944](http://arxiv.org/abs/2605.11944)|null|
+|**2026-05-12**|**$h$ -control: Training-Free Camera Control via Block-Conditional Gibbs Refinement**|Yuzhu Wang et.al.|[2605.11871](http://arxiv.org/abs/2605.11871)|null|
+|**2026-05-12**|**Is Monotonic Sampling Necessary in Diffusion Models?**|Muhammad Haris Khan et.al.|[2605.11773](http://arxiv.org/abs/2605.11773)|null|
+|**2026-05-12**|**RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction**|Yaxuan Song et.al.|[2605.11622](http://arxiv.org/abs/2605.11622)|null|
+|**2026-05-12**|**Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching**|Aditi Gupta et.al.|[2605.11547](http://arxiv.org/abs/2605.11547)|null|
 |**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
 |**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821](http://arxiv.org/abs/2605.10821)|null|
 |**2026-05-11**|**ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models**|Zuojin Tang et.al.|[2605.10819](http://arxiv.org/abs/2605.10819)|null|
@@ -26,6 +39,8 @@
 |**2026-05-11**|**PixelFlowCast: Latent-Free Precipitation Nowcasting via Pixel Mean Flows**|Yufeng Zhu et.al.|[2605.10046](http://arxiv.org/abs/2605.10046)|null|
 |**2026-05-11**|**Yeti: A compact protein structure tokenizer for reconstruction and multi-modal generation**|Nabin Giri et.al.|[2605.09981](http://arxiv.org/abs/2605.09981)|null|
 |**2026-05-11**|**Intervention-Based Time Series Causal Discovery via Simulator-Generated Interventional Distributions**|Tsuyoshi Okita et.al.|[2605.09870](http://arxiv.org/abs/2605.09870)|null|
+|**2026-05-11**|**Operator Spectroscopy of Trained Lattice Samplers**|Moxian Qian et.al.|[2605.11199](http://arxiv.org/abs/2605.11199)|null|
+|**2026-05-11**|**ForceFlow: Learning to Feel and Act via Contact-Driven Flow Matching**|Shuoheng Zhang et.al.|[2605.11048](http://arxiv.org/abs/2605.11048)|null|
 |**2026-05-10**|**Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech**|Dong Yang et.al.|[2605.09386](http://arxiv.org/abs/2605.09386)|null|
 |**2026-05-10**|**On Variance Reduction in Learning Mean Flows**|Juanwu Lu et.al.|[2605.09235](http://arxiv.org/abs/2605.09235)|null|
 |**2026-05-09**|**Continuum Robot Modeling with Action Conditioned Flow Matching**|Jiong Lin et.al.|[2605.09216](http://arxiv.org/abs/2605.09216)|null|
