@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Cross Modality Image Translation In Medical Imaging Using Generative Frameworks**|Giulia Romoli et.al.|[2605.13686](http://arxiv.org/abs/2605.13686)|null|
+|**2026-05-13**|**Sampling from Flow Language Models via Marginal-Conditioned Bridges**|Iskander Azangulov et.al.|[2605.13681](http://arxiv.org/abs/2605.13681)|null|
+|**2026-05-13**|**Path-independent Flow Matching for Multi-parameter Generative Dynamics**|Francisco Téllez et.al.|[2605.13487](http://arxiv.org/abs/2605.13487)|null|
+|**2026-05-13**|**SID: Sliding into Distribution for Robust Few-Demonstration Manipulation**|Yicheng Ma et.al.|[2605.13428](http://arxiv.org/abs/2605.13428)|null|
+|**2026-05-13**|**RotVLA: Rotational Latent Action for Vision-Language-Action Model**|Qiwei Li et.al.|[2605.13403](http://arxiv.org/abs/2605.13403)|null|
+|**2026-05-13**|**Support-Conditioned Flow Matching Is Kernel Smoothing**|Daniel Matsui Smola et.al.|[2605.13386](http://arxiv.org/abs/2605.13386)|null|
+|**2026-05-13**|**GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding**|Mayank Nautiyal et.al.|[2605.13352](http://arxiv.org/abs/2605.13352)|null|
+|**2026-05-13**|**Ergodic Trajectory Design by Learned Pushforward Maps: Provable Coverage via Conditional Flow Matching**|Ehsan Aghazadeh et.al.|[2605.13063](http://arxiv.org/abs/2605.13063)|null|
+|**2026-05-13**|**PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution**|Zihang Xu et.al.|[2605.13027](http://arxiv.org/abs/2605.13027)|null|
+|**2026-05-13**|**Coreset-Induced Conditional Velocity Flow Matching**|Xiao Wang et.al.|[2605.12951](http://arxiv.org/abs/2605.12951)|null|
 |**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Christos Ziakas et.al.|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
 |**2026-05-12**|**Discrete Flow Matching for Offline-to-Online Reinforcement Learning**|Fairoz Nower Khan et.al.|[2605.12379](http://arxiv.org/abs/2605.12379)|null|
 |**2026-05-12**|**Poly-SVC: Polyphony-Aware Singing Voice Conversion with Harmonic Modeling**|Chen Geng et.al.|[2605.12310](http://arxiv.org/abs/2605.12310)|null|
@@ -27,6 +37,12 @@
 |**2026-05-12**|**Is Monotonic Sampling Necessary in Diffusion Models?**|Muhammad Haris Khan et.al.|[2605.11773](http://arxiv.org/abs/2605.11773)|null|
 |**2026-05-12**|**RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction**|Yaxuan Song et.al.|[2605.11622](http://arxiv.org/abs/2605.11622)|null|
 |**2026-05-12**|**Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching**|Aditi Gupta et.al.|[2605.11547](http://arxiv.org/abs/2605.11547)|null|
+|**2026-05-12**|**Discrete MeanFlow: One-Step Generation via Conditional Transition Kernels**|Fairoz Nower Khan et.al.|[2605.12805](http://arxiv.org/abs/2605.12805)|null|
+|**2026-05-12**|**Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling**|Jacob K. Christopher et.al.|[2605.12754](http://arxiv.org/abs/2605.12754)|null|
+|**2026-05-12**|**scShapeBench: Discovering geometry from high dimensional scRNAseq data**|Andrew J Steindl et.al.|[2605.12662](http://arxiv.org/abs/2605.12662)|null|
+|**2026-05-12**|**Driving Intents Amplify Planning-Oriented Reinforcement Learning**|Hengtong Lu et.al.|[2605.12625](http://arxiv.org/abs/2605.12625)|null|
+|**2026-05-12**|**MindVLA-U1: VLA Beats VA with Unified Streaming Architecture for Autonomous Driving**|Yuzhou Huang et.al.|[2605.12624](http://arxiv.org/abs/2605.12624)|null|
+|**2026-05-12**|**Action Emergence from Streaming Intent**|Pengfei Jing et.al.|[2605.12622](http://arxiv.org/abs/2605.12622)|null|
 |**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
 |**2026-05-11**|**Unified Noise Steering for Efficient Human-Guided VLA Adaptation**|Junjie Lu et.al.|[2605.10821](http://arxiv.org/abs/2605.10821)|null|
 |**2026-05-11**|**ALAM: Algebraically Consistent Latent Transitions for Vision-Language-Action Models**|Zuojin Tang et.al.|[2605.10819](http://arxiv.org/abs/2605.10819)|null|
@@ -1731,5 +1747,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
