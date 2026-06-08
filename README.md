@@ -1,4 +1,4 @@
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Mengze Tian et.al.|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
+|**2026-06-05**|**dots.tts Technical Report**|Shi Lian et.al.|[2606.07080](http://arxiv.org/abs/2606.07080)|null|
+|**2026-06-05**|**STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation**|Won June Cho et.al.|[2606.07036](http://arxiv.org/abs/2606.07036)|null|
+|**2026-06-05**|**ActionMap: Robot Policy Learning via Voxel Action Heatmap**|Pei Yang et.al.|[2606.06904](http://arxiv.org/abs/2606.06904)|null|
 |**2026-06-04**|**Coreset-Induced Conditional Velocity Flow Matching**|Xiao Wang et.al.|[2605.12951](http://arxiv.org/abs/2605.12951)|null|
 |**2026-06-04**|**PAMF: Prior-Aware Multimodal Fusion for Incomplete Time Series Data**|Ziwen Kan et.al.|[2606.06328](http://arxiv.org/abs/2606.06328)|null|
 |**2026-06-04**|**Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events**|Rishal Aggarwal et.al.|[2606.06295](http://arxiv.org/abs/2606.06295)|null|
@@ -25,6 +29,9 @@
 |**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
 |**2026-06-04**|**DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models**|Zhuoming Liu et.al.|[2606.05758](http://arxiv.org/abs/2606.05758)|null|
 |**2026-06-04**|**The Right Measure for Physics-Constrained Generation: A Co-Area Correction for Posterior-Consistent PDE Inverse Problems**|Jian Xu et.al.|[2606.04804](http://arxiv.org/abs/2606.04804)|null|
+|**2026-06-04**|**S23DR 2026 Winning Solution**|Jan Skvrna et.al.|[2606.06695](http://arxiv.org/abs/2606.06695)|null|
+|**2026-06-04**|**Spatiotemporal Imputation with Graph-Informed Flow Matching**|Zepeng Zhang et.al.|[2606.06682](http://arxiv.org/abs/2606.06682)|null|
+|**2026-06-04**|**Capturing non-Markovian dynamics in non-equilibrium stochastic systems using flow matching**|Bhargav Sriram Siddani et.al.|[2606.06658](http://arxiv.org/abs/2606.06658)|null|
 |**2026-06-03**|**FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization**|Yihao Wu et.al.|[2606.05468](http://arxiv.org/abs/2606.05468)|null|
 |**2026-06-03**|**UniPixie: Unified and Probabilistic 3D Physics Learning via Flow Matching**|Qilin Huang et.al.|[2606.05399](http://arxiv.org/abs/2606.05399)|null|
 |**2026-06-03**|**Multimarginal flow matching with optimal transport potentials**|Raghav Kansal et.al.|[2606.05327](http://arxiv.org/abs/2606.05327)|null|
@@ -1904,5 +1911,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
