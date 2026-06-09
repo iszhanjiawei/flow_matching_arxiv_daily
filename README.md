@@ -14,10 +14,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**LangRetrieval: Language-Guided Self-Evolving Satellite-to-Radar Retrieval via CSI-Driven Reward**|Chunlei Shi et.al.|[2606.09486](http://arxiv.org/abs/2606.09486)|null|
+|**2026-06-08**|**KPGrasp: Scalable Keypoint Flow Matching for Dexterous Grasp Generation**|Yuansen Huang et.al.|[2606.09314](http://arxiv.org/abs/2606.09314)|null|
+|**2026-06-08**|**LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution**|Yu Cao et.al.|[2606.09250](http://arxiv.org/abs/2606.09250)|null|
+|**2026-06-08**|**End-to-End Training for Discrete Token LLM based TTS System**|Changfeng Gao et.al.|[2606.09234](http://arxiv.org/abs/2606.09234)|null|
+|**2026-06-08**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
+|**2026-06-08**|**BareWave: Waveform-Native Flow-Matching Text-to-Speech**|Wei Fan et.al.|[2606.09048](http://arxiv.org/abs/2606.09048)|null|
+|**2026-06-08**|**Self-Consistent Generative Paths via Admissible Random Variational Transport**|Lei Luo et.al.|[2606.08953](http://arxiv.org/abs/2606.08953)|null|
+|**2026-06-07**|**CSFlow: Aligning Flow Matching with Human Contrast Sensitivity**|Malgorzata Galinska et.al.|[2606.08833](http://arxiv.org/abs/2606.08833)|null|
+|**2026-06-07**|**Learning to Solve Generative ODEs Beyond the Linear Span**|Sihyeon Kim et.al.|[2606.08672](http://arxiv.org/abs/2606.08672)|null|
+|**2026-06-07**|**WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis**|Danilo Danese et.al.|[2606.08670](http://arxiv.org/abs/2606.08670)|null|
+|**2026-06-07**|**Latent Diffusion Policy: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation**|Zhexuan Zhou et.al.|[2606.08657](http://arxiv.org/abs/2606.08657)|null|
+|**2026-06-07**|**Reinforcement Learning for Flow-Matching Policies with Density Transport**|Boshu Lei et.al.|[2606.08602](http://arxiv.org/abs/2606.08602)|null|
+|**2026-06-07**|**SMC-ITA: Sequential Monte Carlo Inference-Time Alignment for Video-to-Audio Generation**|Haoyu Zhang et.al.|[2606.08393](http://arxiv.org/abs/2606.08393)|null|
+|**2026-06-06**|**SynthICL: Scalable In-context Imitation Learning with Synthetic Data**|Cheng Qian et.al.|[2606.08154](http://arxiv.org/abs/2606.08154)|null|
+|**2026-06-06**|**vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models**|Khanh D. Nguyen et.al.|[2606.08094](http://arxiv.org/abs/2606.08094)|null|
+|**2026-06-06**|**Q-VGM: Q-Guided Value-Gradient Matching for Flow-Matching VLA Policies**|Ziqian Wang et.al.|[2606.08015](http://arxiv.org/abs/2606.08015)|null|
+|**2026-06-06**|**FMRFusion: Frequency-Aware Multi-View Representation Learning for Heterogeneous Image Fusion**|Tao Zhoua et.al.|[2606.07985](http://arxiv.org/abs/2606.07985)|null|
 |**2026-06-05**|**Spline Policy: A Structured Representation for Robot Policies**|Mengze Tian et.al.|[2606.07386](http://arxiv.org/abs/2606.07386)|null|
 |**2026-06-05**|**dots.tts Technical Report**|Shi Lian et.al.|[2606.07080](http://arxiv.org/abs/2606.07080)|null|
 |**2026-06-05**|**STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation**|Won June Cho et.al.|[2606.07036](http://arxiv.org/abs/2606.07036)|null|
 |**2026-06-05**|**ActionMap: Robot Policy Learning via Voxel Action Heatmap**|Pei Yang et.al.|[2606.06904](http://arxiv.org/abs/2606.06904)|null|
+|**2026-06-05**|**scCBGM: Interpretable Single-Cell Counterfactual Editing**|Alma Andersson et.al.|[2606.07760](http://arxiv.org/abs/2606.07760)|null|
+|**2026-06-05**|**MatMind: A Structure-Activity Knowledge-Driven Generative Foundation Model for Materials Science**|Zhan'ao Yao et.al.|[2606.07712](http://arxiv.org/abs/2606.07712)|null|
 |**2026-06-04**|**Coreset-Induced Conditional Velocity Flow Matching**|Xiao Wang et.al.|[2605.12951](http://arxiv.org/abs/2605.12951)|null|
 |**2026-06-04**|**PAMF: Prior-Aware Multimodal Fusion for Incomplete Time Series Data**|Ziwen Kan et.al.|[2606.06328](http://arxiv.org/abs/2606.06328)|null|
 |**2026-06-04**|**Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events**|Rishal Aggarwal et.al.|[2606.06295](http://arxiv.org/abs/2606.06295)|null|
