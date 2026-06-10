@@ -1,4 +1,4 @@
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
+|**2026-06-09**|**Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models**|An Zhao et.al.|[2606.11155](http://arxiv.org/abs/2606.11155)|null|
+|**2026-06-09**|**Exploring the Design Space of Reward Backpropagation for Flow Matching**|Ruoyu Wang et.al.|[2606.11075](http://arxiv.org/abs/2606.11075)|null|
+|**2026-06-09**|**Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models**|Bowen Ping et.al.|[2606.11025](http://arxiv.org/abs/2606.11025)|null|
+|**2026-06-09**|**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**|Thanh Nguyen et.al.|[2606.10613](http://arxiv.org/abs/2606.10613)|null|
+|**2026-06-09**|**Flexible Flows for Biological Sequence Design**|Yogesh Verma et.al.|[2606.10543](http://arxiv.org/abs/2606.10543)|null|
+|**2026-06-09**|**LAFP: Preserving Latent Action Structure in Latent Policy Learning via Flow Matching**|Jiexi Lyu et.al.|[2606.10517](http://arxiv.org/abs/2606.10517)|null|
+|**2026-06-09**|**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**|Zi Yin et.al.|[2606.10371](http://arxiv.org/abs/2606.10371)|null|
+|**2026-06-09**|**Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems**|Shaoqian Zhou et.al.|[2606.10370](http://arxiv.org/abs/2606.10370)|null|
+|**2026-06-09**|**Speech Meets ELF: Audio Conditional Continuous-Target Diffusion for Speech Recognition and Translation**|Xuanchen Li et.al.|[2606.10368](http://arxiv.org/abs/2606.10368)|null|
+|**2026-06-09**|**FoA-SR: Faithful or Aesthetic? Profile-Aware Preference Optimization for Real-World Image Super-Resolution**|Amjad Mahdi Alqarni et.al.|[2606.10275](http://arxiv.org/abs/2606.10275)|null|
 |**2026-06-08**|**LangRetrieval: Language-Guided Self-Evolving Satellite-to-Radar Retrieval via CSI-Driven Reward**|Chunlei Shi et.al.|[2606.09486](http://arxiv.org/abs/2606.09486)|null|
 |**2026-06-08**|**KPGrasp: Scalable Keypoint Flow Matching for Dexterous Grasp Generation**|Yuansen Huang et.al.|[2606.09314](http://arxiv.org/abs/2606.09314)|null|
 |**2026-06-08**|**LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution**|Yu Cao et.al.|[2606.09250](http://arxiv.org/abs/2606.09250)|null|
 |**2026-06-08**|**End-to-End Training for Discrete Token LLM based TTS System**|Changfeng Gao et.al.|[2606.09234](http://arxiv.org/abs/2606.09234)|null|
-|**2026-06-08**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
 |**2026-06-08**|**BareWave: Waveform-Native Flow-Matching Text-to-Speech**|Wei Fan et.al.|[2606.09048](http://arxiv.org/abs/2606.09048)|null|
 |**2026-06-08**|**Self-Consistent Generative Paths via Admissible Random Variational Transport**|Lei Luo et.al.|[2606.08953](http://arxiv.org/abs/2606.08953)|null|
+|**2026-06-08**|**Compositional Generative Modeling from Decentralized Data**|Mashrur M. Morshed et.al.|[2606.10153](http://arxiv.org/abs/2606.10153)|null|
+|**2026-06-08**|**A Theory on Flow Matching with Neural Networks**|Yihan He et.al.|[2606.10089](http://arxiv.org/abs/2606.10089)|null|
+|**2026-06-08**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
 |**2026-06-07**|**CSFlow: Aligning Flow Matching with Human Contrast Sensitivity**|Malgorzata Galinska et.al.|[2606.08833](http://arxiv.org/abs/2606.08833)|null|
 |**2026-06-07**|**Learning to Solve Generative ODEs Beyond the Linear Span**|Sihyeon Kim et.al.|[2606.08672](http://arxiv.org/abs/2606.08672)|null|
 |**2026-06-07**|**WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis**|Danilo Danese et.al.|[2606.08670](http://arxiv.org/abs/2606.08670)|null|
@@ -1930,5 +1943,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
