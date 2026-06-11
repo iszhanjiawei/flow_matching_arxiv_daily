@@ -1,4 +1,4 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
+|**2026-06-10**|**PianoKontext: Expressive Performance Rendering from Deadpan Context**|Dmitrii Gavrilev et.al.|[2606.12282](http://arxiv.org/abs/2606.12282)|null|
+|**2026-06-10**|**Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs**|Deep Gandhi et.al.|[2606.12280](http://arxiv.org/abs/2606.12280)|null|
+|**2026-06-10**|**DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds**|Weirong Chen et.al.|[2606.12189](http://arxiv.org/abs/2606.12189)|null|
+|**2026-06-10**|**TopoCap: Learning Topology-Agnostic Motion Priors for Monocular Video-to-Animation**|Cheng-Feng Pu et.al.|[2606.12153](http://arxiv.org/abs/2606.12153)|null|
+|**2026-06-10**|**SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation**|Xu Zhang et.al.|[2606.11969](http://arxiv.org/abs/2606.11969)|null|
+|**2026-06-10**|**Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics**|Sam Gijsen et.al.|[2606.11833](http://arxiv.org/abs/2606.11833)|null|
+|**2026-06-10**|**Spectrally Regularized Latent Flow Matching for Turbulence Generation**|Khalid Rafiq et.al.|[2606.11691](http://arxiv.org/abs/2606.11691)|null|
 |**2026-06-09**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
 |**2026-06-09**|**Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models**|An Zhao et.al.|[2606.11155](http://arxiv.org/abs/2606.11155)|null|
 |**2026-06-09**|**Exploring the Design Space of Reward Backpropagation for Flow Matching**|Ruoyu Wang et.al.|[2606.11075](http://arxiv.org/abs/2606.11075)|null|
@@ -33,7 +41,6 @@
 |**2026-06-08**|**Self-Consistent Generative Paths via Admissible Random Variational Transport**|Lei Luo et.al.|[2606.08953](http://arxiv.org/abs/2606.08953)|null|
 |**2026-06-08**|**Compositional Generative Modeling from Decentralized Data**|Mashrur M. Morshed et.al.|[2606.10153](http://arxiv.org/abs/2606.10153)|null|
 |**2026-06-08**|**A Theory on Flow Matching with Neural Networks**|Yihan He et.al.|[2606.10089](http://arxiv.org/abs/2606.10089)|null|
-|**2026-06-08**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
 |**2026-06-07**|**CSFlow: Aligning Flow Matching with Human Contrast Sensitivity**|Malgorzata Galinska et.al.|[2606.08833](http://arxiv.org/abs/2606.08833)|null|
 |**2026-06-07**|**Learning to Solve Generative ODEs Beyond the Linear Span**|Sihyeon Kim et.al.|[2606.08672](http://arxiv.org/abs/2606.08672)|null|
 |**2026-06-07**|**WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis**|Danilo Danese et.al.|[2606.08670](http://arxiv.org/abs/2606.08670)|null|
@@ -1943,5 +1950,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
