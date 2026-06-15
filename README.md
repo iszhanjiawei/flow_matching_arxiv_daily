@@ -1,4 +1,4 @@
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
+|**2026-06-12**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
+|**2026-06-12**|**EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows**|Clinton Enwerem et.al.|[2606.12728](http://arxiv.org/abs/2606.12728)|null|
+|**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](http://arxiv.org/abs/2606.13989)|null|
 |**2026-06-11**|**$\texttt{WEAVER}$ , Better, Faster, Longer: An Effective World Model for Robotic Manipulation**|Arnav Kumar Jain et.al.|[2606.13672](http://arxiv.org/abs/2606.13672)|null|
 |**2026-06-11**|**World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible**|Hao Zhang et.al.|[2606.13652](http://arxiv.org/abs/2606.13652)|null|
 |**2026-06-11**|**Surflo: Consistent 3D Surface Flow Model with Global State**|Antoine Guédon et.al.|[2606.13644](http://arxiv.org/abs/2606.13644)|null|
@@ -27,6 +29,7 @@
 |**2026-06-11**|**Reliability of Probabilistic Emulation of Physical Systems**|Sam F. Greenbury et.al.|[2606.12997](http://arxiv.org/abs/2606.12997)|null|
 |**2026-06-11**|**AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders with Asymmetric MoE for Aerial Robots**|Jianli Sun et.al.|[2606.12859](http://arxiv.org/abs/2606.12859)|null|
 |**2026-06-11**|**OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction**|Danning Jiang et.al.|[2606.12838](http://arxiv.org/abs/2606.12838)|null|
+|**2026-06-11**|**Avatar V: Scaling Video-Reference Avatar Video Generation**|Benjamin Liang et.al.|[2606.13872](http://arxiv.org/abs/2606.13872)|null|
 |**2026-06-10**|**Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models**|Yuxuan Chen et.al.|[2606.10046](http://arxiv.org/abs/2606.10046)|null|
 |**2026-06-10**|**PianoKontext: Expressive Performance Rendering from Deadpan Context**|Dmitrii Gavrilev et.al.|[2606.12282](http://arxiv.org/abs/2606.12282)|null|
 |**2026-06-10**|**Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs**|Deep Gandhi et.al.|[2606.12280](http://arxiv.org/abs/2606.12280)|null|
@@ -35,7 +38,6 @@
 |**2026-06-10**|**SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation**|Xu Zhang et.al.|[2606.11969](http://arxiv.org/abs/2606.11969)|null|
 |**2026-06-10**|**Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics**|Sam Gijsen et.al.|[2606.11833](http://arxiv.org/abs/2606.11833)|null|
 |**2026-06-10**|**Spectrally Regularized Latent Flow Matching for Turbulence Generation**|Khalid Rafiq et.al.|[2606.11691](http://arxiv.org/abs/2606.11691)|null|
-|**2026-06-10**|**EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows**|Clinton Enwerem et.al.|[2606.12728](http://arxiv.org/abs/2606.12728)|null|
 |**2026-06-10**|**From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation**|Honglin He et.al.|[2606.12603](http://arxiv.org/abs/2606.12603)|null|
 |**2026-06-10**|**HairPort: In-context 3D-aware Hair Import and Transfer for Images**|Alireza Heidari et.al.|[2606.12562](http://arxiv.org/abs/2606.12562)|null|
 |**2026-06-10**|**AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation**|Zeyue Tian et.al.|[2606.12555](http://arxiv.org/abs/2606.12555)|null|
@@ -1967,5 +1969,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
