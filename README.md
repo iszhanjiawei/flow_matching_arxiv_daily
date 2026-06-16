@@ -20,6 +20,7 @@
 |**2026-06-15**|**RGFVR: Reference-Guided Face Video Restoration with Flow Matching**|Cem Eteke et.al.|[2606.16401](http://arxiv.org/abs/2606.16401)|null|
 |**2026-06-15**|**FlowMPC: Improving Flow Matching policies with World Models**|Chandon Hamel et.al.|[2606.16286](http://arxiv.org/abs/2606.16286)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](http://arxiv.org/abs/2606.16212)|null|
+|**2026-06-15**|**Human Universal Grasping**|Kevin Yuanbo Wu et.al.|[2606.17054](http://arxiv.org/abs/2606.17054)|null|
 |**2026-06-14**|**Topological Flow Matching**|Kacper Wyrwal et.al.|[2606.15897](http://arxiv.org/abs/2606.15897)|null|
 |**2026-06-14**|**Transferring Contact, Not Just Motion: Compliant Grasping Across Dexterous Hands**|Soofiyan Atar et.al.|[2606.15516](http://arxiv.org/abs/2606.15516)|null|
 |**2026-06-13**|**PHINN: Persistent Homology Inspired Neural Network for Rare-Event Time Series Generation**|Emre Yusuf et.al.|[2606.15452](http://arxiv.org/abs/2606.15452)|null|
