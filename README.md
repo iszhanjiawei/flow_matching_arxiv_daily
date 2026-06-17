@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency**|Jiahao Yang et.al.|[2606.15148](http://arxiv.org/abs/2606.15148)|null|
+|**2026-06-16**|**One-Step Token-to-Waveform Generation with MeanFlow in Latent Space**|Zheqi Dai et.al.|[2606.18072](http://arxiv.org/abs/2606.18072)|null|
+|**2026-06-16**|**Uncertainty Quantification for Flow-Based Vision-Language-Action Models**|Ralf Römer et.al.|[2606.18043](http://arxiv.org/abs/2606.18043)|null|
+|**2026-06-16**|**PhASE-Flow: Phonetic-Conditioned Acoustic Flow Matching in SSL Representation Domain for Speech Enhancement**|Jun Gao et.al.|[2606.17806](http://arxiv.org/abs/2606.17806)|null|
+|**2026-06-16**|**Reversal Q-Learning**|Aditya Oberai et.al.|[2606.17551](http://arxiv.org/abs/2606.17551)|null|
+|**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408](http://arxiv.org/abs/2606.17408)|null|
 |**2026-06-15**|**ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments**|Xiao-Yin Liu et.al.|[2606.16876](http://arxiv.org/abs/2606.16876)|null|
 |**2026-06-15**|**Decision-Weighted Flow Matching for Contextual Stochastic Optimization**|Jize Xie et.al.|[2606.16790](http://arxiv.org/abs/2606.16790)|null|
 |**2026-06-15**|**Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees**|Marta Gentiloni Silveri et.al.|[2606.16610](http://arxiv.org/abs/2606.16610)|null|
@@ -21,13 +27,13 @@
 |**2026-06-15**|**FlowMPC: Improving Flow Matching policies with World Models**|Chandon Hamel et.al.|[2606.16286](http://arxiv.org/abs/2606.16286)|null|
 |**2026-06-15**|**LUCID: Learned Undersampling-Adaptive Consistency-Guided Inference with Deterministic Flow Matching for Sparse-View CT Reconstruction**|Jigang Duan et.al.|[2606.16212](http://arxiv.org/abs/2606.16212)|null|
 |**2026-06-15**|**Human Universal Grasping**|Kevin Yuanbo Wu et.al.|[2606.17054](http://arxiv.org/abs/2606.17054)|null|
+|**2026-06-15**|**Transformer-Based Warm-Starting for Feasible and Optimal Terminal Approach to Tumbling Objects with Space Manipulators**|Yuji Takubo et.al.|[2606.17317](http://arxiv.org/abs/2606.17317)|null|
 |**2026-06-14**|**Topological Flow Matching**|Kacper Wyrwal et.al.|[2606.15897](http://arxiv.org/abs/2606.15897)|null|
 |**2026-06-14**|**Transferring Contact, Not Just Motion: Compliant Grasping Across Dexterous Hands**|Soofiyan Atar et.al.|[2606.15516](http://arxiv.org/abs/2606.15516)|null|
 |**2026-06-13**|**PHINN: Persistent Homology Inspired Neural Network for Rare-Event Time Series Generation**|Emre Yusuf et.al.|[2606.15452](http://arxiv.org/abs/2606.15452)|null|
 |**2026-06-13**|**The Reverse Telescoping Coordinate System for Positive Definite Matrices: Geometry, Computation, and Generative Modeling**|Anindya Bhadra et.al.|[2606.15442](http://arxiv.org/abs/2606.15442)|null|
 |**2026-06-13**|**CausalDrive: Real-time Causal World Models for Autonomous Driving**|Tianyi Yan et.al.|[2606.15341](http://arxiv.org/abs/2606.15341)|null|
 |**2026-06-13**|**Probabilistic Signature Inversion: Learning Conditional Distributions from Truncated Signatures**|Junoh Kang et.al.|[2606.15332](http://arxiv.org/abs/2606.15332)|null|
-|**2026-06-13**|**MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency**|Jiahao Yang et.al.|[2606.15148](http://arxiv.org/abs/2606.15148)|null|
 |**2026-06-12**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675](http://arxiv.org/abs/2606.13675)|null|
 |**2026-06-12**|**EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows**|Clinton Enwerem et.al.|[2606.12728](http://arxiv.org/abs/2606.12728)|null|
 |**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](http://arxiv.org/abs/2606.13989)|null|
@@ -1985,5 +1991,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
