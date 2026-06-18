@@ -1,4 +1,4 @@
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**|Michael Finkelson et.al.|[2606.19325](http://arxiv.org/abs/2606.19325)|null|
+|**2026-06-17**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
+|**2026-06-17**|**Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation**|Yu Zhang et.al.|[2606.19194](http://arxiv.org/abs/2606.19194)|null|
+|**2026-06-17**|**The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL**|Nicolas Beltran-Velez et.al.|[2606.19162](http://arxiv.org/abs/2606.19162)|null|
+|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](http://arxiv.org/abs/2606.19019)|null|
+|**2026-06-17**|**Test-Time Adaptation in Optical Coherence Tomography Using Trajectory-Aligned Time-Independent Flow**|Veit Hucke et.al.|[2606.18876](http://arxiv.org/abs/2606.18876)|null|
+|**2026-06-17**|**Learning to Distort: Weakly-Supervised Image Quality Transfer for Prostate DWI Correction**|YuCheng Tang et.al.|[2606.18869](http://arxiv.org/abs/2606.18869)|null|
+|**2026-06-17**|**SpectralDiT: Timestep-Conditioned Spectral Residual Correction for Flow-Matching DiTs**|Jiayu Tian et.al.|[2606.18765](http://arxiv.org/abs/2606.18765)|null|
+|**2026-06-17**|**MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction**|Jianing Zhang et.al.|[2606.18558](http://arxiv.org/abs/2606.18558)|null|
 |**2026-06-16**|**MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency**|Jiahao Yang et.al.|[2606.15148](http://arxiv.org/abs/2606.15148)|null|
 |**2026-06-16**|**One-Step Token-to-Waveform Generation with MeanFlow in Latent Space**|Zheqi Dai et.al.|[2606.18072](http://arxiv.org/abs/2606.18072)|null|
 |**2026-06-16**|**Uncertainty Quantification for Flow-Based Vision-Language-Action Models**|Ralf Römer et.al.|[2606.18043](http://arxiv.org/abs/2606.18043)|null|
 |**2026-06-16**|**PhASE-Flow: Phonetic-Conditioned Acoustic Flow Matching in SSL Representation Domain for Speech Enhancement**|Jun Gao et.al.|[2606.17806](http://arxiv.org/abs/2606.17806)|null|
 |**2026-06-16**|**Reversal Q-Learning**|Aditya Oberai et.al.|[2606.17551](http://arxiv.org/abs/2606.17551)|null|
 |**2026-06-16**|**Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies**|Meipo Dai et.al.|[2606.17408](http://arxiv.org/abs/2606.17408)|null|
+|**2026-06-16**|**VEGA: Learning Navigation VLAs from In-the-Wild Egocentric Video with Geometric Trajectory Supervision**|Gershom Seneviratne et.al.|[2606.18426](http://arxiv.org/abs/2606.18426)|null|
 |**2026-06-15**|**ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments**|Xiao-Yin Liu et.al.|[2606.16876](http://arxiv.org/abs/2606.16876)|null|
 |**2026-06-15**|**Decision-Weighted Flow Matching for Contextual Stochastic Optimization**|Jize Xie et.al.|[2606.16790](http://arxiv.org/abs/2606.16790)|null|
 |**2026-06-15**|**Diffusion Flow Matching: Dimension-Improved KL Bounds and Wasserstein Guarantees**|Marta Gentiloni Silveri et.al.|[2606.16610](http://arxiv.org/abs/2606.16610)|null|
@@ -1991,5 +2001,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
 
