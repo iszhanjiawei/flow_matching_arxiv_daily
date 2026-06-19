@@ -1,4 +1,4 @@
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
+|**2026-06-18**|**The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation**|Nicolas Dufour et.al.|[2606.20536](http://arxiv.org/abs/2606.20536)|null|
+|**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
+|**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266](http://arxiv.org/abs/2606.20266)|null|
+|**2026-06-18**|**FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching**|Francesco Argenziano et.al.|[2606.20209](http://arxiv.org/abs/2606.20209)|null|
+|**2026-06-18**|**Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation**|Jianing Guo et.al.|[2606.20135](http://arxiv.org/abs/2606.20135)|null|
+|**2026-06-18**|**TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields**|Haoxuan Li et.al.|[2606.20131](http://arxiv.org/abs/2606.20131)|null|
+|**2026-06-18**|**Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow**|Liting Gao et.al.|[2606.20101](http://arxiv.org/abs/2606.20101)|null|
+|**2026-06-18**|**Site-Specific MIMO Channel Generation via Diffusion and Flow Matching: Fidelity, Efficiency, and Downstream Utility**|Sina Beyraghi et.al.|[2606.20098](http://arxiv.org/abs/2606.20098)|null|
+|**2026-06-18**|**Residual-Space Evolutionary Optimization via Flow-based Generative Models**|Zhuo Cao et.al.|[2606.20084](http://arxiv.org/abs/2606.20084)|null|
+|**2026-06-18**|**CrossFlow: One-Step Generation Across Latent and Pixel Spaces**|Xiyuan Wang et.al.|[2606.19970](http://arxiv.org/abs/2606.19970)|null|
+|**2026-06-18**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802](http://arxiv.org/abs/2606.19802)|null|
+|**2026-06-18**|**EquiVLA: A General Framework for Rotationally Equivariant Vision-Language-Action Models**|Thien-Loc Ha et.al.|[2606.19784](http://arxiv.org/abs/2606.19784)|null|
+|**2026-06-18**|**Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion**|Bingshuo Qian et.al.|[2606.19662](http://arxiv.org/abs/2606.19662)|null|
 |**2026-06-17**|**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**|Michael Finkelson et.al.|[2606.19325](http://arxiv.org/abs/2606.19325)|null|
-|**2026-06-17**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
 |**2026-06-17**|**Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation**|Yu Zhang et.al.|[2606.19194](http://arxiv.org/abs/2606.19194)|null|
 |**2026-06-17**|**The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL**|Nicolas Beltran-Velez et.al.|[2606.19162](http://arxiv.org/abs/2606.19162)|null|
 |**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](http://arxiv.org/abs/2606.19019)|null|
@@ -23,6 +36,8 @@
 |**2026-06-17**|**Learning to Distort: Weakly-Supervised Image Quality Transfer for Prostate DWI Correction**|YuCheng Tang et.al.|[2606.18869](http://arxiv.org/abs/2606.18869)|null|
 |**2026-06-17**|**SpectralDiT: Timestep-Conditioned Spectral Residual Correction for Flow-Matching DiTs**|Jiayu Tian et.al.|[2606.18765](http://arxiv.org/abs/2606.18765)|null|
 |**2026-06-17**|**MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction**|Jianing Zhang et.al.|[2606.18558](http://arxiv.org/abs/2606.18558)|null|
+|**2026-06-17**|**Latent Confounded Causal Discovery via Lie Bracket Geometry**|Sridhar Mahadevan et.al.|[2606.19610](http://arxiv.org/abs/2606.19610)|null|
+|**2026-06-17**|**ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?**|Yuyang Zhang et.al.|[2606.19531](http://arxiv.org/abs/2606.19531)|null|
 |**2026-06-16**|**MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency**|Jiahao Yang et.al.|[2606.15148](http://arxiv.org/abs/2606.15148)|null|
 |**2026-06-16**|**One-Step Token-to-Waveform Generation with MeanFlow in Latent Space**|Zheqi Dai et.al.|[2606.18072](http://arxiv.org/abs/2606.18072)|null|
 |**2026-06-16**|**Uncertainty Quantification for Flow-Based Vision-Language-Action Models**|Ralf Römer et.al.|[2606.18043](http://arxiv.org/abs/2606.18043)|null|
@@ -2001,5 +2016,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
