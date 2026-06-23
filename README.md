@@ -14,11 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**MeshFlow: Mesh Generation with Equivariant Flow Matching**|Qi Sun et.al.|[2606.23489](http://arxiv.org/abs/2606.23489)|null|
+|**2026-06-22**|**Flowing With Purpose: Latent Action Guided Flow Matching Policies For Robotic Manipulation**|Bruno Machado et.al.|[2606.23420](http://arxiv.org/abs/2606.23420)|null|
+|**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293](http://arxiv.org/abs/2606.23293)|null|
+|**2026-06-22**|**Safe Few-Step Generation via Velocity Editing**|Yujin Choi et.al.|[2606.23267](http://arxiv.org/abs/2606.23267)|null|
+|**2026-06-22**|**FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech**|Haoxu Wang et.al.|[2606.23190](http://arxiv.org/abs/2606.23190)|null|
+|**2026-06-22**|**Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS**|Seymanur Akti et.al.|[2606.23176](http://arxiv.org/abs/2606.23176)|null|
+|**2026-06-22**|**Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models**|Pinhao Song et.al.|[2606.23147](http://arxiv.org/abs/2606.23147)|null|
+|**2026-06-22**|**Flow as Flow: Modeling Robot Velocity Fields as Probability Velocity Fields for Flow-Based Object Manipulation**|Koki Seno et.al.|[2606.23090](http://arxiv.org/abs/2606.23090)|null|
+|**2026-06-22**|**AudioCALM: Continuous Autoregressive Language Modeling for Universal Audio Generation**|Huadai Liu et.al.|[2606.23080](http://arxiv.org/abs/2606.23080)|null|
+|**2026-06-22**|**STAR-VAE: Structured Topology-Aware Regularization for Audio Reconstruction and Generation**|Huadai Liu et.al.|[2606.23064](http://arxiv.org/abs/2606.23064)|null|
+|**2026-06-22**|**PG-MAP: Joint MAP Optimization for Inference-Time Alignment of Diffusion and Flow-Matching Models**|Ruolan Sun et.al.|[2606.22958](http://arxiv.org/abs/2606.22958)|null|
+|**2026-06-22**|**One-Step Flow Matching for Generative Modeling of Path-Dependent Physical Fields**|Yijing Zhou et.al.|[2606.22752](http://arxiv.org/abs/2606.22752)|null|
 |**2026-06-21**|**Trajectory Forcing: Structure-First Generation with Controllable Semantic Trajectories**|Merve Kocabas et.al.|[2606.22527](http://arxiv.org/abs/2606.22527)|null|
 |**2026-06-21**|**DreamUV: Unwrap Artist-like UV by End-to-End Flow Matching**|Quanyuan Ruan et.al.|[2606.22445](http://arxiv.org/abs/2606.22445)|null|
 |**2026-06-21**|**Curvature-Adaptive Consistency Flow Matching: Autonomous Trajectory Optimization via Reinforcement Learning**|Songtao Tian et.al.|[2606.22394](http://arxiv.org/abs/2606.22394)|null|
 |**2026-06-21**|**Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems**|Yaozhong Shi et.al.|[2606.22346](http://arxiv.org/abs/2606.22346)|null|
 |**2026-06-21**|**FlowDPG: Deterministic Policy Gradient on Flow Matching Policies for Real-World Manipulation**|Kexin Shi et.al.|[2606.22303](http://arxiv.org/abs/2606.22303)|null|
+|**2026-06-21**|**NullFlow: One-Step Generative Reconstruction**|Xiao Shi et.al.|[2606.22696](http://arxiv.org/abs/2606.22696)|null|
 |**2026-06-20**|**Patched Flow Matching: Generative Wall-Pressure Reconstruction Beyond Training-Domain Scales from Sparse Sensors**|Meet Hemant Parikh et.al.|[2606.22084](http://arxiv.org/abs/2606.22084)|null|
 |**2026-06-20**|**Artic-O: End-to-End Articulated Object Reconstruction via Latent Geometry Learning**|Xuyang Wang et.al.|[2606.21938](http://arxiv.org/abs/2606.21938)|null|
 |**2026-06-19**|**TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields**|Haoxuan Li et.al.|[2606.20131](http://arxiv.org/abs/2606.20131)|null|
