@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-21**|**Trajectory Forcing: Structure-First Generation with Controllable Semantic Trajectories**|Merve Kocabas et.al.|[2606.22527](http://arxiv.org/abs/2606.22527)|null|
+|**2026-06-21**|**DreamUV: Unwrap Artist-like UV by End-to-End Flow Matching**|Quanyuan Ruan et.al.|[2606.22445](http://arxiv.org/abs/2606.22445)|null|
+|**2026-06-21**|**Curvature-Adaptive Consistency Flow Matching: Autonomous Trajectory Optimization via Reinforcement Learning**|Songtao Tian et.al.|[2606.22394](http://arxiv.org/abs/2606.22394)|null|
+|**2026-06-21**|**Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems**|Yaozhong Shi et.al.|[2606.22346](http://arxiv.org/abs/2606.22346)|null|
+|**2026-06-21**|**FlowDPG: Deterministic Policy Gradient on Flow Matching Policies for Real-World Manipulation**|Kexin Shi et.al.|[2606.22303](http://arxiv.org/abs/2606.22303)|null|
+|**2026-06-20**|**Patched Flow Matching: Generative Wall-Pressure Reconstruction Beyond Training-Domain Scales from Sparse Sensors**|Meet Hemant Parikh et.al.|[2606.22084](http://arxiv.org/abs/2606.22084)|null|
+|**2026-06-20**|**Artic-O: End-to-End Articulated Object Reconstruction via Latent Geometry Learning**|Xuyang Wang et.al.|[2606.21938](http://arxiv.org/abs/2606.21938)|null|
+|**2026-06-19**|**TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields**|Haoxuan Li et.al.|[2606.20131](http://arxiv.org/abs/2606.20131)|null|
+|**2026-06-19**|**CurvSegFlow: Time-Conditioned Flow Matching for Robust Segmentation of Curvilinear Structures in Noisy Biomedical Images**|Sidi Mohamed Sid'El Moctar et.al.|[2606.21608](http://arxiv.org/abs/2606.21608)|null|
+|**2026-06-19**|**VQActFlow: Vector-Quantized Action Mode Steering for Multi-Task Robot Manipulation**|Zhigen Zhao et.al.|[2606.21600](http://arxiv.org/abs/2606.21600)|null|
+|**2026-06-19**|**Intrinsic Flow Matching on Quantum Pure-State Manifolds with Phase-Aligned Transport**|Jian Xu et.al.|[2606.21256](http://arxiv.org/abs/2606.21256)|null|
+|**2026-06-19**|**ReFPO: Reflow Regularization for Flow Matching Policy Gradients**|Ge Wang et.al.|[2606.21086](http://arxiv.org/abs/2606.21086)|null|
+|**2026-06-19**|**BayesFP: Posterior Estimation for Flow-Based Policies via Feynman-Kac Sampling**|Sreevardhan Sirigiri et.al.|[2606.21014](http://arxiv.org/abs/2606.21014)|null|
 |**2026-06-18**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
 |**2026-06-18**|**The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation**|Nicolas Dufour et.al.|[2606.20536](http://arxiv.org/abs/2606.20536)|null|
 |**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
 |**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266](http://arxiv.org/abs/2606.20266)|null|
 |**2026-06-18**|**FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching**|Francesco Argenziano et.al.|[2606.20209](http://arxiv.org/abs/2606.20209)|null|
 |**2026-06-18**|**Frequency-Aware Flow Matching for Continuous and Consistent Robotic Action Generation**|Jianing Guo et.al.|[2606.20135](http://arxiv.org/abs/2606.20135)|null|
-|**2026-06-18**|**TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields**|Haoxuan Li et.al.|[2606.20131](http://arxiv.org/abs/2606.20131)|null|
 |**2026-06-18**|**Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow**|Liting Gao et.al.|[2606.20101](http://arxiv.org/abs/2606.20101)|null|
 |**2026-06-18**|**Site-Specific MIMO Channel Generation via Diffusion and Flow Matching: Fidelity, Efficiency, and Downstream Utility**|Sina Beyraghi et.al.|[2606.20098](http://arxiv.org/abs/2606.20098)|null|
 |**2026-06-18**|**Residual-Space Evolutionary Optimization via Flow-based Generative Models**|Zhuo Cao et.al.|[2606.20084](http://arxiv.org/abs/2606.20084)|null|
@@ -28,6 +40,7 @@
 |**2026-06-18**|**Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems**|Nicolas Zilberstein et.al.|[2606.19802](http://arxiv.org/abs/2606.19802)|null|
 |**2026-06-18**|**EquiVLA: A General Framework for Rotationally Equivariant Vision-Language-Action Models**|Thien-Loc Ha et.al.|[2606.19784](http://arxiv.org/abs/2606.19784)|null|
 |**2026-06-18**|**Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion**|Bingshuo Qian et.al.|[2606.19662](http://arxiv.org/abs/2606.19662)|null|
+|**2026-06-18**|**B[FM] $^2$ : Brain Foundation Model via Flow Matching with SplitUNet**|Jaedong Hwang et.al.|[2606.20812](http://arxiv.org/abs/2606.20812)|null|
 |**2026-06-17**|**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**|Michael Finkelson et.al.|[2606.19325](http://arxiv.org/abs/2606.19325)|null|
 |**2026-06-17**|**Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation**|Yu Zhang et.al.|[2606.19194](http://arxiv.org/abs/2606.19194)|null|
 |**2026-06-17**|**The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL**|Nicolas Beltran-Velez et.al.|[2606.19162](http://arxiv.org/abs/2606.19162)|null|
@@ -2016,5 +2029,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
