@@ -1,4 +1,4 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching**|Feiyang Fu et.al.|[2606.24140](http://arxiv.org/abs/2606.24140)|null|
+|**2026-06-24**|**Learning Action Priors for Cross-embodiment Robot Manipulation**|Dong Jing et.al.|[2606.26095](http://arxiv.org/abs/2606.26095)|null|
+|**2026-06-24**|**Parnassus: A GPU-enabled, Python-based Package for Fast Particle Detector Simulation and Reconstruction**|Abdelrahman Elabd et.al.|[2606.26089](http://arxiv.org/abs/2606.26089)|null|
+|**2026-06-24**|**Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models**|Tiecheng Guo et.al.|[2606.25985](http://arxiv.org/abs/2606.25985)|null|
+|**2026-06-24**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672](http://arxiv.org/abs/2606.25672)|null|
 |**2026-06-23**|**Flow as Flow: Modeling Robot Velocity Fields as Probability Velocity Fields for Flow-Based Object Manipulation**|Koki Seno et.al.|[2606.23090](http://arxiv.org/abs/2606.23090)|null|
 |**2026-06-23**|**Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching**|Peiyan Hu et.al.|[2606.24824](http://arxiv.org/abs/2606.24824)|null|
 |**2026-06-23**|**Beyond U-Net: A Latent-Representation-Aligned Skip-Free Backbone for Flow-Matching Speech Enhancement**|Wangyi Pu et.al.|[2606.24745](http://arxiv.org/abs/2606.24745)|null|
@@ -22,7 +27,6 @@
 |**2026-06-23**|**MATCH: Flow Matching for Multi-View Anomaly Detection**|Mathis Kruse et.al.|[2606.24375](http://arxiv.org/abs/2606.24375)|null|
 |**2026-06-23**|**FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning**|Xirui Li et.al.|[2606.24231](http://arxiv.org/abs/2606.24231)|null|
 |**2026-06-23**|**The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space**|Yian Yao et.al.|[2606.24157](http://arxiv.org/abs/2606.24157)|null|
-|**2026-06-23**|**A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching**|Feiyang Fu et.al.|[2606.24140](http://arxiv.org/abs/2606.24140)|null|
 |**2026-06-23**|**NeuroSonic: Conditional Flow Matching for EEG-to-Speech Reconstruction**|Wenhao Gao et.al.|[2606.24087](http://arxiv.org/abs/2606.24087)|null|
 |**2026-06-22**|**MeshFlow: Mesh Generation with Equivariant Flow Matching**|Qi Sun et.al.|[2606.23489](http://arxiv.org/abs/2606.23489)|null|
 |**2026-06-22**|**Flowing With Purpose: Latent Action Guided Flow Matching Policies For Robotic Manipulation**|Bruno Machado et.al.|[2606.23420](http://arxiv.org/abs/2606.23420)|null|
@@ -2052,5 +2056,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
