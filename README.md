@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching**|Guanbo Huang et.al.|[2606.28226](http://arxiv.org/abs/2606.28226)|null|
+|**2026-06-26**|**Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design**|Yiyun Fei et.al.|[2606.27923](http://arxiv.org/abs/2606.27923)|null|
+|**2026-06-26**|**MindFlow: Harmonizing Cognitive Semantics and Acoustic Dynamics for Facial Animation Generation in Dyadic Conversations**|Hejia Chen et.al.|[2606.27779](http://arxiv.org/abs/2606.27779)|null|
+|**2026-06-26**|**ModaFlow: Modality-Aware Flow Matching for High-Fidelity Virtual Try-On**|Xiangyu Sai et.al.|[2606.27773](http://arxiv.org/abs/2606.27773)|null|
+|**2026-06-26**|**NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning**|Tianlin Pan et.al.|[2606.27771](http://arxiv.org/abs/2606.27771)|null|
+|**2026-06-26**|**PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction**|Dongxia Wu et.al.|[2606.27752](http://arxiv.org/abs/2606.27752)|null|
 |**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
 |**2026-06-25**|**Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)**|Ilia Larchenko et.al.|[2606.27163](http://arxiv.org/abs/2606.27163)|null|
 |**2026-06-25**|**PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies**|Jiayu Yang et.al.|[2606.27144](http://arxiv.org/abs/2606.27144)|null|
@@ -2062,5 +2068,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
