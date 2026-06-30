@@ -20,6 +20,9 @@
 |**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936](http://arxiv.org/abs/2606.29936)|null|
 |**2026-06-29**|**Dual-Flow Reinforcement Learning with State-Aware Exploration**|Qijun Li et.al.|[2606.29820](http://arxiv.org/abs/2606.29820)|null|
 |**2026-06-29**|**Simplifying Flow Matching Transformations with Low-Rank Mixture Models**|Liam A. Kruse et.al.|[2606.29724](http://arxiv.org/abs/2606.29724)|null|
+|**2026-06-29**|**MeloDISinger: Melody-Aware & Duration-Preserving Singing Voice Editing with Audio Infilling**|Yoonjeong Park et.al.|[2606.30580](http://arxiv.org/abs/2606.30580)|null|
+|**2026-06-29**|**The Fundamental Limits of Valid Transport Map Estimation**|Sivaraman Balakrishnan et.al.|[2606.30574](http://arxiv.org/abs/2606.30574)|null|
+|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
 |**2026-06-28**|**VeRe-Flow: Guiding Flow Matching toward Clean Speech via Velocity Contrastive Regularization and Representation Alignment for Noise-Robust Bandwidth Expansion**|Sujin Koo et.al.|[2606.29450](http://arxiv.org/abs/2606.29450)|null|
 |**2026-06-28**|**Interventional Flow Matching: Prospective Dose-Response Forecasting with Velocity-Field Jacobian Regularization**|Amirreza Dolatpour Fathkouhi et.al.|[2606.29386](http://arxiv.org/abs/2606.29386)|null|
 |**2026-06-28**|**SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics**|Jiashuo Sun et.al.|[2606.29247](http://arxiv.org/abs/2606.29247)|null|
