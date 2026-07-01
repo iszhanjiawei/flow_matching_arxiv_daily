@@ -1,4 +1,4 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-06-30**|**DynFly: Dynamic-Aware Continuous Trajectory Generation for UAV Vision-Language Navigation in Urban Environments**|Wen Jiang et.al.|[2606.31654](http://arxiv.org/abs/2606.31654)|null|
+|**2026-06-30**|**DualBrep: A Dual-Field Continuous Representation for B-rep Modelling**|Yilin Liu et.al.|[2606.31579](http://arxiv.org/abs/2606.31579)|null|
+|**2026-06-30**|**Introduction to Stochastic Differential Equations for Generative Machine Learning: A Variational Perspective**|Ole Winther et.al.|[2606.31576](http://arxiv.org/abs/2606.31576)|null|
+|**2026-06-30**|**PRISM: Latent Composition Consistency for Single-Image Reflection Removal**|Junseong Shin et.al.|[2606.31513](http://arxiv.org/abs/2606.31513)|null|
+|**2026-06-30**|**Scenario-conditioned flow matching for probabilistic generation of three-component ground-motion waveforms**|Yi Ding et.al.|[2606.31340](http://arxiv.org/abs/2606.31340)|null|
+|**2026-06-30**|**Probabilistic Inversion with Flow Matching**|Baldur Paulwitz et.al.|[2606.31288](http://arxiv.org/abs/2606.31288)|null|
+|**2026-06-30**|**A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR**|Lin Chen et.al.|[2606.31225](http://arxiv.org/abs/2606.31225)|null|
 |**2026-06-29**|**Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design**|Yiyun Fei et.al.|[2606.27923](http://arxiv.org/abs/2606.27923)|null|
 |**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
 |**2026-06-29**|**Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge**|Titouan Vayer et.al.|[2606.30053](http://arxiv.org/abs/2606.30053)|null|
@@ -2084,5 +2092,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
