@@ -1,4 +1,4 @@
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-01**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
+|**2026-07-01**|**A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR**|Lin Chen et.al.|[2606.31225](http://arxiv.org/abs/2606.31225)|null|
+|**2026-07-01**|**A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models**|Siyi Wang et.al.|[2607.00946](http://arxiv.org/abs/2607.00946)|null|
+|**2026-07-01**|**Decoupled Guidance: Disentangling Subject and Context Pathways in Text-to-Image Personalization**|Seongmin Kim et.al.|[2607.00766](http://arxiv.org/abs/2607.00766)|null|
+|**2026-07-01**|**Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis**|Zuda Yu et.al.|[2607.00363](http://arxiv.org/abs/2607.00363)|null|
+|**2026-07-01**|**Generative Modeling of Quantum Distribution with Functional Flow Matching**|Jaehoon Hahm et.al.|[2607.00301](http://arxiv.org/abs/2607.00301)|null|
 |**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
 |**2026-06-30**|**DynFly: Dynamic-Aware Continuous Trajectory Generation for UAV Vision-Language Navigation in Urban Environments**|Wen Jiang et.al.|[2606.31654](http://arxiv.org/abs/2606.31654)|null|
 |**2026-06-30**|**DualBrep: A Dual-Field Continuous Representation for B-rep Modelling**|Yilin Liu et.al.|[2606.31579](http://arxiv.org/abs/2606.31579)|null|
@@ -21,7 +27,8 @@
 |**2026-06-30**|**PRISM: Latent Composition Consistency for Single-Image Reflection Removal**|Junseong Shin et.al.|[2606.31513](http://arxiv.org/abs/2606.31513)|null|
 |**2026-06-30**|**Scenario-conditioned flow matching for probabilistic generation of three-component ground-motion waveforms**|Yi Ding et.al.|[2606.31340](http://arxiv.org/abs/2606.31340)|null|
 |**2026-06-30**|**Probabilistic Inversion with Flow Matching**|Baldur Paulwitz et.al.|[2606.31288](http://arxiv.org/abs/2606.31288)|null|
-|**2026-06-30**|**A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR**|Lin Chen et.al.|[2606.31225](http://arxiv.org/abs/2606.31225)|null|
+|**2026-06-30**|**Play Like Champions: Counterfactual Feedback Generation in Latent Space**|Andrzej Białecki et.al.|[2607.00190](http://arxiv.org/abs/2607.00190)|null|
+|**2026-06-30**|**SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling**|Alaina Kolli et.al.|[2607.00095](http://arxiv.org/abs/2607.00095)|null|
 |**2026-06-29**|**Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design**|Yiyun Fei et.al.|[2606.27923](http://arxiv.org/abs/2606.27923)|null|
 |**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
 |**2026-06-29**|**Notes on generative modeling: flow matching, diffusion, optimal transport and Schr{ö}dinger bridge**|Titouan Vayer et.al.|[2606.30053](http://arxiv.org/abs/2606.30053)|null|
@@ -30,7 +37,6 @@
 |**2026-06-29**|**Simplifying Flow Matching Transformations with Low-Rank Mixture Models**|Liam A. Kruse et.al.|[2606.29724](http://arxiv.org/abs/2606.29724)|null|
 |**2026-06-29**|**MeloDISinger: Melody-Aware & Duration-Preserving Singing Voice Editing with Audio Infilling**|Yoonjeong Park et.al.|[2606.30580](http://arxiv.org/abs/2606.30580)|null|
 |**2026-06-29**|**The Fundamental Limits of Valid Transport Map Estimation**|Sivaraman Balakrishnan et.al.|[2606.30574](http://arxiv.org/abs/2606.30574)|null|
-|**2026-06-29**|**Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision**|Haoyang Li et.al.|[2606.30552](http://arxiv.org/abs/2606.30552)|null|
 |**2026-06-28**|**VeRe-Flow: Guiding Flow Matching toward Clean Speech via Velocity Contrastive Regularization and Representation Alignment for Noise-Robust Bandwidth Expansion**|Sujin Koo et.al.|[2606.29450](http://arxiv.org/abs/2606.29450)|null|
 |**2026-06-28**|**Interventional Flow Matching: Prospective Dose-Response Forecasting with Velocity-Field Jacobian Regularization**|Amirreza Dolatpour Fathkouhi et.al.|[2606.29386](http://arxiv.org/abs/2606.29386)|null|
 |**2026-06-28**|**SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics**|Jiashuo Sun et.al.|[2606.29247](http://arxiv.org/abs/2606.29247)|null|
@@ -2092,5 +2098,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
 
