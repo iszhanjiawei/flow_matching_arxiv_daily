@@ -16,6 +16,10 @@
 |---|---|---|---|---|
 |**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xinyu Shao et.al.|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
 |**2026-07-06**|**SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies**|Dijia Zhan et.al.|[2607.04609](http://arxiv.org/abs/2607.04609)|null|
+|**2026-07-06**|**GeoFlow: Geo-Aware Modeling of Inter-Area Relationships in Origin-Destination Flow Prediction and Generation**|Zherui Huang et.al.|[2607.05257](http://arxiv.org/abs/2607.05257)|null|
+|**2026-07-06**|**FUSE: FK-Steered Multi-Modal Flow Matching for Efficient Simulation-Based Posterior Estimation**|Weichen Qin et.al.|[2607.05252](http://arxiv.org/abs/2607.05252)|null|
+|**2026-07-06**|**Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control**|Ruslan Rakhimov et.al.|[2607.04978](http://arxiv.org/abs/2607.04978)|null|
+|**2026-07-06**|**Steady Euler flows with contact discontinuities in infinitely long nozzles with general upstream data**|Jun Chen et.al.|[2607.04804](http://arxiv.org/abs/2607.04804)|null|
 |**2026-07-05**|**Constrained Flow Matching via Lagrangian Dual Flows**|Vince Kurtz et.al.|[2607.04513](http://arxiv.org/abs/2607.04513)|null|
 |**2026-07-05**|**CCFM: Collision-Constrained Flow Matching for Safety-Critical Scenario Generation**|Ke Li et.al.|[2607.04451](http://arxiv.org/abs/2607.04451)|null|
 |**2026-07-05**|**Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series**|Zitao Shuai et.al.|[2607.04245](http://arxiv.org/abs/2607.04245)|null|
