@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xinyu Shao et.al.|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
+|**2026-07-06**|**SEAM: Smooth Execution of Action-Chunked Motion for Vision-Language-Action Policies**|Dijia Zhan et.al.|[2607.04609](http://arxiv.org/abs/2607.04609)|null|
+|**2026-07-05**|**Constrained Flow Matching via Lagrangian Dual Flows**|Vince Kurtz et.al.|[2607.04513](http://arxiv.org/abs/2607.04513)|null|
+|**2026-07-05**|**CCFM: Collision-Constrained Flow Matching for Safety-Critical Scenario Generation**|Ke Li et.al.|[2607.04451](http://arxiv.org/abs/2607.04451)|null|
+|**2026-07-05**|**Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series**|Zitao Shuai et.al.|[2607.04245](http://arxiv.org/abs/2607.04245)|null|
+|**2026-07-05**|**XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control**|Lei Iok Tong et.al.|[2607.04171](http://arxiv.org/abs/2607.04171)|null|
+|**2026-07-05**|**Asymptotic-Preserving A Posteriori Analysis of Diffusion and Flow-Matching Samplers**|Shiheng Zhang et.al.|[2607.04113](http://arxiv.org/abs/2607.04113)|null|
+|**2026-07-04**|**InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image**|Gwanhyeong Koo et.al.|[2607.03990](http://arxiv.org/abs/2607.03990)|null|
+|**2026-07-04**|**TokAN: Accent Normalization Using Self-Supervised Speech Tokens**|Qibing Bai et.al.|[2607.03928](http://arxiv.org/abs/2607.03928)|null|
+|**2026-07-04**|**High-Fidelity One-Step Generative Visuomotor Policy via Recursive Correction, Frequency Consistency, and Contrastive Flow Matching**|Yuran Chen et.al.|[2607.03865](http://arxiv.org/abs/2607.03865)|null|
+|**2026-07-03**|**Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies**|Liuhaichen Yang et.al.|[2607.02092](http://arxiv.org/abs/2607.02092)|null|
+|**2026-07-03**|**Reflected Schrödinger Bridge Matching**|Marcus Häggbom et.al.|[2607.03626](http://arxiv.org/abs/2607.03626)|null|
+|**2026-07-03**|**Perceptual Flow Matching for Few-Step Generative Modeling**|Chuyang Zhao et.al.|[2607.03524](http://arxiv.org/abs/2607.03524)|null|
 |**2026-07-02**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
 |**2026-07-02**|**DynFly: Dynamic-Aware Continuous Trajectory Generation for UAV Vision-Language Navigation in Urban Environments**|Wen Jiang et.al.|[2606.31654](http://arxiv.org/abs/2606.31654)|null|
 |**2026-07-02**|**Decoupled Guidance: Disentangling Subject and Context Pathways in Text-to-Image Personalization**|Seongmin Kim et.al.|[2607.00766](http://arxiv.org/abs/2607.00766)|null|
 |**2026-07-02**|**VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation**|Shuai Tian et.al.|[2607.02503](http://arxiv.org/abs/2607.02503)|null|
 |**2026-07-02**|**LIME: Learning Intent-aware Camera Motion from Egocentric Video**|Boyang Sun et.al.|[2607.02417](http://arxiv.org/abs/2607.02417)|null|
 |**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284](http://arxiv.org/abs/2607.02284)|null|
-|**2026-07-02**|**Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies**|Liuhaichen Yang et.al.|[2607.02092](http://arxiv.org/abs/2607.02092)|null|
 |**2026-07-02**|**RTE-FM-Dehazer: Radiative Transfer Equation Inspired Flow Matching for Real-World Image Dehazing**|Chenfeng Wei et.al.|[2607.01748](http://arxiv.org/abs/2607.01748)|null|
 |**2026-07-02**|**Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling**|Xingyu Zheng et.al.|[2607.01642](http://arxiv.org/abs/2607.01642)|null|
 |**2026-07-02**|**VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment**|Guoyang Xia et.al.|[2607.01586](http://arxiv.org/abs/2607.01586)|null|
@@ -2106,5 +2118,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
