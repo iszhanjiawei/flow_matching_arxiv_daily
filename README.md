@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance**|Shiheng Zhang et.al.|[2607.07665](http://arxiv.org/abs/2607.07665)|null|
+|**2026-07-08**|**Stability of Flow Models for Graph Signals**|Martin Schmidt et.al.|[2607.07510](http://arxiv.org/abs/2607.07510)|null|
+|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-08**|**Flow-PIN: A Two-Stage Power-Flow-Guided Method for System-Wide Multivariate Profile Inpainting in Distribution Networks**|Zhenghao Zhou et.al.|[2607.07250](http://arxiv.org/abs/2607.07250)|null|
+|**2026-07-08**|**ColorFM: An Optimization-to-Learning Framework for Color Transfer via Flow Matching**|Yuhang He et.al.|[2607.07119](http://arxiv.org/abs/2607.07119)|null|
+|**2026-07-08**|**Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation**|Seulbin Hwang et.al.|[2607.06957](http://arxiv.org/abs/2607.06957)|null|
+|**2026-07-08**|**Geometric Collapse: When Vision Models Fail to Verify Physical Causality**|Wentao Zhang et.al.|[2607.06871](http://arxiv.org/abs/2607.06871)|null|
 |**2026-07-07**|**FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration**|Jin Jiang et.al.|[2607.06389](http://arxiv.org/abs/2607.06389)|null|
 |**2026-07-07**|**Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement**|Ryuji Oi et.al.|[2607.06370](http://arxiv.org/abs/2607.06370)|null|
 |**2026-07-07**|**Straight-Path Flow Matching for Incomplete Multi-View Clustering**|Yiteng Yuan et.al.|[2607.06281](http://arxiv.org/abs/2607.06281)|null|
