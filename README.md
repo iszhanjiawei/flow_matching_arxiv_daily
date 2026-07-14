@@ -14,10 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Velocity Scheduled Flow Matching**|Vitalii Bondar et.al.|[2607.11442](http://arxiv.org/abs/2607.11442)|null|
+|**2026-07-13**|**HandFlow: Fully Generative 4D Hand Recovery with Flow Matching**|Mingxi Xu et.al.|[2607.11221](http://arxiv.org/abs/2607.11221)|null|
+|**2026-07-13**|**Anysynth:Zero-Shot Instrument Cloning via In-Context Learning and Asymmetric Hierarchical Guidance**|Chong Jing et.al.|[2607.11143](http://arxiv.org/abs/2607.11143)|null|
+|**2026-07-13**|**FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction**|Zheng Zhang et.al.|[2607.11104](http://arxiv.org/abs/2607.11104)|null|
+|**2026-07-13**|**GraspGraphNet: Graph-Structured Multi-Embodiment Dexterous Grasp Generation**|Yeonseo Lee et.al.|[2607.11031](http://arxiv.org/abs/2607.11031)|null|
+|**2026-07-13**|**Whole-Body Semantic-to-Actuation Grounding of Elephant-Inspired Soft-Trunk Motion via Lightweight Flow Matching**|Tingcong Liu et.al.|[2607.11018](http://arxiv.org/abs/2607.11018)|null|
+|**2026-07-12**|**Diversify Diffusion with Temperature Sampling and Variance-Corrective Time Shifting**|Peizhuo Li et.al.|[2607.10853](http://arxiv.org/abs/2607.10853)|null|
+|**2026-07-12**|**LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow**|Hang Long et.al.|[2607.10623](http://arxiv.org/abs/2607.10623)|null|
+|**2026-07-11**|**SUREFlow: State-space Uncertainty-aware REsidual Flow Matching for Robust Robot Manipulation**|Md Tanvir Islam et.al.|[2607.10504](http://arxiv.org/abs/2607.10504)|null|
+|**2026-07-11**|**VINE: Taming Generative Control Policies for Reinforcement Learning**|Rushuai Yang et.al.|[2607.10369](http://arxiv.org/abs/2607.10369)|null|
+|**2026-07-11**|**Source-Lifted Flow Matching for Intervenable Multimodal Imitation**|He Zhang et.al.|[2607.10206](http://arxiv.org/abs/2607.10206)|null|
+|**2026-07-11**|**On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation**|Finn Ferchau et.al.|[2607.10172](http://arxiv.org/abs/2607.10172)|null|
 |**2026-07-10**|**FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation**|Shiyuan Yang et.al.|[2607.08575](http://arxiv.org/abs/2607.08575)|null|
 |**2026-07-10**|**PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis**|Ren Takahashi et.al.|[2607.09662](http://arxiv.org/abs/2607.09662)|null|
 |**2026-07-10**|**FreyaTTS Technical Report**|Ahmet Erdem Pamuk et.al.|[2607.09530](http://arxiv.org/abs/2607.09530)|null|
 |**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
+|**2026-07-10**|**UniPose9D: Universal Category-Agnostic Object Pose Estimation**|Yang You et.al.|[2607.09985](http://arxiv.org/abs/2607.09985)|null|
 |**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
 |**2026-07-09**|**Joint Discrete-Continuous Flow Matching for Open-Vocabulary Inverse Design of Multilayer Optical Coatings**|Zhiyi Li et.al.|[2607.08392](http://arxiv.org/abs/2607.08392)|null|
 |**2026-07-09**|**Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data**|Haruto Kitagawa et.al.|[2607.08384](http://arxiv.org/abs/2607.08384)|null|
