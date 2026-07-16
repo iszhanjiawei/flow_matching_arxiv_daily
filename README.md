@@ -14,14 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
+|**2026-07-15**|**Heavy-Tailed Flow Matching via Random Clocks**|Zhouhao Yang et.al.|[2607.13841](http://arxiv.org/abs/2607.13841)|null|
+|**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](http://arxiv.org/abs/2607.13685)|null|
+|**2026-07-15**|**DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation**|Eungjune Shim et.al.|[2607.13365](http://arxiv.org/abs/2607.13365)|null|
 |**2026-07-14**|**RFMSR: Residual Flow Matching for Image Super-Resolution**|Shuwei Huang et.al.|[2607.12753](http://arxiv.org/abs/2607.12753)|null|
 |**2026-07-14**|**The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models**|Shuchan Wang et.al.|[2607.12616](http://arxiv.org/abs/2607.12616)|null|
 |**2026-07-14**|**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models**|Francesco Taioli et.al.|[2607.12539](http://arxiv.org/abs/2607.12539)|null|
-|**2026-07-14**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
 |**2026-07-14**|**Contrastive-Augmented Flow Matching for Style-Content Disentanglement**|Yusong Li et.al.|[2607.12404](http://arxiv.org/abs/2607.12404)|null|
 |**2026-07-14**|**SinAE: A Single-Architecture Flow-Matching Autoencoder for Cross-Domain Atomic Systems**|Yuxuan Ren et.al.|[2607.12380](http://arxiv.org/abs/2607.12380)|null|
 |**2026-07-14**|**SeamGen: Artist-Aligned UV Seam Generation via Graph Flow Matching**|Hao Xu et.al.|[2607.12379](http://arxiv.org/abs/2607.12379)|null|
 |**2026-07-14**|**A Shortcut to Statistically Steady-State Turbulence with Flow Matching**|Gianluca Galletti et.al.|[2607.13022](http://arxiv.org/abs/2607.13022)|null|
+|**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](http://arxiv.org/abs/2607.13193)|null|
 |**2026-07-13**|**Velocity Scheduled Flow Matching**|Vitalii Bondar et.al.|[2607.11442](http://arxiv.org/abs/2607.11442)|null|
 |**2026-07-13**|**HandFlow: Fully Generative 4D Hand Recovery with Flow Matching**|Mingxi Xu et.al.|[2607.11221](http://arxiv.org/abs/2607.11221)|null|
 |**2026-07-13**|**Anysynth:Zero-Shot Instrument Cloning via In-Context Learning and Asymmetric Hierarchical Guidance**|Chong Jing et.al.|[2607.11143](http://arxiv.org/abs/2607.11143)|null|
