@@ -1,4 +1,4 @@
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization**|Siwoo Lim et.al.|[2607.14927](http://arxiv.org/abs/2607.14927)|null|
+|**2026-07-16**|**BridgeFlow: Fast and Robust SE(2)-Equivariant Motion Planning with Flow Matching**|Xinzhe Zhou et.al.|[2607.14725](http://arxiv.org/abs/2607.14725)|null|
+|**2026-07-16**|**Reflex: Real-Time VLA Control through Streaming Inference**|Yuanchun Guo et.al.|[2607.14695](http://arxiv.org/abs/2607.14695)|null|
+|**2026-07-16**|**Trajectory-Aware Flow Matching for Topology Optimisation**|Shusheng Xiao et.al.|[2607.14652](http://arxiv.org/abs/2607.14652)|null|
+|**2026-07-16**|**Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling**|Reon Tabata et.al.|[2607.14639](http://arxiv.org/abs/2607.14639)|null|
+|**2026-07-16**|**MIDI-RAE-JEPA: Hierarchical Representation Learning and Generation for Symbolic Music**|Scott H. Hawley et.al.|[2607.14537](http://arxiv.org/abs/2607.14537)|null|
 |**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
 |**2026-07-15**|**Heavy-Tailed Flow Matching via Random Clocks**|Zhouhao Yang et.al.|[2607.13841](http://arxiv.org/abs/2607.13841)|null|
 |**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](http://arxiv.org/abs/2607.13685)|null|
 |**2026-07-15**|**DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation**|Eungjune Shim et.al.|[2607.13365](http://arxiv.org/abs/2607.13365)|null|
+|**2026-07-15**|**ConFlow: Constraints-Guided Learning with Flow Matching for Motion Generation**|Nutan Chen et.al.|[2607.14424](http://arxiv.org/abs/2607.14424)|null|
+|**2026-07-15**|**DiMaS: Distribution Matching for Steering Vision-Language-Action Models**|Pegah Khayatan et.al.|[2607.14280](http://arxiv.org/abs/2607.14280)|null|
+|**2026-07-15**|**Lyapunov Guidance: A Unified Framework for Stabilizing Generative Flows**|Jingdong Zhang et.al.|[2607.14272](http://arxiv.org/abs/2607.14272)|null|
 |**2026-07-14**|**RFMSR: Residual Flow Matching for Image Super-Resolution**|Shuwei Huang et.al.|[2607.12753](http://arxiv.org/abs/2607.12753)|null|
 |**2026-07-14**|**The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models**|Shuchan Wang et.al.|[2607.12616](http://arxiv.org/abs/2607.12616)|null|
 |**2026-07-14**|**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models**|Francesco Taioli et.al.|[2607.12539](http://arxiv.org/abs/2607.12539)|null|
@@ -2170,5 +2179,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
 
