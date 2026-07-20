@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Learning Standard Model structure from LHC data with Riemannian flow matching**|Midori Kato et.al.|[2607.16144](http://arxiv.org/abs/2607.16144)|null|
+|**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
 |**2026-07-16**|**TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization**|Siwoo Lim et.al.|[2607.14927](http://arxiv.org/abs/2607.14927)|null|
 |**2026-07-16**|**BridgeFlow: Fast and Robust SE(2)-Equivariant Motion Planning with Flow Matching**|Xinzhe Zhou et.al.|[2607.14725](http://arxiv.org/abs/2607.14725)|null|
 |**2026-07-16**|**Reflex: Real-Time VLA Control through Streaming Inference**|Yuanchun Guo et.al.|[2607.14695](http://arxiv.org/abs/2607.14695)|null|
