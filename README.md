@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](http://arxiv.org/abs/2607.17572)|null|
+|**2026-07-20**|**DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition**|Zhihan Ren et.al.|[2607.17504](http://arxiv.org/abs/2607.17504)|null|
+|**2026-07-18**|**TVGL-CFM:Generating and Forecasting Time-Varying Trajectories of Dynamic Networks with Conditional Flow Matching**|Om Roy et.al.|[2607.16894](http://arxiv.org/abs/2607.16894)|null|
+|**2026-07-18**|**Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation**|Tianshuai Hu et.al.|[2607.16806](http://arxiv.org/abs/2607.16806)|null|
 |**2026-07-17**|**Learning Standard Model structure from LHC data with Riemannian flow matching**|Midori Kato et.al.|[2607.16144](http://arxiv.org/abs/2607.16144)|null|
 |**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
 |**2026-07-16**|**TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization**|Siwoo Lim et.al.|[2607.14927](http://arxiv.org/abs/2607.14927)|null|
