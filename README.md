@@ -14,8 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
+|**2026-07-21**|**DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models**|Yiming Qin et.al.|[2607.19237](http://arxiv.org/abs/2607.19237)|null|
+|**2026-07-21**|**Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models**|Lisa Weijler et.al.|[2607.19120](http://arxiv.org/abs/2607.19120)|null|
+|**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|
+|**2026-07-21**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
+|**2026-07-21**|**Learning sufficient low-dimensional structures through conditional optimal transport**|Kaiqiang Alan Zeng et.al.|[2607.18861](http://arxiv.org/abs/2607.18861)|null|
+|**2026-07-21**|**Posterior Samplings are Missing Modalities Generators for Medical Image Translation**|Jonghun Kim et.al.|[2607.18763](http://arxiv.org/abs/2607.18763)|null|
 |**2026-07-20**|**AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](http://arxiv.org/abs/2607.17572)|null|
 |**2026-07-20**|**DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition**|Zhihan Ren et.al.|[2607.17504](http://arxiv.org/abs/2607.17504)|null|
+|**2026-07-19**|**Staged Depth-Pruning Distillation of a Flow-Matching Text-to-Speech Teacher: A Compact Hindi Speech Synthesizer**|Sivateja Trikutam et.al.|[2607.18662](http://arxiv.org/abs/2607.18662)|null|
 |**2026-07-18**|**TVGL-CFM:Generating and Forecasting Time-Varying Trajectories of Dynamic Networks with Conditional Flow Matching**|Om Roy et.al.|[2607.16894](http://arxiv.org/abs/2607.16894)|null|
 |**2026-07-18**|**Token-Wise Latent Streaming from Slow Reasoners to Fast Planners for Dynamic Vision Language Navigation**|Tianshuai Hu et.al.|[2607.16806](http://arxiv.org/abs/2607.16806)|null|
 |**2026-07-17**|**Learning Standard Model structure from LHC data with Riemannian flow matching**|Midori Kato et.al.|[2607.16144](http://arxiv.org/abs/2607.16144)|null|
