@@ -1,4 +1,4 @@
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,14 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**JAGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](http://arxiv.org/abs/2607.17572)|null|
+|**2026-07-22**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
+|**2026-07-22**|**Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering**|Junyu Dai et.al.|[2607.20253](http://arxiv.org/abs/2607.20253)|null|
+|**2026-07-22**|**PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving**|Yushan Liu et.al.|[2607.20175](http://arxiv.org/abs/2607.20175)|null|
+|**2026-07-22**|**LMC-induced Perturbations in the Milky Way Halo II: Bridging Field-level Inference and Summary-level Simulation-Based Inference**|Yanjun Sheng et.al.|[2607.20006](http://arxiv.org/abs/2607.20006)|null|
+|**2026-07-22**|**STEREOFLOW: Progressive Stereo Matching with StereoDiT and Transition Flow Matching**|Hao Wang et.al.|[2607.19986](http://arxiv.org/abs/2607.19986)|null|
+|**2026-07-22**|**Optimal Sensor Placement via Graph-constrained Flow Matching**|Feng Ji et.al.|[2607.19831](http://arxiv.org/abs/2607.19831)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
 |**2026-07-21**|**DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models**|Yiming Qin et.al.|[2607.19237](http://arxiv.org/abs/2607.19237)|null|
 |**2026-07-21**|**Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models**|Lisa Weijler et.al.|[2607.19120](http://arxiv.org/abs/2607.19120)|null|
 |**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|
-|**2026-07-21**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
 |**2026-07-21**|**Learning sufficient low-dimensional structures through conditional optimal transport**|Kaiqiang Alan Zeng et.al.|[2607.18861](http://arxiv.org/abs/2607.18861)|null|
 |**2026-07-21**|**Posterior Samplings are Missing Modalities Generators for Medical Image Translation**|Jonghun Kim et.al.|[2607.18763](http://arxiv.org/abs/2607.18763)|null|
-|**2026-07-20**|**AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](http://arxiv.org/abs/2607.17572)|null|
 |**2026-07-20**|**DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition**|Zhihan Ren et.al.|[2607.17504](http://arxiv.org/abs/2607.17504)|null|
 |**2026-07-19**|**Staged Depth-Pruning Distillation of a Flow-Matching Text-to-Speech Teacher: A Compact Hindi Speech Synthesizer**|Sivateja Trikutam et.al.|[2607.18662](http://arxiv.org/abs/2607.18662)|null|
 |**2026-07-18**|**TVGL-CFM:Generating and Forecasting Time-Varying Trajectories of Dynamic Networks with Conditional Flow Matching**|Om Roy et.al.|[2607.16894](http://arxiv.org/abs/2607.16894)|null|
@@ -2193,5 +2198,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260723>back to top</a>)</p>
 
