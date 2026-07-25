@@ -1,4 +1,4 @@
-## Updated on 2026.07.24
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering**|Junyu Dai et.al.|[2607.20253](http://arxiv.org/abs/2607.20253)|null|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
+|**2026-07-23**|**Context-weighted Discrete Flow Matching**|Daniil Cherniavskii et.al.|[2607.21427](http://arxiv.org/abs/2607.21427)|null|
+|**2026-07-23**|**Fast Inference on Astronomical Time Series with Trans-Dimensional Flow Matching Posterior Estimation**|Nina van der Meulen et.al.|[2607.21134](http://arxiv.org/abs/2607.21134)|null|
+|**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
+|**2026-07-23**|**Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy**|Suyang Zhong et.al.|[2607.20906](http://arxiv.org/abs/2607.20906)|null|
 |**2026-07-22**|**JAGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models**|Ruiyi Ding et.al.|[2607.17572](http://arxiv.org/abs/2607.17572)|null|
 |**2026-07-22**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
-|**2026-07-22**|**Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering**|Junyu Dai et.al.|[2607.20253](http://arxiv.org/abs/2607.20253)|null|
 |**2026-07-22**|**PerceptDrive: Perception Prior World-Action Modeling with Adaptive Expert Routing for End-to-End Autonomous Driving**|Yushan Liu et.al.|[2607.20175](http://arxiv.org/abs/2607.20175)|null|
 |**2026-07-22**|**LMC-induced Perturbations in the Milky Way Halo II: Bridging Field-level Inference and Summary-level Simulation-Based Inference**|Yanjun Sheng et.al.|[2607.20006](http://arxiv.org/abs/2607.20006)|null|
 |**2026-07-22**|**STEREOFLOW: Progressive Stereo Matching with StereoDiT and Transition Flow Matching**|Hao Wang et.al.|[2607.19986](http://arxiv.org/abs/2607.19986)|null|
 |**2026-07-22**|**Optimal Sensor Placement via Graph-constrained Flow Matching**|Feng Ji et.al.|[2607.19831](http://arxiv.org/abs/2607.19831)|null|
+|**2026-07-22**|**DS@GT ARC at ImageCLEFmed GANs 2026: Geometric Filtering for Privacy-Preserving CT Slice Generation**|Eric Regina et.al.|[2607.20692](http://arxiv.org/abs/2607.20692)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
 |**2026-07-21**|**DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models**|Yiming Qin et.al.|[2607.19237](http://arxiv.org/abs/2607.19237)|null|
 |**2026-07-21**|**Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models**|Lisa Weijler et.al.|[2607.19120](http://arxiv.org/abs/2607.19120)|null|
@@ -2198,5 +2204,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
