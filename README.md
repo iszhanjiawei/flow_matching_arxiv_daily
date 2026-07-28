@@ -1,4 +1,4 @@
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-26**|**Post-FWI Injection of Learned Priors Using a Flow Matching Model**|Hao Zhang et.al.|[2607.23719](http://arxiv.org/abs/2607.23719)|null|
+|**2026-07-26**|**Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**|Wenkai Liu et.al.|[2607.23615](http://arxiv.org/abs/2607.23615)|null|
+|**2026-07-25**|**Logit-Coordinate Generative Models for Mixed Continuous-Categorical Tabular Data**|Yuefei Shen et.al.|[2607.23348](http://arxiv.org/abs/2607.23348)|null|
 |**2026-07-24**|**Twins: Learn to Predict Unified Representations with Focal Loss**|Kaixiong Gong et.al.|[2607.22531](http://arxiv.org/abs/2607.22531)|null|
 |**2026-07-24**|**TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex**|Yuliang Yan et.al.|[2607.22143](http://arxiv.org/abs/2607.22143)|null|
 |**2026-07-24**|**Spectral Prior for Reducing Exposure Bias in Diffusion Models**|Yuya Kobayashi et.al.|[2607.22091](http://arxiv.org/abs/2607.22091)|null|
+|**2026-07-24**|**FMOPF: Latent Flow Matching with Constraint-Aware Interaction Priors for AC Optimal Power Flow**|Zhilin Huang et.al.|[2607.22788](http://arxiv.org/abs/2607.22788)|null|
 |**2026-07-23**|**Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering**|Junyu Dai et.al.|[2607.20253](http://arxiv.org/abs/2607.20253)|null|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
 |**2026-07-23**|**Context-weighted Discrete Flow Matching**|Daniil Cherniavskii et.al.|[2607.21427](http://arxiv.org/abs/2607.21427)|null|
@@ -2207,5 +2211,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
