@@ -14,8 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport**|Xinyang Wen et.al.|[2607.24741](http://arxiv.org/abs/2607.24741)|null|
+|**2026-07-27**|**When Can You Correct Distribution Drift in Temporal Graph Generation? A Sharpening--Drift Tension and an Impossibility for Observation-Based Correction**|Tianpeng Li et.al.|[2607.24662](http://arxiv.org/abs/2607.24662)|null|
+|**2026-07-27**|**Amortized Posteriors for Estimation of Material Constitutive Parameters from Multimodal Measurements on Small Punch Tests**|Mohammad Ali Seyed Mahmoud et.al.|[2607.24534](http://arxiv.org/abs/2607.24534)|null|
+|**2026-07-27**|**Joint Flow Matching for Generator-Consistent Classification**|Hayden McAlister et.al.|[2607.23946](http://arxiv.org/abs/2607.23946)|null|
+|**2026-07-27**|**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**|Bajian Xiang et.al.|[2607.23938](http://arxiv.org/abs/2607.23938)|null|
 |**2026-07-26**|**Post-FWI Injection of Learned Priors Using a Flow Matching Model**|Hao Zhang et.al.|[2607.23719](http://arxiv.org/abs/2607.23719)|null|
 |**2026-07-26**|**Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**|Wenkai Liu et.al.|[2607.23615](http://arxiv.org/abs/2607.23615)|null|
+|**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
+|**2026-07-26**|**Escaping the Euclidean Void: Manifold-Informed Flow Matching for Sequential Recommendation**|Dengzhao Fang et.al.|[2607.23762](http://arxiv.org/abs/2607.23762)|null|
 |**2026-07-25**|**Logit-Coordinate Generative Models for Mixed Continuous-Categorical Tabular Data**|Yuefei Shen et.al.|[2607.23348](http://arxiv.org/abs/2607.23348)|null|
 |**2026-07-24**|**Twins: Learn to Predict Unified Representations with Focal Loss**|Kaixiong Gong et.al.|[2607.22531](http://arxiv.org/abs/2607.22531)|null|
 |**2026-07-24**|**TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex**|Yuliang Yan et.al.|[2607.22143](http://arxiv.org/abs/2607.22143)|null|
