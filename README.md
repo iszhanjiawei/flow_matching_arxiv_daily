@@ -14,11 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
+|**2026-07-28**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
+|**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918](http://arxiv.org/abs/2607.25918)|null|
 |**2026-07-27**|**Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport**|Xinyang Wen et.al.|[2607.24741](http://arxiv.org/abs/2607.24741)|null|
 |**2026-07-27**|**When Can You Correct Distribution Drift in Temporal Graph Generation? A Sharpening--Drift Tension and an Impossibility for Observation-Based Correction**|Tianpeng Li et.al.|[2607.24662](http://arxiv.org/abs/2607.24662)|null|
 |**2026-07-27**|**Amortized Posteriors for Estimation of Material Constitutive Parameters from Multimodal Measurements on Small Punch Tests**|Mohammad Ali Seyed Mahmoud et.al.|[2607.24534](http://arxiv.org/abs/2607.24534)|null|
 |**2026-07-27**|**Joint Flow Matching for Generator-Consistent Classification**|Hayden McAlister et.al.|[2607.23946](http://arxiv.org/abs/2607.23946)|null|
 |**2026-07-27**|**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**|Bajian Xiang et.al.|[2607.23938](http://arxiv.org/abs/2607.23938)|null|
+|**2026-07-27**|**Low-Latency Generative Semantic Communication via Channel-Realization Flow Matching**|Fan Gao et.al.|[2607.24876](http://arxiv.org/abs/2607.24876)|null|
 |**2026-07-26**|**Post-FWI Injection of Learned Priors Using a Flow Matching Model**|Hao Zhang et.al.|[2607.23719](http://arxiv.org/abs/2607.23719)|null|
 |**2026-07-26**|**Restoration Flow Matching-Based Channel Refinement and Equalization Correction for MIMO Semantic Communications**|Wenkai Liu et.al.|[2607.23615](http://arxiv.org/abs/2607.23615)|null|
 |**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
