@@ -16,6 +16,7 @@
 |---|---|---|---|---|
 |**2026-07-29**|**Vision-TL-Action: Neuro-Symbolic Trajectory Generation from Visual Observations and Temporal Logic**|Zezhi Liu et.al.|[2607.26770](http://arxiv.org/abs/2607.26770)|null|
 |**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
+|**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138](http://arxiv.org/abs/2607.27138)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
 |**2026-07-28**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
 |**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918](http://arxiv.org/abs/2607.25918)|null|
