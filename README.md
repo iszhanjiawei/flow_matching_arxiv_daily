@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
+|**2026-07-30**|**Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework**|Tianen Shen et.al.|[2607.28035](http://arxiv.org/abs/2607.28035)|null|
+|**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Ziyang Rao et.al.|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
+|**2026-07-30**|**RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy**|Zhengyang Yan et.al.|[2607.27782](http://arxiv.org/abs/2607.27782)|null|
+|**2026-07-30**|**ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction**|Dexuan Ding et.al.|[2607.27537](http://arxiv.org/abs/2607.27537)|null|
 |**2026-07-29**|**Vision-TL-Action: Neuro-Symbolic Trajectory Generation from Visual Observations and Temporal Logic**|Zezhi Liu et.al.|[2607.26770](http://arxiv.org/abs/2607.26770)|null|
 |**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
 |**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138](http://arxiv.org/abs/2607.27138)|null|
+|**2026-07-29**|**Latent-Kernel Discrete Flow Maps for Few-Step Generation**|Mansoor Ahmed et.al.|[2607.27529](http://arxiv.org/abs/2607.27529)|null|
+|**2026-07-29**|**Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling**|Zhefeng Huang et.al.|[2607.27511](http://arxiv.org/abs/2607.27511)|null|
+|**2026-07-29**|**SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups**|Yikun Bai et.al.|[2607.27431](http://arxiv.org/abs/2607.27431)|null|
+|**2026-07-29**|**PlatformBid: An Auto-Bidding Benchmark from a Unified Advertising Platform's Perspective**|Shengtian Yang et.al.|[2607.27265](http://arxiv.org/abs/2607.27265)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
-|**2026-07-28**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
 |**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918](http://arxiv.org/abs/2607.25918)|null|
 |**2026-07-27**|**Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport**|Xinyang Wen et.al.|[2607.24741](http://arxiv.org/abs/2607.24741)|null|
 |**2026-07-27**|**When Can You Correct Distribution Drift in Temporal Graph Generation? A Sharpening--Drift Tension and an Impossibility for Observation-Based Correction**|Tianpeng Li et.al.|[2607.24662](http://arxiv.org/abs/2607.24662)|null|
@@ -2225,5 +2233,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
