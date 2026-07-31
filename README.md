@@ -19,6 +19,7 @@
 |**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Ziyang Rao et.al.|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
 |**2026-07-30**|**RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy**|Zhengyang Yan et.al.|[2607.27782](http://arxiv.org/abs/2607.27782)|null|
 |**2026-07-30**|**ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction**|Dexuan Ding et.al.|[2607.27537](http://arxiv.org/abs/2607.27537)|null|
+|**2026-07-30**|**APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems**|Shentong Mo et.al.|[2607.28553](http://arxiv.org/abs/2607.28553)|null|
 |**2026-07-29**|**Vision-TL-Action: Neuro-Symbolic Trajectory Generation from Visual Observations and Temporal Logic**|Zezhi Liu et.al.|[2607.26770](http://arxiv.org/abs/2607.26770)|null|
 |**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
 |**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138](http://arxiv.org/abs/2607.27138)|null|
