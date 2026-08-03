@@ -14,18 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups**|Yikun Bai et.al.|[2607.27431](http://arxiv.org/abs/2607.27431)|null|
+|**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
+|**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Kasra Sinaei et.al.|[2607.29569](http://arxiv.org/abs/2607.29569)|null|
+|**2026-07-31**|**Temporal Policy: History-Initialized Action Generation for Robotic Learning from Demonstration**|Dylan Miller et.al.|[2607.29482](http://arxiv.org/abs/2607.29482)|null|
+|**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
+|**2026-07-31**|**FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution**|Peize Li et.al.|[2607.29235](http://arxiv.org/abs/2607.29235)|null|
+|**2026-07-31**|**MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation**|Yifei Zhu et.al.|[2607.29180](http://arxiv.org/abs/2607.29180)|null|
 |**2026-07-30**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
 |**2026-07-30**|**Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework**|Tianen Shen et.al.|[2607.28035](http://arxiv.org/abs/2607.28035)|null|
 |**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Ziyang Rao et.al.|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
 |**2026-07-30**|**RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy**|Zhengyang Yan et.al.|[2607.27782](http://arxiv.org/abs/2607.27782)|null|
 |**2026-07-30**|**ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction**|Dexuan Ding et.al.|[2607.27537](http://arxiv.org/abs/2607.27537)|null|
 |**2026-07-30**|**APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems**|Shentong Mo et.al.|[2607.28553](http://arxiv.org/abs/2607.28553)|null|
+|**2026-07-30**|**Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression**|Silas Koemen et.al.|[2607.28864](http://arxiv.org/abs/2607.28864)|null|
+|**2026-07-30**|**WaiT for the Signal: Simple Frequency-Aware Flow-Matching**|Krunoslav Lehman Pavasovic et.al.|[2607.28760](http://arxiv.org/abs/2607.28760)|null|
+|**2026-07-30**|**SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction**|Heran Wang et.al.|[2607.28759](http://arxiv.org/abs/2607.28759)|null|
+|**2026-07-30**|**Flow Matching with Missing Data**|Fairoz Nower Khan et.al.|[2607.28698](http://arxiv.org/abs/2607.28698)|null|
 |**2026-07-29**|**Vision-TL-Action: Neuro-Symbolic Trajectory Generation from Visual Observations and Temporal Logic**|Zezhi Liu et.al.|[2607.26770](http://arxiv.org/abs/2607.26770)|null|
 |**2026-07-29**|**Flow Map Learning via Nongradient Vector Flow**|Mark Goldstein et.al.|[2607.26398](http://arxiv.org/abs/2607.26398)|null|
 |**2026-07-29**|**DLAM: Distributional Latent Actions with Temporal Constraints**|Zuojin Tang et.al.|[2607.27138](http://arxiv.org/abs/2607.27138)|null|
 |**2026-07-29**|**Latent-Kernel Discrete Flow Maps for Few-Step Generation**|Mansoor Ahmed et.al.|[2607.27529](http://arxiv.org/abs/2607.27529)|null|
 |**2026-07-29**|**Failure Detection for Surgical Robot Imitation Policies via Flow-Matching World Modeling**|Zhefeng Huang et.al.|[2607.27511](http://arxiv.org/abs/2607.27511)|null|
-|**2026-07-29**|**SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups**|Yikun Bai et.al.|[2607.27431](http://arxiv.org/abs/2607.27431)|null|
 |**2026-07-29**|**PlatformBid: An Auto-Bidding Benchmark from a Unified Advertising Platform's Perspective**|Shengtian Yang et.al.|[2607.27265](http://arxiv.org/abs/2607.27265)|null|
 |**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
 |**2026-07-28**|**DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models**|Haoyuan Ji et.al.|[2607.25918](http://arxiv.org/abs/2607.25918)|null|
