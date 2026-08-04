@@ -1,4 +1,4 @@
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-02**|**One-Sided Quantile Coupling for Flow Matching**|Jin-Young Kim et.al.|[2608.00978](http://arxiv.org/abs/2608.00978)|null|
+|**2026-08-01**|**CN101 - A Digital Thermodynamic Computer for Generative AI**|Lars Holdijk et.al.|[2608.00754](http://arxiv.org/abs/2608.00754)|null|
+|**2026-08-01**|**FlowPilot: Real-Time World-Action Modeling for Agile UAV Navigation**|Runqing Wang et.al.|[2608.00635](http://arxiv.org/abs/2608.00635)|null|
+|**2026-08-01**|**Latent Flow Matching for Arbitrage-Aware Implied Volatility Surface Generation**|Oscar Brooks et.al.|[2608.00616](http://arxiv.org/abs/2608.00616)|null|
+|**2026-08-01**|**AnyBand: Unified Multi-Bandwidth Speech Extension via Frequency-Aware In-Context Spectral Infilling**|Junchuan Zhao et.al.|[2608.00572](http://arxiv.org/abs/2608.00572)|null|
+|**2026-08-01**|**Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching**|Hongjie Wu et.al.|[2608.00537](http://arxiv.org/abs/2608.00537)|null|
+|**2026-08-01**|**Unleashing the Power of Text: Text-Guided Flow Matching for Image Fusion under Complex Degradations**|Axi Niu et.al.|[2608.00530](http://arxiv.org/abs/2608.00530)|null|
+|**2026-08-01**|**DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents**|Tongsheng Ding et.al.|[2608.00486](http://arxiv.org/abs/2608.00486)|null|
 |**2026-07-31**|**SE(3)-MeanFlow: Few-Step Protein Backbone Generation on Lie Groups**|Yikun Bai et.al.|[2607.27431](http://arxiv.org/abs/2607.27431)|null|
 |**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
 |**2026-07-31**|**Safe Vision Language Action Models via Barrier Enhanced Flow Matching**|Kasra Sinaei et.al.|[2607.29569](http://arxiv.org/abs/2607.29569)|null|
@@ -21,6 +29,7 @@
 |**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
 |**2026-07-31**|**FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution**|Peize Li et.al.|[2607.29235](http://arxiv.org/abs/2607.29235)|null|
 |**2026-07-31**|**MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation**|Yifei Zhu et.al.|[2607.29180](http://arxiv.org/abs/2607.29180)|null|
+|**2026-07-31**|**FDIR: Harmonizing Fidelity and Human-Machine Preference in Lossy Compression Image Restoration**|Kuan-Yen Chen et.al.|[2608.00111](http://arxiv.org/abs/2608.00111)|null|
 |**2026-07-30**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|
 |**2026-07-30**|**Enhancing Irregular Time Series Forecasting with Continuous-Time Modeling Framework**|Tianen Shen et.al.|[2607.28035](http://arxiv.org/abs/2607.28035)|null|
 |**2026-07-30**|**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**|Ziyang Rao et.al.|[2607.27933](http://arxiv.org/abs/2607.27933)|null|
@@ -2244,5 +2253,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
