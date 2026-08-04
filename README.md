@@ -14,7 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
+|**2026-08-03**|**Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow**|Jiangling Zhang et.al.|[2608.02258](http://arxiv.org/abs/2608.02258)|null|
+|**2026-08-03**|**SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2608.01990](http://arxiv.org/abs/2608.01990)|null|
+|**2026-08-03**|**HaptoFlow: High-Fidelity Real-Time Vibrotactile Generation via Flow Matching for Virtual Reality**|Michikuni Eguchi et.al.|[2608.01974](http://arxiv.org/abs/2608.01974)|null|
+|**2026-08-03**|**GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation**|Jeonghyeok Do et.al.|[2608.01896](http://arxiv.org/abs/2608.01896)|null|
+|**2026-08-03**|**PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent**|Guangming Fu et.al.|[2608.01825](http://arxiv.org/abs/2608.01825)|null|
+|**2026-08-03**|**Beckmann Transport Models: From Autonomous Flows to One-Step Maps**|Lee Cheuk-Kit et.al.|[2608.01692](http://arxiv.org/abs/2608.01692)|null|
 |**2026-08-02**|**One-Sided Quantile Coupling for Flow Matching**|Jin-Young Kim et.al.|[2608.00978](http://arxiv.org/abs/2608.00978)|null|
+|**2026-08-02**|**Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them**|Carlota Parés-Morlans et.al.|[2608.01402](http://arxiv.org/abs/2608.01402)|null|
+|**2026-08-02**|**SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space**|Ruiteng Zhao et.al.|[2608.01397](http://arxiv.org/abs/2608.01397)|null|
+|**2026-08-02**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**CN101 - A Digital Thermodynamic Computer for Generative AI**|Lars Holdijk et.al.|[2608.00754](http://arxiv.org/abs/2608.00754)|null|
 |**2026-08-01**|**FlowPilot: Real-Time World-Action Modeling for Agile UAV Navigation**|Runqing Wang et.al.|[2608.00635](http://arxiv.org/abs/2608.00635)|null|
 |**2026-08-01**|**Latent Flow Matching for Arbitrage-Aware Implied Volatility Surface Generation**|Oscar Brooks et.al.|[2608.00616](http://arxiv.org/abs/2608.00616)|null|
