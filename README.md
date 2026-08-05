@@ -1,4 +1,4 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**Beckmann Transport Models: From Autonomous Flows to One-Step Maps**|Lee Cheuk-Kit et.al.|[2608.01692](http://arxiv.org/abs/2608.01692)|null|
+|**2026-08-04**|**Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies**|Chenyi Wang et.al.|[2608.03727](http://arxiv.org/abs/2608.03727)|null|
+|**2026-08-04**|**On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs**|Hendrik Vincent Koops et.al.|[2608.03721](http://arxiv.org/abs/2608.03721)|null|
+|**2026-08-04**|**Residual Flow Matching with Dynamic Cross-Interaction for 3D Multi-Person Motion Prediction**|Wei Wei et.al.|[2608.03379](http://arxiv.org/abs/2608.03379)|null|
+|**2026-08-04**|**Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging**|Siming Fu et.al.|[2608.03316](http://arxiv.org/abs/2608.03316)|null|
+|**2026-08-04**|**GraspMeanFlow: SE(3)-Equivariant MeanFlow for Few-Step 6-DoF Grasp Generation**|Jiyong Kwon et.al.|[2608.03295](http://arxiv.org/abs/2608.03295)|null|
+|**2026-08-04**|**PFM-HR: Pose Flow Matching for Humanoid Robots**|Yukang Gao et.al.|[2608.03227](http://arxiv.org/abs/2608.03227)|null|
+|**2026-08-04**|**GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model**|Guanrou Yang et.al.|[2608.03215](http://arxiv.org/abs/2608.03215)|null|
+|**2026-08-04**|**DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack**|Hoseong Tae et.al.|[2608.03207](http://arxiv.org/abs/2608.03207)|null|
+|**2026-08-04**|**Simulation-free and finite-time diffusion model**|Kentaro Kaba et.al.|[2608.03117](http://arxiv.org/abs/2608.03117)|null|
+|**2026-08-04**|**How Should Vision-Language-Action Models Use Proprioceptive State?**|Yiren Zhao et.al.|[2608.03052](http://arxiv.org/abs/2608.03052)|null|
+|**2026-08-04**|**DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning**|Tristan Wu et.al.|[2608.03032](http://arxiv.org/abs/2608.03032)|null|
+|**2026-08-04**|**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**|Ye-Xin Lu et.al.|[2608.03011](http://arxiv.org/abs/2608.03011)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow**|Jiangling Zhang et.al.|[2608.02258](http://arxiv.org/abs/2608.02258)|null|
 |**2026-08-03**|**SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2608.01990](http://arxiv.org/abs/2608.01990)|null|
 |**2026-08-03**|**HaptoFlow: High-Fidelity Real-Time Vibrotactile Generation via Flow Matching for Virtual Reality**|Michikuni Eguchi et.al.|[2608.01974](http://arxiv.org/abs/2608.01974)|null|
 |**2026-08-03**|**GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation**|Jeonghyeok Do et.al.|[2608.01896](http://arxiv.org/abs/2608.01896)|null|
 |**2026-08-03**|**PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent**|Guangming Fu et.al.|[2608.01825](http://arxiv.org/abs/2608.01825)|null|
-|**2026-08-03**|**Beckmann Transport Models: From Autonomous Flows to One-Step Maps**|Lee Cheuk-Kit et.al.|[2608.01692](http://arxiv.org/abs/2608.01692)|null|
 |**2026-08-02**|**One-Sided Quantile Coupling for Flow Matching**|Jin-Young Kim et.al.|[2608.00978](http://arxiv.org/abs/2608.00978)|null|
 |**2026-08-02**|**Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them**|Carlota Parés-Morlans et.al.|[2608.01402](http://arxiv.org/abs/2608.01402)|null|
 |**2026-08-02**|**SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space**|Ruiteng Zhao et.al.|[2608.01397](http://arxiv.org/abs/2608.01397)|null|
@@ -2263,5 +2275,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
