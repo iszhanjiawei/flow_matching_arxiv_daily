@@ -27,6 +27,7 @@
 |**2026-08-04**|**How Should Vision-Language-Action Models Use Proprioceptive State?**|Yiren Zhao et.al.|[2608.03052](http://arxiv.org/abs/2608.03052)|null|
 |**2026-08-04**|**DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning**|Tristan Wu et.al.|[2608.03032](http://arxiv.org/abs/2608.03032)|null|
 |**2026-08-04**|**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**|Ye-Xin Lu et.al.|[2608.03011](http://arxiv.org/abs/2608.03011)|null|
+|**2026-08-04**|**EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning**|Shuoqin Zhang et.al.|[2608.03872](http://arxiv.org/abs/2608.03872)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow**|Jiangling Zhang et.al.|[2608.02258](http://arxiv.org/abs/2608.02258)|null|
 |**2026-08-03**|**SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2608.01990](http://arxiv.org/abs/2608.01990)|null|
