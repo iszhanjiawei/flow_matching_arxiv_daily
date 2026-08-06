@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Flow-matching**|Dibyajyoti Chakraborty et.al.|[2608.05103](http://arxiv.org/abs/2608.05103)|null|
+|**2026-08-05**|**Rethinking Pixel Mean Flows via Interval Denoiser**|Alexander Zaytsev et.al.|[2608.04818](http://arxiv.org/abs/2608.04818)|null|
+|**2026-08-05**|**Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies**|Shaoguang Wang et.al.|[2608.04692](http://arxiv.org/abs/2608.04692)|null|
+|**2026-08-05**|**VoxStruct3D: Structure-Leading Flow Matching for Voxel-Space 3D MRI Synthesis**|Fang Li et.al.|[2608.04557](http://arxiv.org/abs/2608.04557)|null|
+|**2026-08-05**|**Discretization and Statistical Consistency of Functional Flow Matching**|Lennon J. Shikhman et.al.|[2608.04531](http://arxiv.org/abs/2608.04531)|null|
+|**2026-08-05**|**Coupled Continuous-Discrete Generation for Scene Text Image Super-Resolution**|Axi Niu et.al.|[2608.04525](http://arxiv.org/abs/2608.04525)|null|
+|**2026-08-05**|**CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention**|Yan Zhang et.al.|[2608.04396](http://arxiv.org/abs/2608.04396)|null|
+|**2026-08-05**|**Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation**|Scott H. Hawley et.al.|[2608.04378](http://arxiv.org/abs/2608.04378)|null|
+|**2026-08-05**|**Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models**|Siming Fu et.al.|[2608.04349](http://arxiv.org/abs/2608.04349)|null|
 |**2026-08-04**|**Beckmann Transport Models: From Autonomous Flows to One-Step Maps**|Lee Cheuk-Kit et.al.|[2608.01692](http://arxiv.org/abs/2608.01692)|null|
 |**2026-08-04**|**Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies**|Chenyi Wang et.al.|[2608.03727](http://arxiv.org/abs/2608.03727)|null|
 |**2026-08-04**|**On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs**|Hendrik Vincent Koops et.al.|[2608.03721](http://arxiv.org/abs/2608.03721)|null|
@@ -28,6 +37,8 @@
 |**2026-08-04**|**DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning**|Tristan Wu et.al.|[2608.03032](http://arxiv.org/abs/2608.03032)|null|
 |**2026-08-04**|**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**|Ye-Xin Lu et.al.|[2608.03011](http://arxiv.org/abs/2608.03011)|null|
 |**2026-08-04**|**EvoHIL: Self-Evolving Reward and Flow-Matched Policy Optimization for Robust Human-in-the-Loop Reinforcement Learning**|Shuoqin Zhang et.al.|[2608.03872](http://arxiv.org/abs/2608.03872)|null|
+|**2026-08-04**|**InvFlowFD: Reference-Free and Background-Set-Free Perceptual Music Quality Metric with Flow Matching Inversion**|Alon Ziv et.al.|[2608.04142](http://arxiv.org/abs/2608.04142)|null|
+|**2026-08-04**|**FM4WiFi: Flow Matching for Multi-AP Coordination in Dense Deployments of Beyond Wi-Fi 8 Networks**|Maksymilian Wojnar et.al.|[2608.04050](http://arxiv.org/abs/2608.04050)|null|
 |**2026-08-03**|**AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling**|Jiajun Liang et.al.|[2608.02602](http://arxiv.org/abs/2608.02602)|null|
 |**2026-08-03**|**Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow**|Jiangling Zhang et.al.|[2608.02258](http://arxiv.org/abs/2608.02258)|null|
 |**2026-08-03**|**SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching**|Zong-Wei Hong et.al.|[2608.01990](http://arxiv.org/abs/2608.01990)|null|
