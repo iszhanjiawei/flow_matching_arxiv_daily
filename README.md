@@ -14,7 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-05**|**Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Flow-matching**|Dibyajyoti Chakraborty et.al.|[2608.05103](http://arxiv.org/abs/2608.05103)|null|
+|**2026-08-06**|**Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching**|Dibyajyoti Chakraborty et.al.|[2608.05103](http://arxiv.org/abs/2608.05103)|null|
+|**2026-08-06**|**PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation**|Elad Yoshai et.al.|[2608.06240](http://arxiv.org/abs/2608.06240)|null|
+|**2026-08-06**|**EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation**|Bingyuan Wang et.al.|[2608.06231](http://arxiv.org/abs/2608.06231)|null|
+|**2026-08-06**|**Energy-Guided Flow Matching**|Haoyang Tong et.al.|[2608.05811](http://arxiv.org/abs/2608.05811)|null|
+|**2026-08-06**|**Vorch-Omni: Multi-Task Orchestration of Sight and Sound**|Vorch Team et.al.|[2608.05803](http://arxiv.org/abs/2608.05803)|null|
+|**2026-08-06**|**Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation**|Tirth Bhatt et.al.|[2608.05785](http://arxiv.org/abs/2608.05785)|null|
+|**2026-08-06**|**Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification**|Lisai Zhang et.al.|[2608.05776](http://arxiv.org/abs/2608.05776)|null|
+|**2026-08-06**|**Flow-Map Distillation on Relation Manifolds for Image Restoration**|Zihao He et.al.|[2608.05769](http://arxiv.org/abs/2608.05769)|null|
+|**2026-08-06**|**Hierarchical Flow Matching for 3D Point Cloud Generation**|Linhao Wang et.al.|[2608.05557](http://arxiv.org/abs/2608.05557)|null|
+|**2026-08-06**|**Rethinking Automatic Music Mixing as Sequential Stem Blending**|Yen-Tung Yeh et.al.|[2608.05506](http://arxiv.org/abs/2608.05506)|null|
 |**2026-08-05**|**Rethinking Pixel Mean Flows via Interval Denoiser**|Alexander Zaytsev et.al.|[2608.04818](http://arxiv.org/abs/2608.04818)|null|
 |**2026-08-05**|**Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies**|Shaoguang Wang et.al.|[2608.04692](http://arxiv.org/abs/2608.04692)|null|
 |**2026-08-05**|**VoxStruct3D: Structure-Leading Flow Matching for Voxel-Space 3D MRI Synthesis**|Fang Li et.al.|[2608.04557](http://arxiv.org/abs/2608.04557)|null|
