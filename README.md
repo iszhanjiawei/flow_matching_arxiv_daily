@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss**|Mingju Gao et.al.|[2608.11205](http://arxiv.org/abs/2608.11205)|null|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**Is Retrieval All You Need? Assessment and Emergence of Novelty in Protein Structure Generation**|Tongyue Xu et.al.|[2608.10598](http://arxiv.org/abs/2608.10598)|null|
+|**2026-08-11**|**Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration**|Sangwoo Jo et.al.|[2608.10544](http://arxiv.org/abs/2608.10544)|null|
+|**2026-08-11**|**FlowGRN+: Improving Gene Regulatory Network Inference by Spline Fitting and Manifold Projection in Conditional Flow Matching (Technical Report)**|Tsz Pan Tong et.al.|[2608.10407](http://arxiv.org/abs/2608.10407)|null|
+|**2026-08-10**|**MRIComp4Flow: Compression of 3D Brain MRI for Training Multi-Modal Generative Models**|Lisa K. Fischer et.al.|[2608.10291](http://arxiv.org/abs/2608.10291)|null|
+|**2026-08-10**|**MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text**|Ananya Bal et.al.|[2608.10162](http://arxiv.org/abs/2608.10162)|null|
+|**2026-08-10**|**FlowGRN: Scalable and Dropout-Robust Gene Regulatory Network Inference via Flow Matching-Based Trajectory Reconstruction (Technical Report)**|Tsz Pan Tong et.al.|[2608.09798](http://arxiv.org/abs/2608.09798)|null|
+|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
+|**2026-08-10**|**Marrying Optimal Transport and ODEs for Unified Continuous-Time 4D Reconstruction and Tracking**|Liying Yang et.al.|[2608.09613](http://arxiv.org/abs/2608.09613)|null|
+|**2026-08-10**|**SonicWeave: Chunk-Routed Mixture-of-Experts for Unified Audio Scene Generation**|Yunrui Cai et.al.|[2608.09571](http://arxiv.org/abs/2608.09571)|null|
+|**2026-08-10**|**Alpha as an Efficiency Signal: Visibility-Routed RGBA Image-to-Video Generation**|Zhe Li et.al.|[2608.09355](http://arxiv.org/abs/2608.09355)|null|
+|**2026-08-10**|**DreOPD: Degraded-Reference Extrapolative On-Policy Distillation for Flow-matching Models**|Mingfeng Lin et.al.|[2608.09233](http://arxiv.org/abs/2608.09233)|null|
+|**2026-08-10**|**UniMoFlow: Grounding Instruction-Driven 3D Human Motion Editing in Generation**|Yilei Hua et.al.|[2608.09143](http://arxiv.org/abs/2608.09143)|null|
+|**2026-08-10**|**When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution**|Yu Shi et.al.|[2608.09133](http://arxiv.org/abs/2608.09133)|null|
+|**2026-08-10**|**MARA: Flow-Matching-Guided Multi-Agent Resource Allocation for Computational Resource Efficient Learning**|Hanye Zhao et.al.|[2608.09130](http://arxiv.org/abs/2608.09130)|null|
+|**2026-08-10**|**Trajectory Divergence Horizon Decision for Reliable Dual-Arm Surgical Subtask Manipulation**|Mingwu Su et.al.|[2608.09125](http://arxiv.org/abs/2608.09125)|null|
+|**2026-08-10**|**UnsDrive: Towards Robust End-to-End Autonomous Driving in Unstructured Scenes**|Nanxin Zeng et.al.|[2608.09098](http://arxiv.org/abs/2608.09098)|null|
+|**2026-08-09**|**CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents**|Yuqian Zhang et.al.|[2608.08638](http://arxiv.org/abs/2608.08638)|null|
+|**2026-08-09**|**RenderMatte: Exact-Alpha Rendering and Group-Relative Alignment for Image Matting**|Zecheng Ren et.al.|[2608.08487](http://arxiv.org/abs/2608.08487)|null|
 |**2026-08-07**|**Energy-Guided Flow Matching**|Haoyang Tong et.al.|[2608.05811](http://arxiv.org/abs/2608.05811)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**FUSE: Feature-Wise Unified Specialization with Cross-Column Exchange for Mixed-Type Tabular Flow Matching**|Suman Cha et.al.|[2608.07294](http://arxiv.org/abs/2608.07294)|null|
