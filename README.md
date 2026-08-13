@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling**|Jinxiu Liu et.al.|[2608.12276](http://arxiv.org/abs/2608.12276)|null|
+|**2026-08-12**|**GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors**|Jiazheng Liu et.al.|[2608.12203](http://arxiv.org/abs/2608.12203)|null|
+|**2026-08-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al.|[2608.12148](http://arxiv.org/abs/2608.12148)|null|
+|**2026-08-12**|**Rethinking Language Model-Based Generative Speech Enhancement in the Latent Space of a Neural Audio Codec**|Yihui Fu et.al.|[2608.12082](http://arxiv.org/abs/2608.12082)|null|
+|**2026-08-12**|**Draw This First**|Dazhi Zhong et.al.|[2608.12064](http://arxiv.org/abs/2608.12064)|null|
+|**2026-08-12**|**GeoBridge: Decoupled Semantic Conditioning for Generative Image Geolocalization**|Zhiyang Dou et.al.|[2608.11838](http://arxiv.org/abs/2608.11838)|null|
+|**2026-08-12**|**MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching**|Xingwei Sun et.al.|[2608.11804](http://arxiv.org/abs/2608.11804)|null|
+|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739](http://arxiv.org/abs/2608.11739)|null|
+|**2026-08-12**|**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**|Peijie Chen et.al.|[2608.11737](http://arxiv.org/abs/2608.11737)|null|
+|**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650](http://arxiv.org/abs/2608.11650)|null|
 |**2026-08-11**|**AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss**|Mingju Gao et.al.|[2608.11205](http://arxiv.org/abs/2608.11205)|null|
 |**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Is Retrieval All You Need? Assessment and Emergence of Novelty in Protein Structure Generation**|Tongyue Xu et.al.|[2608.10598](http://arxiv.org/abs/2608.10598)|null|
