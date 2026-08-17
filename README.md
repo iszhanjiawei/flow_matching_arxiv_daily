@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation**|Kaipeng Zeng et.al.|[2608.14076](http://arxiv.org/abs/2608.14076)|null|
+|**2026-08-14**|**Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy**|Samuel Klein et.al.|[2608.13848](http://arxiv.org/abs/2608.13848)|null|
 |**2026-08-13**|**XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling**|Jinxiu Liu et.al.|[2608.12276](http://arxiv.org/abs/2608.12276)|null|
 |**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096](http://arxiv.org/abs/2608.13096)|null|
 |**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932](http://arxiv.org/abs/2608.12932)|null|
+|**2026-08-13**|**GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis**|Haochen Zhang et.al.|[2608.13741](http://arxiv.org/abs/2608.13741)|null|
 |**2026-08-12**|**GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors**|Jiazheng Liu et.al.|[2608.12203](http://arxiv.org/abs/2608.12203)|null|
 |**2026-08-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al.|[2608.12148](http://arxiv.org/abs/2608.12148)|null|
 |**2026-08-12**|**Rethinking Language Model-Based Generative Speech Enhancement in the Latent Space of a Neural Audio Codec**|Yihui Fu et.al.|[2608.12082](http://arxiv.org/abs/2608.12082)|null|
