@@ -14,13 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
+|**2026-08-17**|**Represent, Then Generate: Multimodal-Conditioned Time-Series Generation under Irregular Missingness**|Haochen Zhang et.al.|[2608.12592](http://arxiv.org/abs/2608.12592)|null|
+|**2026-08-17**|**GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis**|Haochen Zhang et.al.|[2608.13741](http://arxiv.org/abs/2608.13741)|null|
+|**2026-08-17**|**HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL**|Langzhe Gu et.al.|[2608.16837](http://arxiv.org/abs/2608.16837)|null|
+|**2026-08-17**|**PixRestore: Unified Image Restoration via Pixel Diffusion Transformer**|Lingchen Sun et.al.|[2608.16793](http://arxiv.org/abs/2608.16793)|null|
+|**2026-08-17**|**Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching**|Ye Lu et.al.|[2608.16791](http://arxiv.org/abs/2608.16791)|null|
+|**2026-08-17**|**SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation**|Animesh Karnewar et.al.|[2608.16585](http://arxiv.org/abs/2608.16585)|null|
+|**2026-08-17**|**Joint Flow Matching Enables Continuous Dose-Conditioned Cell Morphing**|Lea Bogensperger et.al.|[2608.16424](http://arxiv.org/abs/2608.16424)|null|
+|**2026-08-17**|**Nexus: Structured Synergy for Efficient Text-to-Image Generation using Rectified Flow Model**|Yizhao Wang et.al.|[2608.16104](http://arxiv.org/abs/2608.16104)|null|
+|**2026-08-16**|**Making two action heads agree: coordination mechanisms and a runtime collapse certificate for flow-matching policies**|Jinhui Sun et.al.|[2608.15748](http://arxiv.org/abs/2608.15748)|null|
+|**2026-08-16**|**Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability**|Yudong Gao et.al.|[2608.15475](http://arxiv.org/abs/2608.15475)|null|
+|**2026-08-16**|**Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation**|Arman Zarei et.al.|[2608.15452](http://arxiv.org/abs/2608.15452)|null|
+|**2026-08-15**|**Uncovering Hidden Leptonic Correlations with Flow Matching and Autoencoders**|Haruto Kitagawa et.al.|[2608.15042](http://arxiv.org/abs/2608.15042)|null|
 |**2026-08-14**|**Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation**|Kaipeng Zeng et.al.|[2608.14076](http://arxiv.org/abs/2608.14076)|null|
 |**2026-08-14**|**Posterior Inference of Hamiltonian Parameters from RIXS Spectroscopy**|Samuel Klein et.al.|[2608.13848](http://arxiv.org/abs/2608.13848)|null|
 |**2026-08-13**|**XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling**|Jinxiu Liu et.al.|[2608.12276](http://arxiv.org/abs/2608.12276)|null|
 |**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096](http://arxiv.org/abs/2608.13096)|null|
-|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932](http://arxiv.org/abs/2608.12932)|null|
-|**2026-08-13**|**GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis**|Haochen Zhang et.al.|[2608.13741](http://arxiv.org/abs/2608.13741)|null|
 |**2026-08-12**|**GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors**|Jiazheng Liu et.al.|[2608.12203](http://arxiv.org/abs/2608.12203)|null|
 |**2026-08-12**|**MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation**|Liangwei Li et.al.|[2608.12148](http://arxiv.org/abs/2608.12148)|null|
 |**2026-08-12**|**Rethinking Language Model-Based Generative Speech Enhancement in the Latent Space of a Neural Audio Codec**|Yihui Fu et.al.|[2608.12082](http://arxiv.org/abs/2608.12082)|null|
@@ -30,7 +41,6 @@
 |**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739](http://arxiv.org/abs/2608.11739)|null|
 |**2026-08-12**|**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**|Peijie Chen et.al.|[2608.11737](http://arxiv.org/abs/2608.11737)|null|
 |**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650](http://arxiv.org/abs/2608.11650)|null|
-|**2026-08-12**|**Represent, Then Generate: Multimodal-Conditioned Time-Series Generation under Irregular Missingness**|Haochen Zhang et.al.|[2608.12592](http://arxiv.org/abs/2608.12592)|null|
 |**2026-08-11**|**AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss**|Mingju Gao et.al.|[2608.11205](http://arxiv.org/abs/2608.11205)|null|
 |**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Is Retrieval All You Need? Assessment and Emergence of Novelty in Protein Structure Generation**|Tongyue Xu et.al.|[2608.10598](http://arxiv.org/abs/2608.10598)|null|
