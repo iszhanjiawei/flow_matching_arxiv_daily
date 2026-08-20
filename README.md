@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Image Generation Techniques for Urban Planning**|Katharina Roth et.al.|[2608.18908](http://arxiv.org/abs/2608.18908)|null|
+|**2026-08-19**|**Tensor Field Models**|Alexander Strunk et.al.|[2608.18808](http://arxiv.org/abs/2608.18808)|null|
 |**2026-08-18**|**Composing Flow-Matching Energies with Known Physics: Generation, OOD Detection, and Inversion on PDE Fields**|Yixuan Sun et.al.|[2608.18004](http://arxiv.org/abs/2608.18004)|null|
 |**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
 |**2026-08-18**|**Magnitude-Direction Decoupling for Fast Video Generation with Flow Matching Models**|Haonan Xu et.al.|[2608.17695](http://arxiv.org/abs/2608.17695)|null|
 |**2026-08-18**|**Abra: Scaling Diffusion Image Training**|Kyle Chickering et.al.|[2608.17286](http://arxiv.org/abs/2608.17286)|null|
+|**2026-08-18**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**Represent, Then Generate: Multimodal-Conditioned Time-Series Generation under Irregular Missingness**|Haochen Zhang et.al.|[2608.12592](http://arxiv.org/abs/2608.12592)|null|
 |**2026-08-17**|**GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis**|Haochen Zhang et.al.|[2608.13741](http://arxiv.org/abs/2608.13741)|null|
