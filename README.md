@@ -14,13 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion**|Bowen Cui et.al.|[2608.19567](http://arxiv.org/abs/2608.19567)|null|
+|**2026-08-21**|**Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching**|Airin Akter Tania et.al.|[2608.21286](http://arxiv.org/abs/2608.21286)|null|
+|**2026-08-21**|**Flow-based surrogate models for particle tracking**|Matthias Remta et.al.|[2608.21080](http://arxiv.org/abs/2608.21080)|null|
+|**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
+|**2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Xinlin Wang et.al.|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
+|**2026-08-21**|**ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries**|Seungheun Baek et.al.|[2608.20869](http://arxiv.org/abs/2608.20869)|null|
+|**2026-08-21**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma et.al.|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
 |**2026-08-20**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|null|
 |**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
 |**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
 |**2026-08-20**|**Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking**|Yansen Han et.al.|[2608.20011](http://arxiv.org/abs/2608.20011)|null|
 |**2026-08-20**|**Flow Matching Meets 3D Curvilinear Structure Segmentation in Medical Imaging**|Sidi Mohamed Sid'El Moctar et.al.|[2608.19965](http://arxiv.org/abs/2608.19965)|null|
 |**2026-08-20**|**Unsupervised Anomaly Detection Using Flow Matching on Tabular Data**|Philip Konz et.al.|[2608.19801](http://arxiv.org/abs/2608.19801)|null|
-|**2026-08-20**|**Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion**|Bowen Cui et.al.|[2608.19567](http://arxiv.org/abs/2608.19567)|null|
+|**2026-08-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang et.al.|[2608.20556](http://arxiv.org/abs/2608.20556)|null|
 |**2026-08-19**|**Image Generation Techniques for Urban Planning**|Katharina Roth et.al.|[2608.18908](http://arxiv.org/abs/2608.18908)|null|
 |**2026-08-19**|**Tensor Field Models**|Alexander Strunk et.al.|[2608.18808](http://arxiv.org/abs/2608.18808)|null|
 |**2026-08-18**|**Composing Flow-Matching Energies with Known Physics: Generation, OOD Detection, and Inversion on PDE Fields**|Yixuan Sun et.al.|[2608.18004](http://arxiv.org/abs/2608.18004)|null|
