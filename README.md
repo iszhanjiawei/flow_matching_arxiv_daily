@@ -14,18 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**FlowSep 2: Self-Supervised Flow Matching for Language-Queried Audio Source Separation**|Yi Yuan et.al.|[2608.22111](http://arxiv.org/abs/2608.22111)|null|
+|**2026-08-25**|**MoRF-AST: Calibrated Probabilistic Virtual Sensing for Structural Monitoring under Changing Operating Conditions**|Wingho Feng et.al.|[2608.24531](http://arxiv.org/abs/2608.24531)|null|
+|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Sibo Tian et.al.|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
 |**2026-08-24**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma et.al.|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
 |**2026-08-24**|**ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings**|Na Li et.al.|[2608.23551](http://arxiv.org/abs/2608.23551)|null|
 |**2026-08-24**|**ProxyFormer: A Dual-Stream Proxy Architecture for Ultra-Long Context and High-Resolution Generation**|Zhongpan Tang et.al.|[2608.23463](http://arxiv.org/abs/2608.23463)|null|
 |**2026-08-24**|**MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving**|Ziying Song et.al.|[2608.23405](http://arxiv.org/abs/2608.23405)|null|
 |**2026-08-24**|**Grounding Free-Form Instructions for Fashion Complementary Image Generation**|Matteo Attimonelli et.al.|[2608.23302](http://arxiv.org/abs/2608.23302)|null|
 |**2026-08-24**|**BenthicFlow: Generating Extensible Underwater Environments via Flow Matching**|Joaquín Figueira et.al.|[2608.23173](http://arxiv.org/abs/2608.23173)|null|
+|**2026-08-24**|**Interpreting Control Latents for System Identification via Conditional Flow Matching**|Dingqi Zhang et.al.|[2608.23887](http://arxiv.org/abs/2608.23887)|null|
+|**2026-08-24**|**Renormalization Group Flow Matching for Scalable Local Generative Modeling**|Kanta Masuki et.al.|[2608.23696](http://arxiv.org/abs/2608.23696)|null|
 |**2026-08-23**|**SymmAdapt: Symmetrical Flow Matching for Source-Free Domain Adaptation in Medical Image Segmentation**|Tal Grossman et.al.|[2608.22532](http://arxiv.org/abs/2608.22532)|null|
 |**2026-08-23**|**WAM-OPD: On-Policy Distillation for World Action Models**|Liuhaichen Yang et.al.|[2608.22364](http://arxiv.org/abs/2608.22364)|null|
 |**2026-08-23**|**StocBench: A Benchmark for Generative Modeling of Stochastic Dynamics**|Sebastian Pfister et.al.|[2608.22309](http://arxiv.org/abs/2608.22309)|null|
 |**2026-08-23**|**Improving Few-Step Language Flows with Untied Self-Conditioning**|Bocheng Li et.al.|[2608.22244](http://arxiv.org/abs/2608.22244)|null|
 |**2026-08-23**|**AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS**|Timothy Tin-Long et.al.|[2608.22186](http://arxiv.org/abs/2608.22186)|null|
-|**2026-08-22**|**FlowSep 2: Self-Supervised Flow Matching for Language-Queried Audio Source Separation**|Yi Yuan et.al.|[2608.22111](http://arxiv.org/abs/2608.22111)|null|
 |**2026-08-22**|**GuardPaint:SpeculativeSafetyDecodingforText-to-ImageGeneration**|Shreyash Dhoot et.al.|[2608.21869](http://arxiv.org/abs/2608.21869)|null|
 |**2026-08-21**|**Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion**|Bowen Cui et.al.|[2608.19567](http://arxiv.org/abs/2608.19567)|null|
 |**2026-08-21**|**Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching**|Airin Akter Tania et.al.|[2608.21286](http://arxiv.org/abs/2608.21286)|null|
