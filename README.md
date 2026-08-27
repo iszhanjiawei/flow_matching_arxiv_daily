@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Fast Generative Grasping via Lie Group-Constrained MeanFlow**|S. Talha Bukhari et.al.|[2608.26076](http://arxiv.org/abs/2608.26076)|null|
+|**2026-08-26**|**THA-Flow Generative Model: Prosthesis Geometry Prediction from Preoperative CT**|Yiping Wang et.al.|[2608.25845](http://arxiv.org/abs/2608.25845)|null|
+|**2026-08-26**|**WaveOp-LiteFM: Lightweight Neural-Operator Flow Matching for Satellite-to-Radar Precipitation Retrieval**|Chunlei Shi et.al.|[2608.25818](http://arxiv.org/abs/2608.25818)|null|
+|**2026-08-26**|**MAMA-FLUX.2: Image-to-Image Synthesis of Post-Contrast Breast DCE-MRI for the MAMA-SYNTH Challenge**|Kamil Kwarciak et.al.|[2608.25648](http://arxiv.org/abs/2608.25648)|null|
+|**2026-08-26**|**Physics-Guided Generative Surrogates for Parametric Rarefied Flows with Neural-Field Auto-Decoders: A Pipeline-Level Study of Flow Matching and Diffusion**|Yiming Qi et.al.|[2608.25454](http://arxiv.org/abs/2608.25454)|null|
 |**2026-08-25**|**FlowSep 2: Self-Supervised Flow Matching for Language-Queried Audio Source Separation**|Yi Yuan et.al.|[2608.22111](http://arxiv.org/abs/2608.22111)|null|
 |**2026-08-25**|**MoRF-AST: Calibrated Probabilistic Virtual Sensing for Structural Monitoring under Changing Operating Conditions**|Wingho Feng et.al.|[2608.24531](http://arxiv.org/abs/2608.24531)|null|
 |**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Sibo Tian et.al.|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
+|**2026-08-25**|**Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching**|Jiarui Cao et.al.|[2608.25138](http://arxiv.org/abs/2608.25138)|null|
 |**2026-08-24**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma et.al.|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
 |**2026-08-24**|**ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings**|Na Li et.al.|[2608.23551](http://arxiv.org/abs/2608.23551)|null|
 |**2026-08-24**|**ProxyFormer: A Dual-Stream Proxy Architecture for Ultra-Long Context and High-Resolution Generation**|Zhongpan Tang et.al.|[2608.23463](http://arxiv.org/abs/2608.23463)|null|
@@ -2391,5 +2397,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
