@@ -14,16 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Feiyu Shen et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[2608.27429](http://arxiv.org/abs/2608.27429)|null|
+|**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384](http://arxiv.org/abs/2608.27384)|null|
+|**2026-08-27**|**Gromov-Monge Flow Matching for Equivariant Graph Generation**|Moritz Piening et.al.|[2608.26961](http://arxiv.org/abs/2608.26961)|null|
+|**2026-08-27**|**Climate Physics Dynamic Matching**|Gurjeet Sangra Singh et.al.|[2608.26907](http://arxiv.org/abs/2608.26907)|null|
+|**2026-08-27**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
+|**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et.al.|[2608.26766](http://arxiv.org/abs/2608.26766)|null|
+|**2026-08-27**|**Generative Semantic Scene Completion**|Shi Chen et.al.|[2608.26737](http://arxiv.org/abs/2608.26737)|null|
+|**2026-08-27**|**LiveVVT: High-Fidelity Video Virtual Try-On in Real Time**|Yushe Cao et.al.|[2608.26714](http://arxiv.org/abs/2608.26714)|null|
+|**2026-08-27**|**Simple Actors and Deep Critics for Scalable Reinforcement Learning**|Guhyeon Kang et.al.|[2608.26659](http://arxiv.org/abs/2608.26659)|null|
+|**2026-08-27**|**Preference Flow Matching with Spectral Factorization for Micro-video Recommendation**|Xinxin Dong et.al.|[2608.26579](http://arxiv.org/abs/2608.26579)|null|
 |**2026-08-26**|**Fast Generative Grasping via Lie Group-Constrained MeanFlow**|S. Talha Bukhari et.al.|[2608.26076](http://arxiv.org/abs/2608.26076)|null|
 |**2026-08-26**|**THA-Flow Generative Model: Prosthesis Geometry Prediction from Preoperative CT**|Yiping Wang et.al.|[2608.25845](http://arxiv.org/abs/2608.25845)|null|
 |**2026-08-26**|**WaveOp-LiteFM: Lightweight Neural-Operator Flow Matching for Satellite-to-Radar Precipitation Retrieval**|Chunlei Shi et.al.|[2608.25818](http://arxiv.org/abs/2608.25818)|null|
 |**2026-08-26**|**MAMA-FLUX.2: Image-to-Image Synthesis of Post-Contrast Breast DCE-MRI for the MAMA-SYNTH Challenge**|Kamil Kwarciak et.al.|[2608.25648](http://arxiv.org/abs/2608.25648)|null|
 |**2026-08-26**|**Physics-Guided Generative Surrogates for Parametric Rarefied Flows with Neural-Field Auto-Decoders: A Pipeline-Level Study of Flow Matching and Diffusion**|Yiming Qi et.al.|[2608.25454](http://arxiv.org/abs/2608.25454)|null|
+|**2026-08-26**|**Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference**|Yannic Pietschke et.al.|[2608.26354](http://arxiv.org/abs/2608.26354)|null|
 |**2026-08-25**|**FlowSep 2: Self-Supervised Flow Matching for Language-Queried Audio Source Separation**|Yi Yuan et.al.|[2608.22111](http://arxiv.org/abs/2608.22111)|null|
 |**2026-08-25**|**MoRF-AST: Calibrated Probabilistic Virtual Sensing for Structural Monitoring under Changing Operating Conditions**|Wingho Feng et.al.|[2608.24531](http://arxiv.org/abs/2608.24531)|null|
-|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Sibo Tian et.al.|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
 |**2026-08-25**|**Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching**|Jiarui Cao et.al.|[2608.25138](http://arxiv.org/abs/2608.25138)|null|
+|**2026-08-25**|**GameWAM: A World Action Model for Video Games**|Yuncheng Guo et.al.|[2608.26200](http://arxiv.org/abs/2608.26200)|null|
 |**2026-08-24**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma et.al.|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
 |**2026-08-24**|**ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings**|Na Li et.al.|[2608.23551](http://arxiv.org/abs/2608.23551)|null|
 |**2026-08-24**|**ProxyFormer: A Dual-Stream Proxy Architecture for Ultra-Long Context and High-Resolution Generation**|Zhongpan Tang et.al.|[2608.23463](http://arxiv.org/abs/2608.23463)|null|
