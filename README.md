@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,16 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
+|**2026-08-30**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
+|**2026-08-30**|**Tracing Generated Samples to Training-Data Clusters in Flow-Matching Models**|Rania Briq et.al.|[2608.30081](http://arxiv.org/abs/2608.30081)|null|
+|**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937](http://arxiv.org/abs/2608.29937)|null|
+|**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910](http://arxiv.org/abs/2608.29910)|null|
+|**2026-08-30**|**Off-Manifold Refinement: Guiding Video Generators with a Frozen World Model**|Hai Nguyen-Truong et.al.|[2608.29904](http://arxiv.org/abs/2608.29904)|null|
+|**2026-08-29**|**AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models**|Sunghwan Han et.al.|[2608.29208](http://arxiv.org/abs/2608.29208)|null|
+|**2026-08-29**|**Foundational feature fusion for conditional flow matching in 6D pose estimation**|Amir Hamza et.al.|[2608.29183](http://arxiv.org/abs/2608.29183)|null|
+|**2026-08-29**|**Training-Free Hidden-State Refinement for Flow-Matching Image Generators**|Yuanyi Yan et.al.|[2608.29160](http://arxiv.org/abs/2608.29160)|null|
+|**2026-08-29**|**Manifold-Constrained PET Reconstruction with Learned Flow-Matching Priors**|Hengjia Ran et.al.|[2608.29158](http://arxiv.org/abs/2608.29158)|null|
+|**2026-08-29**|**Flow-JEPA: Flow Matching for Robust Latent Dynamics in JEPA World Models**|Yanchen Huo et.al.|[2608.29029](http://arxiv.org/abs/2608.29029)|null|
+|**2026-08-29**|**Hydra: A Navigation World Action Model with Discrete Latent Planning and Continuous Flow-Matching Execution**|Mohammad Nazeri et.al.|[2608.28995](http://arxiv.org/abs/2608.28995)|null|
 |**2026-08-28**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[2608.27429](http://arxiv.org/abs/2608.27429)|null|
 |**2026-08-28**|**LiveVVT: High-Fidelity Video Virtual Try-On in Real Time**|Yushe Cao et.al.|[2608.26714](http://arxiv.org/abs/2608.26714)|null|
 |**2026-08-28**|**Physics-Guided Flow Matching for CT Image Reconstruction**|Davide Evangelista et.al.|[2608.28256](http://arxiv.org/abs/2608.28256)|null|
 |**2026-08-28**|**Manifold4D: Denoising on Point Cloud Rendered Manifolds for Video Re-shooting**|Yongqi Mao et.al.|[2608.28174](http://arxiv.org/abs/2608.28174)|null|
 |**2026-08-28**|**When Can Conditional Flow Matching Replace Pointwise Negative Log-Likelihood?**|Yansen Han et.al.|[2608.28010](http://arxiv.org/abs/2608.28010)|null|
+|**2026-08-28**|**Text-Driven Artistic Staging: Pose, Lighting, and Camera References from Paintings**|Yunge Wen et.al.|[2608.28823](http://arxiv.org/abs/2608.28823)|null|
 |**2026-08-27**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Feiyu Shen et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384](http://arxiv.org/abs/2608.27384)|null|
 |**2026-08-27**|**Gromov-Monge Flow Matching for Equivariant Graph Generation**|Moritz Piening et.al.|[2608.26961](http://arxiv.org/abs/2608.26961)|null|
 |**2026-08-27**|**Climate Physics Dynamic Matching**|Gurjeet Sangra Singh et.al.|[2608.26907](http://arxiv.org/abs/2608.26907)|null|
-|**2026-08-27**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
 |**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et.al.|[2608.26766](http://arxiv.org/abs/2608.26766)|null|
 |**2026-08-27**|**Generative Semantic Scene Completion**|Shi Chen et.al.|[2608.26737](http://arxiv.org/abs/2608.26737)|null|
 |**2026-08-27**|**Simple Actors and Deep Critics for Scalable Reinforcement Learning**|Guhyeon Kang et.al.|[2608.26659](http://arxiv.org/abs/2608.26659)|null|
@@ -2412,5 +2424,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
