@@ -15,6 +15,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
+|**2026-08-31**|**Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation**|Tianyu Gao et.al.|[2608.31009](http://arxiv.org/abs/2608.31009)|null|
+|**2026-08-31**|**Decoupled Latent Flow Matching for Few-Step Joint Vocal-Accompaniment Separation**|Lishi Zuo et.al.|[2608.30913](http://arxiv.org/abs/2608.30913)|null|
+|**2026-08-31**|**PixelIR: Fidelity-Perception Decoupling via Pixel-Space Image-Residual Flow Matching for Efficient One-Step Real-World Super-Resolution**|Bingtian Qiao et.al.|[2608.30782](http://arxiv.org/abs/2608.30782)|null|
 |**2026-08-30**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
 |**2026-08-30**|**Tracing Generated Samples to Training-Data Clusters in Flow-Matching Models**|Rania Briq et.al.|[2608.30081](http://arxiv.org/abs/2608.30081)|null|
 |**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937](http://arxiv.org/abs/2608.29937)|null|
