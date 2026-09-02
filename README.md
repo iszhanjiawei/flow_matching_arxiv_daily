@@ -14,10 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation**|Haoyuan Deng et.al.|[2609.01596](http://arxiv.org/abs/2609.01596)|null|
+|**2026-09-01**|**Text-guided flow matching enables sample-efficient crystal structure generation**|Wentao Li et.al.|[2609.01076](http://arxiv.org/abs/2609.01076)|null|
+|**2026-09-01**|**ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation**|Jeonghyeok Do et.al.|[2609.00968](http://arxiv.org/abs/2609.00968)|null|
+|**2026-09-01**|**Conditional Flow Matching for Cross-Field MRI Harmonisation**|Baris Imre et.al.|[2609.00960](http://arxiv.org/abs/2609.00960)|null|
+|**2026-09-01**|**Conditional Flow Matching for ML-Based Inverse Design Problems**|Juliana Felder et.al.|[2609.00863](http://arxiv.org/abs/2609.00863)|null|
+|**2026-09-01**|**ReBridge-Flow: Re-Coupling Posterior Bridges in Flow Matching for Image Restoration**|Jiaqi Zhang et.al.|[2609.00811](http://arxiv.org/abs/2609.00811)|null|
 |**2026-08-31**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-08-31**|**Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation**|Tianyu Gao et.al.|[2608.31009](http://arxiv.org/abs/2608.31009)|null|
 |**2026-08-31**|**Decoupled Latent Flow Matching for Few-Step Joint Vocal-Accompaniment Separation**|Lishi Zuo et.al.|[2608.30913](http://arxiv.org/abs/2608.30913)|null|
 |**2026-08-31**|**PixelIR: Fidelity-Perception Decoupling via Pixel-Space Image-Residual Flow Matching for Efficient One-Step Real-World Super-Resolution**|Bingtian Qiao et.al.|[2608.30782](http://arxiv.org/abs/2608.30782)|null|
+|**2026-08-31**|**Geometry-aware Latent Autoregressive Generative Model for PDEs in Complex Domains**|Zi Wang et.al.|[2609.00297](http://arxiv.org/abs/2609.00297)|null|
+|**2026-08-31**|**A Lagrangian View of Flow Matching**|Peyman Milanfar et.al.|[2609.00198](http://arxiv.org/abs/2609.00198)|null|
 |**2026-08-30**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
 |**2026-08-30**|**Tracing Generated Samples to Training-Data Clusters in Flow-Matching Models**|Rania Briq et.al.|[2608.30081](http://arxiv.org/abs/2608.30081)|null|
 |**2026-08-30**|**AcrossWAM1.0:A Modular Latent World-Action Stack for Compact Robot Policies**|Yafei Zhang et.al.|[2608.29937](http://arxiv.org/abs/2608.29937)|null|
