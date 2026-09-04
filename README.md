@@ -14,11 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**VoRTeC: Taming Foundation Flow for One-step Real time Video Compression**|Yichong Xia et.al.|[2609.02291](http://arxiv.org/abs/2609.02291)|null|
+|**2026-09-03**|**Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis**|Sanyuan Chen et.al.|[2609.03992](http://arxiv.org/abs/2609.03992)|null|
+|**2026-09-03**|**RARF: Region-Aware Rectified Flows for 3D Brain MRI Inpainting**|Tomas Guija-Valiente et.al.|[2609.03956](http://arxiv.org/abs/2609.03956)|null|
+|**2026-09-03**|**From Nowcasting to Forecasting: Adapting a Reanalysis-Trained**|Mikko Partio et.al.|[2609.03763](http://arxiv.org/abs/2609.03763)|null|
+|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715](http://arxiv.org/abs/2609.03715)|null|
+|**2026-09-03**|**Beyond Straightness: Non-Crossing Flow Matching via Quantile AlignTree Coupling**|Junyi Lin et.al.|[2609.03443](http://arxiv.org/abs/2609.03443)|null|
 |**2026-09-02**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-09-02**|**Tracing Generated Samples to Training-Data Clusters in Flow-Matching Models**|Rania Briq et.al.|[2608.30081](http://arxiv.org/abs/2608.30081)|null|
 |**2026-09-02**|**Balancing Frequencies and Pixels in Flow Matching**|Lucas Degeorge et.al.|[2609.02748](http://arxiv.org/abs/2609.02748)|null|
-|**2026-09-02**|**VoRTeC: Taming Foundation Flow for One-step Real time Video Compression**|Yichong Xia et.al.|[2609.02291](http://arxiv.org/abs/2609.02291)|null|
 |**2026-09-02**|**Quantum MeanFlow: single-shot generative sampling on NISQ hardware**|Ashish Joshi et.al.|[2609.02186](http://arxiv.org/abs/2609.02186)|null|
+|**2026-09-02**|**GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations**|Duncan Eddy et.al.|[2609.03067](http://arxiv.org/abs/2609.03067)|null|
 |**2026-09-01**|**Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation**|Haoyuan Deng et.al.|[2609.01596](http://arxiv.org/abs/2609.01596)|null|
 |**2026-09-01**|**Text-guided flow matching enables sample-efficient crystal structure generation**|Wentao Li et.al.|[2609.01076](http://arxiv.org/abs/2609.01076)|null|
 |**2026-09-01**|**ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation**|Jeonghyeok Do et.al.|[2609.00968](http://arxiv.org/abs/2609.00968)|null|
