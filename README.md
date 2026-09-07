@@ -14,12 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**MedFlow: Class-Aware Multi-Scale Generation for Medical Time-Series Synthesis**|Yanhao Huang et.al.|[2609.04804](http://arxiv.org/abs/2609.04804)|null|
+|**2026-09-04**|**SeamFlow: Structure-Aware Flow Matching on Edge Probabilities for Artist-Like UV Unwrapping**|Yuming Zhao et.al.|[2609.04751](http://arxiv.org/abs/2609.04751)|null|
+|**2026-09-04**|**Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty**|Junda Ying et.al.|[2609.04710](http://arxiv.org/abs/2609.04710)|null|
+|**2026-09-04**|**SCAPES: Semantically Conditioned Autoregressive Prior for Environmental Sounds**|Esteban Gutiérrez et.al.|[2609.04634](http://arxiv.org/abs/2609.04634)|null|
 |**2026-09-03**|**VoRTeC: Taming Foundation Flow for One-step Real time Video Compression**|Yichong Xia et.al.|[2609.02291](http://arxiv.org/abs/2609.02291)|null|
 |**2026-09-03**|**Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis**|Sanyuan Chen et.al.|[2609.03992](http://arxiv.org/abs/2609.03992)|null|
 |**2026-09-03**|**RARF: Region-Aware Rectified Flows for 3D Brain MRI Inpainting**|Tomas Guija-Valiente et.al.|[2609.03956](http://arxiv.org/abs/2609.03956)|null|
 |**2026-09-03**|**From Nowcasting to Forecasting: Adapting a Reanalysis-Trained**|Mikko Partio et.al.|[2609.03763](http://arxiv.org/abs/2609.03763)|null|
 |**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715](http://arxiv.org/abs/2609.03715)|null|
 |**2026-09-03**|**Beyond Straightness: Non-Crossing Flow Matching via Quantile AlignTree Coupling**|Junyi Lin et.al.|[2609.03443](http://arxiv.org/abs/2609.03443)|null|
+|**2026-09-03**|**Discriminative Flow Matching: Beyond Time-Conditioning in Generative Restoration via Flow-State Representations**|Shrishti Saha Shetu et.al.|[2609.04525](http://arxiv.org/abs/2609.04525)|null|
 |**2026-09-02**|**PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies**|Botong Zhao et.al.|[2608.30378](http://arxiv.org/abs/2608.30378)|null|
 |**2026-09-02**|**Tracing Generated Samples to Training-Data Clusters in Flow-Matching Models**|Rania Briq et.al.|[2608.30081](http://arxiv.org/abs/2608.30081)|null|
 |**2026-09-02**|**Balancing Frequencies and Pixels in Flow Matching**|Lucas Degeorge et.al.|[2609.02748](http://arxiv.org/abs/2609.02748)|null|
