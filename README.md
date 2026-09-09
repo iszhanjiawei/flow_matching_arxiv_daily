@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video**|Qiaohui Chu et.al.|[2609.08636](http://arxiv.org/abs/2609.08636)|null|
+|**2026-09-08**|**Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules**|Weichi Yao et.al.|[2609.08333](http://arxiv.org/abs/2609.08333)|null|
+|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|null|
+|**2026-09-07**|**ParetoTransport: Generative Optimization by Mass Transport Toward The Pareto Front**|Stephanie Holly et.al.|[2609.07706](http://arxiv.org/abs/2609.07706)|null|
+|**2026-09-07**|**Latent-to-Latent Flow for Volumetric Stochastic Segmentation**|Omar Todd et.al.|[2609.07460](http://arxiv.org/abs/2609.07460)|null|
+|**2026-09-07**|**PCFlow: Physics-Conditioned Flow Matching for GPR B-Scan Image Synthesis**|Zhijie Shen et.al.|[2609.07300](http://arxiv.org/abs/2609.07300)|null|
+|**2026-09-07**|**Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer**|Zhiwei Ning et.al.|[2609.07137](http://arxiv.org/abs/2609.07137)|null|
+|**2026-09-07**|**Particle Dynamics of Flow Matching and Classifier-Free Guidance from a Stagewise Geometry Perspective**|Jian-Feng Cai et.al.|[2609.06947](http://arxiv.org/abs/2609.06947)|null|
+|**2026-09-06**|**ContextFlow: In-Context Flow Matching for Robot Manipulation**|Jian Ding et.al.|[2609.06852](http://arxiv.org/abs/2609.06852)|null|
+|**2026-09-05**|**Object-Aware Background-Controlled Editing via Weighted Velocity Guidance**|Wuji Wang et.al.|[2609.06288](http://arxiv.org/abs/2609.06288)|null|
+|**2026-09-05**|**Evidence-Aligned Local Composition of Discrete Experts for Sequence Restoration**|Mohammad Panahazari et.al.|[2609.05801](http://arxiv.org/abs/2609.05801)|null|
 |**2026-09-04**|**MedFlow: Class-Aware Multi-Scale Generation for Medical Time-Series Synthesis**|Yanhao Huang et.al.|[2609.04804](http://arxiv.org/abs/2609.04804)|null|
 |**2026-09-04**|**SeamFlow: Structure-Aware Flow Matching on Edge Probabilities for Artist-Like UV Unwrapping**|Yuming Zhao et.al.|[2609.04751](http://arxiv.org/abs/2609.04751)|null|
 |**2026-09-04**|**Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty**|Junda Ying et.al.|[2609.04710](http://arxiv.org/abs/2609.04710)|null|
