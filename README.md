@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues**|Zeyu Ling et.al.|[2609.10457](http://arxiv.org/abs/2609.10457)|null|
+|**2026-09-09**|**Frequency-Conditioned Flow Matching for Vision-Language-Action Models**|Haochen Niu et.al.|[2609.10405](http://arxiv.org/abs/2609.10405)|null|
+|**2026-09-09**|**FlowCPO: A Unified Divergence View of Preference Alignment for Flow Models**|Yansen Han et.al.|[2609.09905](http://arxiv.org/abs/2609.09905)|null|
+|**2026-09-09**|**UniStream: Multi-Expert Residual Vector Quantization for 48 kHz Causal Streaming Audio Coding**|Mingyu Zhao et.al.|[2609.09866](http://arxiv.org/abs/2609.09866)|null|
+|**2026-09-09**|**uFlowCSP: Crystal Structure Prediction using Mean flow generative models**|Sourin Dey et.al.|[2609.09799](http://arxiv.org/abs/2609.09799)|null|
+|**2026-09-09**|**Muon-C: Operator-Aligned Muon for Convolutional Kernels**|Jiaxin Qing et.al.|[2609.09676](http://arxiv.org/abs/2609.09676)|null|
 |**2026-09-08**|**From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video**|Qiaohui Chu et.al.|[2609.08636](http://arxiv.org/abs/2609.08636)|null|
 |**2026-09-08**|**Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules**|Weichi Yao et.al.|[2609.08333](http://arxiv.org/abs/2609.08333)|null|
 |**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|null|
