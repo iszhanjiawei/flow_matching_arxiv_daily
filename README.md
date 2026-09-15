@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Principal-timestep Restricted Init via Sparse Matrix-decomposition in Flow-matching**|Jiayang Gu et.al.|[2609.15643](http://arxiv.org/abs/2609.15643)|null|
+|**2026-09-14**|**Flow-Matched Motion Priors: Online Optimal-Transport Rewards for Imitation Learning**|Yilin Zou et.al.|[2609.15631](http://arxiv.org/abs/2609.15631)|null|
+|**2026-09-14**|**Physics-Guided Conditional Flow Matching with Energy Regularization for Robust PDE Inverse Problems**|Yongsheng Chen et.al.|[2609.15536](http://arxiv.org/abs/2609.15536)|null|
+|**2026-09-14**|**Refinement-based Flow Policy Optimization**|Bumgeun Park et.al.|[2609.15123](http://arxiv.org/abs/2609.15123)|null|
+|**2026-09-14**|**Branched Optimal Transport Amortization**|Semyon Semenov et.al.|[2609.15072](http://arxiv.org/abs/2609.15072)|null|
+|**2026-09-14**|**Steering Generative Robot Policies with Lexicographic Preferences**|Yixuan Jia et.al.|[2609.15014](http://arxiv.org/abs/2609.15014)|null|
+|**2026-09-14**|**RAIN: Region-Aware Inversion Network for Semantic Watermark Extraction**|Zilai Li et.al.|[2609.14856](http://arxiv.org/abs/2609.14856)|null|
+|**2026-09-13**|**Quantifying the Generation Modality Gap in Speech-Text Language Models**|Ju-Chieh Chou et.al.|[2609.14743](http://arxiv.org/abs/2609.14743)|null|
+|**2026-09-13**|**Learning Communication-Conditioned Generative Policies for Decentralized Multi-Agent Collision Avoidance**|Prajwal Koirala et.al.|[2609.14268](http://arxiv.org/abs/2609.14268)|null|
+|**2026-09-13**|**VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching**|Prajwal Koirala et.al.|[2609.14261](http://arxiv.org/abs/2609.14261)|null|
+|**2026-09-12**|**CyFM: Cylindrical Optimal Transport for Few-Step Complex-Valued Flow Matching**|Marcel Musiałek et.al.|[2609.14171](http://arxiv.org/abs/2609.14171)|null|
+|**2026-09-12**|**Conditional Quantum Flow Matching for Data-Scarce Physiological Signal Augmentation**|Chi-Sheng Chen et.al.|[2609.14019](http://arxiv.org/abs/2609.14019)|null|
+|**2026-09-12**|**What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency**|Luoyang Sun et.al.|[2609.13984](http://arxiv.org/abs/2609.13984)|null|
+|**2026-09-12**|**BLInD: Learning Driver Intent as a Distribution over Future Ego Trajectories**|Flavian Pegado et.al.|[2609.13941](http://arxiv.org/abs/2609.13941)|null|
+|**2026-09-12**|**DiTAR+: Dual Optimization for Robust Autoregressive Diffusion Speech Synthesis**|Ziyu Zhang et.al.|[2609.13909](http://arxiv.org/abs/2609.13909)|null|
+|**2026-09-11**|**Generative bootstrap processes**|Ziming Lin et.al.|[2609.13471](http://arxiv.org/abs/2609.13471)|null|
+|**2026-09-11**|**Dual-guided Hierarchical Edge Localization for Large-scale Optimal Transport Across Dimensions**|Wenzhou Xia et.al.|[2609.13010](http://arxiv.org/abs/2609.13010)|null|
+|**2026-09-11**|**Fast and Faithful: Principled Conditional Flow Matching for Inverse Problems**|Shirin Shoushtari et.al.|[2609.12953](http://arxiv.org/abs/2609.12953)|null|
+|**2026-09-11**|**Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring**|Jisheng Dang et.al.|[2609.12830](http://arxiv.org/abs/2609.12830)|null|
+|**2026-09-11**|**DiffSynth-Music: Audio-Conditioned KV-Cache Adapters for Controllable Music Generation**|Zhongjie Duan et.al.|[2609.12774](http://arxiv.org/abs/2609.12774)|null|
 |**2026-09-10**|**Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules**|Weichi Yao et.al.|[2609.08333](http://arxiv.org/abs/2609.08333)|null|
 |**2026-09-10**|**MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues**|Zeyu Ling et.al.|[2609.10457](http://arxiv.org/abs/2609.10457)|null|
 |**2026-09-10**|**Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport**|Luyi Jia et.al.|[2609.11842](http://arxiv.org/abs/2609.11842)|null|
