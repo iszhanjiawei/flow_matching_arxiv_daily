@@ -1,4 +1,4 @@
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Same Flow, Different Paths: Variance Reduction in Flow Matching**|Alexander Tyurin et.al.|[2609.17287](http://arxiv.org/abs/2609.17287)|null|
+|**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194](http://arxiv.org/abs/2609.17194)|null|
+|**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021](http://arxiv.org/abs/2609.17021)|null|
+|**2026-09-15**|**AntennaFlow: A Generative Flow Model for Offset Correction in Phaseless Antenna Testing**|Yongzhi Li et.al.|[2609.16948](http://arxiv.org/abs/2609.16948)|null|
+|**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](http://arxiv.org/abs/2609.16934)|null|
+|**2026-09-15**|**SAVLA: Symmetry-Aware Vision-Language-Action Models for Robotic Manipulation**|Junle Li et.al.|[2609.16641](http://arxiv.org/abs/2609.16641)|null|
+|**2026-09-15**|**AsyncCouple-Flow: Asynchronous Cross-Modal Coupling and Flow Matching for Spatio-Temporal Forecasting**|Zhixiang Wu et.al.|[2609.16573](http://arxiv.org/abs/2609.16573)|null|
+|**2026-09-15**|**FlowATC: Aircraft Trajectory Prediction via Flow Matching**|Mathurin Petit et.al.|[2609.16528](http://arxiv.org/abs/2609.16528)|null|
+|**2026-09-15**|**The Evolving Bottleneck in Speech Generation: Interface Co-design and Staged Alignment from CosyVoice to Qwen-Audio-3.0-TTS**|Qian Chen et.al.|[2609.16514](http://arxiv.org/abs/2609.16514)|null|
 |**2026-09-14**|**Principal-timestep Restricted Init via Sparse Matrix-decomposition in Flow-matching**|Jiayang Gu et.al.|[2609.15643](http://arxiv.org/abs/2609.15643)|null|
 |**2026-09-14**|**Flow-Matched Motion Priors: Online Optimal-Transport Rewards for Imitation Learning**|Yilin Zou et.al.|[2609.15631](http://arxiv.org/abs/2609.15631)|null|
 |**2026-09-14**|**Physics-Guided Conditional Flow Matching with Energy Regularization for Robust PDE Inverse Problems**|Yongsheng Chen et.al.|[2609.15536](http://arxiv.org/abs/2609.15536)|null|
@@ -21,6 +30,8 @@
 |**2026-09-14**|**Branched Optimal Transport Amortization**|Semyon Semenov et.al.|[2609.15072](http://arxiv.org/abs/2609.15072)|null|
 |**2026-09-14**|**Steering Generative Robot Policies with Lexicographic Preferences**|Yixuan Jia et.al.|[2609.15014](http://arxiv.org/abs/2609.15014)|null|
 |**2026-09-14**|**RAIN: Region-Aware Inversion Network for Semantic Watermark Extraction**|Zilai Li et.al.|[2609.14856](http://arxiv.org/abs/2609.14856)|null|
+|**2026-09-14**|**Generative models for simulation based filtering: Formulations and Empirical Comparisons**|Mohammad Al-Jarrah et.al.|[2609.16317](http://arxiv.org/abs/2609.16317)|null|
+|**2026-09-14**|**SongCraft: Unified Song Generation and Editing with Reconstructive Learning**|Haohe Liu et.al.|[2609.16315](http://arxiv.org/abs/2609.16315)|null|
 |**2026-09-13**|**Quantifying the Generation Modality Gap in Speech-Text Language Models**|Ju-Chieh Chou et.al.|[2609.14743](http://arxiv.org/abs/2609.14743)|null|
 |**2026-09-13**|**Learning Communication-Conditioned Generative Policies for Decentralized Multi-Agent Collision Avoidance**|Prajwal Koirala et.al.|[2609.14268](http://arxiv.org/abs/2609.14268)|null|
 |**2026-09-13**|**VGFM: Expressive Robot Policies via Dense Value Guidance in Flow Matching**|Prajwal Koirala et.al.|[2609.14261](http://arxiv.org/abs/2609.14261)|null|
@@ -2497,5 +2508,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
