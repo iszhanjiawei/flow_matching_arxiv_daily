@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Yuxuan Ma et.al.|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
+|**2026-09-16**|**Beyond Random Couplings: Contrastive Noise Alignment in Generative Flows**|Lennart Wittke et.al.|[2609.18488](http://arxiv.org/abs/2609.18488)|null|
+|**2026-09-16**|**MSR: Multiple Subject Reference for Video Generation**|Guannan Li et.al.|[2609.18393](http://arxiv.org/abs/2609.18393)|null|
+|**2026-09-16**|**DistAL: Distance-based Advantage Learning for VLA Fine-Tuning**|Reece O'Mahoney et.al.|[2609.18392](http://arxiv.org/abs/2609.18392)|null|
+|**2026-09-16**|**CPR: Combining global composing, local performing and full-sequence refining in piano rendering with continuous autoregressive modelling**|Chong Jing et.al.|[2609.18216](http://arxiv.org/abs/2609.18216)|null|
 |**2026-09-15**|**Same Flow, Different Paths: Variance Reduction in Flow Matching**|Alexander Tyurin et.al.|[2609.17287](http://arxiv.org/abs/2609.17287)|null|
 |**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194](http://arxiv.org/abs/2609.17194)|null|
 |**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021](http://arxiv.org/abs/2609.17021)|null|
@@ -2508,5 +2513,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 
