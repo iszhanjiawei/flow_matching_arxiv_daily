@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies**|Xin Chen et.al.|[2609.20776](http://arxiv.org/abs/2609.20776)|null|
+|**2026-09-17**|**FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants**|Tianao Li et.al.|[2609.20769](http://arxiv.org/abs/2609.20769)|null|
+|**2026-09-17**|**Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control**|Hanchu Zhou et.al.|[2609.20761](http://arxiv.org/abs/2609.20761)|null|
+|**2026-09-17**|**TraceFlow: Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces**|Jiaxuan Zhang et.al.|[2609.20646](http://arxiv.org/abs/2609.20646)|null|
+|**2026-09-17**|**Dynamic Generalized Gromov-Wasserstein Optimal Transport**|Junda Ying et.al.|[2609.20008](http://arxiv.org/abs/2609.20008)|null|
+|**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Zeyu Han et.al.|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Yuxuan Ma et.al.|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
 |**2026-09-16**|**Beyond Random Couplings: Contrastive Noise Alignment in Generative Flows**|Lennart Wittke et.al.|[2609.18488](http://arxiv.org/abs/2609.18488)|null|
 |**2026-09-16**|**MSR: Multiple Subject Reference for Video Generation**|Guannan Li et.al.|[2609.18393](http://arxiv.org/abs/2609.18393)|null|
 |**2026-09-16**|**DistAL: Distance-based Advantage Learning for VLA Fine-Tuning**|Reece O'Mahoney et.al.|[2609.18392](http://arxiv.org/abs/2609.18392)|null|
 |**2026-09-16**|**CPR: Combining global composing, local performing and full-sequence refining in piano rendering with continuous autoregressive modelling**|Chong Jing et.al.|[2609.18216](http://arxiv.org/abs/2609.18216)|null|
+|**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475](http://arxiv.org/abs/2609.19475)|null|
+|**2026-09-16**|**How to Guide Your Language Flow**|Rohit Dilip et.al.|[2609.19356](http://arxiv.org/abs/2609.19356)|null|
 |**2026-09-15**|**Same Flow, Different Paths: Variance Reduction in Flow Matching**|Alexander Tyurin et.al.|[2609.17287](http://arxiv.org/abs/2609.17287)|null|
 |**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194](http://arxiv.org/abs/2609.17194)|null|
 |**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021](http://arxiv.org/abs/2609.17021)|null|
@@ -2513,5 +2521,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
