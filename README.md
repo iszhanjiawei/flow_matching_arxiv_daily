@@ -14,11 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
+|**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](http://arxiv.org/abs/2609.24879)|null|
+|**2026-09-21**|**Classifier-Free Guidance in Flow Matching: Non-Autonomous Potentials, Overshoot, and Posterior-Mean Control**|Jishen Peng et.al.|[2609.24287](http://arxiv.org/abs/2609.24287)|null|
+|**2026-09-21**|**Object-Centric Conditioning for Visuomotor Flow Matching**|Jijie Li et.al.|[2609.24155](http://arxiv.org/abs/2609.24155)|null|
+|**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Ningyuan Yang et.al.|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
+|**2026-09-20**|**MoSAT: Human Motion Generation from Spatial Audio and Textual Description**|Shuyang Xu et.al.|[2609.23797](http://arxiv.org/abs/2609.23797)|null|
+|**2026-09-20**|**SewFusion: Tailored Generation of Topology and Panel-Level Geometry for Sewing Patterns**|Jiaxin Lin et.al.|[2609.23548](http://arxiv.org/abs/2609.23548)|null|
+|**2026-09-20**|**Generative Learning for Ambisonic Upscaling**|Amit Milstein et.al.|[2609.23479](http://arxiv.org/abs/2609.23479)|null|
+|**2026-09-20**|**Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching**|Ruiqi Feng et.al.|[2609.23383](http://arxiv.org/abs/2609.23383)|null|
+|**2026-09-19**|**AVTR-1: Open Stack for Real-Time Interactive Avatars**|Artem Kravtsov et.al.|[2609.22913](http://arxiv.org/abs/2609.22913)|null|
+|**2026-09-19**|**SmoLSTM: A Compact Vision-Language-Action Model with Recurrent Memory that Persists**|Jan-Gerrit Habekost et.al.|[2609.22854](http://arxiv.org/abs/2609.22854)|null|
 |**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Camilo Carvajal Reyes et.al.|[2609.21989](http://arxiv.org/abs/2609.21989)|null|
 |**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[2609.21982](http://arxiv.org/abs/2609.21982)|null|
 |**2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Pinxin Liu et.al.|[2609.21576](http://arxiv.org/abs/2609.21576)|null|
-|**2026-09-18**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
 |**2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Yixuan Feng et.al.|[2609.21448](http://arxiv.org/abs/2609.21448)|null|
 |**2026-09-18**|**NaViRrator: Robot Navigation from Human-Readable Maps through a Learned Visual Route**|Ayun Lee et.al.|[2609.21316](http://arxiv.org/abs/2609.21316)|null|
 |**2026-09-18**|**Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies**|Zhipeng Tang et.al.|[2609.21216](http://arxiv.org/abs/2609.21216)|null|
@@ -29,6 +39,7 @@
 |**2026-09-17**|**Dynamic Generalized Gromov-Wasserstein Optimal Transport**|Junda Ying et.al.|[2609.20008](http://arxiv.org/abs/2609.20008)|null|
 |**2026-09-17**|**LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction**|Zeyu Han et.al.|[2609.19688](http://arxiv.org/abs/2609.19688)|null|
 |**2026-09-17**|**MarsFM: Shading-Regularized Flow Matching for Martian Relief Estimation**|Marius F. R. Juston et.al.|[2609.21095](http://arxiv.org/abs/2609.21095)|null|
+|**2026-09-17**|**Forecasting Intrathecal Tracer Enhancement from Pre-Contrast Brain MRI: Direct Regression versus Flow Matching**|Qinghui Liu et.al.|[2609.22377](http://arxiv.org/abs/2609.22377)|null|
 |**2026-09-16**|**PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments**|Yuxuan Ma et.al.|[2609.18732](http://arxiv.org/abs/2609.18732)|null|
 |**2026-09-16**|**Beyond Random Couplings: Contrastive Noise Alignment in Generative Flows**|Lennart Wittke et.al.|[2609.18488](http://arxiv.org/abs/2609.18488)|null|
 |**2026-09-16**|**MSR: Multiple Subject Reference for Video Generation**|Guannan Li et.al.|[2609.18393](http://arxiv.org/abs/2609.18393)|null|
