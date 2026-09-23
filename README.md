@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672](http://arxiv.org/abs/2609.26672)|null|
+|**2026-09-22**|**Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence**|Lai Wei et.al.|[2609.26502](http://arxiv.org/abs/2609.26502)|null|
+|**2026-09-22**|**Gaussian Flow-Matching Schedules: Implications for Sampling and Training**|Arsène Claustre et.al.|[2609.25839](http://arxiv.org/abs/2609.25839)|null|
+|**2026-09-22**|**TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection**|Huangsen Cao et.al.|[2609.25775](http://arxiv.org/abs/2609.25775)|null|
+|**2026-09-22**|**When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds**|Doron Haviv et.al.|[2609.25659](http://arxiv.org/abs/2609.25659)|null|
+|**2026-09-22**|**History-Conditioned Flow Matching for Probabilistic Dynamics of Tendon-Driven Continuum Robots**|Hang Yang et.al.|[2609.25658](http://arxiv.org/abs/2609.25658)|null|
+|**2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Haoran Wen et.al.|[2609.25627](http://arxiv.org/abs/2609.25627)|null|
+|**2026-09-22**|**Synthesis and editing of multi-instrument audio mixtures using scalar-quantised latents with MIDI Span conditioning**|Sungkyun Chang et.al.|[2609.25546](http://arxiv.org/abs/2609.25546)|null|
+|**2026-09-21**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-21**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
 |**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](http://arxiv.org/abs/2609.24879)|null|
 |**2026-09-21**|**Classifier-Free Guidance in Flow Matching: Non-Autonomous Potentials, Overshoot, and Posterior-Mean Control**|Jishen Peng et.al.|[2609.24287](http://arxiv.org/abs/2609.24287)|null|
@@ -25,7 +34,6 @@
 |**2026-09-20**|**Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching**|Ruiqi Feng et.al.|[2609.23383](http://arxiv.org/abs/2609.23383)|null|
 |**2026-09-19**|**AVTR-1: Open Stack for Real-Time Interactive Avatars**|Artem Kravtsov et.al.|[2609.22913](http://arxiv.org/abs/2609.22913)|null|
 |**2026-09-19**|**SmoLSTM: A Compact Vision-Language-Action Model with Recurrent Memory that Persists**|Jan-Gerrit Habekost et.al.|[2609.22854](http://arxiv.org/abs/2609.22854)|null|
-|**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-18**|**Time series generation with spectrally aligned latent flow matching**|Camilo Carvajal Reyes et.al.|[2609.21989](http://arxiv.org/abs/2609.21989)|null|
 |**2026-09-18**|**CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching**|Shuqi Zhao et.al.|[2609.21982](http://arxiv.org/abs/2609.21982)|null|
 |**2026-09-18**|**GestureFAR: Streaming Co-Speech Gesture Generation with Flow Autoregression**|Pinxin Liu et.al.|[2609.21576](http://arxiv.org/abs/2609.21576)|null|
