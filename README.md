@@ -1,4 +1,4 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
+|**2026-09-23**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](http://arxiv.org/abs/2609.28206)|null|
+|**2026-09-23**|**DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation**|Fuqiang Zhao et.al.|[2609.28131](http://arxiv.org/abs/2609.28131)|null|
+|**2026-09-23**|**Probabilistic and Geometry Aware Neural Surrogate of Scrape Off Layer Plasma Simulations**|Gabriele Gianuzzo et.al.|[2609.28116](http://arxiv.org/abs/2609.28116)|null|
+|**2026-09-23**|**Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching**|Shreya Deshmukh et.al.|[2609.28107](http://arxiv.org/abs/2609.28107)|null|
+|**2026-09-23**|**Improving Ensemble Filters with Flow Matching**|Haoyuan Chen et.al.|[2609.28015](http://arxiv.org/abs/2609.28015)|null|
+|**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Jisong Cai et.al.|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
+|**2026-09-23**|**Active Learning for Low-Altitude Radio Map Construction via Plug-and-Play Flow Matching**|Hao Sun et.al.|[2609.27486](http://arxiv.org/abs/2609.27486)|null|
+|**2026-09-23**|**One-Step Voice Conversion by Learning kNN Transport in WavLM Space**|Anton Selitskiy et.al.|[2609.27230](http://arxiv.org/abs/2609.27230)|null|
 |**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672](http://arxiv.org/abs/2609.26672)|null|
 |**2026-09-22**|**Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence**|Lai Wei et.al.|[2609.26502](http://arxiv.org/abs/2609.26502)|null|
 |**2026-09-22**|**Gaussian Flow-Matching Schedules: Implications for Sampling and Training**|Arsène Claustre et.al.|[2609.25839](http://arxiv.org/abs/2609.25839)|null|
@@ -22,6 +31,7 @@
 |**2026-09-22**|**History-Conditioned Flow Matching for Probabilistic Dynamics of Tendon-Driven Continuum Robots**|Hang Yang et.al.|[2609.25658](http://arxiv.org/abs/2609.25658)|null|
 |**2026-09-22**|**MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence**|Haoran Wen et.al.|[2609.25627](http://arxiv.org/abs/2609.25627)|null|
 |**2026-09-22**|**Synthesis and editing of multi-instrument audio mixtures using scalar-quantised latents with MIDI Span conditioning**|Sungkyun Chang et.al.|[2609.25546](http://arxiv.org/abs/2609.25546)|null|
+|**2026-09-22**|**The Gaussian Is Enough: Flow-Matching Priors Do Not Help When Fine-Tuning Large Behavior Models**|Chen Xu et.al.|[2609.27070](http://arxiv.org/abs/2609.27070)|null|
 |**2026-09-21**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-21**|**ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling**|Xuancheng Zhang et.al.|[2609.21449](http://arxiv.org/abs/2609.21449)|null|
 |**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](http://arxiv.org/abs/2609.24879)|null|
@@ -2549,5 +2559,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
