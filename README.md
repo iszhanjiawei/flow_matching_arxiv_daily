@@ -1,4 +1,4 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,15 +14,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](http://arxiv.org/abs/2609.28206)|null|
+|**2026-09-24**|**Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching**|Shreya Deshmukh et.al.|[2609.28107](http://arxiv.org/abs/2609.28107)|null|
+|**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](http://arxiv.org/abs/2609.30127)|null|
+|**2026-09-24**|**M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis**|Yang Zhou et.al.|[2609.30056](http://arxiv.org/abs/2609.30056)|null|
+|**2026-09-24**|**Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation**|Haojin Li et.al.|[2609.29912](http://arxiv.org/abs/2609.29912)|null|
+|**2026-09-24**|**MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots**|Lennart Clasmeier et.al.|[2609.29908](http://arxiv.org/abs/2609.29908)|null|
+|**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
+|**2026-09-24**|**Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection**|Anbai Jiang et.al.|[2609.29746](http://arxiv.org/abs/2609.29746)|null|
+|**2026-09-24**|**Neural Transport Nested Sampling**|David Yallup et.al.|[2609.29413](http://arxiv.org/abs/2609.29413)|null|
+|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Riccardo Andrea Izzo et.al.|[2609.29382](http://arxiv.org/abs/2609.29382)|null|
+|**2026-09-24**|**Off-manifold robustness in synthesizer inversion with joint distribution flow matching**|Ben Hayes et.al.|[2609.29320](http://arxiv.org/abs/2609.29320)|null|
+|**2026-09-24**|**X-Rec Technical Report**|Chenglei Shen et.al.|[2609.29180](http://arxiv.org/abs/2609.29180)|null|
+|**2026-09-24**|**ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis**|Junyi Zhao et.al.|[2609.28906](http://arxiv.org/abs/2609.28906)|null|
 |**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
-|**2026-09-23**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](http://arxiv.org/abs/2609.28206)|null|
 |**2026-09-23**|**DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation**|Fuqiang Zhao et.al.|[2609.28131](http://arxiv.org/abs/2609.28131)|null|
 |**2026-09-23**|**Probabilistic and Geometry Aware Neural Surrogate of Scrape Off Layer Plasma Simulations**|Gabriele Gianuzzo et.al.|[2609.28116](http://arxiv.org/abs/2609.28116)|null|
-|**2026-09-23**|**Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching**|Shreya Deshmukh et.al.|[2609.28107](http://arxiv.org/abs/2609.28107)|null|
 |**2026-09-23**|**Improving Ensemble Filters with Flow Matching**|Haoyuan Chen et.al.|[2609.28015](http://arxiv.org/abs/2609.28015)|null|
 |**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Jisong Cai et.al.|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
 |**2026-09-23**|**Active Learning for Low-Altitude Radio Map Construction via Plug-and-Play Flow Matching**|Hao Sun et.al.|[2609.27486](http://arxiv.org/abs/2609.27486)|null|
 |**2026-09-23**|**One-Step Voice Conversion by Learning kNN Transport in WavLM Space**|Anton Selitskiy et.al.|[2609.27230](http://arxiv.org/abs/2609.27230)|null|
+|**2026-09-23**|**Uncertainty-Gated Exploration Noise Suppresses Task Collapse in Online RL Fine-Tuning of a Flow-Matching Vision-Language-Action Policy**|Mehmet Turan Yardımcı et.al.|[2609.28838](http://arxiv.org/abs/2609.28838)|null|
 |**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672](http://arxiv.org/abs/2609.26672)|null|
 |**2026-09-22**|**Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence**|Lai Wei et.al.|[2609.26502](http://arxiv.org/abs/2609.26502)|null|
 |**2026-09-22**|**Gaussian Flow-Matching Schedules: Implications for Sampling and Training**|Arsène Claustre et.al.|[2609.25839](http://arxiv.org/abs/2609.25839)|null|
@@ -2559,5 +2571,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
