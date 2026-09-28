@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
+|**2026-09-25**|**A Flow Matching Framework for Neural Representational Dissimilarity**|Zeyuan Ye et.al.|[2609.31544](http://arxiv.org/abs/2609.31544)|null|
+|**2026-09-25**|**TinyAudio: Compact and Efficient Text-to-Audio Generation for Low-Resource Deployment**|Junxi Liu et.al.|[2609.31525](http://arxiv.org/abs/2609.31525)|null|
+|**2026-09-25**|**ContraFM-S2O: Flow Matching-Based One-step SAR-to-Optical Image Translation Model with Contrastive Learning**|Mingqian Yu et.al.|[2609.31378](http://arxiv.org/abs/2609.31378)|null|
+|**2026-09-25**|**Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling**|Guanlin Li et.al.|[2609.31207](http://arxiv.org/abs/2609.31207)|null|
+|**2026-09-25**|**Parnassus for the CLD Detector: A Generative Machine-Learning Surrogate for Detector Simulation and Reconstruction at the FCC-ee**|Umar Sohail Qureshi et.al.|[2609.30775](http://arxiv.org/abs/2609.30775)|null|
+|**2026-09-25**|**Timo: $\textbf{T}$aming Mult$\textbf{i}$modal Diffusion Transformer for Human $\textbf{Mo}$ tion Generation**|Zhao Wang et.al.|[2609.30761](http://arxiv.org/abs/2609.30761)|null|
 |**2026-09-24**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](http://arxiv.org/abs/2609.28206)|null|
 |**2026-09-24**|**Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching**|Shreya Deshmukh et.al.|[2609.28107](http://arxiv.org/abs/2609.28107)|null|
 |**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](http://arxiv.org/abs/2609.30127)|null|
@@ -2571,5 +2578,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
