@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**DRIFT: Disentangled Responsive-Invariant Flow Transport for Single-Cell Perturbation Prediction**|Mustapha Bounoua et.al.|[2609.35106](http://arxiv.org/abs/2609.35106)|null|
+|**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang et.al.|[2609.35039](http://arxiv.org/abs/2609.35039)|null|
+|**2026-09-28**|**Proxy2World: Learning to Generate Worlds From Lightweight Proxies without Seeing Them**|Hongli Xu et.al.|[2609.35023](http://arxiv.org/abs/2609.35023)|null|
+|**2026-09-28**|**GR-FM: Geometrically Regularized Flow Matching for SDF-Based Medical Image Segmentation**|Yuxin Ai et.al.|[2609.35006](http://arxiv.org/abs/2609.35006)|null|
+|**2026-09-28**|**FILIGREE3D: Scaling Sparse Latent Flow Matching for Ultra-High-Resolution Image-to-3D Generation**|Hongjie Li et.al.|[2609.34900](http://arxiv.org/abs/2609.34900)|null|
+|**2026-09-28**|**Symmetry-Aware Flow Matching for End-to-end Molecular Crystal Generation**|Wendi Cai et.al.|[2609.34690](http://arxiv.org/abs/2609.34690)|null|
+|**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
+|**2026-09-28**|**Probabilistic Geodesic Flow Matching on Location-Scale Families**|Zeyuan Yu et.al.|[2609.34613](http://arxiv.org/abs/2609.34613)|null|
+|**2026-09-28**|**Curvature-Aware Flow Matching for Molecular Structure Generation**|Samir Darouich et.al.|[2609.34592](http://arxiv.org/abs/2609.34592)|null|
+|**2026-09-28**|**KiT: A Foundation Model for Financial Time-Series Forecasting using DiffusionTransformers**|Boyu Zhang et.al.|[2609.34507](http://arxiv.org/abs/2609.34507)|null|
+|**2026-09-28**|**Alignment-Guided Flow Transformer for Efficient Vision-Language-Action Policy Learning**|Shengchao Hu et.al.|[2609.34467](http://arxiv.org/abs/2609.34467)|null|
+|**2026-09-28**|**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**|Isha Pandey Varad Deshpande Abhijat Bharadwaj Ganesh Ramakrishnan et.al.|[2609.34431](http://arxiv.org/abs/2609.34431)|null|
+|**2026-09-28**|**GeoCFM: Positive-Only Conditional Flow Matching for Mineral Occurrence Sampling**|Moshe Eliasof et.al.|[2609.34398](http://arxiv.org/abs/2609.34398)|null|
+|**2026-09-28**|**Immersogeometric fluid-structure interaction modeling of the human mitral valve and transcatheter edge-to-edge repair**|Keon Ho Kim et.al.|[2609.34209](http://arxiv.org/abs/2609.34209)|null|
+|**2026-09-28**|**MotionSpaceFlow: Representation-Aware Flow Matching in Direct Motion Space**|Qing Yu et.al.|[2609.34190](http://arxiv.org/abs/2609.34190)|null|
+|**2026-09-28**|**SPEAR-Gen: Generation-Aware Pre-training for Unified Speech Representations**|Xiaoyu Yang et.al.|[2609.34147](http://arxiv.org/abs/2609.34147)|null|
+|**2026-09-28**|**What Does a Stream Model Buy You in Flow Matching?**|Jian Xu et.al.|[2609.34123](http://arxiv.org/abs/2609.34123)|null|
+|**2026-09-28**|**SNaP: One-Step Posterior Sampling for Noisy Inverse Problems**|Shirin Shoushtari et.al.|[2609.34071](http://arxiv.org/abs/2609.34071)|null|
+|**2026-09-28**|**FLARE: Flow Matching with Local Axis-Angle Representations for Stochastic Micromagnetic Evolution**|Pengyu Li et.al.|[2609.34070](http://arxiv.org/abs/2609.34070)|null|
+|**2026-09-28**|**Quantile Head for Vision-Language-Action Models**|Xuan Wang et.al.|[2609.34061](http://arxiv.org/abs/2609.34061)|null|
 |**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
 |**2026-09-25**|**A Flow Matching Framework for Neural Representational Dissimilarity**|Zeyuan Ye et.al.|[2609.31544](http://arxiv.org/abs/2609.31544)|null|
 |**2026-09-25**|**TinyAudio: Compact and Efficient Text-to-Audio Generation for Low-Resource Deployment**|Junxi Liu et.al.|[2609.31525](http://arxiv.org/abs/2609.31525)|null|
@@ -2578,5 +2598,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
