@@ -34,6 +34,15 @@
 |**2026-09-28**|**SNaP: One-Step Posterior Sampling for Noisy Inverse Problems**|Shirin Shoushtari et.al.|[2609.34071](http://arxiv.org/abs/2609.34071)|null|
 |**2026-09-28**|**FLARE: Flow Matching with Local Axis-Angle Representations for Stochastic Micromagnetic Evolution**|Pengyu Li et.al.|[2609.34070](http://arxiv.org/abs/2609.34070)|null|
 |**2026-09-28**|**Quantile Head for Vision-Language-Action Models**|Xuan Wang et.al.|[2609.34061](http://arxiv.org/abs/2609.34061)|null|
+|**2026-09-28**|**Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective**|Jiawei Hu et.al.|[2609.35710](http://arxiv.org/abs/2609.35710)|null|
+|**2026-09-28**|**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching**|Thanh-Long V. Le et.al.|[2609.35673](http://arxiv.org/abs/2609.35673)|null|
+|**2026-09-28**|**Simplex Diffusion Models**|Justin Deschenaux et.al.|[2609.35553](http://arxiv.org/abs/2609.35553)|null|
+|**2026-09-28**|**Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching**|Chenyu Zhang et.al.|[2609.35469](http://arxiv.org/abs/2609.35469)|null|
+|**2026-09-28**|**Manifold-Stable Flow Matching**|Amirhossein Nazerian et.al.|[2609.35454](http://arxiv.org/abs/2609.35454)|null|
+|**2026-09-28**|**Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies**|Dingsheng Liu et.al.|[2609.35249](http://arxiv.org/abs/2609.35249)|null|
+|**2026-09-28**|**Zero-Shot Reactive Obstacle Avoidance for Generative Robot Policies**|Weihang Guo et.al.|[2609.35231](http://arxiv.org/abs/2609.35231)|null|
+|**2026-09-28**|**ReCAT: Remember, Count, and Time: Structured Recurrent Memory for Robot Manipulation**|Pankhuri Vanjani et.al.|[2609.35200](http://arxiv.org/abs/2609.35200)|null|
+|**2026-09-28**|**G $^3$ -LoRA: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA**|Jia Song et.al.|[2609.35189](http://arxiv.org/abs/2609.35189)|null|
 |**2026-09-25**|**Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators**|Zachary Olkin et.al.|[2609.31577](http://arxiv.org/abs/2609.31577)|null|
 |**2026-09-25**|**A Flow Matching Framework for Neural Representational Dissimilarity**|Zeyuan Ye et.al.|[2609.31544](http://arxiv.org/abs/2609.31544)|null|
 |**2026-09-25**|**TinyAudio: Compact and Efficient Text-to-Audio Generation for Low-Resource Deployment**|Junxi Liu et.al.|[2609.31525](http://arxiv.org/abs/2609.31525)|null|
