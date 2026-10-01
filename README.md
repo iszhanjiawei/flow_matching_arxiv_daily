@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|null|
+|**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zikai Liao et.al.|[2609.40317](http://arxiv.org/abs/2609.40317)|null|
+|**2026-09-30**|**PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors**|Seungeun Rho et.al.|[2609.40165](http://arxiv.org/abs/2609.40165)|null|
+|**2026-09-30**|**Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling**|Xiangyu Zhu et.al.|[2609.40153](http://arxiv.org/abs/2609.40153)|null|
+|**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087](http://arxiv.org/abs/2609.40087)|null|
+|**2026-09-30**|**Fenchel Tilting: Weighted Correction for Efficient Finetuning of Generative Models**|Maksim Bobrin et.al.|[2609.40030](http://arxiv.org/abs/2609.40030)|null|
+|**2026-09-30**|**Multi-Link Safety Filtering for VLA Policies Around Moving Hazards**|Yatharth Agarwal et.al.|[2609.40007](http://arxiv.org/abs/2609.40007)|null|
+|**2026-09-30**|**Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation**|Di Wu et.al.|[2609.39822](http://arxiv.org/abs/2609.39822)|null|
+|**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Yizhao Li et.al.|[2609.39575](http://arxiv.org/abs/2609.39575)|null|
+|**2026-09-30**|**Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts**|Jingbo Wang et.al.|[2609.39526](http://arxiv.org/abs/2609.39526)|null|
+|**2026-09-30**|**Correcting CondOT: Exact Finite-Step Sampling in Gaussian Flow Matching**|Ron Levy et.al.|[2609.39488](http://arxiv.org/abs/2609.39488)|null|
+|**2026-09-30**|**CAST: Causal Advantage-Structured Training with Spatially Grounded Compositional Rewards for Diffusion Models**|Shu Yu et.al.|[2609.39441](http://arxiv.org/abs/2609.39441)|null|
+|**2026-09-30**|**SkillFM: Generating Skills for LLM Agents via Latent Flow Matching**|Zuming Zhang et.al.|[2609.39382](http://arxiv.org/abs/2609.39382)|null|
+|**2026-09-30**|**Wavelet Flow Matching for Time Series**|Lucas Poinsignon et.al.|[2609.39374](http://arxiv.org/abs/2609.39374)|null|
+|**2026-09-30**|**ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving**|Benshan Ma et.al.|[2609.39245](http://arxiv.org/abs/2609.39245)|null|
+|**2026-09-30**|**Occlusion-Aware, Quasi-Static, Stability-Oriented Trajectory Planning on Uneven Terrain**|Amith Manoharan et.al.|[2609.39105](http://arxiv.org/abs/2609.39105)|null|
+|**2026-09-30**|**DiFF: Doppler-informed Flow Matching for Human Motion Flow**|Kai Wang et.al.|[2609.39098](http://arxiv.org/abs/2609.39098)|null|
+|**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](http://arxiv.org/abs/2609.39038)|null|
+|**2026-09-30**|**Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation**|Haoxuan Wang et.al.|[2609.38989](http://arxiv.org/abs/2609.38989)|null|
+|**2026-09-30**|**Flow Matching under Noisy Latent Structure: Beyond Exact Low-Dimensional Support**|Lifeng Hao et.al.|[2609.38918](http://arxiv.org/abs/2609.38918)|null|
 |**2026-09-28**|**DRIFT: Disentangled Responsive-Invariant Flow Transport for Single-Cell Perturbation Prediction**|Mustapha Bounoua et.al.|[2609.35106](http://arxiv.org/abs/2609.35106)|null|
 |**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang et.al.|[2609.35039](http://arxiv.org/abs/2609.35039)|null|
 |**2026-09-28**|**Proxy2World: Learning to Generate Worlds From Lightweight Proxies without Seeing Them**|Hongli Xu et.al.|[2609.35023](http://arxiv.org/abs/2609.35023)|null|
