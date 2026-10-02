@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
+|**2026-10-01**|**Relative Transitions, Not Absolute Destinations: A Transfer-and-Ground Framework for Target-Trajectory-Free Human Mobility Generation**|Yidi Wang et.al.|[2610.02033](http://arxiv.org/abs/2610.02033)|null|
+|**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Dalle Vedove et.al.|[2610.01910](http://arxiv.org/abs/2610.01910)|null|
+|**2026-10-01**|**Unsupervised Domain Adaptation for Enhanced Radiometer Image Precipitation Estimation using Conditional Flow Matching**|Victor Enescu et.al.|[2610.01890](http://arxiv.org/abs/2610.01890)|null|
+|**2026-10-01**|**World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories**|Jiahui Lei et.al.|[2610.01742](http://arxiv.org/abs/2610.01742)|null|
+|**2026-10-01**|**Learning a Resolution-Consistent Jacobian Field for Bio-Inspired Rigid-Soft Finger**|Tianyou Liang et.al.|[2610.01668](http://arxiv.org/abs/2610.01668)|null|
+|**2026-10-01**|**pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows**|Tong Chen et.al.|[2610.01663](http://arxiv.org/abs/2610.01663)|null|
+|**2026-10-01**|**Zero Flux: Flow-Based Comparison of High-Dimensional Discrete Distributions**|Leyang Wang et.al.|[2610.01472](http://arxiv.org/abs/2610.01472)|null|
+|**2026-10-01**|**Smoother Flow Matching via Contrastive Trajectory Repulsion**|Ziqi Jiang et.al.|[2610.01408](http://arxiv.org/abs/2610.01408)|null|
+|**2026-10-01**|**ProtoFlow: Prototype-Guided Flow Matching for Multivariate Time Series Forecasting**|Shibo Feng et.al.|[2610.01320](http://arxiv.org/abs/2610.01320)|null|
+|**2026-10-01**|**EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations**|Qiuliang Liu et.al.|[2610.01315](http://arxiv.org/abs/2610.01315)|null|
+|**2026-10-01**|**FedCFM: Federated Continual Domain Generalization for Fake Speech Detection via Conditional Flow Matching**|Yingjian Yu et.al.|[2610.01242](http://arxiv.org/abs/2610.01242)|null|
+|**2026-10-01**|**Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization**|Zhen Zhou et.al.|[2610.01233](http://arxiv.org/abs/2610.01233)|null|
+|**2026-10-01**|**Counterfactual Generation via Flow Matching: Coupling-Sensitive End-to-End Rates**|Yunrui Guan et.al.|[2610.01193](http://arxiv.org/abs/2610.01193)|null|
+|**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
+|**2026-10-01**|**NarrativeFlow: Flow-Based Vision-Language-Action Model Using Robot Velocity Fields**|Shota Kobayashi et.al.|[2610.00981](http://arxiv.org/abs/2610.00981)|null|
+|**2026-10-01**|**Variational Streaming Flow: Probabilistic Forecasting in Physical Time**|Hans Hao-Hsun Hsu et.al.|[2610.00976](http://arxiv.org/abs/2610.00976)|null|
+|**2026-10-01**|**Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models**|Jiawei Fan et.al.|[2610.00864](http://arxiv.org/abs/2610.00864)|null|
 |**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|null|
 |**2026-09-30**|**GLARE: Generating Listening Heads with Appropriate Reactions**|Zikai Liao et.al.|[2609.40317](http://arxiv.org/abs/2609.40317)|null|
 |**2026-09-30**|**PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors**|Seungeun Rho et.al.|[2609.40165](http://arxiv.org/abs/2609.40165)|null|
@@ -34,6 +52,8 @@
 |**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](http://arxiv.org/abs/2609.39038)|null|
 |**2026-09-30**|**Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation**|Haoxuan Wang et.al.|[2609.38989](http://arxiv.org/abs/2609.38989)|null|
 |**2026-09-30**|**Flow Matching under Noisy Latent Structure: Beyond Exact Low-Dimensional Support**|Lifeng Hao et.al.|[2609.38918](http://arxiv.org/abs/2609.38918)|null|
+|**2026-09-30**|**VTV-FM: Flow Matching through Variational Terminal-Velocity Closure**|Haoyang Jiang et.al.|[2610.00785](http://arxiv.org/abs/2610.00785)|null|
+|**2026-09-30**|**Articulatory Source-Filter TTS: Physically Grounded Control through Vocal Tract Kinematics**|Jesuraj Bandekar et.al.|[2610.00735](http://arxiv.org/abs/2610.00735)|null|
 |**2026-09-28**|**DRIFT: Disentangled Responsive-Invariant Flow Transport for Single-Cell Perturbation Prediction**|Mustapha Bounoua et.al.|[2609.35106](http://arxiv.org/abs/2609.35106)|null|
 |**2026-09-28**|**Do Not Cut When Uncertain: Rejectable and Calibrated Decision Heads for VLA Policies in Robotic Harvesting**|Heng Zhang et.al.|[2609.35039](http://arxiv.org/abs/2609.35039)|null|
 |**2026-09-28**|**Proxy2World: Learning to Generate Worlds From Lightweight Proxies without Seeing Them**|Hongli Xu et.al.|[2609.35023](http://arxiv.org/abs/2609.35023)|null|
@@ -2627,5 +2647,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
