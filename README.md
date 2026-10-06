@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Yassine Ouali et.al.|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
+|**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Baiqin Wang et.al.|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
+|**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
+|**2026-10-05**|**Conditional Flow Matching for Single-Neuron Electrophysiology: Capturing Multimodal Responses Across Stimuli**|Cameron Schofield et.al.|[2610.06520](http://arxiv.org/abs/2610.06520)|null|
+|**2026-10-05**|**Latent Flow Matching for Molecular Graph Generation**|Mathis Goupillon et.al.|[2610.06468](http://arxiv.org/abs/2610.06468)|null|
+|**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](http://arxiv.org/abs/2610.06349)|null|
+|**2026-10-05**|**OCL-PDE: A Generative Framework for PDE Inverse Problems with Observation-Complementary Latents**|Ding Yang et.al.|[2610.06259](http://arxiv.org/abs/2610.06259)|null|
+|**2026-10-05**|**Adaptive Mean Flow for Responsive Closed-Loop Robot Control**|Aksel Vaaler et.al.|[2610.06089](http://arxiv.org/abs/2610.06089)|null|
+|**2026-10-05**|**MercerFlow: Flow Matching in a Kernel-Induced Latent Space for Probabilistic Forecasting**|Ilya Kuleshov et.al.|[2610.06039](http://arxiv.org/abs/2610.06039)|null|
+|**2026-10-05**|**EpicWorldModel: Exploration-driven Planning with Latent World Models**|Bowen Feng et.al.|[2610.05996](http://arxiv.org/abs/2610.05996)|null|
+|**2026-10-05**|**Beyond Transport Cost: Routing Differences between Flow Matching and Optimal Transport**|Eungyeol Han et.al.|[2610.05921](http://arxiv.org/abs/2610.05921)|null|
+|**2026-10-05**|**Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation**|Wonsuhk Jung et.al.|[2610.05765](http://arxiv.org/abs/2610.05765)|null|
+|**2026-10-05**|**From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model**|Vicente Balmaseda et.al.|[2610.05711](http://arxiv.org/abs/2610.05711)|null|
+|**2026-10-05**|**Benchmarking Generative Trajectory Models for Active-Inference Control**|Yulin Li et.al.|[2610.05692](http://arxiv.org/abs/2610.05692)|null|
+|**2026-10-04**|**LiFT: Loop Flow Transformers**|Mohammad Mahdi Derakhshani et.al.|[2610.05538](http://arxiv.org/abs/2610.05538)|null|
+|**2026-10-04**|**Universality and Convergence of Generative Flows**|Leo Brunswic et.al.|[2610.05490](http://arxiv.org/abs/2610.05490)|null|
+|**2026-10-04**|**FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning**|R. Khorrambakht et.al.|[2610.05483](http://arxiv.org/abs/2610.05483)|null|
+|**2026-10-04**|**Efficient Graph Generation via Direct Prediction and Flow Matching**|Susie Lu et.al.|[2610.05397](http://arxiv.org/abs/2610.05397)|null|
+|**2026-10-04**|**Learning Conditional Source Distribution via Flow Reversal for Temporal Flow Matching**|Kuan-Hsun Tu et.al.|[2610.05349](http://arxiv.org/abs/2610.05349)|null|
+|**2026-10-04**|**Trinity: One Differentiable Physics for Training, Refining and Scoring Generative Floorplanners**|Shih-Ying Yeh et.al.|[2610.04957](http://arxiv.org/abs/2610.04957)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**Relative Transitions, Not Absolute Destinations: A Transfer-and-Ground Framework for Target-Trajectory-Free Human Mobility Generation**|Yidi Wang et.al.|[2610.02033](http://arxiv.org/abs/2610.02033)|null|
 |**2026-10-01**|**Robot Learning on Discrete Surfaces: Theory and Applications**|Matteo Dalle Vedove et.al.|[2610.01910](http://arxiv.org/abs/2610.01910)|null|
