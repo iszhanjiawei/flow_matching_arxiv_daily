@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
+|**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
+|**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
+|**2026-10-06**|**Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling**|Mathias Ollu et.al.|[2610.08738](http://arxiv.org/abs/2610.08738)|null|
+|**2026-10-06**|**Co-Evolving Paths and Flows via Path-Flow Alignment**|Zeyu Michael Li et.al.|[2610.08717](http://arxiv.org/abs/2610.08717)|null|
+|**2026-10-06**|**FlowCF: Sparse Counterfactual Explanations for Mixed-Type Tabular Data using Flow Matching**|Emmanouil Panagiotou et.al.|[2610.08537](http://arxiv.org/abs/2610.08537)|null|
+|**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Onur Selim Kilic et.al.|[2610.08510](http://arxiv.org/abs/2610.08510)|null|
+|**2026-10-06**|**Sensor Geometry as a Flow-Matching Prior for Multi-Channel Brain Signals**|Jaedong Hwang et.al.|[2610.08355](http://arxiv.org/abs/2610.08355)|null|
+|**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiang Shi et.al.|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
+|**2026-10-06**|**Compact Robot Policies Need Fine-Grained Visual Representations**|Nanhe Chen et.al.|[2610.08183](http://arxiv.org/abs/2610.08183)|null|
+|**2026-10-06**|**DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given**|Minhyeok Lee et.al.|[2610.07958](http://arxiv.org/abs/2610.07958)|null|
+|**2026-10-06**|**Variance-Averse $n$ -Step Offline Reinforcement Learning for Sparse Long-Horizon Environments**|Guhyeon Kang et.al.|[2610.07899](http://arxiv.org/abs/2610.07899)|null|
+|**2026-10-06**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756](http://arxiv.org/abs/2610.07756)|null|
+|**2026-10-06**|**ESP: Energy-Score Policy for One-Step Multimodal Action Generation**|Lilika Makabe et.al.|[2610.07696](http://arxiv.org/abs/2610.07696)|null|
+|**2026-10-06**|**Navigating Route Latent Space for Synthesizable Molecular Design**|Tao Li et.al.|[2610.07560](http://arxiv.org/abs/2610.07560)|null|
 |**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Yassine Ouali et.al.|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
 |**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Baiqin Wang et.al.|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
 |**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
@@ -28,6 +43,8 @@
 |**2026-10-05**|**Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation**|Wonsuhk Jung et.al.|[2610.05765](http://arxiv.org/abs/2610.05765)|null|
 |**2026-10-05**|**From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model**|Vicente Balmaseda et.al.|[2610.05711](http://arxiv.org/abs/2610.05711)|null|
 |**2026-10-05**|**Benchmarking Generative Trajectory Models for Active-Inference Control**|Yulin Li et.al.|[2610.05692](http://arxiv.org/abs/2610.05692)|null|
+|**2026-10-05**|**GeoWM: Efficient Direct World Modeling in Explicit Geometry**|Mehrdad Noori et.al.|[2610.07381](http://arxiv.org/abs/2610.07381)|null|
+|**2026-10-05**|**Conditional Flow Matching for Transport Between Markov Processes**|Syamantak Kumar et.al.|[2610.07229](http://arxiv.org/abs/2610.07229)|null|
 |**2026-10-04**|**LiFT: Loop Flow Transformers**|Mohammad Mahdi Derakhshani et.al.|[2610.05538](http://arxiv.org/abs/2610.05538)|null|
 |**2026-10-04**|**Universality and Convergence of Generative Flows**|Leo Brunswic et.al.|[2610.05490](http://arxiv.org/abs/2610.05490)|null|
 |**2026-10-04**|**FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning**|R. Khorrambakht et.al.|[2610.05483](http://arxiv.org/abs/2610.05483)|null|
