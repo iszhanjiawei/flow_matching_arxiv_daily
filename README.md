@@ -14,6 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
+|**2026-10-07**|**Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields**|Peng Liu et.al.|[2610.10430](http://arxiv.org/abs/2610.10430)|null|
+|**2026-10-07**|**HuLiGen: Human LiDAR Generation from Parametric Body Models**|Salma Galaaoui et.al.|[2610.10196](http://arxiv.org/abs/2610.10196)|null|
+|**2026-10-07**|**LIFT-SE: Linguistic Inference Followed by Flow Transformation for Generative Speech Enhancement**|Haoyin Yan et.al.|[2610.09963](http://arxiv.org/abs/2610.09963)|null|
+|**2026-10-07**|**MUNITE: Unified Multimodal Latent Inference for Any-to-Any Multimodal Generation**|Kyeongmin Yeo et.al.|[2610.09866](http://arxiv.org/abs/2610.09866)|null|
+|**2026-10-07**|**Unrolled Flow Models for Reasoning**|Faissal Izermine et.al.|[2610.09759](http://arxiv.org/abs/2610.09759)|null|
+|**2026-10-07**|**MeshCarve: Artisan Mesh Generation with Flow Matching in Compact Latent Spaces**|Xiyu Wang et.al.|[2610.09723](http://arxiv.org/abs/2610.09723)|null|
+|**2026-10-07**|**EC-EarthFlow: Probabilistic emulation of daily transient global climate model simulations with flow matching**|Kirien Whan et.al.|[2610.09715](http://arxiv.org/abs/2610.09715)|null|
+|**2026-10-07**|**Point It, Strike It: Direction-Conditioned Dynamic Manipulation of Deformable Linear Objects**|Yi Yang et.al.|[2610.09573](http://arxiv.org/abs/2610.09573)|null|
+|**2026-10-07**|**RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation**|Kerui Li et.al.|[2610.09454](http://arxiv.org/abs/2610.09454)|null|
+|**2026-10-07**|**One Frame, Full Heartbeat: ECG-Free Cardiac Cine MRI Synthesis via Phase-Conditioned Flow Matching**|Shiyi Wang et.al.|[2610.09397](http://arxiv.org/abs/2610.09397)|null|
+|**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|null|
+|**2026-10-07**|**Self-attention summary networks for subsurface velocity-model building from common-image gathers**|Shiqin Zeng et.al.|[2610.09282](http://arxiv.org/abs/2610.09282)|null|
+|**2026-10-07**|**Twist Flow for Inverse Problems**|Shiqin Zeng et.al.|[2610.09281](http://arxiv.org/abs/2610.09281)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
 |**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
@@ -29,6 +43,10 @@
 |**2026-10-06**|**StairVLA: Stage-Aware Hierarchical Action Generation for Vision-Language-Action Models**|Shangyuan Yuan et.al.|[2610.07756](http://arxiv.org/abs/2610.07756)|null|
 |**2026-10-06**|**ESP: Energy-Score Policy for One-Step Multimodal Action Generation**|Lilika Makabe et.al.|[2610.07696](http://arxiv.org/abs/2610.07696)|null|
 |**2026-10-06**|**Navigating Route Latent Space for Synthesizable Molecular Design**|Tao Li et.al.|[2610.07560](http://arxiv.org/abs/2610.07560)|null|
+|**2026-10-06**|**One Frame, Full Heartbeat: ECG-Free 4D Cardiac Cine MRI Synthesis via Radial-Decomposed Flow Matching**|Shiyi Wang et.al.|[2610.09185](http://arxiv.org/abs/2610.09185)|null|
+|**2026-10-06**|**Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching**|Hyeonsu Lee et.al.|[2610.09126](http://arxiv.org/abs/2610.09126)|null|
+|**2026-10-06**|**LASER: Latent Space Adjoint Matching for Support-Constrained Entropy-Regularized Offline RL**|Songyuan Zhang et.al.|[2610.08989](http://arxiv.org/abs/2610.08989)|null|
+|**2026-10-06**|**Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors**|Arnela Hadzic et.al.|[2610.08983](http://arxiv.org/abs/2610.08983)|null|
 |**2026-10-05**|**What Matters for Latent Reasoning with Flow Matching**|Yassine Ouali et.al.|[2610.06666](http://arxiv.org/abs/2610.06666)|null|
 |**2026-10-05**|**Talk Like You: Imitating How You Speak in Real-Time Talking Head Generation**|Baiqin Wang et.al.|[2610.06658](http://arxiv.org/abs/2610.06658)|null|
 |**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
