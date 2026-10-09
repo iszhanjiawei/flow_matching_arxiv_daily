@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
+|**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
+|**2026-10-08**|**LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC**|Shashank Hegde et.al.|[2610.12407](http://arxiv.org/abs/2610.12407)|null|
+|**2026-10-08**|**Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance**|Amirhossein Zamani et.al.|[2610.12316](http://arxiv.org/abs/2610.12316)|null|
+|**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](http://arxiv.org/abs/2610.12236)|null|
+|**2026-10-08**|**Residual Modeling Closes the Regression and Generative Policy Gap in Robot Learning**|Yuchen Zhou et.al.|[2610.12231](http://arxiv.org/abs/2610.12231)|null|
+|**2026-10-08**|**Few-Step Generation via Data-Space Iteration**|Shanchuan Lin et.al.|[2610.12102](http://arxiv.org/abs/2610.12102)|null|
+|**2026-10-08**|**Dino Forcing Flow Models: Do not denoise what you can predict**|Arijit Ghosh et.al.|[2610.11751](http://arxiv.org/abs/2610.11751)|null|
+|**2026-10-08**|**Learning Language-Conditioned Traversability Representations for Adaptive Visual Navigation**|Senda Chen et.al.|[2610.11622](http://arxiv.org/abs/2610.11622)|null|
+|**2026-10-08**|**$C_4$ -Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation**|Dawid Lipinski et.al.|[2610.11549](http://arxiv.org/abs/2610.11549)|null|
+|**2026-10-08**|**An Efficient Quantum Circuit for Flow Model Execution Using Quantum Neural Networks**|Rui Che et.al.|[2610.11537](http://arxiv.org/abs/2610.11537)|null|
+|**2026-10-08**|**Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains**|Miruna Cretu et.al.|[2610.11454](http://arxiv.org/abs/2610.11454)|null|
+|**2026-10-08**|**Finsler Flow Matching: Dynamics-Aware Geodesic Interpolation for Single-Snapshot Trajectory Inference**|Niklas Canova et.al.|[2610.11318](http://arxiv.org/abs/2610.11318)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields**|Peng Liu et.al.|[2610.10430](http://arxiv.org/abs/2610.10430)|null|
 |**2026-10-07**|**HuLiGen: Human LiDAR Generation from Parametric Body Models**|Salma Galaaoui et.al.|[2610.10196](http://arxiv.org/abs/2610.10196)|null|
@@ -28,6 +41,8 @@
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|null|
 |**2026-10-07**|**Self-attention summary networks for subsurface velocity-model building from common-image gathers**|Shiqin Zeng et.al.|[2610.09282](http://arxiv.org/abs/2610.09282)|null|
 |**2026-10-07**|**Twist Flow for Inverse Problems**|Shiqin Zeng et.al.|[2610.09281](http://arxiv.org/abs/2610.09281)|null|
+|**2026-10-07**|**Velocity Scaling in Flow Matching**|Youssef Saied et.al.|[2610.10823](http://arxiv.org/abs/2610.10823)|null|
+|**2026-10-07**|**Feedback-Conditional 3D Reconstruction of Cosmic Baryons with Flow Matching**|Maryam Hussaini et.al.|[2610.10741](http://arxiv.org/abs/2610.10741)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789](http://arxiv.org/abs/2610.08789)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song et.al.|[2610.08784](http://arxiv.org/abs/2610.08784)|null|
 |**2026-10-06**|**4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**|Shiqi Li et.al.|[2610.08782](http://arxiv.org/abs/2610.08782)|null|
