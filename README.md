@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
+|**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Teo Deveney et.al.|[2610.13812](http://arxiv.org/abs/2610.13812)|null|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
+|**2026-10-09**|**Towards Understanding the Training of GFlowNets: A Theoretical Perspective**|Rui Hu et.al.|[2610.13711](http://arxiv.org/abs/2610.13711)|null|
+|**2026-10-09**|**Some remarks on the connection between generative diffusion and optimal transport**|Giulio Biroli et.al.|[2610.13614](http://arxiv.org/abs/2610.13614)|null|
+|**2026-10-09**|**CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope**|Gautier Marti et.al.|[2610.13606](http://arxiv.org/abs/2610.13606)|null|
+|**2026-10-09**|**CoVA: Composing VAE Representations for Generative Learning**|Zhaowei Chen et.al.|[2610.13322](http://arxiv.org/abs/2610.13322)|null|
+|**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Min Lin et.al.|[2610.13212](http://arxiv.org/abs/2610.13212)|null|
+|**2026-10-09**|**Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening**|Zhiyu Xu et.al.|[2610.13187](http://arxiv.org/abs/2610.13187)|null|
+|**2026-10-09**|**Learning Representations to Guide Pixel Diffusion Transformers**|Zihao Pan et.al.|[2610.12978](http://arxiv.org/abs/2610.12978)|null|
+|**2026-10-09**|**Reinforcement Learning via Fixed-point Flow Matching**|Denis Blessing et.al.|[2610.12848](http://arxiv.org/abs/2610.12848)|null|
 |**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
 |**2026-10-08**|**Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation**|Dechen Gao et.al.|[2610.12440](http://arxiv.org/abs/2610.12440)|null|
 |**2026-10-08**|**LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC**|Shashank Hegde et.al.|[2610.12407](http://arxiv.org/abs/2610.12407)|null|
@@ -27,6 +38,9 @@
 |**2026-10-08**|**An Efficient Quantum Circuit for Flow Model Execution Using Quantum Neural Networks**|Rui Che et.al.|[2610.11537](http://arxiv.org/abs/2610.11537)|null|
 |**2026-10-08**|**Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains**|Miruna Cretu et.al.|[2610.11454](http://arxiv.org/abs/2610.11454)|null|
 |**2026-10-08**|**Finsler Flow Matching: Dynamics-Aware Geodesic Interpolation for Single-Snapshot Trajectory Inference**|Niklas Canova et.al.|[2610.11318](http://arxiv.org/abs/2610.11318)|null|
+|**2026-10-08**|**LeWAM: End-to-End World and Action Modeling with JEPAs**|Minghao Fu et.al.|[2610.12818](http://arxiv.org/abs/2610.12818)|null|
+|**2026-10-08**|**Generative Control of Time-Modulated Intelligent Reflecting Surfaces for Scalable Directional Modulation**|Kailong Wang et.al.|[2610.12773](http://arxiv.org/abs/2610.12773)|null|
+|**2026-10-08**|**Primal-Dual Flow Matching for Sample-Wise Constrained Generation**|Zhengyan Huan et.al.|[2610.12699](http://arxiv.org/abs/2610.12699)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534](http://arxiv.org/abs/2610.10534)|null|
 |**2026-10-07**|**Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields**|Peng Liu et.al.|[2610.10430](http://arxiv.org/abs/2610.10430)|null|
 |**2026-10-07**|**HuLiGen: Human LiDAR Generation from Parametric Body Models**|Salma Galaaoui et.al.|[2610.10196](http://arxiv.org/abs/2610.10196)|null|
