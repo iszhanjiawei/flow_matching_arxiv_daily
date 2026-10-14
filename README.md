@@ -14,8 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Reyhaneh Esmailizadeh et.al.|[2610.18870](http://arxiv.org/abs/2610.18870)|null|
+|**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Ruixiao Dong et.al.|[2610.18857](http://arxiv.org/abs/2610.18857)|null|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
+|**2026-10-13**|**Scaling Online Optimal Transport Minibatches for Flow Matching**|Peter Chen et.al.|[2610.18838](http://arxiv.org/abs/2610.18838)|null|
+|**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Haodong Yang et.al.|[2610.18790](http://arxiv.org/abs/2610.18790)|null|
+|**2026-10-13**|**Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast**|Jiajing Hu et.al.|[2610.18621](http://arxiv.org/abs/2610.18621)|null|
+|**2026-10-13**|**Euclidean Distance-Based Flow Matching**|Paul-Henrik Heilmann et.al.|[2610.18534](http://arxiv.org/abs/2610.18534)|null|
+|**2026-10-13**|**DR-VLA: Learning Human-Like Quadruped Navigation from Egocentric Web Videos via Domain-Invariant Scene Representations**|Jun Tian et.al.|[2610.18373](http://arxiv.org/abs/2610.18373)|null|
+|**2026-10-13**|**ForeTac: Predictive Contact Guidance for Generative Robot Policies**|Zhiyuan Chen et.al.|[2610.18118](http://arxiv.org/abs/2610.18118)|null|
+|**2026-10-13**|**Content-Edited Layout Generation for Graphic Design**|Shirong Yang et.al.|[2610.17905](http://arxiv.org/abs/2610.17905)|null|
+|**2026-10-13**|**FLOMSS: Generative Source Separation by Flow Matching**|Shuyang Cui et.al.|[2610.17821](http://arxiv.org/abs/2610.17821)|null|
+|**2026-10-13**|**Posterior-Averaged Bellman Flow Matching for Distributional Critics**|Zeqiao Li et.al.|[2610.17788](http://arxiv.org/abs/2610.17788)|null|
+|**2026-10-13**|**MissPath-FM: Flow Matching with Structured Priors for Partially Observed Time Series**|Genpei Zhang et.al.|[2610.17715](http://arxiv.org/abs/2610.17715)|null|
+|**2026-10-13**|**OccWAM: Occupancy World-Action Models with Joint Scene-to-Ego Flow Matching**|Qihang Huang et.al.|[2610.17688](http://arxiv.org/abs/2610.17688)|null|
+|**2026-10-13**|**PrT-Flow: Probability-Tractable Flow Matching for Reinforcement Learning**|Congzhong Sun et.al.|[2610.17667](http://arxiv.org/abs/2610.17667)|null|
+|**2026-10-13**|**Acting Through Registers**|Yiwei Zhang et.al.|[2610.17638](http://arxiv.org/abs/2610.17638)|null|
 |**2026-10-12**|**OT-FlowRec: Optimal Transport-Guided Multi-Bridge Flow for Multimodal Sequential Recommendation**|Miao Sun et.al.|[2610.16038](http://arxiv.org/abs/2610.16038)|null|
 |**2026-10-12**|**Prime-EVC: One-Step Expressive Emotional Voice Conversion via Emotion-Primed Flow Matching**|Yu Pan et.al.|[2610.16036](http://arxiv.org/abs/2610.16036)|null|
+|**2026-10-12**|**Generalizable field of view extension for diffusion MRI via conditional flow matching**|Gaurav Rudravaram et.al.|[2610.17401](http://arxiv.org/abs/2610.17401)|null|
+|**2026-10-12**|**MIRRA: Fast, High-Fidelity Molecular Generation with Chemistry-Informed Discrete Flow Matching**|Ge Sun et.al.|[2610.17244](http://arxiv.org/abs/2610.17244)|null|
+|**2026-10-12**|**From Suboptimal to Optimal: One-Step Latent Flow Policies for Offline Reinforcement Learning**|Shenghua Lu et.al.|[2610.16984](http://arxiv.org/abs/2610.16984)|null|
+|**2026-10-12**|**UniLAP: A Unified Latent Action Policy for Cross-Embodiment Manipulation**|Lei Yao et.al.|[2610.16969](http://arxiv.org/abs/2610.16969)|null|
 |**2026-10-11**|**Probabilistic Forecasting of Wildfire Size Using Conditional Flow Matching**|Isaac Lee et.al.|[2610.15983](http://arxiv.org/abs/2610.15983)|null|
 |**2026-10-11**|**GuidanceNFT: NFT-Based Reward Fine-Tuning of Guided Diffusion Models**|Jiayin Liu et.al.|[2610.15856](http://arxiv.org/abs/2610.15856)|null|
 |**2026-10-11**|**High-Fidelity Song Generation with Joint Discrete and Continuous Modeling**|Zheqi Dai et.al.|[2610.15802](http://arxiv.org/abs/2610.15802)|null|
