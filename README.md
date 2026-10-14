@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**OT-FlowRec: Optimal Transport-Guided Multi-Bridge Flow for Multimodal Sequential Recommendation**|Miao Sun et.al.|[2610.16038](http://arxiv.org/abs/2610.16038)|null|
+|**2026-10-12**|**Prime-EVC: One-Step Expressive Emotional Voice Conversion via Emotion-Primed Flow Matching**|Yu Pan et.al.|[2610.16036](http://arxiv.org/abs/2610.16036)|null|
+|**2026-10-11**|**Probabilistic Forecasting of Wildfire Size Using Conditional Flow Matching**|Isaac Lee et.al.|[2610.15983](http://arxiv.org/abs/2610.15983)|null|
+|**2026-10-11**|**GuidanceNFT: NFT-Based Reward Fine-Tuning of Guided Diffusion Models**|Jiayin Liu et.al.|[2610.15856](http://arxiv.org/abs/2610.15856)|null|
+|**2026-10-11**|**High-Fidelity Song Generation with Joint Discrete and Continuous Modeling**|Zheqi Dai et.al.|[2610.15802](http://arxiv.org/abs/2610.15802)|null|
+|**2026-10-11**|**$Δ$ Flow Matching for Robot Foundation Models**|Kuangji Zuo et.al.|[2610.15794](http://arxiv.org/abs/2610.15794)|null|
+|**2026-10-11**|**FlowGRPO for Vocal Separation: From Reward Analysis to Reward Design**|Lishi Zuo et.al.|[2610.15780](http://arxiv.org/abs/2610.15780)|null|
+|**2026-10-11**|**When do explicit penalties improve flow matching?**|Lea Kunkel et.al.|[2610.15689](http://arxiv.org/abs/2610.15689)|null|
+|**2026-10-11**|**AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency**|Yunjia Zhang et.al.|[2610.15665](http://arxiv.org/abs/2610.15665)|null|
+|**2026-10-11**|**StreamingWAM: Streaming World Action Modeling via Chunk-Wise Staircase Flow Matching**|Shaojie Ren et.al.|[2610.15585](http://arxiv.org/abs/2610.15585)|null|
+|**2026-10-11**|**Vision-Predictor-Action: Towards Efficient Embodied AI via Neuro-Symbolic JEPA Predictors**|Yeonseok Lee et.al.|[2610.15556](http://arxiv.org/abs/2610.15556)|null|
+|**2026-10-11**|**OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling**|Yuan Gao et.al.|[2610.15518](http://arxiv.org/abs/2610.15518)|null|
+|**2026-10-11**|**Pathwise Alignment for Collaborative Filtering: Bilateral Conditional Flow Regularization**|Zhiwei Li et.al.|[2610.15506](http://arxiv.org/abs/2610.15506)|null|
+|**2026-10-11**|**Stateless Stochastic Computing for Generative AI on Superconducting Logic: A Model-Hardware Co-Design**|Mehdi Kamal et.al.|[2610.15392](http://arxiv.org/abs/2610.15392)|null|
+|**2026-10-11**|**DC-Flow: Target-Conditioned Cyclic Peptide Design via Delayed-Coupling Flow Matching**|Yitian Wang et.al.|[2610.15391](http://arxiv.org/abs/2610.15391)|null|
+|**2026-10-11**|**StimFlow: Synthesizing Brain Activity from Images via Stimulus-conditioned Flow Matching**|Bui Van Hung et.al.|[2610.15341](http://arxiv.org/abs/2610.15341)|null|
+|**2026-10-11**|**MultiFlow: Vision-Driven Multimodal fMRI Encoding via Stimulus-Informed Source Flow Matching**|Bui Van Hung et.al.|[2610.15339](http://arxiv.org/abs/2610.15339)|null|
+|**2026-10-10**|**Anchors Enhance Controllability and Reasoning of Diffusion Language Models**|Feiyu Qu et.al.|[2610.15097](http://arxiv.org/abs/2610.15097)|null|
+|**2026-10-10**|**Compositional Average Velocity Modeling for Efficient Diffusion Offline Reinforcement Learning**|Thanh Nguyen et.al.|[2610.14941](http://arxiv.org/abs/2610.14941)|null|
+|**2026-10-10**|**Verify, Act, Distill: Turning Test-Time Compute into Test-Time Adaptation for Vision-Language-Action Models**|Kaneyoshi Hiratsuka et.al.|[2610.14885](http://arxiv.org/abs/2610.14885)|null|
 |**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
 |**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Teo Deveney et.al.|[2610.13812](http://arxiv.org/abs/2610.13812)|null|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
@@ -2731,5 +2751,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
