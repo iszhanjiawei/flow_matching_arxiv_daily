@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Jiachen Yao et.al.|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
+|**2026-10-15**|**MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies**|Zirun Ma et.al.|[2610.22193](http://arxiv.org/abs/2610.22193)|null|
+|**2026-10-15**|**REKI: Registering Knowledge in VLAs**|Juliette Marrie et.al.|[2610.22178](http://arxiv.org/abs/2610.22178)|null|
+|**2026-10-15**|**Conditional Mean Flows: Few-Step Densities for Simulation-Based Inference**|Jonas Arruda et.al.|[2610.21657](http://arxiv.org/abs/2610.21657)|null|
+|**2026-10-15**|**Rethinking Classifier-Free Guidance for TI2I Flow Matching**|Andreas Floros et.al.|[2610.21550](http://arxiv.org/abs/2610.21550)|null|
+|**2026-10-15**|**Semantic Latent Alignment for Flow Matching with Invertible Bi-Lipschitz Adapters**|Felix Nützel et.al.|[2610.21332](http://arxiv.org/abs/2610.21332)|null|
+|**2026-10-15**|**ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**|Yuang Liu et.al.|[2610.21190](http://arxiv.org/abs/2610.21190)|null|
+|**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086](http://arxiv.org/abs/2610.21086)|null|
+|**2026-10-15**|**In-Context Batch Black-box Optimization via Flow Matching**|Quoc-Anh Hoang Nguyen et.al.|[2610.20138](http://arxiv.org/abs/2610.20138)|null|
+|**2026-10-14**|**MIDI-REPA: Improving Text-to-Music Generation with Symbolic Representation Alignment**|Song-Ze Yu et.al.|[2610.20967](http://arxiv.org/abs/2610.20967)|null|
+|**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Ao Liang et.al.|[2610.20604](http://arxiv.org/abs/2610.20604)|null|
+|**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Yushen Liang et.al.|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
+|**2026-10-14**|**When Do Discrete Actions Make Good Continuous Controllers?**|Zeji Yi et.al.|[2610.20429](http://arxiv.org/abs/2610.20429)|null|
+|**2026-10-14**|**ReAl: Refine neural operators via aligning dynamical flow**|Jing Xu et.al.|[2610.20369](http://arxiv.org/abs/2610.20369)|null|
+|**2026-10-14**|**Are We Overthinking One-Step Generation?**|Woobin Park et.al.|[2610.20331](http://arxiv.org/abs/2610.20331)|null|
+|**2026-10-14**|**Predicting Unseen Scientific Interactions: Conditional Flow Models Hallucinate Non-Additive Effects**|Sam Gijsen et.al.|[2610.20288](http://arxiv.org/abs/2610.20288)|null|
+|**2026-10-14**|**FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation**|Mohamed Kamel et.al.|[2610.20269](http://arxiv.org/abs/2610.20269)|null|
+|**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
+|**2026-10-14**|**Weighted Adjoint Matching: Finetuning Flow Matching Models with Time-Dependent Control Cost**|Eliot Beyler et.al.|[2610.20035](http://arxiv.org/abs/2610.20035)|null|
+|**2026-10-14**|**Rationale Distribution Distillation via Flow Matching for Distributional Continuous Latent Reasoning**|Mingyeong Kim et.al.|[2610.19871](http://arxiv.org/abs/2610.19871)|null|
 |**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Reyhaneh Esmailizadeh et.al.|[2610.18870](http://arxiv.org/abs/2610.18870)|null|
 |**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Ruixiao Dong et.al.|[2610.18857](http://arxiv.org/abs/2610.18857)|null|
 |**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](http://arxiv.org/abs/2610.18855)|null|
