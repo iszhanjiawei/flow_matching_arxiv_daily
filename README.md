@@ -1,4 +1,4 @@
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference**|Kai Lehman et.al.|[2610.23825](http://arxiv.org/abs/2610.23825)|null|
+|**2026-10-16**|**CLEAR: Cooperative Latent Flow for Visual Counterfactual Explanations with Accurate Region Preservation**|Yan Zeng et.al.|[2610.23577](http://arxiv.org/abs/2610.23577)|null|
+|**2026-10-16**|**GRASP: Global-Local Representation Alignment and Spatial-Physical Grounding for Bimanual Robotic Manipulation**|Zeyuan Ren et.al.|[2610.23123](http://arxiv.org/abs/2610.23123)|null|
+|**2026-10-16**|**TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation**|Yun Wang et.al.|[2610.23050](http://arxiv.org/abs/2610.23050)|null|
+|**2026-10-16**|**UniField++: A Unified Agentic Framework with Loop Reasoning for MRI Field-Strength Enhancement**|Yiyang Lin et.al.|[2610.22982](http://arxiv.org/abs/2610.22982)|null|
+|**2026-10-16**|**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**|Jaehyun Ahn et.al.|[2610.22960](http://arxiv.org/abs/2610.22960)|null|
+|**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham et.al.|[2610.22951](http://arxiv.org/abs/2610.22951)|null|
+|**2026-10-16**|**Sample-Efficient Reinforcement Learning for Policy Improvement via Flow-Reversed Action Anchors**|Carl Qi et.al.|[2610.22852](http://arxiv.org/abs/2610.22852)|null|
 |**2026-10-15**|**PathFM: Fast Generative Forecasting of Multivariate Trajectories**|Jiachen Yao et.al.|[2610.22358](http://arxiv.org/abs/2610.22358)|null|
 |**2026-10-15**|**MOSS: Mode-Oriented Source Shaping for Robot Flow Matching Policies**|Zirun Ma et.al.|[2610.22193](http://arxiv.org/abs/2610.22193)|null|
 |**2026-10-15**|**REKI: Registering Knowledge in VLAs**|Juliette Marrie et.al.|[2610.22178](http://arxiv.org/abs/2610.22178)|null|
@@ -23,6 +31,9 @@
 |**2026-10-15**|**ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**|Yuang Liu et.al.|[2610.21190](http://arxiv.org/abs/2610.21190)|null|
 |**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086](http://arxiv.org/abs/2610.21086)|null|
 |**2026-10-15**|**In-Context Batch Black-box Optimization via Flow Matching**|Quoc-Anh Hoang Nguyen et.al.|[2610.20138](http://arxiv.org/abs/2610.20138)|null|
+|**2026-10-15**|**Normalizing Flow Maps**|Francesco M. Ruscio et.al.|[2610.22711](http://arxiv.org/abs/2610.22711)|null|
+|**2026-10-15**|**When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models**|Victoria Smelova et.al.|[2610.22556](http://arxiv.org/abs/2610.22556)|null|
+|**2026-10-15**|**Erase the Mark, Preserve the Motion: Temporally Consistent Removal of Video Watermarks**|Yifan Liao et.al.|[2610.22457](http://arxiv.org/abs/2610.22457)|null|
 |**2026-10-14**|**MIDI-REPA: Improving Text-to-Music Generation with Symbolic Representation Alignment**|Song-Ze Yu et.al.|[2610.20967](http://arxiv.org/abs/2610.20967)|null|
 |**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Ao Liang et.al.|[2610.20604](http://arxiv.org/abs/2610.20604)|null|
 |**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Yushen Liang et.al.|[2610.20524](http://arxiv.org/abs/2610.20524)|null|
@@ -2791,5 +2802,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
