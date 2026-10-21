@@ -14,16 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Yinghao Li et.al.|[2610.26043](http://arxiv.org/abs/2610.26043)|null|
+|**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
+|**2026-10-20**|**Large Flow Language Models**|Arnav Chavan et.al.|[2610.28559](http://arxiv.org/abs/2610.28559)|null|
+|**2026-10-20**|**Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs**|Matteo Cercola et.al.|[2610.28184](http://arxiv.org/abs/2610.28184)|null|
+|**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Jie Liu et.al.|[2610.28035](http://arxiv.org/abs/2610.28035)|null|
+|**2026-10-20**|**Inverse domain uncertainty quantification in hemodynamics: sampling virtual patient cohorts under constraints**|Francesco Romor et.al.|[2610.27869](http://arxiv.org/abs/2610.27869)|null|
+|**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Oliver Hausdörfer et.al.|[2610.27794](http://arxiv.org/abs/2610.27794)|null|
+|**2026-10-20**|**TokenFlow: Latent Token Rectified Flow Matching for 3D Point Cloud Generation**|Linhao Wang et.al.|[2610.27418](http://arxiv.org/abs/2610.27418)|null|
 |**2026-10-19**|**From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping**|Zekai Luo et.al.|[2610.26681](http://arxiv.org/abs/2610.26681)|null|
 |**2026-10-19**|**Dual-Scale Condition-Shift Editing for Robust Real-World Image Demoiréing**|Shiyang Zhou et.al.|[2610.26644](http://arxiv.org/abs/2610.26644)|null|
 |**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Langzhe Gu et.al.|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
 |**2026-10-19**|**HP-PnP-Flow: Hybrid Time Scheduling and Projection for Plug-and-Play Image Restoration via Flow Matching**|Yong Li et.al.|[2610.26183](http://arxiv.org/abs/2610.26183)|null|
 |**2026-10-19**|**DeOverlay: A Benchmark and Source-Anchored Flow for Video Overlay Removal**|Deshui Miao et.al.|[2610.26081](http://arxiv.org/abs/2610.26081)|null|
-|**2026-10-19**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Yinghao Li et.al.|[2610.26043](http://arxiv.org/abs/2610.26043)|null|
 |**2026-10-19**|**PnP-CF: A Consensus Flow-Matching Solver for General Inverse Problems**|Dibyanshu Kumar et.al.|[2610.26000](http://arxiv.org/abs/2610.26000)|null|
 |**2026-10-19**|**Progress-Guided Preference Generation for Aligning Generative Control Policies**|Tung M. Luu et.al.|[2610.25692](http://arxiv.org/abs/2610.25692)|null|
 |**2026-10-19**|**Frechet Forcing: Training Long-Horizon Streaming World Models from Short Clips**|Yian Zhao et.al.|[2610.25666](http://arxiv.org/abs/2610.25666)|null|
 |**2026-10-19**|**PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching**|Liwei Lan et.al.|[2610.25664](http://arxiv.org/abs/2610.25664)|null|
+|**2026-10-19**|**PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation**|Tianhao Peng et.al.|[2610.27374](http://arxiv.org/abs/2610.27374)|null|
+|**2026-10-19**|**EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation**|Chaitanya Chawla et.al.|[2610.27242](http://arxiv.org/abs/2610.27242)|null|
+|**2026-10-19**|**ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching**|Ibrahim Elsharkawy et.al.|[2610.27068](http://arxiv.org/abs/2610.27068)|null|
 |**2026-10-18**|**Steered Not Stirred: Effective Reward Tilting using Surrogate Reward Mixing**|Alec Sargood et.al.|[2610.25502](http://arxiv.org/abs/2610.25502)|null|
 |**2026-10-18**|**Test-Time Scaling of Text-to-Image Flow Matching Models with Noise-Rejuvenated Sequential Monte Carlo**|Wenyi Lian et.al.|[2610.25479](http://arxiv.org/abs/2610.25479)|null|
 |**2026-10-18**|**HCFM: Helmholtz Component Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al.|[2610.25059](http://arxiv.org/abs/2610.25059)|null|
