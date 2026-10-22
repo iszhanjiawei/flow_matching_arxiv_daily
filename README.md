@@ -14,6 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching**|Yunpeng Mei et.al.|[2610.30107](http://arxiv.org/abs/2610.30107)|null|
+|**2026-10-21**|**Flowz: When Does Learning Forecast Errors Add Value? Conditional Flow Matching for Financial Price Forecasts**|Giancarlo Vercellino et.al.|[2610.29991](http://arxiv.org/abs/2610.29991)|null|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
+|**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866](http://arxiv.org/abs/2610.29866)|null|
+|**2026-10-21**|**Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning**|Martin Thißen et.al.|[2610.29581](http://arxiv.org/abs/2610.29581)|null|
+|**2026-10-21**|**Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation**|Seo Wook Han et.al.|[2610.29568](http://arxiv.org/abs/2610.29568)|null|
+|**2026-10-21**|**Integrating Flow Matching and Model Predictive Control for Safe Robot Navigation**|Philipp Holzmann et.al.|[2610.29377](http://arxiv.org/abs/2610.29377)|null|
+|**2026-10-21**|**Compositional neural networks for multimodal X-ray and neutron scattering inversion**|Valentin Munteanu et.al.|[2610.29362](http://arxiv.org/abs/2610.29362)|null|
+|**2026-10-21**|**CRAB: Cuboid-based Representation for As-built BIM from Point Clouds**|Haoran Xiong et.al.|[2610.29257](http://arxiv.org/abs/2610.29257)|null|
+|**2026-10-21**|**ROCOCO: Robust Outline Completion of Occluded Curvilinear Objects**|Ken Zheng et.al.|[2610.29177](http://arxiv.org/abs/2610.29177)|null|
+|**2026-10-21**|**Conditional Flow Models Convert Epistemic Uncertainty into Apparent Aleatoric Variance**|Navodita Sharma et.al.|[2610.29172](http://arxiv.org/abs/2610.29172)|null|
+|**2026-10-21**|**MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**|Lu Ma et.al.|[2610.29119](http://arxiv.org/abs/2610.29119)|null|
+|**2026-10-21**|**Learning to Absorb Corrections: Critic-Weighted Residual Flow for Vision-Based Insertion**|Yiqing Yuan et.al.|[2610.29117](http://arxiv.org/abs/2610.29117)|null|
+|**2026-10-21**|**Value-Rectified Distillation for Flow-based Offline Reinforcement Learning**|Ke Jiang et.al.|[2610.29075](http://arxiv.org/abs/2610.29075)|null|
 |**2026-10-20**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Yinghao Li et.al.|[2610.26043](http://arxiv.org/abs/2610.26043)|null|
 |**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
 |**2026-10-20**|**Large Flow Language Models**|Arnav Chavan et.al.|[2610.28559](http://arxiv.org/abs/2610.28559)|null|
@@ -22,6 +36,11 @@
 |**2026-10-20**|**Inverse domain uncertainty quantification in hemodynamics: sampling virtual patient cohorts under constraints**|Francesco Romor et.al.|[2610.27869](http://arxiv.org/abs/2610.27869)|null|
 |**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Oliver Hausdörfer et.al.|[2610.27794](http://arxiv.org/abs/2610.27794)|null|
 |**2026-10-20**|**TokenFlow: Latent Token Rectified Flow Matching for 3D Point Cloud Generation**|Linhao Wang et.al.|[2610.27418](http://arxiv.org/abs/2610.27418)|null|
+|**2026-10-20**|**StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion**|Yisi Liu et.al.|[2610.28940](http://arxiv.org/abs/2610.28940)|null|
+|**2026-10-20**|**Dual-Phase Flow Matching for Probabilistic Source Detection and Measurement in Astronomical Images**|Yicun Duan et.al.|[2610.28919](http://arxiv.org/abs/2610.28919)|null|
+|**2026-10-20**|**Minimax-Optimal Predictive Flow Matching under Distribution Drift**|Aadithya Srikanth et.al.|[2610.28898](http://arxiv.org/abs/2610.28898)|null|
+|**2026-10-20**|**JUICE: Unified Multimodal Modeling in Pretrained Representation Spaces**|Jiahan Li et.al.|[2610.28801](http://arxiv.org/abs/2610.28801)|null|
+|**2026-10-20**|**ArcFlow: Training Flow Policies for Multiple Solver Budgets**|Hieu Tran et.al.|[2610.28788](http://arxiv.org/abs/2610.28788)|null|
 |**2026-10-19**|**From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping**|Zekai Luo et.al.|[2610.26681](http://arxiv.org/abs/2610.26681)|null|
 |**2026-10-19**|**Dual-Scale Condition-Shift Editing for Robust Real-World Image Demoiréing**|Shiyang Zhou et.al.|[2610.26644](http://arxiv.org/abs/2610.26644)|null|
 |**2026-10-19**|**HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control**|Langzhe Gu et.al.|[2610.26584](http://arxiv.org/abs/2610.26584)|null|
