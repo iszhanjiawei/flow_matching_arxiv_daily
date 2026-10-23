@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yun-Chen Cheng et.al.|[2610.31510](http://arxiv.org/abs/2610.31510)|null|
+|**2026-10-22**|**Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation**|Hongcan Guo et.al.|[2610.31305](http://arxiv.org/abs/2610.31305)|null|
+|**2026-10-22**|**GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching**|Ariel Lapid et.al.|[2610.31222](http://arxiv.org/abs/2610.31222)|null|
+|**2026-10-22**|**Prediction Uncertainty Controlled Computer Model Calibration**|Ryan Heejoon Byun et.al.|[2610.31163](http://arxiv.org/abs/2610.31163)|null|
+|**2026-10-22**|**Assessing the consistency of the CPL dark-energy model with cosmological data: Simulation-calibrated neural posterior disagreement**|Tian-Yang Sun et.al.|[2610.31044](http://arxiv.org/abs/2610.31044)|null|
+|**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Shivakanth Sujit et.al.|[2610.30735](http://arxiv.org/abs/2610.30735)|null|
+|**2026-10-22**|**ParaLin++: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure**|Jianrong Lu et.al.|[2610.30704](http://arxiv.org/abs/2610.30704)|null|
+|**2026-10-22**|**Learning Domain Trajectories with Flow Matching for Gradual Domain Adaptation**|Yubo Huang et.al.|[2610.30685](http://arxiv.org/abs/2610.30685)|null|
 |**2026-10-21**|**Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching**|Yunpeng Mei et.al.|[2610.30107](http://arxiv.org/abs/2610.30107)|null|
 |**2026-10-21**|**Flowz: When Does Learning Forecast Errors Add Value? Conditional Flow Matching for Financial Price Forecasts**|Giancarlo Vercellino et.al.|[2610.29991](http://arxiv.org/abs/2610.29991)|null|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
@@ -28,6 +36,8 @@
 |**2026-10-21**|**MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**|Lu Ma et.al.|[2610.29119](http://arxiv.org/abs/2610.29119)|null|
 |**2026-10-21**|**Learning to Absorb Corrections: Critic-Weighted Residual Flow for Vision-Based Insertion**|Yiqing Yuan et.al.|[2610.29117](http://arxiv.org/abs/2610.29117)|null|
 |**2026-10-21**|**Value-Rectified Distillation for Flow-based Offline Reinforcement Learning**|Ke Jiang et.al.|[2610.29075](http://arxiv.org/abs/2610.29075)|null|
+|**2026-10-21**|**CTRL-FM: Inference-Time Structural Control for Flow-Based Virtual Sensing under Long-Horizon Node Outages**|Boshra Khalili et.al.|[2610.30362](http://arxiv.org/abs/2610.30362)|null|
+|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319](http://arxiv.org/abs/2610.30319)|null|
 |**2026-10-20**|**OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids**|Yinghao Li et.al.|[2610.26043](http://arxiv.org/abs/2610.26043)|null|
 |**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
 |**2026-10-20**|**Large Flow Language Models**|Arnav Chavan et.al.|[2610.28559](http://arxiv.org/abs/2610.28559)|null|
@@ -2851,5 +2861,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
