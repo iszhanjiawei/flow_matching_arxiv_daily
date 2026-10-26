@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**CoupleFlow: Null-Calibrated Auditory Attention Decoding With Time-Locked Brain-Speech Coupling and Flow-Matching Likelihood Ratios**|Ali Alavi et.al.|[2610.32950](http://arxiv.org/abs/2610.32950)|null|
+|**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
+|**2026-10-23**|**Cross-Scenario Controller Parameter Transformation from Real-World Driving Data through Flow Matching**|Christian Zink et.al.|[2610.32719](http://arxiv.org/abs/2610.32719)|null|
+|**2026-10-23**|**Trajectory Matching: Discrete Flow Matching with Structured Actions**|Niklas Kemper et.al.|[2610.32602](http://arxiv.org/abs/2610.32602)|null|
+|**2026-10-23**|**Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation**|Yi Liu et.al.|[2610.32373](http://arxiv.org/abs/2610.32373)|null|
+|**2026-10-23**|**Representation Learning via Composite Subspace Flow Matching**|José Afonso et.al.|[2610.32256](http://arxiv.org/abs/2610.32256)|null|
+|**2026-10-23**|**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**|Shibo Hong et.al.|[2610.32222](http://arxiv.org/abs/2610.32222)|null|
+|**2026-10-23**|**An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging**|Cristina Garcia-Cardona et.al.|[2610.32185](http://arxiv.org/abs/2610.32185)|null|
+|**2026-10-23**|**Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies**|Jiabing Yang et.al.|[2610.32102](http://arxiv.org/abs/2610.32102)|null|
+|**2026-10-23**|**DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning**|Minho Park et.al.|[2610.32093](http://arxiv.org/abs/2610.32093)|null|
 |**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yun-Chen Cheng et.al.|[2610.31510](http://arxiv.org/abs/2610.31510)|null|
 |**2026-10-22**|**Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation**|Hongcan Guo et.al.|[2610.31305](http://arxiv.org/abs/2610.31305)|null|
 |**2026-10-22**|**GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching**|Ariel Lapid et.al.|[2610.31222](http://arxiv.org/abs/2610.31222)|null|
@@ -22,6 +33,10 @@
 |**2026-10-22**|**When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies**|Shivakanth Sujit et.al.|[2610.30735](http://arxiv.org/abs/2610.30735)|null|
 |**2026-10-22**|**ParaLin++: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure**|Jianrong Lu et.al.|[2610.30704](http://arxiv.org/abs/2610.30704)|null|
 |**2026-10-22**|**Learning Domain Trajectories with Flow Matching for Gradual Domain Adaptation**|Yubo Huang et.al.|[2610.30685](http://arxiv.org/abs/2610.30685)|null|
+|**2026-10-22**|**Compatible Likelihoods for Flow Matching on Manifolds**|Lucas Ng et.al.|[2610.31981](http://arxiv.org/abs/2610.31981)|null|
+|**2026-10-22**|**PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction**|Ranran Huang et.al.|[2610.31908](http://arxiv.org/abs/2610.31908)|null|
+|**2026-10-22**|**VisFlow: Interpretable Flow Matching for Visibility Reconstruction, Characterization, and Recognition**|Rahul Moorthy et.al.|[2610.31892](http://arxiv.org/abs/2610.31892)|null|
+|**2026-10-22**|**StackGen3D: Stable 3D Block Stack Generation from Multiview Silhouettes**|Xiaopeng Zhang et.al.|[2610.31803](http://arxiv.org/abs/2610.31803)|null|
 |**2026-10-21**|**Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching**|Yunpeng Mei et.al.|[2610.30107](http://arxiv.org/abs/2610.30107)|null|
 |**2026-10-21**|**Flowz: When Does Learning Forecast Errors Add Value? Conditional Flow Matching for Financial Price Forecasts**|Giancarlo Vercellino et.al.|[2610.29991](http://arxiv.org/abs/2610.29991)|null|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
@@ -2861,5 +2876,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
