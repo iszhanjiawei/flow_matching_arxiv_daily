@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
+|**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Jayoung Ryu et.al.|[2610.35652](http://arxiv.org/abs/2610.35652)|null|
+|**2026-10-26**|**A JiT-Based Denoising Defense Method Against Adversarial Examples for Radio Signal Automatic Modulation Classification**|Shiwei Liu et.al.|[2610.35084](http://arxiv.org/abs/2610.35084)|null|
+|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Yihang Chen et.al.|[2610.34845](http://arxiv.org/abs/2610.34845)|null|
+|**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al.|[2610.34828](http://arxiv.org/abs/2610.34828)|null|
+|**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Yiwei Guo et.al.|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
+|**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
+|**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
+|**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
+|**2026-10-25**|**HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget**|Harish Santhanalakshmi Ganesan et.al.|[2610.34582](http://arxiv.org/abs/2610.34582)|null|
+|**2026-10-25**|**Cumulative Marginal Matching for One-Step Diffusion**|Paribesh Regmi et.al.|[2610.34575](http://arxiv.org/abs/2610.34575)|null|
+|**2026-10-25**|**FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation**|Meryem Koksal et.al.|[2610.34564](http://arxiv.org/abs/2610.34564)|null|
+|**2026-10-25**|**LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization**|Yuheng Lu et.al.|[2610.34408](http://arxiv.org/abs/2610.34408)|null|
+|**2026-10-25**|**RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions**|Haoyu Zhao et.al.|[2610.34356](http://arxiv.org/abs/2610.34356)|null|
+|**2026-10-25**|**TopX: Text-to-Motion for Unseen Skeletons from the Skeleton File Alone**|Tengjiao Sun et.al.|[2610.34321](http://arxiv.org/abs/2610.34321)|null|
+|**2026-10-25**|**Timing Matters Twice: When to Query and When to Skip in Flow-Matching On-Policy Distillation**|Renye Yan et.al.|[2610.34191](http://arxiv.org/abs/2610.34191)|null|
+|**2026-10-24**|**How Geometry Shapes Generative Model Evaluation on Riemannian Manifolds**|Misha Oberski et.al.|[2610.33731](http://arxiv.org/abs/2610.33731)|null|
+|**2026-10-24**|**H-GLow: Accelerating Graph Generation via Hazard-Guided Discrete Flow Matching**|Sirine Ayadi et.al.|[2610.33599](http://arxiv.org/abs/2610.33599)|null|
+|**2026-10-24**|**Nowcasting aerosol particle size distributions from PM2.5 with physics-regularized flow matching**|Zhi-Song Liu et.al.|[2610.33557](http://arxiv.org/abs/2610.33557)|null|
+|**2026-10-24**|**Climate downscaling with likelihood functional flow matching**|Zhi-Song Liu et.al.|[2610.33482](http://arxiv.org/abs/2610.33482)|null|
 |**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
 |**2026-10-23**|**CoupleFlow: Null-Calibrated Auditory Attention Decoding With Time-Locked Brain-Speech Coupling and Flow-Matching Likelihood Ratios**|Ali Alavi et.al.|[2610.32950](http://arxiv.org/abs/2610.32950)|null|
 |**2026-10-23**|**If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs**|Thomas Landeg et.al.|[2610.32941](http://arxiv.org/abs/2610.32941)|null|
