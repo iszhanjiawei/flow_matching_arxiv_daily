@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
+|**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Ivan Shchekotov et.al.|[2610.37503](http://arxiv.org/abs/2610.37503)|null|
+|**2026-10-27**|**Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting**|Si-Tong Yang et.al.|[2610.37159](http://arxiv.org/abs/2610.37159)|null|
+|**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Hsueh-Wei Fu et.al.|[2610.36786](http://arxiv.org/abs/2610.36786)|null|
+|**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Tuo An et.al.|[2610.36694](http://arxiv.org/abs/2610.36694)|null|
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
 |**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Jayoung Ryu et.al.|[2610.35652](http://arxiv.org/abs/2610.35652)|null|
 |**2026-10-26**|**A JiT-Based Denoising Defense Method Against Adversarial Examples for Radio Signal Automatic Modulation Classification**|Shiwei Liu et.al.|[2610.35084](http://arxiv.org/abs/2610.35084)|null|
@@ -21,8 +26,9 @@
 |**2026-10-26**|**Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse**|Yuwei Zeng et.al.|[2610.34828](http://arxiv.org/abs/2610.34828)|null|
 |**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Yiwei Guo et.al.|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
-|**2026-10-26**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
 |**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
+|**2026-10-26**|**HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching**|Ahmad Abdel-Azim et.al.|[2610.36361](http://arxiv.org/abs/2610.36361)|null|
+|**2026-10-26**|**A generative foundation model for 2D magnetized plasma turbulence**|Junyi Guo et.al.|[2610.36155](http://arxiv.org/abs/2610.36155)|null|
 |**2026-10-25**|**HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget**|Harish Santhanalakshmi Ganesan et.al.|[2610.34582](http://arxiv.org/abs/2610.34582)|null|
 |**2026-10-25**|**Cumulative Marginal Matching for One-Step Diffusion**|Paribesh Regmi et.al.|[2610.34575](http://arxiv.org/abs/2610.34575)|null|
 |**2026-10-25**|**FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation**|Meryem Koksal et.al.|[2610.34564](http://arxiv.org/abs/2610.34564)|null|
