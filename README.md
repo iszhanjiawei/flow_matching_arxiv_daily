@@ -15,6 +15,16 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Insung Yang et.al.|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
+|**2026-10-29**|**Framework-Conditional Open Materials Generation**|Maya M. Martirossyan et.al.|[2610.40443](http://arxiv.org/abs/2610.40443)|null|
+|**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
+|**2026-10-29**|**SynthFaces: Balanced Large Scale Human Dataset**|Sergey Karpukhin et.al.|[2610.40119](http://arxiv.org/abs/2610.40119)|null|
+|**2026-10-29**|**SelfThinker: Self-Evolving Reasoning via Reliability-Verified Intrinsic Visual Thoughts**|Zhangquan Chen et.al.|[2610.40115](http://arxiv.org/abs/2610.40115)|null|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
+|**2026-10-29**|**Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles**|Jianming Ma et.al.|[2610.40075](http://arxiv.org/abs/2610.40075)|null|
+|**2026-10-29**|**AegisFlow: Training-Free Non-Myopic Path-Safe Guided Flow Matching**|Kunpeng Liu et.al.|[2610.39825](http://arxiv.org/abs/2610.39825)|null|
+|**2026-10-29**|**MOSAIC-Flow: Orthogonal-Axis and Status-Conditioned Fusion for Missing-Sequence Completion in Brain Tumor MRI**|Pengli Zhu et.al.|[2610.39534](http://arxiv.org/abs/2610.39534)|null|
+|**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Huabin Peng et.al.|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
+|**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](http://arxiv.org/abs/2610.39517)|null|
 |**2026-10-28**|**Logical Guidance of Stochastic Interpolants**|Gerrit Gerhartz et.al.|[2610.38648](http://arxiv.org/abs/2610.38648)|null|
 |**2026-10-28**|**AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models**|Pengfei Cai et.al.|[2610.38517](http://arxiv.org/abs/2610.38517)|null|
 |**2026-10-28**|**Beyond Reachability: When Edit Order Preserves Couplings in Graph Flow Matching**|Zilin Li et.al.|[2610.38486](http://arxiv.org/abs/2610.38486)|null|
