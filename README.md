@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Insung Yang et.al.|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
+|**2026-10-28**|**Logical Guidance of Stochastic Interpolants**|Gerrit Gerhartz et.al.|[2610.38648](http://arxiv.org/abs/2610.38648)|null|
+|**2026-10-28**|**AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models**|Pengfei Cai et.al.|[2610.38517](http://arxiv.org/abs/2610.38517)|null|
+|**2026-10-28**|**Beyond Reachability: When Edit Order Preserves Couplings in Graph Flow Matching**|Zilin Li et.al.|[2610.38486](http://arxiv.org/abs/2610.38486)|null|
+|**2026-10-28**|**NAGO: Noise-Aware Generative Operator via Flow Matching**|Guanyu Chen et.al.|[2610.38273](http://arxiv.org/abs/2610.38273)|null|
+|**2026-10-28**|**A Tutorial on Generative Models for Music Audio**|Mateusz Modrzejewski et.al.|[2610.38252](http://arxiv.org/abs/2610.38252)|null|
 |**2026-10-27**|**VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware**|Borui Xu et.al.|[2610.34717](http://arxiv.org/abs/2610.34717)|null|
 |**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Ivan Shchekotov et.al.|[2610.37503](http://arxiv.org/abs/2610.37503)|null|
 |**2026-10-27**|**Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting**|Si-Tong Yang et.al.|[2610.37159](http://arxiv.org/abs/2610.37159)|null|
 |**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Hsueh-Wei Fu et.al.|[2610.36786](http://arxiv.org/abs/2610.36786)|null|
 |**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Tuo An et.al.|[2610.36694](http://arxiv.org/abs/2610.36694)|null|
+|**2026-10-27**|**Flow Matching for Fluctuation-Based Fluorescence Super-Resolution**|Alberto Cozzani et.al.|[2610.37802](http://arxiv.org/abs/2610.37802)|null|
+|**2026-10-27**|**End-to-end Particle Reconstruction with Transformers in High-Granularity Calorimeters**|Qiming Bao et.al.|[2610.37798](http://arxiv.org/abs/2610.37798)|null|
 |**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](http://arxiv.org/abs/2610.35679)|null|
 |**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Jayoung Ryu et.al.|[2610.35652](http://arxiv.org/abs/2610.35652)|null|
 |**2026-10-26**|**A JiT-Based Denoising Defense Method Against Adversarial Examples for Radio Signal Automatic Modulation Classification**|Shiwei Liu et.al.|[2610.35084](http://arxiv.org/abs/2610.35084)|null|
@@ -2902,5 +2910,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
