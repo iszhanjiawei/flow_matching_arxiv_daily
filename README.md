@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation**|Hongren Wang et.al.|[2610.41643](http://arxiv.org/abs/2610.41643)|null|
+|**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Xianbao Hou et.al.|[2610.41625](http://arxiv.org/abs/2610.41625)|null|
+|**2026-10-30**|**Scout-Refine-Correct: Teaching Flow Models to Refine Their Own Samples**|Sergey Karpukhin et.al.|[2610.41598](http://arxiv.org/abs/2610.41598)|null|
+|**2026-10-30**|**VariaFlow: Uncertainty-Aware Flow Matching for Unsupervised Anomaly Detection**|Arnela Hadzic et.al.|[2610.41494](http://arxiv.org/abs/2610.41494)|null|
+|**2026-10-30**|**PolarFlow: Spectral Geometric Flow Matching for Directed Graph Generation via Polar Decomposition**|Yanan Zhao et.al.|[2610.41471](http://arxiv.org/abs/2610.41471)|null|
+|**2026-10-30**|**BrowseFlow: Sparse Event Flow Matching for Generative User Simulation**|Yitian Pang et.al.|[2610.41374](http://arxiv.org/abs/2610.41374)|null|
+|**2026-10-30**|**Bayesian PET Reconstruction with Learned Flow Matching Priors via Langevin Sampling**|Hengjia Ran et.al.|[2610.41337](http://arxiv.org/abs/2610.41337)|null|
+|**2026-10-30**|**Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching**|Jian Lee et.al.|[2610.41322](http://arxiv.org/abs/2610.41322)|null|
+|**2026-10-30**|**Coarse-Graining Optimal Transport for Rollout-Free Post-Training of Flow Matching**|Soon Hoe Lim et.al.|[2610.41269](http://arxiv.org/abs/2610.41269)|null|
+|**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190](http://arxiv.org/abs/2610.41190)|null|
 |**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Insung Yang et.al.|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
 |**2026-10-29**|**Framework-Conditional Open Materials Generation**|Maya M. Martirossyan et.al.|[2610.40443](http://arxiv.org/abs/2610.40443)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
@@ -25,6 +35,9 @@
 |**2026-10-29**|**MOSAIC-Flow: Orthogonal-Axis and Status-Conditioned Fusion for Missing-Sequence Completion in Brain Tumor MRI**|Pengli Zhu et.al.|[2610.39534](http://arxiv.org/abs/2610.39534)|null|
 |**2026-10-29**|**PRIME W0: Physical Priors from World Models for Embodied Manipulation**|Huabin Peng et.al.|[2610.39528](http://arxiv.org/abs/2610.39528)|null|
 |**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](http://arxiv.org/abs/2610.39517)|null|
+|**2026-10-29**|**TalkFlow: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation**|Xinmu Wang et.al.|[2610.40972](http://arxiv.org/abs/2610.40972)|null|
+|**2026-10-29**|**WorldBridge: Bridging Video and Action for Task Generalization in World Action Models**|Jun Cen et.al.|[2610.40748](http://arxiv.org/abs/2610.40748)|null|
+|**2026-10-29**|**Bayesian Distribution System State Estimation with Flow Matching**|Nan Lin et.al.|[2610.40728](http://arxiv.org/abs/2610.40728)|null|
 |**2026-10-28**|**Logical Guidance of Stochastic Interpolants**|Gerrit Gerhartz et.al.|[2610.38648](http://arxiv.org/abs/2610.38648)|null|
 |**2026-10-28**|**AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models**|Pengfei Cai et.al.|[2610.38517](http://arxiv.org/abs/2610.38517)|null|
 |**2026-10-28**|**Beyond Reachability: When Edit Order Preserves Couplings in Graph Flow Matching**|Zilin Li et.al.|[2610.38486](http://arxiv.org/abs/2610.38486)|null|
@@ -2920,5 +2933,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
