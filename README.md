@@ -14,6 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction**|Hamidreza Eivazi et.al.|[2611.03150](http://arxiv.org/abs/2611.03150)|null|
+|**2026-11-02**|**PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation**|Junzhao Huang et.al.|[2611.03068](http://arxiv.org/abs/2611.03068)|null|
+|**2026-11-02**|**Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion**|Fei Peng et.al.|[2611.03017](http://arxiv.org/abs/2611.03017)|null|
+|**2026-11-02**|**Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies**|Zhennan Jiang et.al.|[2611.02777](http://arxiv.org/abs/2611.02777)|null|
+|**2026-11-02**|**Spatial Transfusion: From Structured Spatial Scene Understanding to Generation and Editing**|Jaeyeon Kim et.al.|[2611.02330](http://arxiv.org/abs/2611.02330)|null|
+|**2026-11-01**|**A Global Routing Method for Electronic Circuit Design Integrating Flow Matching and Constrained A***|Sanghoon Jin et.al.|[2611.02304](http://arxiv.org/abs/2611.02304)|null|
+|**2026-11-01**|**Restrained Diffusion Bridges: Targeted Denoiser Training and Refinement**|Xuanxi Zhang et.al.|[2611.02170](http://arxiv.org/abs/2611.02170)|null|
+|**2026-11-01**|**Value Forcing: Aligning Return Distributions at All Noise Levels**|Chongyi Zheng et.al.|[2611.02160](http://arxiv.org/abs/2611.02160)|null|
+|**2026-11-01**|**RIFT: Residual-Informed Flow Transfer for One-Step Generative Video Compression**|Qizhe Wang et.al.|[2611.01791](http://arxiv.org/abs/2611.01791)|null|
+|**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729](http://arxiv.org/abs/2611.01729)|null|
+|**2026-11-01**|**GatedVLA with Camera-Based Emergency Braking: AlpaSim E2E Closed Loop Challenge Technical Report**|Kaneyoshi Hiratsuka et.al.|[2611.01663](http://arxiv.org/abs/2611.01663)|null|
+|**2026-11-01**|**NatureFusion: Rethinking Infrared and Visible Image Fusion as Natural Complementary Enhancement**|Jianfeng Ding et.al.|[2611.01607](http://arxiv.org/abs/2611.01607)|null|
+|**2026-11-01**|**Generative Modeling with Continuous Flows: Sample Complexity of Flow Matching**|Mudit Gaur et.al.|[2611.01559](http://arxiv.org/abs/2611.01559)|null|
+|**2026-11-01**|**$TF^2$ -Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering**|Yiming Chen et.al.|[2611.01483](http://arxiv.org/abs/2611.01483)|null|
+|**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283](http://arxiv.org/abs/2611.01283)|null|
+|**2026-10-31**|**Leap-VLA: High-Rate Robot Control from a Low-Rate VLM Backbone**|Lin Yang et.al.|[2611.01011](http://arxiv.org/abs/2611.01011)|null|
+|**2026-10-31**|**MarkovTS: Pretrained State-Transition Representations for Zero-Shot Time Series Generation**|Yujie Li et.al.|[2611.00941](http://arxiv.org/abs/2611.00941)|null|
+|**2026-10-31**|**A Discrete-Time Variational Objective for Degenerate Diffusion and Equivalence to Flow Matching**|Rares Dolga et.al.|[2611.00800](http://arxiv.org/abs/2611.00800)|null|
 |**2026-10-30**|**Direct Action-Manifold Modeling for Efficient and Robust Bimanual Manipulation**|Hongren Wang et.al.|[2610.41643](http://arxiv.org/abs/2610.41643)|null|
 |**2026-10-30**|**RTPolicy: Real-Time (32.9 Hz) Multi-View Visuomotor Policy for Robotic Manipulation on Edge Devices**|Xianbao Hou et.al.|[2610.41625](http://arxiv.org/abs/2610.41625)|null|
 |**2026-10-30**|**Scout-Refine-Correct: Teaching Flow Models to Refine Their Own Samples**|Sergey Karpukhin et.al.|[2610.41598](http://arxiv.org/abs/2610.41598)|null|
@@ -26,6 +44,7 @@
 |**2026-10-30**|**FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation**|Liangjing Shao et.al.|[2610.41190](http://arxiv.org/abs/2610.41190)|null|
 |**2026-10-30**|**Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos**|Wendong Bu et.al.|[2610.41877](http://arxiv.org/abs/2610.41877)|null|
 |**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Hao Dai et.al.|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
+|**2026-10-30**|**Does Validation Loss Predict Real-Robot Success? Evidence from Four Imitation-Learning Policies on a Low-Cost Arm**|Simon Cowling et.al.|[2611.00283](http://arxiv.org/abs/2611.00283)|null|
 |**2026-10-29**|**RAIBO-Wagon: Real-Time Navigation System for a Legged Robot Towing a Wagon**|Insung Yang et.al.|[2610.39267](http://arxiv.org/abs/2610.39267)|null|
 |**2026-10-29**|**Framework-Conditional Open Materials Generation**|Maya M. Martirossyan et.al.|[2610.40443](http://arxiv.org/abs/2610.40443)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Xiaoyu Yang et.al.|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
