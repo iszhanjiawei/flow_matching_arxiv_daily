@@ -14,11 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Charles Xu et.al.|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
+|**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Asher James Hancock et.al.|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
+|**2026-11-03**|**Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning**|Juan Guevara et.al.|[2611.05207](http://arxiv.org/abs/2611.05207)|null|
+|**2026-11-03**|**Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity**|Daniel Aibinder et.al.|[2611.05202](http://arxiv.org/abs/2611.05202)|null|
+|**2026-11-03**|**Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes**|Eoin Quinn et.al.|[2611.05055](http://arxiv.org/abs/2611.05055)|null|
+|**2026-11-03**|**UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation**|Shibo Feng et.al.|[2611.04825](http://arxiv.org/abs/2611.04825)|null|
+|**2026-11-03**|**Pixel-space video generation with U-JiT**|Théophane Vallaeys et.al.|[2611.04764](http://arxiv.org/abs/2611.04764)|null|
+|**2026-11-03**|**Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting**|Raz Marshanski et.al.|[2611.04760](http://arxiv.org/abs/2611.04760)|null|
+|**2026-11-03**|**E2I-Flow: EEG-to-Image Reconstruction via Wavelet-Temporal Cross-Attention and Conditional Flow Matching**|Haowei Pan et.al.|[2611.04524](http://arxiv.org/abs/2611.04524)|null|
+|**2026-11-03**|**SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere**|Huihan Wang et.al.|[2611.04414](http://arxiv.org/abs/2611.04414)|null|
+|**2026-11-03**|**Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware**|Yeonseok Lee et.al.|[2611.04392](http://arxiv.org/abs/2611.04392)|null|
+|**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|null|
 |**2026-11-02**|**FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction**|Hamidreza Eivazi et.al.|[2611.03150](http://arxiv.org/abs/2611.03150)|null|
 |**2026-11-02**|**PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation**|Junzhao Huang et.al.|[2611.03068](http://arxiv.org/abs/2611.03068)|null|
 |**2026-11-02**|**Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion**|Fei Peng et.al.|[2611.03017](http://arxiv.org/abs/2611.03017)|null|
 |**2026-11-02**|**Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies**|Zhennan Jiang et.al.|[2611.02777](http://arxiv.org/abs/2611.02777)|null|
 |**2026-11-02**|**Spatial Transfusion: From Structured Spatial Scene Understanding to Generation and Editing**|Jaeyeon Kim et.al.|[2611.02330](http://arxiv.org/abs/2611.02330)|null|
+|**2026-11-02**|**Sampling Interventional Distributions with Orthogonal MMD Flow**|Bariscan Bozkurt et.al.|[2611.03962](http://arxiv.org/abs/2611.03962)|null|
+|**2026-11-02**|**FlowRig: Unified Skeleton Generation for 3D and 4D Meshes via Flow Matching**|Fengzhi Guo et.al.|[2611.03775](http://arxiv.org/abs/2611.03775)|null|
 |**2026-11-01**|**A Global Routing Method for Electronic Circuit Design Integrating Flow Matching and Constrained A***|Sanghoon Jin et.al.|[2611.02304](http://arxiv.org/abs/2611.02304)|null|
 |**2026-11-01**|**Restrained Diffusion Bridges: Targeted Denoiser Training and Refinement**|Xuanxi Zhang et.al.|[2611.02170](http://arxiv.org/abs/2611.02170)|null|
 |**2026-11-01**|**Value Forcing: Aligning Return Distributions at All Noise Levels**|Chongyi Zheng et.al.|[2611.02160](http://arxiv.org/abs/2611.02160)|null|
