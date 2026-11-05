@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
+|**2026-11-04**|**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**|Yihong Luo et.al.|[2611.06796](http://arxiv.org/abs/2611.06796)|null|
+|**2026-11-04**|**Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching**|Giuliano Galadini et.al.|[2611.06711](http://arxiv.org/abs/2611.06711)|null|
+|**2026-11-04**|**Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching**|Runmin Zhang et.al.|[2611.06422](http://arxiv.org/abs/2611.06422)|null|
+|**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
+|**2026-11-04**|**Consistency Learning and Distillation for One-Step MIMO-OFDM Channel Estimation**|Fredrik Nguyen et.al.|[2611.06271](http://arxiv.org/abs/2611.06271)|null|
+|**2026-11-04**|**From Handcrafted to Generative: RLVR-Optimized Icon Generation for Alexa+**|Rohan Sequeira et.al.|[2611.06123](http://arxiv.org/abs/2611.06123)|null|
+|**2026-11-04**|**FLINT: Coupling Proximal Initialization and Bounded Stochasticity for Flow-Matching Inverse Problems**|Junseo Bang et.al.|[2611.05945](http://arxiv.org/abs/2611.05945)|null|
 |**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Charles Xu et.al.|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
 |**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Asher James Hancock et.al.|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
 |**2026-11-03**|**Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning**|Juan Guevara et.al.|[2611.05207](http://arxiv.org/abs/2611.05207)|null|
@@ -26,6 +34,7 @@
 |**2026-11-03**|**SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere**|Huihan Wang et.al.|[2611.04414](http://arxiv.org/abs/2611.04414)|null|
 |**2026-11-03**|**Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware**|Yeonseok Lee et.al.|[2611.04392](http://arxiv.org/abs/2611.04392)|null|
 |**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|null|
+|**2026-11-03**|**Constraint-Preserving Flow Matching for Spectral Graph Generation**|Anita Yang et.al.|[2611.05436](http://arxiv.org/abs/2611.05436)|null|
 |**2026-11-02**|**FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction**|Hamidreza Eivazi et.al.|[2611.03150](http://arxiv.org/abs/2611.03150)|null|
 |**2026-11-02**|**PACERec: Progressive Adaptation of LLM Item Embeddings with Collaborative Evidence for Recommendation**|Junzhao Huang et.al.|[2611.03068](http://arxiv.org/abs/2611.03068)|null|
 |**2026-11-02**|**Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion**|Fei Peng et.al.|[2611.03017](http://arxiv.org/abs/2611.03017)|null|
@@ -2968,5 +2977,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
