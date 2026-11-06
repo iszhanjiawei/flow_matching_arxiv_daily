@@ -1,4 +1,4 @@
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
+|**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[2611.08338](http://arxiv.org/abs/2611.08338)|null|
+|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295](http://arxiv.org/abs/2611.08295)|null|
+|**2026-11-05**|**FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching**|Zeping Zhang et.al.|[2611.08128](http://arxiv.org/abs/2611.08128)|null|
+|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111](http://arxiv.org/abs/2611.08111)|null|
+|**2026-11-05**|**Route-DMD: Distribution Matching Distillation with Task-Routed Mechanism for Speech Foundation Models**|Yanru Huo et.al.|[2611.08011](http://arxiv.org/abs/2611.08011)|null|
+|**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Jiahao Cui et.al.|[2611.07939](http://arxiv.org/abs/2611.07939)|null|
+|**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Chaitanya Dumbre et.al.|[2611.07826](http://arxiv.org/abs/2611.07826)|null|
+|**2026-11-05**|**Physics-informed latent conditional flow matching for generative modeling of granular flows on inclined planes**|Ziqi Han et.al.|[2611.07458](http://arxiv.org/abs/2611.07458)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**|Yihong Luo et.al.|[2611.06796](http://arxiv.org/abs/2611.06796)|null|
 |**2026-11-04**|**Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching**|Giuliano Galadini et.al.|[2611.06711](http://arxiv.org/abs/2611.06711)|null|
@@ -22,6 +31,8 @@
 |**2026-11-04**|**Consistency Learning and Distillation for One-Step MIMO-OFDM Channel Estimation**|Fredrik Nguyen et.al.|[2611.06271](http://arxiv.org/abs/2611.06271)|null|
 |**2026-11-04**|**From Handcrafted to Generative: RLVR-Optimized Icon Generation for Alexa+**|Rohan Sequeira et.al.|[2611.06123](http://arxiv.org/abs/2611.06123)|null|
 |**2026-11-04**|**FLINT: Coupling Proximal Initialization and Bounded Stochasticity for Flow-Matching Inverse Problems**|Junseo Bang et.al.|[2611.05945](http://arxiv.org/abs/2611.05945)|null|
+|**2026-11-04**|**A Night at the LLM Zoo: Data Conditioned Flow Matching for Generating Pretrained LLM Weights**|Scott Biggs et.al.|[2611.07103](http://arxiv.org/abs/2611.07103)|null|
+|**2026-11-04**|**Expanding the Quality-Coverage Frontier with Competitive Flow Matching**|Wenxuan Peng et.al.|[2611.07055](http://arxiv.org/abs/2611.07055)|null|
 |**2026-11-03**|**GSBR: Geometric Support Behavior Regularization for Online RL**|Charles Xu et.al.|[2611.05295](http://arxiv.org/abs/2611.05295)|null|
 |**2026-11-03**|**Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs**|Asher James Hancock et.al.|[2611.05249](http://arxiv.org/abs/2611.05249)|null|
 |**2026-11-03**|**Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning**|Juan Guevara et.al.|[2611.05207](http://arxiv.org/abs/2611.05207)|null|
@@ -2977,5 +2988,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
