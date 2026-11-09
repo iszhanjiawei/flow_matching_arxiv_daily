@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Aadya Agrawal et.al.|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
+|**2026-11-06**|**Flow-Guided Target-Space Alignment via Path Consistency**|Ruizhi Yuan et.al.|[2611.09863](http://arxiv.org/abs/2611.09863)|null|
+|**2026-11-06**|**PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation**|Jan Spindler et.al.|[2611.09692](http://arxiv.org/abs/2611.09692)|null|
+|**2026-11-06**|**RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation**|Matthieu Meignin et.al.|[2611.09663](http://arxiv.org/abs/2611.09663)|null|
+|**2026-11-06**|**CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling**|Yusong Wang et.al.|[2611.09548](http://arxiv.org/abs/2611.09548)|null|
+|**2026-11-06**|**EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions**|Chinmay Mundane et.al.|[2611.09270](http://arxiv.org/abs/2611.09270)|null|
 |**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
 |**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[2611.08338](http://arxiv.org/abs/2611.08338)|null|
 |**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Gabriel Parra et.al.|[2611.08295](http://arxiv.org/abs/2611.08295)|null|
@@ -23,6 +29,11 @@
 |**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Jiahao Cui et.al.|[2611.07939](http://arxiv.org/abs/2611.07939)|null|
 |**2026-11-05**|**Estimating Spectrum-Free Information Bounds for Generative Surrogates Beyond Conditional Collapse**|Chaitanya Dumbre et.al.|[2611.07826](http://arxiv.org/abs/2611.07826)|null|
 |**2026-11-05**|**Physics-informed latent conditional flow matching for generative modeling of granular flows on inclined planes**|Ziqi Han et.al.|[2611.07458](http://arxiv.org/abs/2611.07458)|null|
+|**2026-11-05**|**Not All Latents Are Equal: Importance-Weighted Latent Graph Generation**|Biraaj Rout et.al.|[2611.08788](http://arxiv.org/abs/2611.08788)|null|
+|**2026-11-05**|**ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding**|Selim Aktas et.al.|[2611.08669](http://arxiv.org/abs/2611.08669)|null|
+|**2026-11-05**|**CS-Pi: Constraint-Satisfying Flow Policy Sampling**|Soumojit Bhattacharya et.al.|[2611.08654](http://arxiv.org/abs/2611.08654)|null|
+|**2026-11-05**|**Just CaloCHILL: fast hadronic shower generation in a learned latent space**|Henry Day-Hall et.al.|[2611.08606](http://arxiv.org/abs/2611.08606)|null|
+|**2026-11-05**|**Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation**|Meituan Robotics Team et.al.|[2611.08577](http://arxiv.org/abs/2611.08577)|null|
 |**2026-11-04**|**From Pixels to Actions - Towards Native Vision-Language-Action Policies**|Weichen Fan et.al.|[2611.06918](http://arxiv.org/abs/2611.06918)|null|
 |**2026-11-04**|**VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation**|Yihong Luo et.al.|[2611.06796](http://arxiv.org/abs/2611.06796)|null|
 |**2026-11-04**|**Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching**|Giuliano Galadini et.al.|[2611.06711](http://arxiv.org/abs/2611.06711)|null|
