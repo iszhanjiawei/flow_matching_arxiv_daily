@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Rustin Soraki et.al.|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
+|**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Tianze Luo et.al.|[2611.12852](http://arxiv.org/abs/2611.12852)|null|
+|**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
+|**2026-11-09**|**The balance between feature learning and collapse in dynamical systems-based generative models**|Julian Brandon et.al.|[2611.12156](http://arxiv.org/abs/2611.12156)|null|
+|**2026-11-09**|**Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey**|Ehsan Mirafzali et.al.|[2611.12107](http://arxiv.org/abs/2611.12107)|null|
+|**2026-11-09**|**BARS: Beat-Adaptive Rap Synthesis via Flow Matching**|Taemin Cho et.al.|[2611.12061](http://arxiv.org/abs/2611.12061)|null|
+|**2026-11-09**|**LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting**|Zhimin Liao et.al.|[2611.11912](http://arxiv.org/abs/2611.11912)|null|
+|**2026-11-09**|**How Many Candidates Does a One-Step World Model Need? A Random-Codebook Account of Nearest-of-m Training on Frozen DINO Tokens**|Yong Hwi Song et.al.|[2611.11887](http://arxiv.org/abs/2611.11887)|null|
+|**2026-11-09**|**DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving**|Bingzhang Wang et.al.|[2611.11856](http://arxiv.org/abs/2611.11856)|null|
+|**2026-11-09**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854](http://arxiv.org/abs/2611.11854)|null|
+|**2026-11-08**|**FlowEval: How Much Adaptation Does an Embodied Foundation Model Need at Deployment?**|Zhang Xi-Jia et.al.|[2611.11650](http://arxiv.org/abs/2611.11650)|null|
+|**2026-11-08**|**InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction**|Yude Zou et.al.|[2611.11517](http://arxiv.org/abs/2611.11517)|null|
+|**2026-11-08**|**GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching**|Siming Fu et.al.|[2611.11421](http://arxiv.org/abs/2611.11421)|null|
+|**2026-11-08**|**Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS**|Jaeho Lee et.al.|[2611.11179](http://arxiv.org/abs/2611.11179)|null|
+|**2026-11-08**|**Virtual-Flow: Virtual Microphone-based Speech Enhancement via Semi-supervised Flow Matching**|Dongheon Lee et.al.|[2611.11130](http://arxiv.org/abs/2611.11130)|null|
+|**2026-11-07**|**CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs**|Trong Khiem Tran et.al.|[2611.10945](http://arxiv.org/abs/2611.10945)|null|
+|**2026-11-07**|**Zero-Shot VLA Adaptation with Retrieved Guidance**|Subin Kim et.al.|[2611.10894](http://arxiv.org/abs/2611.10894)|null|
+|**2026-11-07**|**JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation**|Xiangjun Tang et.al.|[2611.10690](http://arxiv.org/abs/2611.10690)|null|
+|**2026-11-07**|**Receiver-Resolution APS-PDP Maps for Wireless Channels: Benchmarking and Coarse-to-Fine Modeling**|Peilin Zheng et.al.|[2611.10581](http://arxiv.org/abs/2611.10581)|null|
+|**2026-11-07**|**SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction**|Jaewoo Jeong et.al.|[2611.10506](http://arxiv.org/abs/2611.10506)|null|
 |**2026-11-06**|**FlowMoP: Stochastic Multi-Person Motion Prediction**|Aadya Agrawal et.al.|[2611.09882](http://arxiv.org/abs/2611.09882)|null|
 |**2026-11-06**|**Flow-Guided Target-Space Alignment via Path Consistency**|Ruizhi Yuan et.al.|[2611.09863](http://arxiv.org/abs/2611.09863)|null|
 |**2026-11-06**|**PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation**|Jan Spindler et.al.|[2611.09692](http://arxiv.org/abs/2611.09692)|null|
