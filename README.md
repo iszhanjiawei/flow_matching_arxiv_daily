@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Lipschitz-Controlled Flow Matching for Robust Image Restoration**|Sedjro Salomon Hotegni et.al.|[2611.13995](http://arxiv.org/abs/2611.13995)|null|
+|**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](http://arxiv.org/abs/2611.13834)|null|
+|**2026-11-10**|**Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser**|Dibyanshu Kumar et.al.|[2611.13742](http://arxiv.org/abs/2611.13742)|null|
+|**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499](http://arxiv.org/abs/2611.13499)|null|
 |**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Rustin Soraki et.al.|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
 |**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Tianze Luo et.al.|[2611.12852](http://arxiv.org/abs/2611.12852)|null|
 |**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
@@ -24,6 +28,9 @@
 |**2026-11-09**|**How Many Candidates Does a One-Step World Model Need? A Random-Codebook Account of Nearest-of-m Training on Frozen DINO Tokens**|Yong Hwi Song et.al.|[2611.11887](http://arxiv.org/abs/2611.11887)|null|
 |**2026-11-09**|**DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving**|Bingzhang Wang et.al.|[2611.11856](http://arxiv.org/abs/2611.11856)|null|
 |**2026-11-09**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854](http://arxiv.org/abs/2611.11854)|null|
+|**2026-11-09**|**Robust Flow Matching under Target Corruption and Label Noise**|Mert Can Kurucu et.al.|[2611.13324](http://arxiv.org/abs/2611.13324)|null|
+|**2026-11-09**|**One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow Matching Policies**|Mahindra Rautela et.al.|[2611.13311](http://arxiv.org/abs/2611.13311)|null|
+|**2026-11-09**|**Latent Barrier Steering: Hierarchical Safety for Generative Planning**|Renhao Zhang et.al.|[2611.13227](http://arxiv.org/abs/2611.13227)|null|
 |**2026-11-08**|**FlowEval: How Much Adaptation Does an Embodied Foundation Model Need at Deployment?**|Zhang Xi-Jia et.al.|[2611.11650](http://arxiv.org/abs/2611.11650)|null|
 |**2026-11-08**|**InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction**|Yude Zou et.al.|[2611.11517](http://arxiv.org/abs/2611.11517)|null|
 |**2026-11-08**|**GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching**|Siming Fu et.al.|[2611.11421](http://arxiv.org/abs/2611.11421)|null|
@@ -3019,5 +3026,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
