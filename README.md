@@ -18,6 +18,8 @@
 |**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](http://arxiv.org/abs/2611.13834)|null|
 |**2026-11-10**|**Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser**|Dibyanshu Kumar et.al.|[2611.13742](http://arxiv.org/abs/2611.13742)|null|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499](http://arxiv.org/abs/2611.13499)|null|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](http://arxiv.org/abs/2611.14432)|null|
+|**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](http://arxiv.org/abs/2611.14281)|null|
 |**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Rustin Soraki et.al.|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
 |**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Tianze Luo et.al.|[2611.12852](http://arxiv.org/abs/2611.12852)|null|
 |**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
