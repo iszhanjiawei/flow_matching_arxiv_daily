@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](http://arxiv.org/abs/2611.14281)|null|
+|**2026-11-12**|**Manifold Attracting Flow Matching: Physics-Constrained Sampling via Continuous Geometric Dynamics**|Guanyu Chen et.al.|[2611.16677](http://arxiv.org/abs/2611.16677)|null|
+|**2026-11-12**|**Machine Learning for Scalable Multi-AP Coordination in IEEE 802.11bn Networks**|Maksymilian Wojnar et.al.|[2611.16634](http://arxiv.org/abs/2611.16634)|null|
+|**2026-11-12**|**UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation**|Jiancheng Pan et.al.|[2611.16517](http://arxiv.org/abs/2611.16517)|null|
+|**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374](http://arxiv.org/abs/2611.16374)|null|
+|**2026-11-12**|**Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data**|Zhong Li et.al.|[2611.16184](http://arxiv.org/abs/2611.16184)|null|
 |**2026-11-11**|**FloCOS: Predicting Compact Forward Occupancy Sets of Surrounding Vehicles via Conditional Flow Matching**|Chuansheng Dong et.al.|[2611.15488](http://arxiv.org/abs/2611.15488)|null|
 |**2026-11-11**|**WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration**|Abdulaziz Alfaraj et.al.|[2611.15457](http://arxiv.org/abs/2611.15457)|null|
 |**2026-11-11**|**FineSpeaker: Reliable Speaker Representation Learning at Fine Temporal Resolution**|Yongkang Yin et.al.|[2611.15288](http://arxiv.org/abs/2611.15288)|null|
@@ -26,7 +32,6 @@
 |**2026-11-10**|**Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser**|Dibyanshu Kumar et.al.|[2611.13742](http://arxiv.org/abs/2611.13742)|null|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499](http://arxiv.org/abs/2611.13499)|null|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](http://arxiv.org/abs/2611.14432)|null|
-|**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](http://arxiv.org/abs/2611.14281)|null|
 |**2026-11-09**|**Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos**|Rustin Soraki et.al.|[2611.12879](http://arxiv.org/abs/2611.12879)|null|
 |**2026-11-09**|**What kills $v$ -prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching**|Tianze Luo et.al.|[2611.12852](http://arxiv.org/abs/2611.12852)|null|
 |**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|null|
