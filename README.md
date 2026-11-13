@@ -1,4 +1,4 @@
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**FloCOS: Predicting Compact Forward Occupancy Sets of Surrounding Vehicles via Conditional Flow Matching**|Chuansheng Dong et.al.|[2611.15488](http://arxiv.org/abs/2611.15488)|null|
+|**2026-11-11**|**WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration**|Abdulaziz Alfaraj et.al.|[2611.15457](http://arxiv.org/abs/2611.15457)|null|
+|**2026-11-11**|**FineSpeaker: Reliable Speaker Representation Learning at Fine Temporal Resolution**|Yongkang Yin et.al.|[2611.15288](http://arxiv.org/abs/2611.15288)|null|
+|**2026-11-11**|**FréchetFlow: Flow Matching for Non-Euclidean Data**|Yidong Zhou et.al.|[2611.15220](http://arxiv.org/abs/2611.15220)|null|
+|**2026-11-11**|**Knowledge Transfer for Conditional Flow Matching: Frozen Estimation and Adaptation**|Yian Huang et.al.|[2611.15150](http://arxiv.org/abs/2611.15150)|null|
+|**2026-11-11**|**From Concepts to Interactions: Dynamic Graph Semantic Recomposition for Safe Visual Generation**|Qinghui Gong et.al.|[2611.15149](http://arxiv.org/abs/2611.15149)|null|
+|**2026-11-11**|**Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models**|Nadav Bojan Sellam et.al.|[2611.15040](http://arxiv.org/abs/2611.15040)|null|
 |**2026-11-10**|**Lipschitz-Controlled Flow Matching for Robust Image Restoration**|Sedjro Salomon Hotegni et.al.|[2611.13995](http://arxiv.org/abs/2611.13995)|null|
 |**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](http://arxiv.org/abs/2611.13834)|null|
 |**2026-11-10**|**Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser**|Dibyanshu Kumar et.al.|[2611.13742](http://arxiv.org/abs/2611.13742)|null|
@@ -3028,5 +3035,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
