@@ -14,12 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Potential Flow, Stress, and Straightness in Flow Matching: Euler Error on Gaussian-Mixture Targets**|Zijian Liu et.al.|[2611.18343](http://arxiv.org/abs/2611.18343)|null|
+|**2026-11-13**|**Vessel2Brain: Edge-Aware Multi-Scale Flow Matching for 3D Brain Image Generation from Vessel Masks**|Zhi Chen et.al.|[2611.17919](http://arxiv.org/abs/2611.17919)|null|
+|**2026-11-13**|**More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology**|Songming Zhang et.al.|[2611.17899](http://arxiv.org/abs/2611.17899)|null|
+|**2026-11-13**|**Learning Anisotropic Prediction Targets for Flow Models**|Rayhan Zirvi et.al.|[2611.17767](http://arxiv.org/abs/2611.17767)|null|
+|**2026-11-13**|**Finite speed Ornstein-Uhlenbeck-Kac processes and their applications in generative modeling**|Richard Duong et.al.|[2611.17625](http://arxiv.org/abs/2611.17625)|null|
 |**2026-11-12**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](http://arxiv.org/abs/2611.14281)|null|
 |**2026-11-12**|**Manifold Attracting Flow Matching: Physics-Constrained Sampling via Continuous Geometric Dynamics**|Guanyu Chen et.al.|[2611.16677](http://arxiv.org/abs/2611.16677)|null|
 |**2026-11-12**|**Machine Learning for Scalable Multi-AP Coordination in IEEE 802.11bn Networks**|Maksymilian Wojnar et.al.|[2611.16634](http://arxiv.org/abs/2611.16634)|null|
 |**2026-11-12**|**UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation**|Jiancheng Pan et.al.|[2611.16517](http://arxiv.org/abs/2611.16517)|null|
 |**2026-11-12**|**ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder**|Chongkai Gao et.al.|[2611.16374](http://arxiv.org/abs/2611.16374)|null|
 |**2026-11-12**|**Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data**|Zhong Li et.al.|[2611.16184](http://arxiv.org/abs/2611.16184)|null|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Gongyue Teng et.al.|[2611.17394](http://arxiv.org/abs/2611.17394)|null|
 |**2026-11-11**|**FloCOS: Predicting Compact Forward Occupancy Sets of Surrounding Vehicles via Conditional Flow Matching**|Chuansheng Dong et.al.|[2611.15488](http://arxiv.org/abs/2611.15488)|null|
 |**2026-11-11**|**WaveFlow-UIE: A Single-Pipeline Wavelet-Domain Flow Model for Efficient Underwater Image Restoration**|Abdulaziz Alfaraj et.al.|[2611.15457](http://arxiv.org/abs/2611.15457)|null|
 |**2026-11-11**|**FineSpeaker: Reliable Speaker Representation Learning at Fine Temporal Resolution**|Yongkang Yin et.al.|[2611.15288](http://arxiv.org/abs/2611.15288)|null|
