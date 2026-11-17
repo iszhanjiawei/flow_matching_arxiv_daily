@@ -19,6 +19,10 @@
 |**2026-11-16**|**Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach**|Zhendong Li et.al.|[2611.20439](http://arxiv.org/abs/2611.20439)|null|
 |**2026-11-16**|**Flow Matching for Sampled-Data Control of Angular Distributions**|Xin Mao et.al.|[2611.20360](http://arxiv.org/abs/2611.20360)|null|
 |**2026-11-16**|**BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation**|Jingyuan Zhu et.al.|[2611.20351](http://arxiv.org/abs/2611.20351)|null|
+|**2026-11-16**|**Comments on "Deep Fréchet Regression"**|Jianbin Tan et.al.|[2611.21454](http://arxiv.org/abs/2611.21454)|null|
+|**2026-11-16**|**MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space**|Yibo Bai et.al.|[2611.21060](http://arxiv.org/abs/2611.21060)|null|
+|**2026-11-16**|**FlowRow: Learning Navigation Behaviors in Agricultural Environments with Long-Horizon Goal-Conditioned Flow Matching Policies**|Utkarsh Bajpai et.al.|[2611.21035](http://arxiv.org/abs/2611.21035)|null|
+|**2026-11-16**|**Multi-Rate Flow Matching for Point Cloud Upsampling**|Jingkai Shang et.al.|[2611.20879](http://arxiv.org/abs/2611.20879)|null|
 |**2026-11-15**|**Residual-Tail-Informed Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al.|[2611.20334](http://arxiv.org/abs/2611.20334)|null|
 |**2026-11-15**|**VoxMel TTS Technical Report**|Wenhao Guan et.al.|[2611.20254](http://arxiv.org/abs/2611.20254)|null|
 |**2026-11-15**|**GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis**|Luozheng Qin et.al.|[2611.20192](http://arxiv.org/abs/2611.20192)|null|
