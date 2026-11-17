@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460](http://arxiv.org/abs/2611.20460)|null|
+|**2026-11-16**|**Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems**|Dongeon Lee et.al.|[2611.20451](http://arxiv.org/abs/2611.20451)|null|
+|**2026-11-16**|**Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach**|Zhendong Li et.al.|[2611.20439](http://arxiv.org/abs/2611.20439)|null|
+|**2026-11-16**|**Flow Matching for Sampled-Data Control of Angular Distributions**|Xin Mao et.al.|[2611.20360](http://arxiv.org/abs/2611.20360)|null|
+|**2026-11-16**|**BlockAlign: Preference Optimization for Trajectory-Distilled Video Generation**|Jingyuan Zhu et.al.|[2611.20351](http://arxiv.org/abs/2611.20351)|null|
+|**2026-11-15**|**Residual-Tail-Informed Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al.|[2611.20334](http://arxiv.org/abs/2611.20334)|null|
+|**2026-11-15**|**VoxMel TTS Technical Report**|Wenhao Guan et.al.|[2611.20254](http://arxiv.org/abs/2611.20254)|null|
+|**2026-11-15**|**GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis**|Luozheng Qin et.al.|[2611.20192](http://arxiv.org/abs/2611.20192)|null|
+|**2026-11-15**|**AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data**|Annan Wang et.al.|[2611.19937](http://arxiv.org/abs/2611.19937)|null|
+|**2026-11-15**|**Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning**|Zhanjiang Yang et.al.|[2611.19825](http://arxiv.org/abs/2611.19825)|null|
+|**2026-11-15**|**Conditional Optimal Transport and Triangular Maps for Imitation Learning**|Mohammad Al-Jarrah et.al.|[2611.19815](http://arxiv.org/abs/2611.19815)|null|
+|**2026-11-15**|**Cache or Denoise Less? Residual Reuse in a Flow-Matching World Action Model**|Abhinav Gupta et.al.|[2611.19709](http://arxiv.org/abs/2611.19709)|null|
+|**2026-11-15**|**MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**|Su Yeon Shim et.al.|[2611.19706](http://arxiv.org/abs/2611.19706)|null|
+|**2026-11-14**|**Explicit Regularization for Flow Matching**|Lars Ruthotto et.al.|[2611.19587](http://arxiv.org/abs/2611.19587)|null|
+|**2026-11-14**|**ResWAM: Learning What Changes, Not What Stays, for World-Action Models**|Chongyu Fan et.al.|[2611.19559](http://arxiv.org/abs/2611.19559)|null|
+|**2026-11-14**|**Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation**|Yunya Wang et.al.|[2611.19260](http://arxiv.org/abs/2611.19260)|null|
+|**2026-11-14**|**ProSing: Zero-Shot Fine-Grained Singing Technique Conversion**|Xinhao Guan et.al.|[2611.19223](http://arxiv.org/abs/2611.19223)|null|
 |**2026-11-13**|**Potential Flow, Stress, and Straightness in Flow Matching: Euler Error on Gaussian-Mixture Targets**|Zijian Liu et.al.|[2611.18343](http://arxiv.org/abs/2611.18343)|null|
 |**2026-11-13**|**Vessel2Brain: Edge-Aware Multi-Scale Flow Matching for 3D Brain Image Generation from Vessel Masks**|Zhi Chen et.al.|[2611.17919](http://arxiv.org/abs/2611.17919)|null|
 |**2026-11-13**|**More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology**|Songming Zhang et.al.|[2611.17899](http://arxiv.org/abs/2611.17899)|null|
@@ -3046,5 +3063,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
