@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Correcting Flows with Marginal Matching**|Meital Bojan et.al.|[2611.23134](http://arxiv.org/abs/2611.23134)|null|
+|**2026-11-17**|**When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning**|Pu Cao et.al.|[2611.23038](http://arxiv.org/abs/2611.23038)|null|
+|**2026-11-17**|**Sideslip-Conditioned Drift Trajectory Planning with Flow Matching and Control Barrier Functions**|Seokjun Lee et.al.|[2611.22927](http://arxiv.org/abs/2611.22927)|null|
+|**2026-11-17**|**Path-Aligned Constraint Equivariance**|Yuhao Wang et.al.|[2611.22873](http://arxiv.org/abs/2611.22873)|null|
+|**2026-11-17**|**Sub-Meter Canopy Height Synthesis from Sentinel-2 via Anchored Residual Flow**|Kiarie Ndegwa et.al.|[2611.22636](http://arxiv.org/abs/2611.22636)|null|
+|**2026-11-17**|**Back to Mel: Learning to Bridge Fidelity and Perception in Generative Speech Enhancement**|Andong Li et.al.|[2611.22628](http://arxiv.org/abs/2611.22628)|null|
+|**2026-11-17**|**Task Convergent Flow Matching for Generative Robotics**|Lorenzo Paiola et.al.|[2611.22609](http://arxiv.org/abs/2611.22609)|null|
+|**2026-11-17**|**Physically Admissible Generative Flow Matching for Sparse Flow Reconstruction**|Yuhao Wang et.al.|[2611.22549](http://arxiv.org/abs/2611.22549)|null|
+|**2026-11-17**|**Equivariant Flow Matching on Homogeneous Spaces**|Finn M. Sherry et.al.|[2611.22492](http://arxiv.org/abs/2611.22492)|null|
+|**2026-11-17**|**Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?**|Arun Sharma et.al.|[2611.22283](http://arxiv.org/abs/2611.22283)|null|
+|**2026-11-17**|**ST-FateFlow: Continuous Gene-Spatial Reconstruction with Differentiation-Potential Learning from Time-Resolved Spatial Transcriptomics**|Zhe Yu et.al.|[2611.22256](http://arxiv.org/abs/2611.22256)|null|
+|**2026-11-17**|**Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra**|Thorben Prein et.al.|[2611.22098](http://arxiv.org/abs/2611.22098)|null|
+|**2026-11-17**|**ReLAP: Latent Action Pretraining through Recurrent Video Prediction in JEPA Space**|R. Gnana Praveen et.al.|[2611.22077](http://arxiv.org/abs/2611.22077)|null|
 |**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460](http://arxiv.org/abs/2611.20460)|null|
 |**2026-11-16**|**Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems**|Dongeon Lee et.al.|[2611.20451](http://arxiv.org/abs/2611.20451)|null|
 |**2026-11-16**|**Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach**|Zhendong Li et.al.|[2611.20439](http://arxiv.org/abs/2611.20439)|null|
@@ -23,6 +36,8 @@
 |**2026-11-16**|**MetricHand: Geometry-Aware Flow Matching for 4D Hand Reconstruction in Metric World Space**|Yibo Bai et.al.|[2611.21060](http://arxiv.org/abs/2611.21060)|null|
 |**2026-11-16**|**FlowRow: Learning Navigation Behaviors in Agricultural Environments with Long-Horizon Goal-Conditioned Flow Matching Policies**|Utkarsh Bajpai et.al.|[2611.21035](http://arxiv.org/abs/2611.21035)|null|
 |**2026-11-16**|**Multi-Rate Flow Matching for Point Cloud Upsampling**|Jingkai Shang et.al.|[2611.20879](http://arxiv.org/abs/2611.20879)|null|
+|**2026-11-16**|**Agile Monoped Hopping on Complex and Discrete Terrain via Kinodynamic Planning with Distilled MPPI Steering**|Yue Qin et.al.|[2611.21905](http://arxiv.org/abs/2611.21905)|null|
+|**2026-11-16**|**FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems**|Samitha Gunarathne et.al.|[2611.21698](http://arxiv.org/abs/2611.21698)|null|
 |**2026-11-15**|**Residual-Tail-Informed Flow Matching for Time Series Anomaly Detection**|Shyam Sundar Saravanan et.al.|[2611.20334](http://arxiv.org/abs/2611.20334)|null|
 |**2026-11-15**|**VoxMel TTS Technical Report**|Wenhao Guan et.al.|[2611.20254](http://arxiv.org/abs/2611.20254)|null|
 |**2026-11-15**|**GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis**|Luozheng Qin et.al.|[2611.20192](http://arxiv.org/abs/2611.20192)|null|
@@ -3067,5 +3082,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
