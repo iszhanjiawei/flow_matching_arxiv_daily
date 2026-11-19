@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
+|**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Phuong Tuan Dat et.al.|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
+|**2026-11-18**|**Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics**|Zihan Wang et.al.|[2611.24764](http://arxiv.org/abs/2611.24764)|null|
+|**2026-11-18**|**SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data**|Yaping Li et.al.|[2611.24585](http://arxiv.org/abs/2611.24585)|null|
+|**2026-11-18**|**Where Should a Diffusion Transformer Meet Its Teacher?**|Zhuoqi Hu et.al.|[2611.24380](http://arxiv.org/abs/2611.24380)|null|
+|**2026-11-18**|**Hardware Acceleration of Vision-Language-Action Models with Weight Precision Rising over the Flow Steps**|Robin Geens et.al.|[2611.24234](http://arxiv.org/abs/2611.24234)|null|
+|**2026-11-18**|**JEPA Dots: Dual-Latent World Model for Language-Guided Robot Control**|Xianhao Pan et.al.|[2611.24062](http://arxiv.org/abs/2611.24062)|null|
+|**2026-11-18**|**ReliFlow: Reliability-Calibrated Residual Transport for Combinatorial Single-Cell Perturbation Prediction**|Jinrui David et.al.|[2611.23999](http://arxiv.org/abs/2611.23999)|null|
+|**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788](http://arxiv.org/abs/2611.23788)|null|
+|**2026-11-18**|**RecallFlow: Episodic Memory as the Source Distribution of Generative Robot Policies**|Xuji Zhang et.al.|[2611.23731](http://arxiv.org/abs/2611.23731)|null|
 |**2026-11-17**|**Correcting Flows with Marginal Matching**|Meital Bojan et.al.|[2611.23134](http://arxiv.org/abs/2611.23134)|null|
 |**2026-11-17**|**When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning**|Pu Cao et.al.|[2611.23038](http://arxiv.org/abs/2611.23038)|null|
 |**2026-11-17**|**Sideslip-Conditioned Drift Trajectory Planning with Flow Matching and Control Barrier Functions**|Seokjun Lee et.al.|[2611.22927](http://arxiv.org/abs/2611.22927)|null|
@@ -27,6 +37,8 @@
 |**2026-11-17**|**ST-FateFlow: Continuous Gene-Spatial Reconstruction with Differentiation-Potential Learning from Time-Resolved Spatial Transcriptomics**|Zhe Yu et.al.|[2611.22256](http://arxiv.org/abs/2611.22256)|null|
 |**2026-11-17**|**Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra**|Thorben Prein et.al.|[2611.22098](http://arxiv.org/abs/2611.22098)|null|
 |**2026-11-17**|**ReLAP: Latent Action Pretraining through Recurrent Video Prediction in JEPA Space**|R. Gnana Praveen et.al.|[2611.22077](http://arxiv.org/abs/2611.22077)|null|
+|**2026-11-17**|**RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO**|Amrit Lal Singh et.al.|[2611.23517](http://arxiv.org/abs/2611.23517)|null|
+|**2026-11-17**|**Autoregressive View Model**|Jensen et.al.|[2611.23417](http://arxiv.org/abs/2611.23417)|null|
 |**2026-11-16**|**Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models**|Jingru Guo et.al.|[2611.20460](http://arxiv.org/abs/2611.20460)|null|
 |**2026-11-16**|**Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems**|Dongeon Lee et.al.|[2611.20451](http://arxiv.org/abs/2611.20451)|null|
 |**2026-11-16**|**Joint Antenna Positioning and Dynamic Beam Tracking for MA-Enabled Full-Duplex Secure ISAC Systems: A Flow Matching DRL Approach**|Zhendong Li et.al.|[2611.20439](http://arxiv.org/abs/2611.20439)|null|
