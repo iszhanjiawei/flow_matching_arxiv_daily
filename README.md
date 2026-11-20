@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Flow Matching from Non-Gaussian Sources: A Theory of Efficient Sampling**|Yuchen Zhou et.al.|[2611.26407](http://arxiv.org/abs/2611.26407)|null|
+|**2026-11-19**|**SpecFlow: Flow Matching in the Acceleration Spectrum for Multi-Agent Trajectory Forecasting**|Ziyang Xu et.al.|[2611.26390](http://arxiv.org/abs/2611.26390)|null|
+|**2026-11-19**|**Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields**|Cosmo Santoni et.al.|[2611.26355](http://arxiv.org/abs/2611.26355)|null|
+|**2026-11-19**|**UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation**|Zhengtu Liang et.al.|[2611.26103](http://arxiv.org/abs/2611.26103)|null|
+|**2026-11-19**|**Variational Trajectory Flow Matching with a Non-Linear Interpolant**|Gurjeet Sangra Singh et.al.|[2611.26044](http://arxiv.org/abs/2611.26044)|null|
+|**2026-11-19**|**LIFT: Latent Flow Matching for Probabilistic Cell Fate Dynamics with Single Cell Snapshots**|Bowen Yang et.al.|[2611.25917](http://arxiv.org/abs/2611.25917)|null|
+|**2026-11-19**|**TrajCal: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling**|Junchi Zhang et.al.|[2611.25847](http://arxiv.org/abs/2611.25847)|null|
+|**2026-11-19**|**CACO: Coverage-Aware Coordinated Optimization for Continuous Generative Retrieval**|Pan Zhang et.al.|[2611.25738](http://arxiv.org/abs/2611.25738)|null|
+|**2026-11-19**|**Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response**|Yutao Li et.al.|[2611.25626](http://arxiv.org/abs/2611.25626)|null|
+|**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604](http://arxiv.org/abs/2611.25604)|null|
+|**2026-11-19**|**GraF-VTA: Neuro-Symbolic Trajectory Generation from Vision and Temporal Logic via Graph-Based Fusion**|Zezhi Liu et.al.|[2611.25589](http://arxiv.org/abs/2611.25589)|null|
+|**2026-11-19**|**TwoPass: Draft-Guided Few-Step Video Prediction for Robotic Manipulation**|Yijun Liu et.al.|[2611.25553](http://arxiv.org/abs/2611.25553)|null|
+|**2026-11-19**|**ActMem: From Latent Memory Reasoning to Grounded Robotic Action**|Linfeng Dong et.al.|[2611.25461](http://arxiv.org/abs/2611.25461)|null|
+|**2026-11-19**|**CANDOR: Contrastive Self-Denoising Rewards for Label-Free Text-to-Image Post-Training**|Junhyeok Lee et.al.|[2611.25457](http://arxiv.org/abs/2611.25457)|null|
+|**2026-11-19**|**WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics**|Zexun Lin et.al.|[2611.25413](http://arxiv.org/abs/2611.25413)|null|
 |**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
 |**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Phuong Tuan Dat et.al.|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
 |**2026-11-18**|**Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics**|Zihan Wang et.al.|[2611.24764](http://arxiv.org/abs/2611.24764)|null|
@@ -24,6 +39,8 @@
 |**2026-11-18**|**ReliFlow: Reliability-Calibrated Residual Transport for Combinatorial Single-Cell Perturbation Prediction**|Jinrui David et.al.|[2611.23999](http://arxiv.org/abs/2611.23999)|null|
 |**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788](http://arxiv.org/abs/2611.23788)|null|
 |**2026-11-18**|**RecallFlow: Episodic Memory as the Source Distribution of Generative Robot Policies**|Xuji Zhang et.al.|[2611.23731](http://arxiv.org/abs/2611.23731)|null|
+|**2026-11-18**|**Verify2Act: Critic-Guided Latent World Models for Verifying Language-Conditioned Manipulation Plans**|Chrisantus Eze et.al.|[2611.25243](http://arxiv.org/abs/2611.25243)|null|
+|**2026-11-18**|**VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions**|Arthur Bucker et.al.|[2611.25199](http://arxiv.org/abs/2611.25199)|null|
 |**2026-11-17**|**Correcting Flows with Marginal Matching**|Meital Bojan et.al.|[2611.23134](http://arxiv.org/abs/2611.23134)|null|
 |**2026-11-17**|**When Anchors Shift the Target: Advantage-Gated Adaptation for Diffusion Reinforcement Learning**|Pu Cao et.al.|[2611.23038](http://arxiv.org/abs/2611.23038)|null|
 |**2026-11-17**|**Sideslip-Conditioned Drift Trajectory Planning with Flow Matching and Control Barrier Functions**|Seokjun Lee et.al.|[2611.22927](http://arxiv.org/abs/2611.22927)|null|
@@ -3094,5 +3111,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
