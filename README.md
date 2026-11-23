@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Sarah Parisot et.al.|[2611.27870](http://arxiv.org/abs/2611.27870)|null|
+|**2026-11-20**|**Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference**|Iuliu Cuceu et.al.|[2611.27848](http://arxiv.org/abs/2611.27848)|null|
+|**2026-11-20**|**Late-Time Dynamics of Flow Matching: Distance Geometry and Learning**|Umberto Biccari et.al.|[2611.27653](http://arxiv.org/abs/2611.27653)|null|
+|**2026-11-20**|**ReCoFlow-MRI: Few-Step Conditional Flow Matching for GNL-Induced Nonlinear MRI Reconstruction**|Qidi Luo et.al.|[2611.27590](http://arxiv.org/abs/2611.27590)|null|
+|**2026-11-20**|**Solar-Conditioned Flow Matching for Multitemporal Aerial Visible-to-Infrared Image Translation**|Wenwen Fang et.al.|[2611.27501](http://arxiv.org/abs/2611.27501)|null|
+|**2026-11-20**|**Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies**|Yunpeng Mei et.al.|[2611.27171](http://arxiv.org/abs/2611.27171)|null|
+|**2026-11-20**|**Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation**|Minjong Kim et.al.|[2611.27162](http://arxiv.org/abs/2611.27162)|null|
 |**2026-11-19**|**Flow Matching from Non-Gaussian Sources: A Theory of Efficient Sampling**|Yuchen Zhou et.al.|[2611.26407](http://arxiv.org/abs/2611.26407)|null|
 |**2026-11-19**|**SpecFlow: Flow Matching in the Acceleration Spectrum for Multi-Agent Trajectory Forecasting**|Ziyang Xu et.al.|[2611.26390](http://arxiv.org/abs/2611.26390)|null|
 |**2026-11-19**|**Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields**|Cosmo Santoni et.al.|[2611.26355](http://arxiv.org/abs/2611.26355)|null|
@@ -29,6 +36,8 @@
 |**2026-11-19**|**ActMem: From Latent Memory Reasoning to Grounded Robotic Action**|Linfeng Dong et.al.|[2611.25461](http://arxiv.org/abs/2611.25461)|null|
 |**2026-11-19**|**CANDOR: Contrastive Self-Denoising Rewards for Label-Free Text-to-Image Post-Training**|Junhyeok Lee et.al.|[2611.25457](http://arxiv.org/abs/2611.25457)|null|
 |**2026-11-19**|**WAMotor: Accelerating World Action Models via Speculative Inference under Dual Nonuniform Denoising Dynamics**|Zexun Lin et.al.|[2611.25413](http://arxiv.org/abs/2611.25413)|null|
+|**2026-11-19**|**FlowScope: 3D Scene Flow Pretraining Improves Surgical Robot Policies**|John J. Han et.al.|[2611.26865](http://arxiv.org/abs/2611.26865)|null|
+|**2026-11-19**|**Coherent Moment Propagation: Epistemic Uncertainty for Pre-trained Robot Policies**|Miguel Saavedra-Ruiz et.al.|[2611.26855](http://arxiv.org/abs/2611.26855)|null|
 |**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
 |**2026-11-18**|**HINT-WAM: Hindsight-Informed Training for World Action Models**|Phuong Tuan Dat et.al.|[2611.24789](http://arxiv.org/abs/2611.24789)|null|
 |**2026-11-18**|**Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics**|Zihan Wang et.al.|[2611.24764](http://arxiv.org/abs/2611.24764)|null|
@@ -3111,5 +3120,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
