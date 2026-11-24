@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Boqi Zhao et.al.|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
+|**2026-11-23**|**EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation**|Fan Xu et.al.|[2611.31173](http://arxiv.org/abs/2611.31173)|null|
+|**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi et.al.|[2611.31099](http://arxiv.org/abs/2611.31099)|null|
+|**2026-11-23**|**Boltz-Flow: Generating High-Quality Robot Action from Boltzmann Machine**|Hengzhi Jiang et.al.|[2611.31038](http://arxiv.org/abs/2611.31038)|null|
+|**2026-11-23**|**Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration**|Jingyao Zhang et.al.|[2611.30897](http://arxiv.org/abs/2611.30897)|null|
+|**2026-11-23**|**Joint Flow-Matching Posteriors for Overlapping LISA Galactic Binaries**|Davide Sartor et.al.|[2611.30872](http://arxiv.org/abs/2611.30872)|null|
+|**2026-11-23**|**HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation**|Qiwei Liang et.al.|[2611.30813](http://arxiv.org/abs/2611.30813)|null|
+|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
+|**2026-11-23**|**Target-Part Preference Optimization for Part-Aware 3D Generation**|Zishan Qin et.al.|[2611.30472](http://arxiv.org/abs/2611.30472)|null|
+|**2026-11-23**|**BASE: A Backend-Agnostic Streaming Embodiment Layer for Full-Duplex Conversational Avatars**|Chenye Yang et.al.|[2611.30388](http://arxiv.org/abs/2611.30388)|null|
+|**2026-11-23**|**FMSNO: Scaling Surface Neural Operators by Learned Flow Matching Reparametrisation**|Vasilii Liamin et.al.|[2611.30341](http://arxiv.org/abs/2611.30341)|null|
+|**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
+|**2026-11-23**|**SF-Flow: Spectral Flow Matching with High Structural Fidelity for Hallucination-Suppressed Scientific Image Generation**|Zehua Wang et.al.|[2611.30073](http://arxiv.org/abs/2611.30073)|null|
+|**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](http://arxiv.org/abs/2611.29985)|null|
+|**2026-11-23**|**TidyFlow: Geometry-Aware Tabletop Arrangement Generation with Human-Aligned Tidiness Evaluation**|Jiahui Qian et.al.|[2611.29918](http://arxiv.org/abs/2611.29918)|null|
+|**2026-11-22**|**Grounded in Contact: Reducing Floating and Interpenetration Artifacts with Multimodal Skill-Effect Models**|Siyeon Kim et.al.|[2611.29662](http://arxiv.org/abs/2611.29662)|null|
+|**2026-11-22**|**JKO-GRPO: Augmenting GRPO with Wasserstein Proximal Steps for Flow-Matching VLAs**|Jiyong Kwon et.al.|[2611.29646](http://arxiv.org/abs/2611.29646)|null|
+|**2026-11-22**|**RxnScope: Accurate joint generation of product and transition-state pairs from reactants via flow matching**|Yanyang Li et.al.|[2611.29492](http://arxiv.org/abs/2611.29492)|null|
+|**2026-11-22**|**Robust Concept Erasure in Text-to-Image Models via Simulating Brain Functional Localization**|Manyi Li et.al.|[2611.29288](http://arxiv.org/abs/2611.29288)|null|
+|**2026-11-22**|**Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training**|Changfeng Gao et.al.|[2611.29226](http://arxiv.org/abs/2611.29226)|null|
 |**2026-11-20**|**Beyond Visual Fidelity: Comparing Categorical and Continuous World Models**|Sarah Parisot et.al.|[2611.27870](http://arxiv.org/abs/2611.27870)|null|
 |**2026-11-20**|**Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference**|Iuliu Cuceu et.al.|[2611.27848](http://arxiv.org/abs/2611.27848)|null|
 |**2026-11-20**|**Late-Time Dynamics of Flow Matching: Distance Geometry and Learning**|Umberto Biccari et.al.|[2611.27653](http://arxiv.org/abs/2611.27653)|null|
