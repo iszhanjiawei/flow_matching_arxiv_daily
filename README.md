@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
+|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665](http://arxiv.org/abs/2611.32665)|null|
+|**2026-11-24**|**HazeFlux: Few-Step Generative Priors for Real-World Image Dehazing**|Yunong Liu et.al.|[2611.32632](http://arxiv.org/abs/2611.32632)|null|
+|**2026-11-24**|**Every Edit Its Own Budget: Per-Instruction Token Freezing for Training-Free Acceleration of Multi-Edit Image Editing**|Jyotirmoy Nath et.al.|[2611.32407](http://arxiv.org/abs/2611.32407)|null|
+|**2026-11-24**|**BEACON: Learning Observation-Conditioned Starting Points for Guided Conditional Flow Matching in Microscopy**|Anirban Ray et.al.|[2611.32406](http://arxiv.org/abs/2611.32406)|null|
+|**2026-11-24**|**DBFM: Dual-Band Flow Matching for ECG Super-Resolution**|Fan-Yi Hsu et.al.|[2611.32375](http://arxiv.org/abs/2611.32375)|null|
+|**2026-11-24**|**FlowVecFont: Scalable Vector Font Generation via Latent Flow Matching**|Takumu Fujioka et.al.|[2611.32327](http://arxiv.org/abs/2611.32327)|null|
+|**2026-11-24**|**RetraQ: Manifold-Constrained Critic Guidance for Flow Policies in RL**|Xuanzhuo Liu et.al.|[2611.32148](http://arxiv.org/abs/2611.32148)|null|
+|**2026-11-24**|**Duo: Towards Spatiotemporal Action Coordination in Bimanual Policies**|Zhimu Zhou et.al.|[2611.32108](http://arxiv.org/abs/2611.32108)|null|
+|**2026-11-24**|**EffectWAM: Learning Action-Grounded Effects for Robot Manipulation**|Yuan Zhang et.al.|[2611.32053](http://arxiv.org/abs/2611.32053)|null|
+|**2026-11-24**|**MIFLOW: Dynamic Recent-Behavior Priors for Reference-Calibrated Online Flow-Policy Reinforcement Learning**|Chenhao Wang et.al.|[2611.31902](http://arxiv.org/abs/2611.31902)|null|
+|**2026-11-24**|**Two-Stage Post-Training for Flow-Based Embodied Foundation Models**|Jiaming Zhang et.al.|[2611.31850](http://arxiv.org/abs/2611.31850)|null|
 |**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Boqi Zhao et.al.|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
 |**2026-11-23**|**EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation**|Fan Xu et.al.|[2611.31173](http://arxiv.org/abs/2611.31173)|null|
 |**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi et.al.|[2611.31099](http://arxiv.org/abs/2611.31099)|null|
@@ -29,6 +42,8 @@
 |**2026-11-23**|**SF-Flow: Spectral Flow Matching with High Structural Fidelity for Hallucination-Suppressed Scientific Image Generation**|Zehua Wang et.al.|[2611.30073](http://arxiv.org/abs/2611.30073)|null|
 |**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](http://arxiv.org/abs/2611.29985)|null|
 |**2026-11-23**|**TidyFlow: Geometry-Aware Tabletop Arrangement Generation with Human-Aligned Tidiness Evaluation**|Jiahui Qian et.al.|[2611.29918](http://arxiv.org/abs/2611.29918)|null|
+|**2026-11-23**|**Learning to find cosmic filaments with graph neural networks**|Alexis Tastet et.al.|[2611.31494](http://arxiv.org/abs/2611.31494)|null|
+|**2026-11-23**|**PromptSMC: Enabling Particle Exploration in Flow Matching via LLM-Based Prompt Rejuvenation**|Wenyi Lian et.al.|[2611.31471](http://arxiv.org/abs/2611.31471)|null|
 |**2026-11-22**|**Grounded in Contact: Reducing Floating and Interpenetration Artifacts with Multimodal Skill-Effect Models**|Siyeon Kim et.al.|[2611.29662](http://arxiv.org/abs/2611.29662)|null|
 |**2026-11-22**|**JKO-GRPO: Augmenting GRPO with Wasserstein Proximal Steps for Flow-Matching VLAs**|Jiyong Kwon et.al.|[2611.29646](http://arxiv.org/abs/2611.29646)|null|
 |**2026-11-22**|**RxnScope: Accurate joint generation of product and transition-state pairs from reactants via flow matching**|Yanyang Li et.al.|[2611.29492](http://arxiv.org/abs/2611.29492)|null|
@@ -3140,5 +3155,5 @@
 |**2023-10-30**|**Flow Matching for Scalable Simulation-Based Inference**|Maximilian Dax et.al.|[2305.17161](http://arxiv.org/abs/2305.17161)|null|
 |**2023-07-18**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
