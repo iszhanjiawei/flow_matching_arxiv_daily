@@ -14,9 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-24**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-25**|**OmniAct: One Policy, One Million Embodiments**|Xiang Fan et.al.|[2611.33158](http://arxiv.org/abs/2611.33158)|null|
+|**2026-11-25**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665](http://arxiv.org/abs/2611.32665)|null|
+|**2026-11-25**|**EffectWAM: Learning Action-Grounded Effects for Robot Manipulation**|Yuan Zhang et.al.|[2611.32053](http://arxiv.org/abs/2611.32053)|null|
+|**2026-11-25**|**Ground Your Steps: Optimizing Sampling Schedules in Flow Matching Robot Policies**|Licheng Yang et.al.|[2611.34148](http://arxiv.org/abs/2611.34148)|null|
+|**2026-11-25**|**AlignPre: Skill-Aligned Post-Training for Latent-Free Generative Precipitation Nowcasting**|Demin Yu et.al.|[2611.34101](http://arxiv.org/abs/2611.34101)|null|
+|**2026-11-25**|**Wasserstein-Fisher-Rao Reconstruction of Discrete space Population Dynamics**|Junda Ying et.al.|[2611.33923](http://arxiv.org/abs/2611.33923)|null|
+|**2026-11-25**|**Event-WAM: Learning to Act with Event-Derived Futures**|Jongseong Bae et.al.|[2611.33917](http://arxiv.org/abs/2611.33917)|null|
+|**2026-11-25**|**X-Matte: VAE-Free Pixel-Space Flow Matching for Single-Step Image Matting**|Zanyi Wang et.al.|[2611.33874](http://arxiv.org/abs/2611.33874)|null|
+|**2026-11-25**|**Probabilistic Monocular Biomechanical Reconstruction via Guided Flow Matching**|R. James Cotton et.al.|[2611.33809](http://arxiv.org/abs/2611.33809)|null|
+|**2026-11-25**|**FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models**|Jiaming Liang et.al.|[2611.33635](http://arxiv.org/abs/2611.33635)|null|
 |**2026-11-24**|**iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction**|Vansh Kapoor et.al.|[2611.33141](http://arxiv.org/abs/2611.33141)|null|
-|**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665](http://arxiv.org/abs/2611.32665)|null|
 |**2026-11-24**|**HazeFlux: Few-Step Generative Priors for Real-World Image Dehazing**|Yunong Liu et.al.|[2611.32632](http://arxiv.org/abs/2611.32632)|null|
 |**2026-11-24**|**Every Edit Its Own Budget: Per-Instruction Token Freezing for Training-Free Acceleration of Multi-Edit Image Editing**|Jyotirmoy Nath et.al.|[2611.32407](http://arxiv.org/abs/2611.32407)|null|
 |**2026-11-24**|**BEACON: Learning Observation-Conditioned Starting Points for Guided Conditional Flow Matching in Microscopy**|Anirban Ray et.al.|[2611.32406](http://arxiv.org/abs/2611.32406)|null|
@@ -24,9 +32,10 @@
 |**2026-11-24**|**FlowVecFont: Scalable Vector Font Generation via Latent Flow Matching**|Takumu Fujioka et.al.|[2611.32327](http://arxiv.org/abs/2611.32327)|null|
 |**2026-11-24**|**RetraQ: Manifold-Constrained Critic Guidance for Flow Policies in RL**|Xuanzhuo Liu et.al.|[2611.32148](http://arxiv.org/abs/2611.32148)|null|
 |**2026-11-24**|**Duo: Towards Spatiotemporal Action Coordination in Bimanual Policies**|Zhimu Zhou et.al.|[2611.32108](http://arxiv.org/abs/2611.32108)|null|
-|**2026-11-24**|**EffectWAM: Learning Action-Grounded Effects for Robot Manipulation**|Yuan Zhang et.al.|[2611.32053](http://arxiv.org/abs/2611.32053)|null|
 |**2026-11-24**|**MIFLOW: Dynamic Recent-Behavior Priors for Reference-Calibrated Online Flow-Policy Reinforcement Learning**|Chenhao Wang et.al.|[2611.31902](http://arxiv.org/abs/2611.31902)|null|
 |**2026-11-24**|**Two-Stage Post-Training for Flow-Based Embodied Foundation Models**|Jiaming Zhang et.al.|[2611.31850](http://arxiv.org/abs/2611.31850)|null|
+|**2026-11-24**|**SplatWAM: Splatting World Action Models for Real-Time 3D Imagination**|Frank Tsu-Fang Lu et.al.|[2611.33467](http://arxiv.org/abs/2611.33467)|null|
+|**2026-11-24**|**Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design**|Lianghong Chen et.al.|[2611.33417](http://arxiv.org/abs/2611.33417)|null|
 |**2026-11-23**|**VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control**|Boqi Zhao et.al.|[2611.31195](http://arxiv.org/abs/2611.31195)|null|
 |**2026-11-23**|**EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation**|Fan Xu et.al.|[2611.31173](http://arxiv.org/abs/2611.31173)|null|
 |**2026-11-23**|**NoveltyGate: Novelty, Not Error, Decides Which VLA Prefix Tokens to Compute Exactly**|Lemeng Qi et.al.|[2611.31099](http://arxiv.org/abs/2611.31099)|null|
